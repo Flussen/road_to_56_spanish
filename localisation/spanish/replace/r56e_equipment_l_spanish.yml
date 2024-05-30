@@ -207,25 +207,24 @@ torpedo_equipment_research:0 "Investigación de Torpedos"
  SOV_heavy_cruiser_7_short:0 "Zozulya Class"
  
 #-<><><> Battleships <><> <><> <><> <><> <><>
- battleship_5:0 "Semi-Modern Battleship"
- battleship_5_short:0 "Semi-Modern Battleship"
- battleship_5_desc:0 "Nearly everything from the guns to the engines has been improved."
+ battleship_5:0 "Acorazado Semi-Moderno"
+ battleship_5_short:0 "Acorazado Semi-Moderno"
+ battleship_5_desc:0 "Casi todo, desde los cañones hasta los motores, ha sido mejorado."
 
 #-<><><> 
- battleship_6:0 "Modern Battleship"
- battleship_6_short:0 "Modern Battleship"
- battleship_6_desc:0 "Nearly everything from the guns to the engines has been improved."
+ battleship_6:0 "Acorazado Moderno"
+ battleship_6_short:0 "Acorazado Moderno"
+ battleship_6_desc:0 "Casi todo, desde los cañones hasta los motores, ha sido mejorado."
 
 #-<><><> 
- battleship_7:0 "1956 Battleship"
- battleship_7_short:0 "1956 Battleship"
- battleship_7_desc:0 "Nearly everything from the guns to the engines has been improved."
+ battleship_7:0 "Acorazado de 1956"
+ battleship_7_short:0 "Acorazado de 1956"
+ battleship_7_desc:0 "Casi todo, desde los cañones hasta los motores, ha sido mejorado."
 
 #-<><><> 
- battleship_nuc:0 "Nuclear Battleship"
- battleship_nuc_short:0 "Nuclear Battleship"
- battleship_nuc_desc:0 "The power! The glowing! The instantly finished toast!"
-
+ battleship_nuc:0 "Acorazado Nuclear"
+ battleship_nuc_short:0 "Acorazado Nuclear"
+ battleship_nuc_desc:0 "¡El poder! ¡El resplandor! ¡Las tostadas instantáneas!"
  
 #-<><><> Battleship Flavor <><> <><> <><> <><> <><> 
  GER_battleship_5:0 "Zeitzler Class"
@@ -246,26 +245,26 @@ torpedo_equipment_research:0 "Investigación de Torpedos"
  SOV_battleship_nuc_short:0 "Sovetskaya Rossiya Class"
 
 #-<><><> Carriers <><> <><> <><> <><> <><> 
- carrier_5:0 "Semi-Modern Carrier"
- carrier_5_short:0 "Semi-Modern Carrier"
- carrier_5_desc:0 "Nearly everything from the guns to the engines has been improved."
+ carrier_5:0 "Portaaviones Semi-Moderno"
+ carrier_5_short:0 "Portaaviones Semi-Moderno"
+ carrier_5_desc:0 "Casi todo, desde los cañones hasta los motores, ha sido mejorado."
 
 #-<><><> 
- carrier_6:0 "Modern Carrier"
- carrier_6_short:0 "Modern Carrier"
- carrier_6_desc:0 "Nearly everything from the guns to the engines has been improved."
+ carrier_6:0 "Portaaviones Moderno"
+ carrier_6_short:0 "Portaaviones Moderno"
+ carrier_6_desc:0 "Casi todo, desde los cañones hasta los motores, ha sido mejorado."
 
 #-<><><> 
- carrier_7:0 "1956 Carrier"
- carrier_7_short:0 "1956 Carrier"
- carrier_7_desc:0 "Nearly everything from the guns to the engines has been improved."
+ carrier_7:0 "Portaaviones de 1956"
+ carrier_7_short:0 "Portaaviones de 1956"
+ carrier_7_desc:0 "Casi todo, desde los cañones hasta los motores, ha sido mejorado."
 
 #-<><><> 
- carrier_nuc:0 "Nuclear Carrier"
- carrier_nuc_short:0 "Nuclear Carrier"
- carrier_nuc_desc:0 "The power! The glowing! The instantly finished toast!"
+ carrier_nuc:0 "Portaaviones Nuclear"
+ carrier_nuc_short:0 "Portaaviones Nuclear"
+ carrier_nuc_desc:0 "¡El poder! ¡El resplandor! ¡Las tostadas instantáneas!"
 
- 
+
 #-<><><> Carrier Flavor <><> <><> <><> <><> <><> 
  GER_carrier_5:0 "Solingen Class"
  GER_carrier_5_short:0 "Solingen Class"
