@@ -1,0 +1,1018 @@
+﻿l_spanish:
+
+ #nation names
+
+VEN_CARIBBEAN_fascism:0 "Imperio Venezolano-Caribeño"
+VEN_CARIBBEAN_democratic:0 "Federación Venezolano-Caribeña"
+VEN_CARIBBEAN_communism:0 "Unión de Repúblicas Socialistas Latinoamericanas"
+VEN_CARIBBEAN_neutrality:0 "Unión Venezolano-Caribeña"
+VEN_CARIBBEAN_fascism_DEF:0 "el Imperio Venezolano-Caribeño"
+VEN_CARIBBEAN_democratic_DEF:0 "la Federación Venezolano-Caribeña"
+VEN_CARIBBEAN_communism_DEF:0 "la Unión de Repúblicas Socialistas Latinoamericanas"
+VEN_CARIBBEAN_neutrality_DEF:0 "la Unión Venezolano-Caribeña"
+
+ #factions
+
+ VEN_communist_faction_name:0 "Congreso de Trabajadores de América Latina"
+
+ #focuses
+
+ VEN_congress:0 "Dirigirse al Congreso"
+VEN_congress_desc:0 "La dictadura de Juan Vicente Gómez, que duró desde 1908 hasta 1935, finalmente ha llegado a su fin. Su controvertido gobierno ha cambiado nuestra república democrática nominal de muchas maneras. Es hora de abordar el problema del vacío de poder surgido en el Congreso nacional en Caracas."
+
+VEN_1935_elections:0 "Finalizar las Elecciones de 1935"
+VEN_1935_elections_desc:0 "Juan Vicente Gómez, en sus últimos años, se distanció del público, pasando la mayor parte de su tiempo en su mansión personal en Maracay. Su repentina y misteriosa muerte ha dejado a muchas personas de nuestra nación preguntándose quién llevará a [ROOT.getNameDef] a la prosperidad en el futuro. Las voces de las elecciones del país de 1935 aún se están contando. ¿Quién ha ganado la Lucha por el Poder?"
+
+
+ ##################################### CONTRERAS #######################################
+
+
+VEN_eleazar_contreras:0 "Inaugurar a Contreras"
+VEN_eleazar_contreras_desc:0 "El ex Ministro de Guerra, Eleazar López Contreras, asumió el mando del país por el momento, mientras 'no se encuentre un candidato más digno'. Ahora se hace evidente que él es la persona más adecuada para este puesto, con la mayoría de los ciudadanos [ROOT.getAdjective] votando a su favor. La inauguración debe llevarse a cabo lo antes posible."
+
+VEN_health_and_social_assistance:0 "Fundar el Ministerio de Sanidad"
+VEN_health_and_social_assistance_desc:0 "El problema de la alta tasa de mortalidad infantil debido a muchas enfermedades infecciosas puede abordarse más eficazmente si se establece el Ministerio de Sanidad. Nuestros ciudadanos adultos también se beneficiarán enormemente de las nuevas instalaciones médicas en todo el país."
+
+VEN_jewish_asylum:0 "Asilo para Judíos"
+VEN_jewish_asylum_desc:0 "Viendo la lucha del pueblo judío en Europa y Asia por sus derechos, Contreras emitió una directiva secreta para proporcionar refugio a cualquier fugitivo y refugiado judío en suelo [ROOT.getAdjective]. Su gratitud seguramente ayudará a nuestra nación."
+
+VEN_arnoldo_gabaldon:0 "Financiar la Investigación de Arnoldo Gabaldón"
+VEN_arnoldo_gabaldon_desc:0 "La malaria ha cobrado demasiadas vidas de nuestro pueblo en los últimos años. El recientemente establecido Ministerio de Sanidad requiere una unidad especial para combatir la enfermedad a gran escala. Afortunadamente, ya se han elaborado con éxito algunos planes para una Dirección Especial de Malariología liderada por el joven científico Arnoldo Gabaldón."
+
+VEN_central_university:0 "Expandir la Universidad Central"
+VEN_central_university_desc:0 "La Universidad Central de Venezuela fue fundada en 1721 y es considerada una, si no la más antigua universidad del hemisferio occidental. Una financiación gubernamental adicional solo mejorará la calidad de la educación y nos proporcionará nuevas oportunidades de investigación en el futuro."
+
+VEN_miraflores_concessions:0 "Concesiones a los Manifestantes de Miraflores"
+VEN_miraflores_concessions_desc:0 "Muchos jóvenes cuestionaron el régimen autoritario de Gómez y la corrupción generalizada de los funcionarios del país. Algunos de los más radicales exigieron la liberalización y democratización del aparato estatal. Seguramente no podemos ceder a la voluntad de todos ellos, pero quizás la reforma del estado sea un paso necesario hacia un futuro brillante y próspero."
+
+VEN_presidential_amendment:0 "Reformar las Enmiendas Presidenciales"
+VEN_presidential_amendment_desc:0 "Pocas personas se dan cuenta de que el presidente es capaz de cambiar drásticamente el clima político en los más altos escalones del poder. Dejemos que [ROOT.getLeader] muestre al pueblo qué líder es añadiendo algunas enmiendas de protección nacional a lo que podría llamarse una constitución de [ROOT.getNameDef]."
+
+VEN_DSN:0 "Formar la DSN"
+VEN_DSN_desc:0 "La naturaleza democrática de nuestro frágil estado permanece bajo constante amenaza desde dentro y desde fuera. La Dirección de Seguridad Nacional (DSN) debe establecerse para investigar y pacificar cualquier amenaza a las instituciones gubernamentales actuales."
+
+VEN_reshuffle_of_general_staff:0 "Eliminar a los Fieles Leales a Gómez"
+VEN_reshuffle_of_general_staff_desc:0 "Gómez y su camarilla han vinculado a muchos generales y comandantes militares rebeldes a su causa de enriquecerse a costa del hombre común. Si queremos establecer un estado moderno con fuerzas armadas organizadas, uno debe pensar en deshacerse de las estructuras obsoletas que apoyan al caudillo."
+
+VEN_institute_1936_constitution:0 "Instituir la Constitución de 1936"
+VEN_institute_1936_constitution_desc:0 "Siendo la ley más fuerte dentro de los límites del país, la Constitución de [ROOT.getNameDef] tiene muchas fallas y problemas. El mandato presidencial está mal regulado, los derechos de voto básicos siguen siendo inaccesibles para gran parte de la población, mientras que los empresarios tienen derechos inmensos. ¡Tal discrepancia debe erradicarse por el bien del pueblo!"
+
+VEN_german_relations:0 "Relaciones con Alemania"
+VEN_german_relations_desc:0 "Las relaciones diplomáticas oficiales entre [ROOT.getNameDef] y [GER.getNameDef] datan de 1871, cuando se abrió la embajada [GER.getAdjective] en Caracas con sus correspondientes contrapartes en Frankfurt y Hamburgo. Unas cuantas misiones diplomáticas adicionales seguramente mejorarán nuestras relaciones mutuas."
+
+VEN_german_advisors:0 "Solicitar Asesores Alemanes"
+VEN_german_advisors_desc:0 "El estado mayor [GER.getAdjective] tiene su propio departamento militar responsable de la cooperación y asistencia militar a los 'antiguos países bolivarianos de América del Sur'. Debemos enviar una solicitud oficial para recibir valiosos especialistas que supervisarán las capacidades de entrenamiento y combate de nuestras fuerzas."
+
+VEN_german_oil_deal:0 "Compañía Petrolera Germano-Venezolana"
+VEN_german_oil_deal_desc:0 "La batalla por nuestro petróleo se libra en todo el mundo con dos potencias dominantes, [GER.getNameDef] y [USA.getNameDef], buscando asegurar sus intereses en el petróleo. Nuestra cooperación mutua con los [GER.getAdjective] será aún más beneficiosa si consideramos el establecimiento de una nueva compañía petrolera que busque proteger nuestros intereses petroleros."
+
+VEN_join_axis:0 "Formalizar la Alianza Alemana"
+VEN_join_axis_desc:0 "Nuestros espías informan que nuestra intromisión con [GER.getNameDef] ha levantado la preocupación de los banqueros de [USA.getAdjective] y [ENG.getAdjective]. Algunos informan que podría estar en marcha una intervención militar o un intento de golpe de estado. Nuestra única opción es tomar una postura y unirnos al frente unido contra la amenaza extranjera."
+
+VEN_oil_reforms:0 "Extender las Concesiones Petroleras Extranjeras"
+
+
+
+ ##################################### ANGARITA #######################################
+
+VEN_isaias_angarita:0 "Moderar el Gabinete"
+VEN_isaias_angarita_desc:0 "La reticencia del pueblo a confiar en militaristas y nacionalistas es más clara que nunca: Isaias Medina Angarita, adoptando un enfoque más liberal y democrático, ha ganado la mayoría de los votos. Su promesa de una nueva Venezuela será aún más evidente para las masas tras su discurso de inauguración esta mañana."
+
+VEN_legalize_communism:0 "Legalizar el PCV"
+VEN_legalize_communism_desc:0 "Aunque el Partido Comunista de Venezuela, o PCV, ha sido una espina en los ojos del gobierno, aún mantiene sus posiciones entre el pueblo rural. Aliviar las tensiones y encontrar compromisos puede ser difícil, pero es el único camino a seguir si queremos lograr el futuro deseado."
+
+VEN_promote_political_cooperation:0 "Promover la Cooperación Política"
+VEN_promote_political_cooperation_desc:0 "Las instituciones democráticas sufren un grave golpe por la indecisión y la falta de cooperación entre varios partidos políticos. Para asegurar que el Congreso funcione a plena capacidad y que ninguna legislación quede en papel, se espera que en el futuro se fomente fuertemente la cooperación política."
+
+VEN_fate_of_jimenez:0 "El Destino de Jiménez"
+VEN_fate_of_jimenez_desc:0 "La controversia en torno a Marcos Jiménez es de gran importancia para el nuevo gobierno democrático. Sus habilidades militares y popularidad entre los soldados lo convierten en un candidato perfecto para el liderazgo si los elementos militares toman el poder, pero sus opiniones políticas y agenda son muy impopulares en el gobierno."
+
+VEN_protect_workers_rights:0 "Proteger los Derechos de los Trabajadores"
+VEN_protect_workers_rights_desc:0 "El antiguo aparato estatal descuidó a los trabajadores y sus derechos durante demasiado tiempo. No cabe duda de que es vital para nosotros asegurar que el hombre común reciba un salario adecuado, seguro de salud y representación a través de los sindicatos, por más socialista que esta idea pueda parecer."
+
+VEN_nationalize_the_banking_sector:0 "Nacionalizar el Banco Central"
+VEN_nationalize_the_banking_sector_desc:0 "La dirección del Banco Central siguió el camino corrupto de Gómez y su camarilla, con muchos activos valiosos en cuentas bancarias personales. ¡Se detectó que parte del dinero justo de [VEN.getAdjective] proveniente de las exportaciones de petróleo estaba operando en los mercados de Wall Street de [USA.getAdjective]! Sin duda, el Banco Central tiene sus propios planes para nosotros y debemos actuar antes de que nos ataquen."
+
+VEN_housing_act:0 "Ley Nacional de Vivienda"
+VEN_housing_act_desc:0 "Nuestras reformas liberales sin duda serán apoyadas por los más pobres y débiles de nuestro pueblo si nuestro gobierno puede proporcionarles los hogares y lugares de trabajo deseados. ¡El apoyo público estará aún más de nuestro lado!"
+
+VEN_constitute_womens_rights:0 "Constituir los Derechos de las Mujeres"
+VEN_constitute_womens_rights_desc:0 "Para finalizar nuestros esfuerzos en establecer una sociedad moderna, debemos apelar a la mitad de nuestra población que ha sido negada sus justos derechos desde el inicio de nuestro estado: ¡las mujeres! Seremos el primer estado no opresivo y solidario de Sudamérica en brindar igualdad de oportunidades a todo el pueblo [VEN.getAdjective]!"
+
+VEN_western_agreements:0 "Acuerdos Comerciales con Occidente"
+VEN_western_agreements_desc:0 "Nuestra devoción a los principios democráticos nos brinda oportunidades únicas para establecer y asegurar acuerdos económicos mutuamente beneficiosos con los gigantes del poder occidental."
+
+VEN_american_student_exchange:0 "Invitar Estudiantes Extranjeros"
+VEN_american_student_exchange_desc:0 "Muchos lo ven como una necesidad, nosotros lo vemos como una oportunidad perfecta: unas pocas becas de las naciones occidentales permitirán que nuestros estudiantes más destacados reciban enseñanza en el extranjero para fortalecer los equipos nacionales de investigación."
+
+
+
+ ########################################## JIMENEZ #######################################
+
+ VEN_marcos_jimenez:0 "Empoderar a Jiménez"
+VEN_marcos_jimenez_desc:0 "Se espera que los resultados de las elecciones sean anunciados en el Congreso Nacional en unas pocas semanas, pero algunos seguidores de Marcos Jiménez temen que el recién elegido candidato lleve a [VEN.getNameDef] a su caída. Algunos grupos ya han establecido un plan sobre cómo 'contar adecuadamente los votos'..."
+
+VEN_paramilitarism:0 "Establecer Escuadrones Paramilitares"
+VEN_paramilitarism_desc:0 "Muchas de las personas que nos asistieron en el ascenso al poder permanecen sin ningún tipo de deber oficial hacia el estado. Esos hombres y mujeres leales pueden ser utilizados como una fuerza de mantenimiento de la paz y regulación del orden."
+
+VEN_enforce_army_loyalty:0 "Asegurar la Lealtad del Ejército"
+VEN_enforce_army_loyalty_desc:0 "El gobierno temporal de Contreras ya ha demostrado que los caudillos locales requieren un poco de 'asistencia económica' para permanecer leales a nuestra causa. Afortunadamente, algunos agricultores y empresarios locales están dispuestos a usar sus finanzas para asegurar la lealtad de ciertos generales de mente abierta."
+
+VEN_reorganize_the_government:0 "Asegurar la Lealtad Militar"
+VEN_reorganize_the_government_desc:0 "Servir a Gómez difiere poco de servir a Jiménez, y todo caudillo aventurero debe ser consciente de ello. Si alguien no cumple, tenemos algunos trucos para asegurar la obediencia."
+
+VEN_military_youth:0 "Formar la Juventud Militar"
+VEN_military_youth_desc:0 "La Juventud Militar, también conocida como la Juventud Paramilitar, fortalecerá la base de las fuerzas de milicia recién establecidas. Muchos jóvenes reclutas se unirán con gusto al llamado del país."
+
+VEN_cult_of_personality:0 "El Legado de Juan Gómez"
+VEN_cult_of_personality_desc:0 "Habiendo solidificado su control sobre el estado, Marcos Jiménez seguirá el camino que el padre de la Venezuela moderna, Juan Gómez, ha elegido para nuestro país. ¡Que el pueblo conozca la voluntad del nuevo El Benemérito!"
+
+VEN_crush_communists:0 "Aplastar al PCV"
+VEN_crush_communists_desc:0 "Al igual que su predecesor, el Partido Revolucionario Venezolano, el PCV hará todo lo posible para llegar al poder. Detenerlos es el deber de Jiménez, ¡cueste lo que cueste!"
+
+VEN_spanish_civil_war_involvement:0 "Asistir a Nuestros Hermanos Españoles"
+VEN_spanish_civil_war_involvement_desc:0 "La guerra, como ninguna vista antes, ha llegado a la Península Ibérica. ¡Que sepan que nuestra hermandad hispánica permanecerá unida contra la Amenaza Roja y los lacayos capitalistas!"
+
+VEN_suspend_elections:0 "Suspender las Elecciones"
+VEN_suspend_elections_desc:0 "Para la seguridad del estado, es necesario suspender las elecciones presidenciales. Los constantes cambios en el liderazgo del país solo obstaculizan cualquier tipo de desarrollo continuo de la nación."
+
+VEN_military_colleges:0 "Colegios Militares"
+VEN_military_colleges_desc:0 "Los leales al régimen no deben olvidar que cualquier caudillo debe ser astuto y poderoso, ¡como el propio Jiménez! Muchos seguirán los pasos de nuestro líder al unirse a los colegios militares desde temprana edad."
+
+VEN_privatize_oil:0 "Privatizar el IFE"
+VEN_privatize_oil_desc:0 "La Institución Ferroviaria del Estado es responsable de la entrega de bienes al pueblo. Su dependencia de inversiones extranjeras es peligrosa para nuestra economía e independencia política. Una rápida nacionalización proporcionará fondos adicionales a nuestro estado."
+
+VEN_nationalist_education:0 "Educación Nacionalista"
+VEN_nationalist_education_desc:0 "Es importante que reformemos el sistema educativo para resaltar la grandeza de la nación, afianzando la lealtad al régimen en nuestra juventud."
+
+
+######################################### GAlLEGOS ########################################
+
+VEN_new_republic:0 "El Trienio Adeco"
+VEN_new_republic_desc:0 "Las comisiones de votación informan sorprendentemente que el candidato 'oveja negra' de la oposición democrática, Rómulo Gallegos, se espera que logre una victoria decisiva en las elecciones del país. Un cambio político tan rápido seguramente enfurecerá a los caudillos, nacionalistas radicales y algunos funcionarios corruptos, pero se hace evidente que una nueva era está llegando para nuestra nación."
+
+VEN_labour_reforms:0 "Reformas Laborales"
+VEN_labour_reforms_desc:0 "La dependencia de maquinaria obsoleta, las horas de trabajo no reguladas y la falta de seguridad social ya han cobrado demasiadas vidas de nuestros trabajadores. Se deben realizar algunas reformas para mejorar el estado de nuestra industria."
+
+VEN_liberalize_oil_trade:0 "Ley del Petróleo 50/50"
+VEN_liberalize_oil_trade_desc:0 "Las empresas extranjeras poseen una cantidad significativa de activos y acciones de los recursos naturales de nuestro país. Los recientes cambios gubernamentales nos permiten iniciar algunos acuerdos de comercio justo con los occidentales."
+
+VEN_depoliticize_the_army:0 "Despolitizar el Ejército"
+VEN_depoliticize_the_army_desc:0 "El ejército ya ha demostrado que su opinión sobre los asuntos políticos no es de fiar. Dejemos que los generales hagan su trabajo, mientras que los políticos hagan lo que deben hacer, solo así podemos asegurar que nuestro régimen sobreviva tal como es."
+
+VEN_abolish_death_penalty:0 "Abolir la Pena de Muerte"
+VEN_abolish_death_penalty_desc:0 "Ningún hombre libre debe ser capturado, encarcelado o destruido de cualquier otra manera, excepto por el juicio legal de sus pares. Nuestro juicio también debe excluir este último si queremos dedicarnos plenamente a los principios democráticos."
+
+VEN_tax_reforms:0 "Reformas Fiscales"
+VEN_tax_reforms_desc:0 "La tributación estatal se mantuvo corrupta y dependiente de estándares obsoletos. Algunos proyectos ya están en marcha a través del Congreso en un esfuerzo por reajustarla de manera adecuada y humanista. El más reciente decreto presidencial asistirá a algunos de ellos y a su aprobación."
+
+VEN_allow_new_elections:0 "Permitir Nuevas Elecciones"
+VEN_allow_new_elections_desc:0 "El aparato estatal se ha modernizado y reforzado con una nueva generación de funcionarios talentosos y dedicados. La nación puede comenzar su transición completa hacia una verdadera democracia."
+
+VEN_reorganize_the_PCV:0 "Reorganizar el PCV"
+VEN_reorganize_the_PCV_desc:0 ""
+
+
+ ###################################### CIVIL WAR #####################################
+
+ VEN_reorganize_the_ARDI:0 "Reorganizar la ARDI"
+ VEN_reorganize_the_ARDI_desc:0 "La ARDI fue una coalición formada en 1928 por marxistas, socialdemócratas, republicanos y varios otros políticos independientes con el objetivo de derrocar al régimen de Juan Vicente Gómez y 'poner fin a la tiranía capitalista'. Se disolvió después de la fallida rebelión a finales de 1928, pero con la nueva lucha por el poder es el momento perfecto para reorganizarse y atacar mientras el gobierno está distraído."
+
+ VEN_generation_of_28:0 "La Generación del 28"
+ VEN_generation_of_28_desc:0 ""
+
+ VEN_barranquilla_plan:0 "Continuar el Plan de Barranquilla"
+ VEN_barranquilla_plan_desc:0 ""
+
+ VEN_soviet_support:0 "Buscar Asistencia Soviética"
+ VEN_soviet_support_desc:0 ""
+
+ VEN_rebellion:0 "Lanzar la Segunda Rebelión de Alvarado"
+ VEN_rebellion_desc:0 "La primera Rebelión de Alvarado en 1928 pudo haber fracasado, pero con el apoyo del pueblo y de elementos del ejército estamos seguros de que lograremos acabar con la tiranía militar y capitalista de una vez por todas."
+
+ ###################################### COMMUNIST #####################################
+ VEN_enpower_the_pcv:0 "Empoderar al PCV"
+ VEN_enpower_the_pcv_desc:0 "El PCV fue culpado por los funcionarios del gobierno corrupto de todo lo malo que sucedía en el país. Por supuesto, algunas actividades fueron controvertidas, radicales y algo inhumanas, por lo que se requiere una reestructuración y realineación del partido para mejorar su imagen ante los ojos del pueblo."
+
+ VEN_purge_disloyal_officers:0 "Purgar a los Oficiales Nacionalistas"
+ VEN_purge_disloyal_officers_desc:0 "En nuestra ideal sociedad comunista venezolana no podemos tener oficiales nacionalistas de mente simple llevando al país a sus rodillas una vez más, deben irse."
+
+ VEN_form_CPAI:0 "Formar el CPAI"
+ VEN_form_CPAI_desc:0 "El Comisariado del Pueblo para Asuntos Internos, o CPAI por sus siglas, es la fuerza policial secreta y agencia de inteligencia del PCV, basada en el modelo de la NKVD para proteger nuestra revolución."
+
+ VEN_communist_reforms:0 "Radicalizar el Plan de Barranquilla"
+ VEN_communist_reforms_desc:0 "El Plan de Barranquilla puede ser socialdemócrata en su naturaleza, pero fue apoyado y firmado por el PCV y nuestros compañeros marxistas. El artículo 5 del plan es proteger al pueblo de la tiranía capitalista, y si seguimos tomando medidas a medias nunca podremos lograr esto."
+
+ VEN_concessions_to_oil_unions:0 "Concesiones a los Sindicatos Petroleros"
+ VEN_concessions_to_oil_unions_desc:0 "Lo que llevó a que la economía de Venezuela fuera tan corrupta en primer lugar fue la falta de representación que tenían los sindicatos petroleros, si queremos construir una economía más grande debemos aprender a trabajar con ellos."
+
+ VEN_redistribution_of_wealth:0 "Redistribución de la Riqueza"
+ VEN_redistribution_of_wealth_desc:0 "En la Venezuela que queremos construir no nos interesa tener oligarcas del petróleo con gran influencia en nuestra economía, desviaremos estos fondos y los distribuiremos al pueblo y los trabajadores, mientras también protegemos a nuestra gente de la tiranía capitalista."
+
+ VEN_peoples_university_of_venezuela:0 "Universidad del Pueblo de Venezuela"
+ VEN_peoples_university_of_venezuela_desc:0 "Los artículos 6 y 7 del Plan de Barranquilla son llevar a cabo programas de alfabetización a gran escala entre la población campesina y trabajadora, mientras también se da mayor autonomía a las universidades, y así lo haremos. Por el pueblo."
+
+ VEN_reorganization_of_congress:0 "Reorganización del Congreso"
+ VEN_reorganization_of_congress_desc:0 ""
+
+VEN_under_soviet_dominion:0 "Seguir la Línea del Partido"
+VEN_under_soviet_dominion_desc:0 "El PCV rodeado de enemigos, es obvio que debemos buscar al hogar de la revolución para protegernos y proteger nuestra revolución."
+
+VEN_soviet_tank_factories:0 "Fábricas de Tanques Soviéticos"
+VEN_soviet_tank_factories_desc:0 ""
+
+VEN_invite_soviet_officers:0 "Invitar Oficiales Soviéticos"
+VEN_invite_soviet_officers_desc:0 ""
+
+VEN_introduce_political_commissars:0 "Introducir Comisarios Políticos"
+VEN_introduce_political_commissars_desc:0 "La introducción de comisarios políticos en las filas del ejército recordará a nuestras tropas la valiente causa por la que están luchando."
+
+VEN_venezuelan_way_of_communism:0 "Revolución de Venezuela"
+VEN_venezuelan_way_of_communism_desc:0 ""
+
+VEN_spread_the_south_american_revolution:0 "Expandir la Revolución"
+VEN_spread_the_south_american_revolution_desc:0 ""
+
+VEN_support_argentinian_revolution:0 "Apoyar la Revolución Argentina"
+VEN_support_argentinian_revolution_desc:0 ""
+
+VEN_support_colombian_revolution:0 "Apoyar la Revolución Colombiana"
+VEN_support_colombian_revolution_desc:0 ""
+
+VEN_support_peruvian_revolution:0 "Apoyar la Revolución Peruana"
+VEN_support_peruvian_revolution_desc:0 ""
+
+VEN_support_chilean_revolution:0 "Apoyar la Revolución Chilena"
+VEN_support_chilean_revolution_desc:0 ""
+
+VEN_support_brazillian_revolution:0 "Apoyar la Revolución Brasileña"
+VEN_support_brazillian_revolution_desc:0 ""
+
+VEN_push_to_end_captalism:0 "El Gran Empuje"
+VEN_push_to_end_captalism_desc:0 ""
+
+VEN_attack_britain:0 "Terminar con la Vieja Hegemonía Británica"
+VEN_attack_britain_desc:0 ""
+
+VEN_attack_america_communist:0 "Aplastar el Sueño Americano"
+VEN_attack_america_communist_desc:0 ""
+
+ ###################################### SOCIALIST #########################################
+
+VEN_bolivarian_socialist_theory:0 "Teoría Socialista Bolivariana"
+VEN_bolivarian_socialist_theory_desc:0 "Después de años de severa corrupción gubernamental y guerras, nuestro pueblo se ha encontrado quebrado y llevado de rodillas. Debemos darle al pueblo una mano firme bajo la teoría socialista democrática de Rómulo Betancourt para liberar a la nación de las garras que la han arrastrado tan bajo y restaurarla a su antigua gloria."
+
+VEN_puntofijo_pact:0 "Pacto de Puntofijo"
+VEN_puntofijo_pact_desc:0 "El PCV nos ha servido bien en la Segunda Rebelión de Alvarado, pero está claro que si se vuelven demasiado poderosos, nos apuñalarán por la espalda y simplemente establecerán otra dictadura personal. El pacto de Puntofijo entre los partidos de centroizquierda se asegurará de que Venezuela nunca caiga bajo una dictadura nuevamente."
+
+VEN_amnesty_to_communists:0 "Moderar el Plan de Barranquilla"
+VEN_amnesty_to_communists_desc:0 "El Plan de Barranquilla es de naturaleza socialdemócrata, pero también fue aprobado y firmado por marxistas, no hay razón para que eso cambie. Continuaremos nuestra cooperación con el PCV aunque no estemos de acuerdo con todos sus puntos de vista, por la estabilidad de la nación."
+
+VEN_50_50_oil_act:0 "Ley del Petróleo 50/50"
+VEN_50_50_oil_act_desc:0 "Nuestra nación es una de las líderes mundiales en producción de petróleo, a pesar de esto, recibimos muy poco a cambio, la mayor parte de los ingresos va a varias compañías petroleras nacionales y extranjeras. La ley '50/50' se asegurará de que tanto la nación como las empresas obtengan la misma participación, para que todos se beneficien."
+
+VEN_national_literacy_programs:0 "Programas Nacionales de Alfabetización"
+VEN_national_literacy_programs_desc:0 "Los artículos 6 y 7 del Plan de Barranquilla son llevar a cabo programas de alfabetización a gran escala entre la población campesina y trabajadora, mientras también se da mayor autonomía a las universidades, y así lo haremos."
+
+VEN_tax_reforms_socialist:0 "Reducir los Impuestos al Petróleo"
+VEN_tax_reforms_socialist_desc:0 "No hay mucha razón para gravar a nuestro pueblo por la extracción de petróleo, no reciben nada a cambio."
+
+VEN_rebellion_recoverment_effots:0 "Esfuerzos de Recuperación tras la Rebelión"
+VEN_rebellion_recoverment_effots_desc:0 "La Segunda Rebelión de Alvarado y la guerra civil que siguió destruyeron gran parte de nuestra nación e industria, es importante que pongamos esfuerzo en reconstruir nuestra industria y ciudades, por nosotros y por el pueblo."
+
+VEN_president_betancourts_legacy:0 "El Legado del Presidente Betancourt"
+VEN_president_betancourts_legacy_desc:0 ""
+
+VEN_invite_polish_exiles:0 "Invitar a los Exiliados Polacos"
+VEN_invite_polish_exiles_desc:0 ""
+
+
+ ###################################### ANARCHIST ########################################
+
+VEN_cult_of_creole:0 "Empoderar a los Anarco-Capitalistas Criollos"
+VEN_cult_of_creole_desc:0 ""
+
+VEN_arm_the_companies:0 "Armar a las Compañías"
+VEN_arm_the_companies_desc:0 ""
+
+VEN_export_oil_aggressively:0 "Exportar Petróleo Agresivamente"
+VEN_export_oil_aggressively_desc:0 ""
+
+VEN_seize_public_services:0 "Tomar los Servicios Públicos"
+VEN_seize_public_services_desc:0 ""
+
+VEN_seize_government_assets:0 "Tomar los Activos del Gobierno"
+VEN_seize_government_assets_desc:0 ""
+
+VEN_by_any_means:0 "§RPor Cualquier Medio§!"
+VEN_by_any_means_desc:0 "No existe el concepto de derrota. La victoria total se puede lograr con una determinación completa, sin importar el costo."
+
+VEN_creole_indivisible:0 "Criollo Indivisible"
+VEN_creole_indivisible_desc:0 ""
+
+VEN_venezuelan_fortress:0 "La Fortaleza [VEN.GetAdjective]"
+VEN_venezuelan_fortress_desc:0 ""
+
+VEN_eliminating_the_competition:0 "Eliminar la Competencia"
+VEN_eliminating_the_competition_desc:0 ""
+
+VEN_militarize_the_people:0 "Militarizar al Pueblo"
+VEN_militarize_the_people_desc:0 ""
+
+
+ ###################################### GRAN COLOMBIA #####################################
+
+VEN_viva_venezuela:0 "Viva Venezuela"
+VEN_viva_venezuela_desc:0 "¡No necesitamos a nadie para lograr la grandeza! ¡[VEN.getNameDefCap] forjará su propio camino hacia la gloria y la prosperidad!"
+
+VEN_gran_colombia:0 "Revivir Gran Colombia"
+VEN_gran_colombia_desc:0 "Simón Bolívar fue el [VEN.getAdjective] que tuvo el brillante concepto de una gran unión entre todas las naciones hispánicas de Centro y Sudamérica. ¡Debemos honrar su legado reviviendo el espíritu de Gran Colombia y legitimándolo en nuestro tiempo!"
+
+VEN_seize_curacao:0 "Resolver el Asunto de Curazao"
+VEN_seize_curacao_desc:0 "El grupo de islas de Curazao es una de las posesiones coloniales de [695.Owner.getNameDef] que ha sido considerada una parte integral de la esfera de influencia bolivariana y luego [VEN.GetAdjective]. Ubicada justo frente a nuestra costa, Curazao sirve como base de operaciones para la marina [695.Owner.getAdjective] y un exportador confiable de recursos naturales. El descuido de [695.Owner.getAdjective] hacia estas tierras podría brindarnos la oportunidad perfecta para reclamar esas tierras para nosotros."
+
+VEN_annex_colombia:0 "Unificar a los Hermanos Bolivarianos"
+VEN_annex_colombia_desc:0 "1831 marcó el primer gran golpe a la idea de Gran Colombia, momento en el que quedó claro que el concepto de Gran Colombia no podía realizarse en ese momento. Ahora, con una posición firme en el mundo, podemos volver a alcanzar a nuestros hermanos y hermanas [COL.getAdjective] para proponer una unificación deseada. Bajo nuestra bandera, por supuesto."
+
+VEN_demand_guyana:0 "Demandar Guyana"
+VEN_demand_guyana_desc:0 "Desde el establecimiento de nuestro estado en 1824, hubo muchos que vieron Demerara-Essequibo como una parte integral de nuestra nación. Y mientras éramos débiles e inestables, [ENG.getNameDef] logró unir a la gente rebelde como la Guyana [ENG.getAdjective] y establecerla como su puesto avanzado en la región. Esas tierras nos pertenecen legítimamente por el derecho del primero."
+
+VEN_attack_peru:0 "Realizar el Etnocacerismo"
+VEN_attack_peru_desc:0 "El etnocacerismo como concepto se basa en la idea de la autodeterminación [PRU.getAdjective] mientras busca establecer una dictadura proletaria en las montañas andinas. Podemos consolidar muchas de las tribus nativas que buscan su libertad deseada y prometerles una nueva esperanza. Y un nuevo liderazgo."
+
+VEN_attack_ecuador:0 "Reclamar Ecuador"
+VEN_attack_ecuador_desc:0 "El tercer miembro de la Gran Colombia, ahora conocido como [ECU.getNameDef], está ubicado justo al otro lado de las cordilleras, esperando la unificación con el resto de nuestra nación. ¡Ha llegado el momento de brindarles su libertad deseada de una vez por todas!"
+
+VEN_strike_panama:0 "Golpear a Panamá"
+VEN_strike_panama_desc:0 "El liderazgo patético [COL.getAdjective] se sometió a las estipulaciones del desigual Tratado de Neerlandia y Wisconsin de 1903, donde cedieron el Departamento de Panamá a [USA.getNameDef]. Como nosotros somos la nueva Gran Colombia legitimada, ¡solo nosotros podemos vengar este trato injusto!"
+
+VEN_bolivarian_development:0 "Desarrollo Bolivariano"
+VEN_bolivarian_development_desc:0 "Descuidados durante demasiado tiempo, los territorios de Gran Colombia requieren una adecuada readministración, industrialización y un programa común de extracción de recursos."
+
+VEN_unify_bolivariana_army:0 "Unificar el Ejército Bolivariano"
+VEN_unify_bolivariana_army_desc:0 "¡Unidos somos fuertes! Para que el proyecto de Gran Colombia sea exitoso, los ejércitos y comandantes divididos deberán unirse bajo la bandera del Gran Columbismo. ¡Solo así podremos resistir la presión de cualquier amenaza extranjera!"
+
+VEN_unify_political_command:0 "Unificar la Política Nacional"
+VEN_unify_political_command_desc:0 "Las burocracias excesivas y corruptas llevaron a la caída de uno de los mayores imperios de Sudamérica. Aprendiendo de los errores, estableceremos un gobierno centralizado basado en una representación adecuada de la población."
+
+VEN_exploit_colombian_rubber:0 "Explotar el Caucho Amazónico Colombiano"
+VEN_exploit_colombian_rubber_desc:0 "El Amazonas es rico en caucho, ese caucho debe ser explotado y estar disponible para nuestra industria."
+
+VEN_expand_ecuadorian_cocoa_fields:0 "Expandir los Campos de Cacao Ecuatorianos"
+VEN_expand_ecuadorian_cocoa_fields_desc:0 "La región de Piura en Ecuador ha prosperado en los últimos años gracias a su gran cantidad de exportaciones de cacao. Si llevamos estas operaciones bajo nuestro control y las expandimos, podemos obtener grandes beneficios."
+
+VEN_expand_gran_colombia:0 "Preparar la Expansión de Gran Colombia"
+VEN_expand_gran_colombia_desc:0 "¡Gran Colombia está más fuerte que nunca! Ahora es el momento de expandir nuestra influencia en el resto de América Latina, ya sea mediante la fuerza o la diplomacia hábil."
+
+VEN_alliance_with_honduras:0 "Alianza con las Compañías Fruteras"
+VEN_alliance_with_honduras_desc:0 ""
+
+VEN_attack_central_america:0 "Plan Noroeste"
+VEN_attacj_central_america_desc:0 ""
+
+VEN_alliance_with_mexico:0 "Amistad con los Sindicalistas Mexicanos"
+VEN_alliance_with_mexico_desc:0 ""
+
+VEN_attack_mexico:0 "Plan Verde"
+VEN_attack_mexico_desc:0 ""
+
+VEN_attack_bolivia:0 "Plan Sureste"
+VEN_attack_bolivia_desc:0 ""
+
+VEN_alliance_with_bolivia:0 "Alianza con Bolivia"
+VEN_alliance_with_bolivia_desc:0 ""
+
+VEN_alliance_with_south_south_america:0 "Alianza con el Sur"
+VEN_alliance_with_south_wouth_america_desc:0 ""
+
+VEN_attack_south_south_america:0 "Plan Lejano Sur"
+VEN_attack_south_south_america_desc:0 ""
+
+VEN_intervention_in_brazil:0 "Intervención en Brasil"
+VEN_intervention_in_brazil_desc:0 "Nuestra campaña de reintegración no ha pasado desapercibida por nuestros vecinos. La administración [BRA.getAdjective] ha fortalecido su control sobre la población indígena de la meseta amazónica. Algunos de los refugiados informan de atrocidades indescriptibles cometidas allí. ¡Debemos intervenir para salvar a esas personas!"
+
+VEN_attack_america:0 "Golpear al Gigante"
+VEN_attack_america_desc:0 "Justo más allá del mar Caribe yace un gigante que ahora está despierto y buscando activamente una presa. Ya ha consumido a muchos en su camino hacia la dominación hemisférica. ¡A partir de ahora, impondremos nuestra propia doctrina Monroe sobre ellos!"
+
+VEN_gran_colombia_unified:0 "Proclamar Gran Colombia"
+VEN_gran_colombia_unified_desc:0 "¡Ahora que hemos reclamado nuestro territorio, es hora de proclamar y legitimar a Gran Colombia de una vez por todas!"
+
+ ################################ CARIBBEAN EXPANSION #################################################
+
+VEN_push_north:0 "Visiones hacia el Norte"
+VEN_push_north_desc:0 "Los países en la región del Caribe son débiles y vistos con ansias por las potencias continentales. Es más que claro que debemos fortalecer nuestra armada y reafirmar nuestras reclamaciones sobre esas tierras."
+
+VEN_prepare_amphibious_landings:0 "Preparar Desembarcos Anfibios"
+VEN_prepare_amphibious_landings_desc:0 "La naturaleza archipelágica del Caribe se adaptaba bien a las actividades piratas. Una gran flota será ineficaz en la zona. Todo lo que se necesita es un hombre en el lugar adecuado en el momento adecuado y unos pocos aventureros entusiastas."
+
+VEN_attack_cuba:0 "Eliminar la Amenaza Cubana"
+VEN_attack_cuba_desc:0 "[CUB.getAdjective] es una isla estratégica en la región y un principal exportador de materiales raros para los barcos pesados en la zona. Tienen algunos activos que serán valiosos para nuestro desarrollo futuro."
+
+VEN_seize_trinidad:0 "Reclamar Trinidad"
+VEN_seize_trinidad_desc:0 "'Puerto España' se llama así por una razón. En 1797, se produjo una invasión inesperada y rápida de la isla por parte de los [ENG.getAdjective]. Desde entonces, hemos aprendido muchas cosas de ellos y podemos realizar una operación similar en una escala mucho mayor. Temednos, [ENG.getName], porque Puerto España será hispano una vez más."
+
+VEN_attack_hispaniola:0 "Asegurar La Española"
+VEN_attack_hispaniola_desc:0 "Se espera que algunas naciones del Caribe en La Española también caigan bajo nuestra esfera de influencia. Asegurémonos de que sigan nuestro camino 'libremente'."
+
+VEN_intergrate_caribbean:0 "Unión del Caribe"
+VEN_intergrate_caribbean_desc:0 "Las naciones del Caribe son nuestros amigos naturales, y con su apoyo local podemos formar una gran unión para afirmar legítimamente nuestra dominancia sobre el Caribe."
+
+VEN_caribbean_naval_hub:0 "Establecer el Centro Naval del Caribe"
+VEN_caribbean_naval_hub_desc:0 "Los puestos de avanzada recién establecidos carecen de bases de atraque, instalaciones de producción naval y una infraestructura adecuada. Nuestro control sobre la zona proporciona una oportunidad única para expandir en gran medida nuestras capacidades navales."
+
+VEN_connect_the_cities:0 "Conectar las Ciudades"
+VEN_connect_the_cities_desc:0 "Para consolidar nuestro poder sobre el Caribe, es importante mantener todas las principales ciudades conectadas entre sí. Podemos lograr esto construyendo nuevas carreteras, ferrocarriles y puertos."
+
+VEN_recruit_haitian_pilots:0 "Reclutar Pilotos Haitianos"
+VEN_recruit_haitian_pilots_desc:0 "Haití sin duda ha sido muy avanzado en la producción de aviones y la formación de pilotos. Quizás reclutar a estos antiguos pilotos ayudará a nuestra propia industria de aviación."
+
+VEN_form_cuban_divisons:0 "Formar Divisiones de Defensa Cubanas"
+VEN_form_cuban_divisons_desc:0 "Gran parte del antiguo ejército cubano se está inscribiendo rápidamente en nuestra nueva fuerza militar en la isla. Esta es una buena oportunidad para establecer divisiones compuestas por cubanos étnicos, lo que también ayudará a fortalecer nuestro control en la zona."
+
+VEN_legacy_of_piracy:0 "Legado de la Piratería"
+VEN_legacy_of_piracy_desc:0 "Si Barbanegra logró interrumpir el comercio en toda la región, nosotros también podemos hacerlo. ¡Izemos la bandera pirata!"
+
+VEN_modern_pirate_navy:0 "Una Armada Pirata Moderna"
+VEN_modern_pirate_navy_desc:0 "Si queremos alcanzar nuestros antiguos objetivos de interrumpir el comercio en todo el Caribe, necesitamos tener buques navales modernos para enfrentarnos a cualquiera que se atreva a oponerse a nosotros."
+
+VEN_unite_the_caribbean_under_venezuela:0 "Unir el Resto del Caribe Bajo Venezuela"
+VEN_unite_the_caribbean_under_venezuela_desc:0 "Ahora que hemos consolidado nuestra unión actual en el Caribe, es hora de cumplir plenamente el nombre y unir toda la región del Caribe bajo la bandera [VEN.GetAdjective]."
+
+
+ ############################### NEUTRALITY PATH ################################
+
+VEN_neutrality_focus:0 "Mantener la Neutralidad Internacional"
+VEN_neutrality_focus_desc:0 "El liderazgo del país es más que consciente de que cualquier tipo de alianza económica o militar solo arrastrará a nuestro frágil estado a otra guerra total. El pueblo aboga por la paz y declaraciones retóricas como '¡Guerra! ¿Para qué sirve?' se pueden escuchar en muchos lugares del país."
+
+VEN_oil_protection:0 "Utilizar la Mayor Fortaleza de la Nación"
+VEN_oil_protection_desc:0 "La nación debe estar preparada para cualquier cosa. Las selvas amazónicas con su terreno accidentado crean una línea de defensa casi impenetrable contra grandes formaciones militares. Nuestro vecino en la figura de [COL.getNameDef] también se ha distanciado del escenario internacional acalorado, lo que deja solo una ruta accesible para una posible invasión: el mar. Fortificar las ciudades y extender el servicio de guardias costeras nos beneficiará enormemente en el futuro para proteger nuestros depósitos de petróleo."
+
+VEN_zulia_line:0 "Línea Zulia"
+VEN_zulia_line_desc:0 "Nuestros agentes informan de excesivos ejercicios militares realizados por los [COL.getAdjective] en una proximidad cercana a nuestra frontera. El terreno accidentado al sur y la falta de infraestructura en el área de Bolívar sugieren que un ataque es más probable que se lleve a cabo a través de las áreas del norte a lo largo de la costa. ¡La frontera debe ser reforzada de inmediato!"
+
+VEN_non_agression_colombia:0 "Pacto de No Agresión con Colombia"
+VEN_non_agression_colombia_desc:0 "Aunque compartimos muchas cosas en común, puede parecer que algunos caudillos rebeldes o provocadores intentarán sabotear nuestras buenas relaciones con [COL.getNameDef]. Comenzar con el pacto de no agresión asegurará que mantengamos una postura amigable entre nosotros."
+
+VEN_arms_protect_the_nation:0 "Las Armas Protegen la Nación"
+VEN_arms_protect_the_nation_desc:0 "'La mejor defensa es un buen ataque' no es acerca de los [VEN.getAdjective] pueblos. Sin embargo, si un enemigo potencial cruza nuestra frontera, el ejército regular debe estar listo para repeler al agresor por cualquier medio posible."
+
+
+
+ ############################### PRO-ALLIES PATH ################################
+
+ VEN_join_allies:0 "Rechazar el Fascismo"
+VEN_join_allies_desc:0 "A pesar de nuestras simpatías por los fascistas, no cabe duda de que las democracias del mundo están en la lucha por la libertad. ¡Nosotros y nuestros depósitos de petróleo volaremos bajo la bandera de los Aliados!"
+
+VEN_food_importation:0 "Importación de Alimentos"
+VEN_food_importation_desc:0 "La autosuficiencia y las políticas autárquicas pueden ser estrategias prometedoras a corto plazo, pero el comercio abierto con nuestros aliados beneficiará mucho más a nuestra economía. Ya se han concretado algunos acuerdos para comenzar a importar bienes y alimentos de los aliados occidentales."
+
+VEN_assisted_oil_development:0 "Desarrollo Petrolero Asistido"
+VEN_assisted_oil_development_desc:0 "Nuestra dedicación a la lucha contra el fascismo ha fomentado una mayor cooperación entre diferentes grupos de investigación y algunas preocupaciones industriales. La industria petrolera será la primera rama en beneficiarse de ello."
+
+VEN_british_air_bases:0 "Bases Aéreas Británicas"
+VEN_british_air_bases_desc:0 "Algunos de los agentes europeos se han puesto de nuestro lado, revelando una inquietante verdad sobre las formaciones de submarinos que se esconden en la cuenca del Caribe para atacar convoyes desprevenidos tan pronto como entren en mar abierto. Con nuestra falta de patrullas marítimas y bombarderos navales, es extremadamente difícil detectar la amenaza inminente. Nuestros aliados, sin embargo, poseen esa capacidad y están dispuestos a ayudarnos, siempre y cuando se construyan las instalaciones adecuadas."
+
+VEN_foreign_expeditions:0 "Fuerza Expedicionaria [VEN.GetAdjective]"
+VEN_foreign_expeditions_desc:0 "Aunque busquemos la paz, nuestros enemigos podrían no hacer lo mismo. Tener una fuerza militar lista para asistir en una lucha internacional en el extranjero nos permitirá extender nuestra presencia y asegurar los principios democráticos en todo el mundo."
+
+VEN_embargo_japan:0 "Embargo Petrolero a Japón"
+VEN_embargo_japan_desc:0 "[JAP.getNameDefCap] está ansioso por obtener más y más recursos en el sudeste asiático, en particular caucho para sus aviones y petróleo para su enorme armada. No cabe duda de que si continúan con su expansión, algún día sus barcos podrían llegar a nuestra costa. Es hora de mostrar nuestra devoción a la lucha contra su régimen e imponer un embargo comercial sobre ellos."
+
+VEN_anti_submarine:0 "Asistir en el Teatro Atlántico"
+VEN_anti_submarine_desc:0 "La guerra submarina sin restricciones está obstaculizando el comercio y el comercio justo en nuestras costas. Una respuesta adecuada sería asegurar las rutas de navegación con algunos de los destructores y cruceros recientemente desarrollados."
+
+VEN_latin_america_guardian:0 "Guardián de América Latina"
+VEN_latin_america_guardian_desc:0 "[VEN.GetName] es un rayo brillante de la libertad y la democracia fuerte en América Latina, y es nuestro deber proteger a nuestras naciones hermanas de los regímenes radicales y opresivos, no solo en nombre de la libertad, sino de la paz eterna para todos nosotros."
+
+VEN_attack_japan:0 "Llevar la Lucha al Este"
+VEN_attack_japan_desc:0 "La amenaza [JAP.getAdjective] sigue creciendo. Seguramente no esperarán un ataque de nuestra parte, ¡ya que el nuevo sol se elevará sobre el Pacífico!"
+
+VEN_attack_germany:0 "Eliminar la Amenaza Europea"
+VEN_attack_germany_desc:0 "La amenaza de [GER.getNameDef] ha llegado demasiado lejos, está claro que si queremos salvaguardar la democracia en el mundo, ¡Europa debe ser liberada de una vez por todas!"
+
+
+ ################################### GOVERNMENT IN EXILE ##############################
+
+VEN_exile_government:0 "Gobierno [VEN.GetAdjective] en el Exilio"
+VEN_exile_government_desc:0 "Hemos caído, pero no hemos sido derrotados. Establecer un gobierno en el exilio en nuestros aliados nos permitirá continuar la lucha contra nuestros enemigos hasta el amargo final."
+
+VEN_alliance_with_political_opponents:0 "Alianza con Oponentes Políticos"
+VEN_alliance_with_political_opponents_desc:0 "A pesar de nuestro odio hacia nuestros oponentes políticos, está claro que debemos dejar de lado nuestras diferencias para mostrar un frente unido y preservar la independencia de nuestra nación."
+
+VEN_evacuate_industry:0 "Evacuar las Reservas Industriales"
+VEN_evacuate_industry_desc:0 "Debemos evacuar nuestras reservas industriales antes de que el enemigo pueda utilizarlas contra nosotros. En cambio, nos ayudarán en gran medida a continuar la lucha."
+
+VEN_target_collaborators:0 "Perseguir a los Colaboradores"
+VEN_target_collaborators_desc:0 "Cualquiera que sea lo suficientemente cobarde como para traicionar a nuestra gran nación merece plenamente toda la ira de nuestro sistema de justicia, o una bala."
+
+VEN_liberation:0 "Liberación"
+VEN_liberation_desc:0 "Hemos regresado con éxito a nuestra tierra natal y liberado nuestra nación. Ahora podemos finalmente restaurar nuestro gobierno y poner fin al exilio."
+
+VEN_FVI:0 "Organizar el FVI"
+VEN_FVI_desc:0 "Las Fuerzas Venezolanas del Interior son el recién establecido movimiento de resistencia clandestina en Venezuela para mostrar a nuestros ocupantes extranjeros que no somos una nación que se somete fácilmente."
+
+
+ ################################### ARMY ##############################
+VEN_reform_GNB:0 "Fundación de la GNB"
+VEN_reform_GNB_desc:0 "Nuestras fuerzas armadas requieren unas cuantas unidades especializadas en tareas de gendarmería y protección civil. Los fondos reunidos nos permiten formar la Guardia Nacional Bolivariana de Venezuela, que además puede servir como una fuerza de infantería ligera de reserva."
+
+VEN_raise_the_GNB:0 "Levantamiento de Divisiones de la GNB"
+VEN_raise_the_GNB_desc:0 "Con las tensiones en un punto crítico y ahora amenazando nuestra propia patria, es hora de llamar a la fuerza de defensa nacional de la GNB para protegernos de las amenazas extranjeras."
+
+VEN_modernize_army:0 "Expandir la Universidad Militar Bolivariana"
+VEN_modernize_army_desc:0 "Juan Vicente Gómez fue un hombre sabio con énfasis en un ejército moderno basado en el modelo prusiano. Las crecientes tensiones en todo el mundo sugieren una nueva línea de inversiones para mejorar el rendimiento de nuestras tropas."
+
+VEN_modernize_calvary:0 "Plan de Motorización de Cardona"
+VEN_modernize_calvary_desc:0 "Nuestras observaciones de la Gran Guerra muestran que las tropas de infantería han dejado de ser útiles como unidades de ataque. Enfocarse en la velocidad, maniobras de flanqueo, ataques furtivos y el uso excesivo de la motorización, como lo propone Antonio Chalbaud Cardona, es el nuevo tipo de guerra que [VEN.getNameDef] implementará."
+
+VEN_signal_companies:0 "Compañías de Señales"
+VEN_signal_companies_desc:0 "La comunicación por radio entre columnas motorizadas en rápido avance mejorará enormemente sus capacidades de combate, la velocidad de planificación y el tiempo de respuesta ante amenazas."
+
+VEN_mechanised:0 "Mecanizar el Ejército"
+VEN_mechanised_desc:0 "Los camiones motorizados utilizados por la infantería general carecen de armamento y blindaje adecuados para contrarrestar a los partisanos enemigos que podrían sorprender a nuestras tropas en movimiento. Cardona está proponiendo actualmente una forma de aumentar la seguridad de las tropas mediante el uso de vehículos mecanizados para proteger a los soldados. ¿Deberíamos seguir con el desarrollo?"
+
+VEN_tanks:0 "Desarrollar Blindaje [VEN.GetAdjective]"
+VEN_tanks_desc:0 "La abundancia de combustible nos permite desplegar formaciones blindadas masivas, que se espera sean extremadamente efectivas en las áreas planas alrededor de la costa. Algunos expertos sugieren que las divisiones de tanques jugarán un papel decisivo en la resolución de conflictos internacionales como una fuerza de mantenimiento de la paz efectiva. Qué idea tan interesante..."
+
+VEN_defensive:0 "Continuar el Plan de Angarita"
+VEN_defensive_desc:0 "Siendo un firme defensor en política, Angarita está influyendo en el ejército para que se concentre en las capacidades defensivas de nuestras fuerzas. Está listo para nombrar a algunos oficiales leales en la Academia Militar de Venezuela en Caracas para educar a nuevos reclutas prometedores. Todo lo que necesita es la resolución del Congreso para comenzar."
+
+VEN_counter_enemy_armour:0 "Contrarrestar el Blindaje Enemigo"
+VEN_counter_enemy_armour_desc:0 "La Gran Guerra ha demostrado que ninguna infantería puede contrarrestar adecuadamente a los monstruos blindados de avance lento en el campo de batalla. Algunos expertos sugieren que el problema puede resolverse con algunos tipos específicos de cañones capaces de entregar un proyectil acumulativo directamente dentro de la torreta del tanque."
+
+VEN_counter_enemy_air:0 "Contrarrestar el Aire Enemigo"
+VEN_counter_enemy_air_desc:0 "Nuestro terreno accidentado seguramente hará que cualquier tipo de formación blindada de avance sea ineficaz, pero la principal amenaza de los escuadrones aéreos que surcan nuestros cielos aún persiste. Unos cuantos cañones antiaéreos ayudarán a derribar aviones y contrarrestar algunas de las variantes de blindaje ligero en caso de emergencia."
+
+VEN_modern_logistics:0 "Logística Moderna"
+VEN_modern_logistics_desc:0 "La dependencia de las reservas de suministros locales es una realidad amenazante que algunas de nuestras fuerzas armadas podrían enfrentar en un futuro cercano. Asegurarse de que reciban los materiales, equipos y bienes necesarios mejorará su moral, organización y capacidades de combate en general."
+
+VEN_modernize_weapons:0 "Modernizar Nuestro Armamento"
+VEN_modernize_weapons_desc:0 "De todas las variantes de tipos de armas que usan nuestras tropas, algunas siguen siendo muy obsoletas y superadas en comparación con otros tipos. La estandarización y modernización no son tan difíciles de hacer, si uno sabe con quién hablar y qué cambios se esperan realizar."
+
+VEN_purchase_czech_equipment:0 "Comprar Armamento Checo"
+VEN_purchase_czech_equipment_desc:0 "Los checoslovacos han demostrado ser increíblemente innovadores en el diseño de armas. Por un precio, podemos obtener algunas de estas armas modernas en nuestro arsenal."
+
+VEN_adapt_to_the_jungle:0 "Adaptarse a la Amazonia"
+VEN_adapt_to_the_jungle_desc:0 "Las partes del sur del país están cubiertas de selvas, que se consideran el terreno más difícil para combatir debido a la falta de infraestructura, las duras condiciones de temperatura y humedad, además de la abundancia de animales y plantas mortales. Todo esto sugiere un claro enfoque en mejorar el rendimiento militar en las áreas deseadas."
+
+VEN_jungle_vehicles:0 "Vehículos para la Selva"
+VEN_jungle_vehicles_desc:0 "Si queremos luchar con toda nuestra fuerza en las selvas del sur, entonces debemos construir nuestros tanques y vehículos motorizados para adaptarse a las duras condiciones de la jungla."
+
+ ######################################## NAVY ######################################
+ VEN_navy:0 "Bolivarian Navy"
+ VEN_navy_desc:0 "The naval branch of our armed forces is far less corrupt and rebellious if compared to the land forces. Yet its current state is nothing more than puny: with only two destroyers at our disposal, we cannot even properly reinforce the coastal guards to stop the excessive immigration."
+
+ VEN_fleet_in_being:0 "Dominance in the Caribbean"
+ VEN_fleet_in_being_desc:0 "The Caribbean basin remains an uncontested area where several small naval powers battle for a dominance over. A single heavy cruiser, battleship or carrier is enough to shift the balance in our favor. Our commanders are ready to reinforce the idea of great fleet worth of an empire."
+
+ VEN_modern_destroyers:0 "Secure the Shipping Routes"
+ VEN_modern_destroyers_desc:0 "Panama Canal has heavily reinforced the active trade in the Caribbean region. Our trailers and convoys shall receive a proper protection or face destruction in face of some pesky submarines hiding beneath the blue waters. "
+
+ VEN_battleship:0 "Battleship Effort"
+ VEN_battleship_desc:0 "Great War has clearly shown that the big guns win the battle. Naval capabilities of our country allow us to invest into development of the new heavy ships models."
+
+ VEN_carrier:0 "Carrier Effort"
+ VEN_carrier_desc:0 "Carriers, serving as a massive floating airfields are the true face and main combatant of the future naval warfare. Funding a separate carrier development project is a costly manner, yet it is only way to acquire a modern navy."
+
+ VEN_naval_gunnery:0 "Improve Naval Gunnery"
+ VEN_naval_gunnery_desc:0 "Innovations in naval warfare are being constantly developed and introduced at different naval conferences and joint naval exercises. We can learn much not only from our allies or enemies, but also from ourselves."
+
+ VEN_submarines:0 "The Blockade Doctrine"
+ VEN_submarines_desc:0 "Caribbean sea is well known for its archipelagos and hidden basins. Convoys have to heavily maneuver there and large fleet formations are commonly poorly positioned and lack maneuverability, which can be used to push our advantage in case of the war."
+
+ VEN_undersea_warfare:0 "Undersea Warfare"
+ VEN_undersea_warfare_desc:0 "Grand battleship or carrier fleet is too costly affair to even think about it! Instead we shall focus on development of small agile low-equipage vehicles capable of striking from underwater."
+
+ VEN_mass_submarines:0 "Expand Submarine Production"
+ VEN_mass_submarines_desc:0 "Reduced size of torpedo tubes, quieter engines and modular construction allow us to produce submarines at a faster pace. Some of the freed up facilities can be used to divert some of naval production there."
+
+ VEN_stealth_upgrades:0 "Stealth Upgrades"
+ VEN_stealth_upgrades_desc:0 "Our enemy might know what we will try to do and thus will seek to prepare few measures to counter our newborn submarine flotilla. Our scientists, however, know how to counteract their counteract action by developing new silenced snorkels."
+
+ VEN_national_admiralty:0 "National Admiralty"
+ VEN_national_admiralty_desc:0 "Good vessel might make a good single shot, but its the dedicated team who will win the entirety of the fight. And well-educated naval commanders and admirals will surely win a war. Establishing a specialized academy to train new men and women in terms of naval warfare will grant fruitful results in the future."
+
+ VEN_dockyards:0 "Expand Zulia Shipping"
+ VEN_dockyards_desc:0 "The city of Maracaibo is one of the biggest ports and naval bases our country has to offer to the foreign traders and external ships. Expanding its capabilities and diversifying the production facilities will increase our overall naval production to a brand-new level."
+
+ ######################################## INDUSTRY ++ OIL ######################################
+
+ VEN_major_oil_discoveries:0 "Abordar la Situación Económica"
+VEN_major_oil_discoveries_desc:0 "Ubicada en la costa oriental del lago de Maracaibo, la ciudad de Cabimas se considera uno de los centros de la industria petrolera [ROOT.getAdjective]. En los últimos años, se ha visto un crecimiento sustancial de sus industrias de petróleo y derivados debido a la prospección petrolera en sus cercanías."
+
+VEN_national_recovery_act:0 "Ley de Recuperación Nacional"
+VEN_national_recovery_act_desc:0 "La economía de nuestro país depende en gran medida de las exportaciones de petróleo crudo, alcanzando hasta el 80% del valor neto de las exportaciones. Seguir dependiendo únicamente de recursos no renovables podría jugar en contra de nuestro pueblo en el futuro. Terminar con esta dependencia es una tarea difícil, pero debe hacerse en algún momento."
+
+VEN_alternatives_to_oil:0 "Alternativas al Petróleo"
+VEN_alternatives_to_oil_desc:0 "Algunos depósitos de hierro en Cerro San Isidro fueron descubiertos en la reciente encuesta geológica, proporcionándonos una alternativa a las exportaciones de petróleo."
+
+VEN_invest_mining_industry:0 "Invertir en la Industria Minera"
+VEN_invest_mining_industry_desc:0 "Es más que claro que muchos recursos yacen justo bajo nuestros pies. Nuestros geólogos solo requieren fondos adicionales para organizar algunas encuestas adicionales del suelo [ROOT.getAdjective]."
+
+VEN_improve_living_standards:0 "Mejorar los Estándares de Vida"
+VEN_improve_living_standards_desc:0 "Muchas personas de nuestra nación no tienen acceso a electricidad, telégrafo o radio para recibir noticias actualizadas del gobierno. Deducir una cantidad excesiva de fondos para este sector podría ser costoso, pero los beneficios a largo plazo y la apreciación de nuestro pueblo lo valen."
+
+VEN_industrial_development:0 "Desarrollo Industrial"
+VEN_industrial_development_desc:0 "Muchas manifestaciones de trabajadores en los últimos años indican una falta de herramientas mecánicas adecuadas y equipo básico de construcción en fábricas y sitios de construcción. Los programas gubernamentales dirigidos a resolver este problema ya están siendo abordados en el Congreso."
+
+VEN_lift_oil_curse:0 "Levantar la Maldición del Petróleo"
+VEN_lift_oil_curse_desc:0 "La dependencia del petróleo ha tenido efectos devastadores en nuestra economía. Afortunadamente, las recientes inclinaciones económicas hacia la extracción de diferentes tipos de recursos demuestran que los inversores extranjeros también están interesados en estos. Con las reformas finalmente completas, la maldición del petróleo puede considerarse vencida de una vez por todas."
+
+VEN_expand_oil_industry:0 "Expandir la Industria Petrolera"
+VEN_expand_oil_industry_desc:0 "La dependencia del petróleo es la única forma en que nuestra economía puede mantener su posición en el mercado internacional. Es lógico que invirtamos más en ello y abramos nuestros mercados a más exportadores de petróleo de todo el mundo."
+
+VEN_engineering_schools:0 "Escuelas de Ingeniería"
+VEN_engineering_schools_desc:0 "Estudios recientes de la comisión geológica [ROOT.getAdjective] indican que unas pocas inversiones gubernamentales en la prospección de recursos permitirán extraer aún más recursos de nuestro suelo. Algunos políticos ya están cabildeando esta ley en el Congreso."
+
+VEN_open_rubber_plantations:0 "Abrir Plantaciones de Caucho"
+VEN_open_rubber_plantations_desc:0 "El clima cálido y húmedo [ROOT.getAdjective] es ideal para el establecimiento de algunas plantaciones de caucho. Si los [BRA.getAdjective] pueden cosechar enormes cantidades de caucho, ¿por qué no podemos hacerlo nosotros?"
+
+VEN_expand_curacao_refinery:0 "Expandir la Refinería de la Isla"
+VEN_expand_curacao_refinery_desc:0 "Descuidada durante tanto tiempo, la isla de Curazao finalmente está en nuestras manos. Debemos expandir nuestra base de operaciones y establecer varias instalaciones de refinación de combustible para mejorar aún más nuestra producción de petróleo."
+
+VEN_establish_IFE:0 "Establecer el IFE"
+VEN_establish_IFE_desc:0 "El transporte de materiales extraídos requiere, además de una base industrial adecuada, una conexión de infraestructura apropiada desde los puertos hasta las instalaciones. Se fundará una empresa ferroviaria estatal conocida como Instituto de Ferrocarriles del Estado para supervisar los problemas logísticos emergentes."
+
+VEN_promote_foreign_investment:0 "Promover Inversiones Extranjeras"
+VEN_promote_foreign_investment_desc:0 "Muchas corporaciones extranjeras que ven los cambios en [ROOT.getNameDef] como progresivos están dispuestas a invertir en el desarrollo industrial local y fortalecer los lazos económicos con nuestra nación. ¿Quiénes somos nosotros para negar sus humildes inversiones?"
+
+VEN_acheiving_autarky:0 "Lograr la Autarquía [ROOT.getAdjective]"
+VEN_acheiving_autarky_desc:0 "Nuestro petróleo es conocido por su buena calidad y alto número de octanos. Con las inversiones que fluyen en nuestras manos, [ROOT.getNameDef] puede proclamar su pura dependencia del petróleo y las exportaciones de productos derivados del petróleo como la piedra angular de nuestro estado moderno."
+
+VEN_rearmament:0 "Comenzar el Rearme"
+VEN_rearmament_desc:0 "La guerra, como ninguna otra vista antes, dará forma al mundo que conocíamos. Será mejor que estemos preparados para cualquier lucha que los futuros conflictos puedan desatar sobre nosotros."
+
+VEN_fund_CAVIM:0 "Financiar Industrias Armamentísticas Independientes"
+VEN_fund_CAVIM_desc:0 "Establecer una nueva preocupación industrial capaz de producir en masa equipo de infantería beneficiará enormemente a nuestra máquina de guerra."
+
+VEN_explosive_factories:0 "Fábricas de Explosivos"
+VEN_explosive_factories_desc:0 "La falta de capacidades militares podría favorecer a nuestros posibles enemigos. ¡No debemos darles ninguna ventaja en el campo de batalla! ¡Todo para nuestras tropas, sin importar el costo!"
+
+VEN_nuclear_power:0 "Estudiar la Energía Nuclear"
+VEN_nuclear_power_desc:0 "Una bomba de este poder puede destruir fácilmente un puerto y las ciudades alrededor. Esta fue la carta que Albert Einstein, el gran científico alemán, envió a Franklin Roosevelt de América. La forma en que describió este nuevo poder es increíble. Si pudiéramos aprovechar esta energía para nuestro uso, no solo nos ayudaría a ser reconocidos en el escenario internacional, sino que también garantizaría que las amenazas extranjeras se mantengan a raya."
+
+VEN_rural_schools:0 "Construir Escuelas Rurales"
+VEN_rural_schools_desc:0 "Gran parte de nuestra nación está subdesarrollada y muchos lugares, particularmente las regiones rurales, carecen de muchos sistemas básicos de educación. Con nuestros nuevos avances industriales, es hora de centrarnos en el pueblo y proporcionarles educación."
+
+
+ ########################################### AIR #########################################
+
+VEN_a_seprate_branch:0 "Una Rama Separada"
+VEN_a_seprate_branch_desc:0 "Separar el comando de la fuerza aérea de las fuerzas del ejército y la marina nos permitirá consolidar los fondos necesarios y mejorar la calidad de las Fuerzas Aéreas [VEN.getAdjective]."
+
+VEN_fighters:0 "Una Fuerza Aérea de Caza"
+VEN_fighters_desc:0 "La dominancia en los cielos se logra mediante el uso adecuado de escuadrones de cazas en combates aéreos constantes e interceptando bombarderos enemigos. Algunos de los fondos gubernamentales pueden dedicarse a mejorar la calidad de estos aviones."
+
+VEN_bombers:0 "Una Fuerza Aérea de Bombarderos"
+VEN_bombers_desc:0 "La posición aislada de nuestro país sugiere que no será un objetivo de las incursiones de bombarderos enemigos, lo que implica que una pequeña fuerza de cazas es más que suficiente para asegurar los cielos de [VEN.getNameDef]. Las principales inversiones deben dedicarse al desarrollo de bombarderos, capaces de atacar la industria enemiga desde lejos."
+
+VEN_purchase_italian_bombers:0 "Comprar Bombarderos Italianos"
+VEN_purchase_italian_bombers_desc:0 "Anteriormente compramos bombarderos italianos y demostraron ser efectivos, por lo que si queremos fortalecer nuestra fuerza aérea, es obvio que deberíamos comprar más."
+
+VEN_heavy_fighters:0 "Cazas Pesados"
+VEN_heavy_fighters_desc:0 "Acompañados de cazas pesados con un alcance operativo excesivo y blindaje moderado, nuestros bombarderos pueden dominar los cielos sin temor a los cazas enemigos."
+
+VEN_rocketry:0 "Experimentos con Cohetes"
+VEN_rocketry_desc:0 "Una alternativa interesante a las incursiones de bombardeo ha surgido en una de nuestras instalaciones de investigación, donde una bomba guiada capaz de despegar desde una plataforma puede dirigirse hacia su objetivo sin necesidad de tripulación a bordo, preservando así la salud y la vida de nuestros pilotos y tripulaciones de aviones."
+
+VEN_naval_bomber:0 "Experimentos con Bombarderos Navales"
+VEN_naval_bomber_desc:0 "La coordinación entre las ramas naval y aérea nos permite asegurar algunas oportunidades de investigación en el desarrollo de un tipo de avión único capaz de operar en misiones marítimas de largo alcance."
+
+VEN_air_bases:0 "Construir Bases Aéreas"
+VEN_air_bases_desc:0 "Los aeródromos actualmente operativos limitan el potencial aéreo de nuestra creciente fuerza aérea. Expandir las pistas de aterrizaje, construir nuevos hangares y mejorar la infraestructura alrededor de estos objetos vitales debe convertirse en nuestra primera prioridad para asegurar un campo de entrenamiento adecuado para nuestras fuerzas."
+
+VEN_scout_planes:0 "Aviones de Reconocimiento"
+VEN_scout_planes_desc:0 "La exploración, el reconocimiento y la vigilancia de las regiones fronterizas pueden hacerse de manera mucho más eficiente con un tipo de avión especializado con motores silenciosos y pintura de camuflaje, lo que nos permitirá conocer los planes de nuestros enemigos con anticipación."
+
+VEN_cas:0 "Apoyo Aéreo Cercano"
+VEN_cas_desc:0 "Con la dominancia en los cielos asegurada, podemos desatar un infierno en la Tierra para las fuerzas enemigas desprevenidas con nuestros aviones de bombardeo en picado recién desarrollados."
+
+VEN_tatical_bombers:0 "Bombardeo Táctico"
+VEN_tatical_bombers_desc:0 "En lugar de centrarnos únicamente en bombardear fábricas o fuerzas terrestres, podemos invertir en la investigación de máquinas de caza-bombardero multiusos. Estas no serán tan efectivas como sus respectivos homólogos especializados, pero la diversidad puede ser una opción costosa para las industrias limitadas de nuestro país."
+
+
+ #ideas
+
+VEN_military_disloyalty3:0 "Ejército Despolitizado"
+
+VEN_corruption:0 "Corrupción Generalizada"
+VEN_corruption_desc:0 "Venezuela siempre ha tenido una larga historia de corrupción, aunque durante el gobierno de Juan Gómez protegió su poder otorgando posiciones poderosas a funcionarios leales a él. Como resultado, muchos sectores del gobierno están llenos de funcionarios incompetentes y corruptos que desvían muchos activos gubernamentales para su propio beneficio, descuidando al pueblo en el proceso."
+VEN_corruption_2:0 "Reformas en Proceso"
+VEN_corruption_2_desc:0 "Se están realizando reformas para revertir las políticas y eliminar a los funcionarios corruptos colocados por Juan Gómez en un intento por reducir la corrupción generalizada y estabilizar la nación."
+VEN_corruption_3:0 "Cooperación Política"
+VEN_corruption_3_desc:0 "Si se va a erradicar la corrupción en Venezuela, necesitamos mostrar una fuerte colaboración entre los diferentes partidos de la nación para erradicar permanentemente a los funcionarios corruptos."
+VEN_corruption_4:0 "El Legado de Gómez"
+VEN_corruption_4_desc:0 "Muchos ven a Juan Gómez como nada más que un tirano, pero están equivocados. Gómez sentó las bases para un sistema [VEN.GetAdjective] más grande, necesitamos continuar lo que él comenzó."
+VEN_corruption_5:0 "Constitución de 1936"
+VEN_corruption_6:0 "Consultó los Derechos de las Mujeres"
+VEN_corruption_7:0 "Radicalización del Plan de Barranquilla"
+VEN_corruption_8:0 "El Plan Comunista de Barranquilla"
+VEN_corruption_9:0 "Reformas Socialistas"
+VEN_corruption_10:0 "Plan de Barranquilla Realizado"
+VEN_corruption_11:0 "El Plan de Barranquilla"
+VEN_oil:0 "Petróleo [VEN.GetAdjective]"
+VEN_oil_desc:0 "Para bien o para mal, Venezuela es rica en petróleo. La exportación del mismo contribuye en gran medida a la economía [VEN.GetAdjective]."
+VEN_oil_2:0 "Petróleo [VEN.GetAdjective]"
+VEN_oil_2_desc:0 "Para bien o para mal, Venezuela es rica en petróleo. La exportación del mismo contribuye en gran medida a la economía [VEN.GetAdjective]."
+VEN_oil_3:0 "Petróleo [VEN.GetAdjective]"
+VEN_oil_3_desc:0 "Para bien o para mal, Venezuela es rica en petróleo. La exportación del mismo contribuye en gran medida a la economía [VEN.GetAdjective]."
+VEN_oil_4:0 "Petróleo [VEN.GetAdjective]"
+VEN_oil_4_desc:0 "Para bien o para mal, Venezuela es rica en petróleo. La exportación del mismo contribuye en gran medida a la economía [VEN.GetAdjective]."
+VEN_oil_5:0 "Petróleo [VEN.GetAdjective]"
+VEN_oil_5_desc:0 "Para bien o para mal, Venezuela es rica en petróleo. La exportación del mismo contribuye en gran medida a la economía [VEN.GetAdjective]."
+VEN_oil_6:0 "Petróleo [VEN.GetAdjective]"
+VEN_oil_6_desc:0 "Para bien o para mal, Venezuela es rica en petróleo. La exportación del mismo contribuye en gran medida a la economía [VEN.GetAdjective]."
+VEN_oil_7:0 "Petróleo [VEN.GetAdjective]"
+VEN_oil_7_desc:0 "Para bien o para mal, Venezuela es rica en petróleo. La exportación del mismo contribuye en gran medida a la economía [VEN.GetAdjective]."
+VEN_oil_8:0 "Petróleo [VEN.GetAdjective]"
+VEN_oil_8_desc:0 "Para bien o para mal, Venezuela es rica en petróleo. La exportación del mismo contribuye en gran medida a la economía [VEN.GetAdjective]."
+VEN_oil_9:0 "Petróleo [VEN.GetAdjective]"
+VEN_oil_9_desc:0 "Para bien o para mal, Venezuela es rica en petróleo. La exportación del mismo contribuye en gran medida a la economía [VEN.GetAdjective]."
+VEN_oil_10:0 "Autarquía [VEN.GetAdjective]"
+VEN_oil_10_desc:0 "Para bien o para mal, Venezuela es rica en petróleo. La exportación del mismo contribuye en gran medida a la economía [VEN.GetAdjective]."
+VEN_DSN_formed:0 "DSN"
+VEN_arnoldo_gabaldon_teachings:0 "Investigación de Arnoldo Gabaldón"
+VEN_paramilitarism_buff:0 "Paramilitarismo [VEN.GetAdjective]"
+VEN_paramilitarism_buff2:0 "Paramilitarismo [VEN.GetAdjective]"
+VEN_military_disloyalty:0 "Deslealtad Militar"
+VEN_military_disloyalty_desc:0 "Gran parte del estado mayor aún es leal a las viejas costumbres de Juan Gómez, y con las promesas de transición a la democracia, no todos están a bordo."
+VEN_military_disloyalty2:0 "Lealtad Militar Impuesta"
+VEN_rearmament_policy:0 "Política de Rearme"
+VEN_strikes_caracas:0 "Huelgas en Caracas"
+VEN_gran_colombian_ideals:0 "Nacionalismo Gran Colombiano"
+VEN_gran_colombian_ideals2:0 "Nacionalismo Gran Colombiano"
+VEN_amphibious_invasion_prepations:0 "Preparativos de Invasión Anfibia"
+VEN_ARDI_resurgence:0 "Resurgimiento de la ARDI"
+VEN_creole_cult:0 "Criollo Empoderado"
+VEN_creole_cult2:0 "Criollo Empoderado"
+VEN_creole_cult3:0 "Criollo Empoderado"
+VEN_creole_cult4:0 "Criollo Empoderado"
+VEN_creole_cult5:0 "Criollo Empoderado"
+VEN_oil_protection_squadrons:0 "Escuadrones de Protección del Petróleo"
+VEN_oil_protection_squadrons2:0 "Escuadrones de Protección del Petróleo"
+VEN_spread_communism:0 "Influencia [VEN.GetAdjective]"
+VEN_the_push_to_end_captalism:0 "El Gran Empuje"
+VEN_50_50_oil:0 "Petróleo 50/50"
+VEN_50_50_oil2:0 "Petróleo 50/50"
+VEN_fortress:0 "La Fortaleza [VEN.GetAdjective]"
+VEN_fuerzas_venezolanas_del_interior:0 "FVI"
+VEN_fuerzas_venezolanas_del_interior_2:0 "Procesamiento de Colaboradores"
+
+
+ #decisons
+
+VEN_border_conflicts:0 "Operaciones del Norte"
+VEN_border_conflicts_desc:0 "Las diversas islas que se encuentran justo frente a nuestras costas, según todos los informes, deberían pertenecernos legítimamente. Son vitales tanto política como económicamente para nosotros. Con las crecientes tensiones en todo el mundo, quizás sea el momento de reforzar nuestras reivindicaciones una vez más..."
+VEN_claim_curacao_decision:0 "Reforzar la Reclamación sobre Curazao"
+VEN_claim_trinidad_decision:0 "Reforzar la Reclamación sobre Trinidad"
+VEN_curacao_border_war_start:0 "Operación Goma"
+VEN_trinidad_border_war_start:0 "Operación Encendedor"
+VEN_curacao_core:0 "Conceder Estado a Curazao"
+VEN_curacao_core_timer:0 "Conceder Estado a Curazao"
+
+ #events
+
+venezuela.1.t:0 "[VEN.GetNameDefCap] Reafirma su Reclamación sobre Curazao"
+venezuela.1.d:0 "Hoy, el líder [VEN.GetAdjective], [VEN.GetLeader], ha dejado claro que la isla de Curazao, a solo 60 km de la costa de Venezuela, es una parte legítima de la nación y debe ser devuelta. Incluso si eso significa por la fuerza.\n\nEsto puede ser una justificación para una invasión de la isla, por lo que debemos estar preparados para lo peor."
+venezuela.1.a:0 "Debemos hacer algo."
+
+venezuela.2.t:0 "Victoria de [VEN.GetName] en Curazao"
+venezuela.2.d:0 "Después de intensos combates, los invasores [VEN.GetAdjective] lograron desembarcar con éxito en Curazao y superaron a los defensores [695.Owner.getAdjective]. Más tarde capturaron la capital, Willemstad.\n\nAunque esto podría llevar a otro conflicto mayor en la región, es seguro decir que la isla está firmemente en manos de Venezuela."
+venezuela.2.a:0 "Muy bien."
+
+venezuela.3.t:0 "Victoria de [695.Owner.GetName] en Curazao"
+venezuela.3.d:0 "Los superiores defensores de Curazao han logrado defenderse con éxito de los desembarcos [VEN.GetAdjective] y les han negado una cabeza de playa exitosa. Las fuerzas [VEN.GetAdjective] se han visto obligadas a retirarse, y como resultado, la isla permanece firmemente en manos de [695.Owner.GetNameDef]."
+venezuela.3.a:0 "Muy bien."
+
+venezuela.4.t:0 "Elecciones [VEN.GetAdjective] de 1935"
+venezuela.4.d:0 "Tras la muerte de Juan Vicente Gómez a finales de 1935, se abrió una gran lucha de poder dentro de la política [VEN.GetAdjective] para encontrar un sucesor adecuado para su gobierno. Gómez había gobernado previamente con mano de hierro para consolidar su poder y autoridad.\n\nEleazar López Contreras, un colaborador y amigo cercano de Gómez, asumió el poder después de su muerte. Sin embargo, incluso durante su mandato, Contreras fue muy crítico con las políticas de Gómez y pretende reformar y modernizar la nación.\n\nNo obstante, hay varios líderes políticos en Venezuela, como Rómulo Gallegos e Isaías Medina Angarita, que creen que Venezuela debería transformarse en una democracia libre al estilo occidental. Pero grupos más extremistas, como el general Marcos Pérez Jiménez, son muy partidarios de las políticas de Gómez y buscan continuarlas. Jiménez había sido previamente impedido de ocupar una presencia política significativa, pero ahora con la lucha de poder, puede ser una oportunidad perfecta para que él tome el poder."
+venezuela.4.a:0 "Eleazar Contreras Reformará y Modernizará Venezuela."
+venezuela.4.b:0 "Isaías Angarita es un Reformador Conservador, Exactamente lo que Venezuela Necesita."
+venezuela.4.c:0 "Rómulo Gallegos Sabe lo que es Mejor para el Pueblo [VEN.GetAdjective]."
+venezuela.4.e:0 "Marcos Jiménez Dará a Venezuela una Mano Fuerte."
+
+venezuela.5.t:0 "[VEN.GetName] Propone la Unificación"
+venezuela.5.d:0 "Después de más de una década, Venezuela desea reunirse nuevamente con nosotros para formar una gran unión. ¿Qué debemos hacer?"
+venezuela.5.a:0 "Unidos podemos revivir el legado de Bolívar."
+venezuela.5.b:0 "Esas glorias son cosa del pasado."
+
+venezuela.6.t:0 "[COL.GetName] Acepta la Unificación"
+venezuela.6.d:0 "Después de 100 años de separación, nuestros hermanos colombianos aceptan felizmente ser parte de la Gran Colombia una vez más."
+venezuela.6.a:0 "Juntos prosperaremos."
+
+venezuela.7.t:0 "[COL.GetName] Rechaza la Unificación"
+venezuela.7.d:0 "Los colombianos parecen ser lo suficientemente ignorantes como para rechazar nuestra oferta y no hacer nada. Tendremos que recurrir a la acción militar en su lugar."
+venezuela.7.a:0 "Intentamos el enfoque pacífico..."
+
+venezuela.8.t:0 "[VEN.GetName] Demanda Guyana"
+venezuela.8.d:0 "Los diplomáticos [VEN.GetAdjective] nos han enviado un ultimátum: devolver el territorio de Guyana a su nación, que Venezuela ha reclamado desde 1895, o enfrentarse a la acción militar.\n\n¿Cómo deberíamos responder a esta amenaza?"
+venezuela.8.a:0 "No tenemos otra opción."
+venezuela.8.b:0 "¡Una reclamación ridícula!"
+
+venezuela.9.t:0 "[687.Owner.GetNameDefCap] Se Somete"
+venezuela.9.d:0 "Ante la amenaza de acción militar, [687.Owner.GetNameDefCap] ha cedido a nuestras demandas, y el territorio de Guyana será devuelto a Venezuela."
+venezuela.9.a:0 "Como debe ser."
+
+venezuela.10.t:0 "[687.Owner.GetNameDefCap] Se Niega a Ceder Guyana"
+venezuela.10.d:0 "[687.Owner.GetNameDefCap] ha sido lo suficientemente arrogante como para rechazar nuestras demandas y no reconocer nuestra reclamación. Incluso han llegado a llamar nuestra reclamación ridícula.\n\nSin embargo, pueden tener el potencial de igualarnos en un conflicto por ello. Si es así, puede que queramos retroceder."
+venezuela.10.a:0 "Mejor retrocedamos."
+venezuela.10.b:0 "Es legítimamente nuestro, les guste o no."
+
+venezuela.11.t:0 "[VEN.GetName] Solicita Asesores"
+venezuela.11.d:0 "Venezuela ha enviado una solicitud para que enviemos asesores militares para ayudar en el entrenamiento y modernización de su ejército. Podría ser una oportunidad potencial para ganar más acceso a las exportaciones de petróleo de Venezuela."
+venezuela.11.a:0 "Esta es una oportunidad para nosotros."
+venezuela.11.b:0 "No tenemos interés en los [VEN.GetAdjective]s."
+
+venezuela.12.t:0 "El [GER.GetName] Acepta"
+venezuela.12.d:0 "El [GER.GetName] ha aceptado nuestra solicitud y ha enviado al general Wilhelm von Faupel, jefe del Instituto Iberoamericano, en nuestra ayuda."
+venezuela.12.a:0 "Maravillosas noticias."
+
+venezuela.13.t:0 "El [GER.GetName] Rechaza"
+venezuela.13.d:0 "El [GER.GetName] ha rechazado arrogantemente nuestra solicitud y no enviará a nadie en nuestra ayuda."
+venezuela.13.a:0 "Perdida para ellos."
+
+venezuela.15.t:0 "¡Huelgas en Caracas!"
+venezuela.15.d:0 "Recientemente, muchos disturbios y protestas han estallado en la capital, Caracas, en su mayoría impulsados por la población campesina insatisfecha con las condiciones de vida y los salarios laborales. La mayoría se encuentra alrededor del Palacio de Miraflores, la oficina del gobierno federal de Venezuela.\n\nMuchos manifestantes han exigido reformas laborales, fiscales y diversas mejoras en los estándares de vida. Sin embargo, algunos miembros radicales han pedido el derrocamiento total del gobierno. La situación necesita ser controlada."
+venezuela.15.a:0 "¡Debemos hacer algo!"
+venezuela.15.b:0 "Quizás podamos aprovechar esto a nuestro favor."
+
+venezuela.16.t:0 "Inauguración de Eleazar Contreras"
+venezuela.16.d:0 "Hoy se ha anunciado oficialmente que Eleazar López Contreras ha ganado una victoria decisiva en las elecciones debido a su gran popularidad entre el gobierno y el pueblo.\n\nEstá programado para ser inaugurado hoy como el 45º presidente de Venezuela ante el Congreso en el Palacio Legislativo Federal.\n\nCon las promesas de Contreras de modernizar la atención médica, la infraestructura y las fuerzas armadas de Venezuela, mientras hace una transición lenta hacia la democracia, muchos [VEN.GetAdjective]s ven este evento como el comienzo de una nueva era para su nación."
+venezuela.16.a:0 "Un héroe para [VEN.GetNameDef]."
+
+venezuela.17.t:0 "[VEN.GetName] solicita un Pacto de No Agresión"
+venezuela.17.d:0 "[VEN.GetName] ha propuesto un pacto de no agresión entre nuestras dos naciones para mantener las relaciones y asegurar la paz en América Bolivariana."
+venezuela.17.a:0 "¡Por supuesto!"
+venezuela.17.b:0 "Tenemos otros planes para los [VEN.GetAdjective]s."
+
+venezuela.18.t:0 "Colombia Firma el Pacto"
+venezuela.18.d:0 "[COL.GetName] ha aceptado felizmente nuestra propuesta hoy, estamos seguros de que no habrá hostilidades entre nuestras dos naciones."
+venezuela.18.a:0 "Paz en nuestro tiempo."
+
+venezuela.19.t:0 "Colombia Rechaza el Pacto"
+venezuela.19.d:0 "[COL.GetName] ha rechazado arrogantemente nuestra oferta de cesar todas las hostilidades, es obvio que los colombianos no son nuestros amigos."
+venezuela.19.a:0 "Esto es preocupante."
+
+venezuela.20.t:0 "Marcos Jiménez Toma el Poder"
+venezuela.20.d:0 "Hoy se han difundido ondas de choque por la nación cuando el joven general Marcos Pérez Jiménez, con el apoyo del ejército, ha tomado por asalto la Asamblea Nacional y el Palacio Legislativo Federal y ha obligado al congreso a aprobar una moción de no confianza y deponer al gobierno actual, colocándose firmemente como dictador de Venezuela.\n\nJiménez promete recuperar la economía venezolana y devolver a la nación al "camino correcto" en el escenario internacional.\n\nSin embargo, muchos dentro del pueblo e incluso partes del ejército creen que Jiménez es un gobernante inexperto y tiránico que no hará nada más que llevar a Venezuela a su caída."
+venezuela.20.a:0 "Jiménez traerá gloria a Venezuela."
+
+venezuela.21.t:0 "La Inauguración de Isaías Angarita"
+venezuela.21.d:0 "El líder democrático conservador y general Isaías Medina Angarita ha logrado obtener apenas un voto popular y dentro del congreso, sin embargo, ha conseguido solidificar su posición y se ha anunciado que ha sido victorioso en las elecciones.\n\nEstá programado para ser inaugurado hoy como el 45º presidente de Venezuela ante el Congreso en el Palacio Legislativo Federal.\n\nContrariamente a lo que se esperaba de sus detractores, Medina tiene planes para una amplia apertura democrática, permitiendo la confrontación de diferentes ideologías y la expresión. También ha hecho promesas para mejorar las leyes laborales mediante la expansión de los servicios culturales para los trabajadores, el aumento de los salarios de los trabajadores e incluso la abolición del trabajo nocturno en algunas industrias. Muchos [VEN.GetAdjective]s de la clase trabajadora están felices de ver reformas próximas en su vida laboral, aunque algunos dudan, ya que creen que puede ser demasiado ambicioso."
+venezuela.21.a:0 "¡Qué resultado tan maravilloso!"
+
+venezuela.22.t:0 "Rómulo Gallegos Gana una Victoria Sorprendente"
+venezuela.22.d:0 "A pesar de tener apoyo entre la población campesina y trabajadora, nadie esperaba que Rómulo Gallegos obtuviera ningún reconocimiento del público en general durante las elecciones debido a su impopularidad y negligencia por parte del gobierno. Sin embargo, ha aprovechado la reciente corrupción e inestabilidad y ha reunido al pueblo con un simple eslogan, "Democracia para Venezuela", exigiendo reformas en los impuestos, el trabajo y los derechos de voto.\n\nCon el apoyo de la población de clase baja, Gallegos ha logrado una victoria decisiva en las elecciones. Está programado para ser inaugurado hoy como el 45º presidente de Venezuela ante el Congreso en el Palacio Legislativo Federal."
+venezuela.22.a:0 "El pueblo ha hablado."
+
+venezuela.23.t:0 "Destino de Marcos Jiménez"
+venezuela.23.d:0 "El general Marcos Pérez Jiménez ha sido recientemente un problema para el gobierno [VEN.GetAdjective], provocando deslealtades militares a favor de las antiguas políticas dictatoriales de Juan Vicente Gómez. La nación está dividida sobre Jiménez, viéndolo ya sea como un general talentoso y un líder fuerte o un político incompetente que intenta desesperadamente aferrarse a políticas obsoletas.\n\nRecientemente, muchos políticos han comenzado a cuestionar cuál debería ser el papel de Jiménez en el ejército y el gobierno. ¿Mantenerlo dentro del ejército y permitirle potencialmente convertirse en una amenaza política? ¿O relevarlo de sus rangos dentro del ejército y asegurarse de que nunca sea una amenaza de nuevo?"
+venezuela.23.a:0 "Manténganlo, es solo un peón."
+venezuela.23.b:0 "Es una responsabilidad, necesita irse."
+
+venezuela.24.t:0 "[VEN.GetName] Toma Trinidad"
+venezuela.24.d:0 "Las fuerzas [VEN.GetAdjective] han lanzado un ataque anfibio en la isla de Trinidad y han logrado desembarcar y establecer una cabeza de playa con éxito, superando rápidamente a la pequeña guarnición presente allí y capturando más tarde la capital, Puerto España.\n\nEn una conferencia de prensa poco después, el líder [VEN.GetAdjective], [VEN.GetLeader], declaró que Trinidad y Tobago son partes legítimas de Venezuela y busca expulsar a todos los imperialistas del Caribe. Obviamente, esto es absurdo, pero depende de cómo respondamos a la situación. Algunas personas piden guerra contra [VEN.GetNonIdeologyName], mientras que otras son escépticas sobre desperdiciar vidas por 2 pequeñas islas."
+venezuela.24.a:0 "¡No seremos pisoteados así!"
+venezuela.24.b:0 "Son solo 2 pequeñas islas, déjenlas estar."
+
+venezuela.25.t:0 "La Muerte de Isaías Angarita"
+venezuela.25.d:0 "Anoche, el presidente Isaías Angarita sufrió una trombosis severa que le causó la muerte mientras dormía a los 55 años. La noticia se dio a conocer al público esta mañana y se han declarado 2 días de duelo nacional en su respeto.\n\nNo hay duda de que Angarita dirigió bien a Venezuela y será extrañado por muchos. Germán Suárez Flamerich está programado para tomar su lugar y se inaugurará hoy como el 46º presidente de Venezuela ante el Congreso en el Palacio Legislativo Federal."
+venezuela.25.a:0 "Un día triste para Venezuela."
+
+venezuela.26.t:0 "[VEN.GetNameDefCap] Reafirma su Reclamación sobre Trinidad"
+venezuela.26.d:0 "Hoy, el líder [VEN.GetAdjective], [VEN.GetLeader], ha dejado claro que la isla de Trinidad, a solo 11 km de la costa de Venezuela, es una parte legítima de la nación y debe ser devuelta. Incluso si eso significa por la fuerza.\n\nEsto puede ser una justificación para una invasión de la isla, por lo que debemos estar preparados para lo peor."
+venezuela.26.a:0 "Debemos hacer algo."
+
+venezuela.27.t:0 "Victoria de [VEN.GetName] en Trinidad"
+venezuela.27.d:0 "Después de intensos combates, los invasores [VEN.GetAdjective] lograron desembarcar con éxito en Trinidad y superaron a los defensores [691.Owner.getAdjective]. Más tarde capturaron la capital, Puerto España.\n\nAunque esto podría llevar a otro conflicto mayor en la región, es seguro decir que la isla está firmemente en manos de Venezuela."
+venezuela.27.a:0 "Muy bien."
+
+venezuela.28.t:0 "Victoria de [691.Owner.GetName] en Trinidad"
+venezuela.28.d:0 "Los superiores defensores de Trinidad han logrado defenderse con éxito de los desembarcos [VEN.GetAdjective] y les han negado una cabeza de playa exitosa. Las fuerzas [VEN.GetAdjective] se han visto obligadas a retirarse, y como resultado, la isla permanece firmemente en manos de [691.Owner.GetNameDef]."
+venezuela.28.a:0 "Muy bien."
+
+venezuela.29.t:0 "Estancamiento en Trinidad"
+venezuela.29.d:0 "El ataque inicial de las fuerzas armadas [VEN.getAdjective] fue repelido por valientes defensores de Puerto España, lo que llevó a la destrucción de la primera ola de atacantes en un combate cuerpo a cuerpo. Los defensores restantes llevaron a los heridos a las fortificaciones de la ciudad mientras los muertos fueron quemados para prevenir el riesgo de enfermedades en la ciudad sitiada.\n\nLas tropas atacantes lograron asegurar algunas cabezas de playa en las proximidades de Manzanilla, Mayaro y Matura con una administración local pro-[VEN.getAdjective] establecida para contrarrestar la administración legítima de las islas.\n\nAún se pueden escuchar bombardeos y disparos en diferentes partes de las islas, pero bajo tales circunstancias, queda claro: el conflicto no se espera resolver por las fuerzas armadas, sino a través de la diplomacia.\n\nAlgunos políticos ya están discutiendo regulaciones para el alto el fuego oficial entre ambas naciones."
+venezuela.29.a:0 "¡No seremos pisoteados así!"
+venezuela.29.b:0 "Déjenlos estar, esas islas no son importantes."
+
+venezuela.30.t:0 "Elecciones Presidenciales de 1941"
+venezuela.30.d:0 "El primer mandato de [VEN.GetLeader] como presidente está casi terminado, lo que significa que pronto se celebrarán nuevas elecciones presidenciales. [VEN.GetLeader] se postula para ser reelegido como presidente de Venezuela, sin embargo, se enfrenta al joven, experimentado y prometedor oficial Gral. Audelino Moreno, quien deja claro que tiene toda la intención de seguir los pasos de su predecesor.\n\n¿A quién elegirán los ciudadanos?"
+venezuela.30.a:0 "Contreras ha servido bien a la nación hasta ahora."
+venezuela.30.b:0 "Audelino Moreno es un candidato digno."
+
+venezuela.31.t:0 "Elecciones Presidenciales de 1941"
+venezuela.31.d:0 "El primer mandato de [VEN.GetLeader] como presidente está casi terminado, lo que significa que pronto se celebrarán nuevas elecciones presidenciales. [VEN.GetLeader] se postula para ser reelegido como presidente de Venezuela, sin embargo, se enfrenta al abogado y diplomático Germán Suárez Flamerich, quien ha tenido mucha influencia política en los últimos años y deja claro que tiene toda la intención de seguir los pasos de su predecesor.\n\n¿A quién elegirán los ciudadanos?"
+venezuela.31.a:0 "Angarita ha servido bien a la nación hasta ahora."
+venezuela.31.b:0 "Germán Flamerich es un candidato digno."
+
+venezuela.32.t:0 "La Generación del 28"
+venezuela.32.d:0 "La Generación del 28 fue un grupo de activistas universitarios que incluía a muchos socialdemócratas prominentes, comunistas y varios otros políticos independientes opuestos al régimen de Juan Vicente Gómez. Después de la fallida Rebelión de Alvarado en 1928, muchos de los miembros fueron arrestados y el grupo fue disuelto.\n\nPero ahora, con la muerte de Gómez en diciembre de 1935, muchos de estos políticos han sido liberados, por lo que ahora es el momento de reorganizar el grupo y atacar mientras el gobierno está distraído, para poner fin a la tiranía."
+venezuela.32.a:0 "Acabaremos con la tiranía de una vez por todas."
+
+venezuela.33.t:0 "Las Fuerzas ARDI se Rebelan"
+venezuela.33.d:0 "Las fuerzas ARDI se han levantado en una violenta rebelión en las principales ciudades de la nación y han asegurado muchas posiciones clave en la zona, las divisiones de guarnición en la zona se han visto obligadas a retirarse.\n\nBajo tal derrota humillante, Eleazar López Contreras ha sido presionado para renunciar a su posición con el joven oficial Gral. Audelino Moreno reemplazándolo, quien tiene un enfoque más... radical para lidiar con la rebelión.\n\nA pesar de la ventaja de la ARDI, está claro que una guerra civil a gran escala está en el horizonte."
+venezuela.33.a:0 "¡Fin a la tiranía!"
+
+venezuela.34.t:0 "El PCV Toma el Poder"
+venezuela.34.d:0 "El PCV, con un inmenso apoyo de la población campesina y trabajadora, ha logrado derrocar con éxito y eficacia a los socialdemócratas y otros políticos y asegurarse una gran mayoría en la ARDI, colocándose efectivamente en control de la nación.\n\nEsto ha sido respaldado por un gran apoyo en casa, muchos creen que este es un nuevo amanecer para Venezuela y la tiranía capitalista ha terminado. Sin embargo, en el extranjero ha sido fuertemente condenado ya que el PCV ha dejado claro que busca nacionalizar las reservas de petróleo para gastar los ingresos en desarrollo doméstico."
+venezuela.34.a:0 "Venezuela está ahora dirigida por los trabajadores."
+
+venezuela.35.t:0 "AD Consolida el Poder"
+venezuela.35.d:0 "Acción Democrática, con un mayor apoyo de la población trabajadora y del espectro político más amplio, ha logrado asegurarse una gran mayoría en la ARDI, colocándose efectivamente en control de la nación.\n\nEsto ha sido respaldado por un apoyo mixto en casa, está claro para muchos que la AD pretende construir una democracia al estilo estadounidense bajo un sistema socialista. Sin embargo, otros, particularmente en la extrema derecha, creen que la AD está demasiado alineada con los comunistas y no se puede confiar en que cumplan estas promesas.\n\nSolo el tiempo lo dirá."
+venezuela.35.a:0 "Mejor socialistas que comunistas."
+
+venezuela.36.t:0 "El Legado del Presidente Betancourt"
+venezuela.36.d:0 "El presidente Betancourt, en un corto período de tiempo, ha transformado completamente la economía [VEN.GetAdjective] y ha mejorado drásticamente la riqueza y los estándares de vida del pueblo. Está claro que el plan de Barranquilla ha tenido éxito, Betancourt ahora es visto como un héroe.\n\nLa única parte que queda es el artículo 9 del plan, que es la reorganización de las fuerzas armadas, con el presidente a la cabeza una vez más."
+venezuela.36.a:0 "Venezuela, unida bajo un objetivo común."
+
+venezuela.37.t:0 "[VEN.GetNameDef] Solicita Unirse a [SOV.GetNameDefCap]"
+venezuela.37.d:0 "El nuevo régimen comunista [VEN.GetAdjective], el PCV, ha enviado una solicitud formal para unirse a la URSS hoy, ofreciéndonos su apoyo incondicional en cualquier asunto.\n\nSi bien esta es una oferta tentadora, considerando la posición geográfica y estratégica de Venezuela, puede ser problemática."
+venezuela.37.a:0 "Cualquier cosa por nuestros camaradas."
+venezuela.37.b:0 "[VEN.GetNameDefCap]? Buena broma."
+
+venezuela.38.t:0 "[SOV.GetNameDefCap] Aprueba Nuestra Membresía"
+venezuela.38.d:0 "El líder soviético [SOV.GetLeader] ha aceptado nuestra oferta con los brazos abiertos y nos acepta formalmente en la URSS.\n\nEl comunismo se mantiene fuerte junto."
+venezuela.38.a:0 "Estamos honrados, camaradas."
+
+venezuela.39.t:0 "[SOV.GetNameDefCap] Rechaza Nuestra Membresía"
+venezuela.39.d:0 "La Unión Soviética ha rechazado indignamente nuestra oferta de unirnos a la URSS e incluso ha expresado que no tienen interés en buscar en América Latina.\n\nParece que el "hogar de la revolución" no es más que una mentira."
+venezuela.39.a:0 "Traidores."
+
+venezuela.40.t:0 "Anarquistas Criollos Realizan Golpe"
+venezuela.40.d:0 "Grupos anarquistas [VEN.GetAdjective] alineados con Creole Petroleum han lanzado una violenta revolución y han disuelto y desarmado completamente a la ARDI, sumiendo la capital en un estado de caos.\n\nLa nación está en un estado de incertidumbre y miedo."
+venezuela.40.a:0 "¿Qué demonios está pasando?"
+
+ #flags
+
+VEN_angarita:0 "Isaías Angarita Ganó las Elecciones"
+VEN_jimenez:0 "Marcos Jiménez Ganó las Elecciones"
+VEN_contreras:0 "Eleazar Contreras Ganó las Elecciones"
+VEN_gallegos:0 "Rómulo Gallegos Ganó las Elecciones"
+VEN_german_advisors_sent:0 "Alemania Envió Asesores"
+
+ #advisors
+
+VEN_isaias_medina_angarita_idea:0 "Isaías Medina Angarita"
+VEN_diogenes_escalante:0 "Diógenes Escalante"
+VEN_creole_petroleum:0 "Creole Petroleum"
+VEN_IFE:0 "IFE"
+VEN_IFE_desc:0 "Instituto de Ferrocarriles del Estado"
+VEN_CAVIM:0 "CAVIM"
+VEN_CAVIM_desc:0 "Compañía Anónima Venezolana de Industrias Militares"
+VEN_antonio_chalbaud_cardona_idea:0 "Antonio Chalbaud Cardona"
+VEN_juan_de_dios_celis_paredes:0 "Juan de Dios Celis Paredes"
+VEN_carlos_meyer:0 "Carlos Meyer"
+VEN_luis_felipe_llovera:0 "Luis Felipe Llovera"
+VEN_light_tank_designer:0 "DTV - Infantería"
+VEN_light_tank_designer_desc:0 "Diseñadora de Tanques Venezolana - Infantería"
+VEN_medium_tank_designer:0 "DTV - Medio"
+VEN_medium_tank_designer_desc:0 "Diseñadora de Tanques Venezolana - Medio"
+VEN_heavy_tank_designer:0 "DTV - Pesado"
+VEN_heavy_tank_designer_desc:0 "Diseñadora de Tanques Venezolana - Pesado"
+VEN_artillery_manufacterer:0 "FNAV"
+VEN_artillery_manufacterer_desc:0 "Fabricante Nacional de Artillería de Venezuela"
+VEN_FVVN:0 "FVVN"
+VEN_FVVN_desc:0 "Fabricante Venezolano de Vehículos Motorizados"
+VEN_amphibious_tank_designer:0 "ES"
+VEN_amphibious_tank_designer_desc:0 "Eres sospechosa"
+VEN_industrial_concern:0 "INCC"
+VEN_industrial_concern_desc:0 "Institución Nacional de Construcción y Contratación"
+VEN_electronics_concern:0 "CNE"
+VEN_electronics_concern_desc:0 "Compañía Nacional de Electrónica"
+VEN_alantic_ship_designer:0 "CDAC"
+VEN_alantic_ship_designer_desc:0 "Compañía de Desarrollo de Acorazados y Cruceros"
+VEN_raiding_fleet_designer:0 "EDS"
+VEN_raiding_fleet_designer_desc:0 "Empresa de Desarrollo Submarino"
+
+ #custom
+
+has_formed_gran_colombia:0 "Ha Formado la Gran Colombia"
+VEN_recruit_gran_generals:0 "§HReclutaremos generales de la Gran Colombia§!"
+VEN_fake1:0 "Eliminar Espíritu Nacional §HReformas en Proceso§!"
+VEN_attempt_reduce_oil:0 "§HIntentaremos reducir la dependencia de las exportaciones de petróleo§!"
+VEN_border_war_warning:0 "§R¡Un conflicto fronterizo puede comenzar dentro de un mes!§!"
+VEN_not_finished_yet:0 "§RAdvertencia: contenido temporal. ¡Se recomienda jugar otras rutas!§!"
+VEN_grants_core:0 "§YOtorga núcleo en el estado§!"
+VEN_raise_GNB:0 "§YLevanta cinco divisiones de Defensa Nacional en todo el país.§!"
+VEN_caribbean_war_goal:0 "§YObtiene un objetivo de guerra sobre cualquier estado caribeño que no sea de nuestra propiedad.§!"
+VEN_GATHERING_STORM_DESC:0 "La muerte del dictador Juan Vicente Gómez a finales de 1935 ha desatado una lucha de poder sin precedentes sobre quién sería su sucesor, incluso con las próximas elecciones todavía sigue siendo incierto.\n\nUna nación con una corrupción generalizada y una gran dependencia de las exportaciones de petróleo, los Estados Unidos de Venezuela podrían tener dificultades para encontrar su lugar mientras las tensiones aumentan en todo el mundo."
+venezuela_focus:0 "Árbol de Enfoque Venezolano"
+VEN_rebellion_failed:0 "La Rebelión Fracasó"
+VCW_solidify_national_government:0 "Restablecer el Gobierno"
+
+POLITICS_ELEAZAR_LOPEZ_CONTRERAS_DESC:0 "Nacido el 5 de mayo de 1883 en Queniquea, su tutor de la infancia fue su tío y sacerdote Fernando María Contreras. A los tres meses, su padre murió en Cúcuta de fiebre amarilla, por lo que Fernando Contreras se hizo cargo de la familia. A los quince años recibió un título de Bachiller en Filosofía y Letras del Colegio Sagrado Corazón de Jesús. Originalmente, Eleazar iba a estudiar medicina, pero en su lugar se dedicó a la política, eventualmente apoyando y uniéndose al golpe de 1899 liderado por Juan Vicente Gómez.\n\nEn 1919 fue nombrado Director de Guerra del Ministerio de Guerra y Marina, un puesto en el que fue elogiado por sus habilidades administrativas y organizativas. En 1923 fue ascendido a General de Brigada y nombrado Jefe de la Guarnición de Caracas. En 1928, Eleazar fue encargado de sofocar la Rebelión de Alvarado, liderada por activistas de izquierda y estudiantes universitarios. Tras derrotar a los rebeldes y regresar a Caracas, Eleazar fue ascendido a jefe interino del Estado Mayor General por el propio Juan Vicente Gómez.\n\nJuan Vicente Gómez murió el 17 de diciembre de 1935. Eleazar fue entonces nombrado encargado de la Presidencia de la República y logró sofocar un breve brote de rebelión liderado por los familiares de Gómez en los días siguientes."
+
+ # ai behavior
+
+VEN_AI_BEHAVIOR:0 "@VEN Venezuela"
+RULE_OPTION_NEUTRALITY_VEN_HISTORICAL:0 "Contreras Neutral - Histórico"
+RULE_OPTION_NEUTRALITY_HISTORICAL_VEN_AI_DESC:0 "Comportamiento histórico para Venezuela. Eleazar López Contreras será inaugurado como presidente de Venezuela y seguirá una política de neutralidad."
+RULE_OPTION_NEUTRALITY_VEN_ALTERNATE:0 "Angarita Neutral"
+RULE_OPTION_NEUTRALITY_ALTERNATE_VEN_AI_DESC:0 "Isaías Medina Angarita será elegido presidente y seguirá una política de neutralidad."
+RULE_OPTION_DEMOCRATIC_VEN_AI_DESC:0 "Rómulo Gallegos será elegido presidente de Venezuela y buscará la membresía en los Aliados."
+RULE_OPTION_FASCIST_VEN_AI_DESC:0 "Marcos Pérez Jiménez organizará un golpe para convertirse en presidente de Venezuela y buscará la membresía en el Eje y reformar la Gran Colombia."
+RULE_OPTION_COMMUNIST_VEN_AI_DESC:0 "La ARDI será reorganizada y lanzará la segunda Rebelión de Alvarado que conducirá a una toma de poder comunista que buscará una alianza con la Unión Soviética."
+RULE_DEMOCRATIC_ALTERNATE_VEN_AI_DESC:0 "La ARDI será reorganizada y lanzará la segunda Rebelión de Alvarado que conducirá a que la teoría socialista bolivariana sea probada y se implementen reformas socialdemócratas."
+RULE_OPTION_VEN_ANCAPISTAN:0 "Anarco-Capitalismo Criollo"
+RULE_OPTION_ANCAPISTAN_VEN_AI_DESC:0 "La ARDI será reorganizada y lanzará la segunda Rebelión de Alvarado que conducirá a una toma de poder forzosa de Creole en un modelo anarco-capitalista."
