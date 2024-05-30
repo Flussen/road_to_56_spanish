@@ -47,29 +47,28 @@ l_spanish:
  POR_EQUIPMENT_VERSION_14:0 "P-130"
  
 ###------> Naval Units <><> <><> <><> <><> <><>
- coastal_defense_ship:0 "Coastal Defence Ship"
- coastal_defense_ship_desc:0 "The Sverige class consisted of three coastal battleships built for the Swedish Navy before World War I. The ships more closely resembled heavy cruisers in both size (displacement of over 6,800 tons) and armament (four 283mm/44 K/45 M12 guns). The ships were relatively slow for a cruiser but were very well-armored. All three ships served during World War II."
- coastal_defense_ship_1:0 "Sverige Class"
- coastal_defense_ship_1_desc:0 "The Sverige class consisted of three coastal battleships built for the Swedish Navy before World War I. The ships more closely resembled heavy cruisers in both size (displacement of over 6,800 tons) and armament (four 283mm/44 K/45 M12 guns). The ships were relatively slow for a cruiser but were very well-armored. All three ships served during World War II."
- torpedo_equipment_research:0 "Torpedo Research"
+coastal_defense_ship:0 "Buque de Defensa Costera"
+coastal_defense_ship_desc:0 "La clase Sverige consistió en tres acorazados costeros construidos para la Armada Sueca antes de la Primera Guerra Mundial. Los buques se asemejaban más a cruceros pesados tanto en tamaño (desplazamiento de más de 6,800 toneladas) como en armamento (cuatro cañones 283mm/44 K/45 M12). Los buques eran relativamente lentos para un crucero pero estaban muy bien blindados. Los tres buques sirvieron durante la Segunda Guerra Mundial."
+coastal_defense_ship_1:0 "Clase Sverige"
+coastal_defense_ship_1_desc:0 "La clase Sverige consistió en tres acorazados costeros construidos para la Armada Sueca antes de la Primera Guerra Mundial. Los buques se asemejaban más a cruceros pesados tanto en tamaño (desplazamiento de más de 6,800 toneladas) como en armamento (cuatro cañones 283mm/44 K/45 M12). Los buques eran relativamente lentos para un crucero pero estaban muy bien blindados. Los tres buques sirvieron durante la Segunda Guerra Mundial."
+torpedo_equipment_research:0 "Investigación de Torpedos"
  
 ###------> Battlecruisers
- battle_cruiser_3:0 "Semi-Modern Battlecruiser"
- battle_cruiser_3_short:0 "Semi-Modern Battlecruiser"
- battle_cruiser_3_desc:0 "Nearly everything from the guns to the engines has been improved. Now, all we need is a kitchen sink."
+ battle_cruiser_3:0 "Crucero de combate semimoderno"
+ battle_cruiser_3_short:0 "Crucero de combate semimoderno"
+ battle_cruiser_3_desc:0 "Se ha mejorado casi todo, desde las armas hasta los motores. Ahora sólo falta el fregadero."
 
  
 #-<><><> Battlecruiser Flavor 
  GER_battle_cruiser_3:0 "Schlachtkreuzer 48"
  GER_battle_cruiser_3_short:0 "Schlachtkreuzer 48"
- SOV_battle_cruiser_3:0 "Moskva Class"
- SOV_battle_cruiser_3_short:0 "Moskva Class"
+ SOV_battle_cruiser_3:0 "Clase Moskva"
+ SOV_battle_cruiser_3_short:0 "Clase Moskva"
  
 #-<><><> Heavy Battleships 
- SH_battleship_3:0 "Modern Heavy Battleship"
- SH_battleship_3_short:0 "Modern Heavy Battleship"
- SH_battleship_3_desc:0 "Nearly everything from the guns to the engines has been improved. Now, all we need is an ice maker."
-
+ SH_battleship_3:0 "Acorazado Pesado Moderno"
+ SH_battleship_3_short:0 "Acorazado Pesado Moderno"
+ SH_battleship_3_desc:0 "Casi todo, desde los cañones hasta los motores, ha sido mejorado. Ahora, todo lo que necesitamos es una máquina de hielo."
 
 #-<><><> Heavy Battleship Flavor
  GER_SH_battleship_3:0 "Schlachtschiff H52"
@@ -78,19 +77,19 @@ l_spanish:
  SOV_SH_battleship_3_short:0 "Oktyabrskaya Revolutsiya"
 
 #-<><><> Destroyers
- destroyer_5:0 "Semi-Modern Destroyer"
- destroyer_5_short:0 "Semi-Modern Destroyer"
- destroyer_5_desc:0 "Nearly everything from the guns to the engines has been improved. Now, all we need is a kitchen sink."
+ destroyer_5:0 "Destructor Semi-Moderno"
+ destroyer_5_short:0 "Destructor Semi-Moderno"
+ destroyer_5_desc:0 "Casi todo, desde los cañones hasta los motores, ha sido mejorado. Ahora, todo lo que necesitamos es un fregadero."
 
 #-<><><> 
- destroyer_6:0 "Modern Destroyer"
- destroyer_6_short:0 "Modern Destroyer"
- destroyer_6_desc:0 "Nearly everything from the guns to the engines has been improved. Now, all we need is an ice maker."
+ destroyer_6:0 "Destructor Moderno"
+ destroyer_6_short:0 "Destructor Moderno"
+ destroyer_6_desc:0 "Casi todo, desde los cañones hasta los motores, ha sido mejorado. Ahora, todo lo que necesitamos es una máquina de hielo."
 
 #-<><><> 
- destroyer_7:0 "1956 Destroyer"
- destroyer_7_short:0 "1956 Destroyer"
- destroyer_7_desc:0 "Nearly everything from the guns to the engines has been improved."
+ destroyer_7:0 "Destructor de 1956"
+ destroyer_7_short:0 "Destructor de 1956"
+ destroyer_7_desc:0 "Casi todo, desde los cañones hasta los motores, ha sido mejorado."
 
 
 #-<><><> Destroyer Flavor
@@ -109,24 +108,24 @@ l_spanish:
 
 
 #-<><><> Submarines <><> <><> <><> <><> <><>
- submarine_5:0 "Semi-Modern Submarine"
- submarine_5_short:0 "Semi-Modern Submarine"
- submarine_5_desc:0 "Nearly everything from the guns to the engines has been improved."
+ submarine_5:0 "Submarino Semi-Moderno"
+ submarine_5_short:0 "Submarino Semi-Moderno"
+ submarine_5_desc:0 "Casi todo, desde los cañones hasta los motores, ha sido mejorado."
 
 #-<><><> 
- submarine_6:0 "Modern Submarine"
- submarine_6_short:0 "Modern Submarine"
- submarine_6_desc:0 "Nearly everything from the guns to the engines has been improved."
+ submarine_6:0 "Submarino Moderno"
+ submarine_6_short:0 "Submarino Moderno"
+ submarine_6_desc:0 "Casi todo, desde los cañones hasta los motores, ha sido mejorado."
 
 #-<><><> 
- submarine_7:0 "1956 Submarine"
- submarine_7_short:0 "1956 Submarine"
- submarine_7_desc:0 "Nearly everything from the guns to the engines has been improved."
+ submarine_7:0 "Submarino de 1956"
+ submarine_7_short:0 "Submarino de 1956"
+ submarine_7_desc:0 "Casi todo, desde los cañones hasta los motores, ha sido mejorado."
 
 #-<><><> 
- submarine_nuc:0 "Nuclear Submarine"
- submarine_nuc_short:0 "Nuclear Submarine"
- submarine_nuc_desc:0 "The power! The glowing! The instantly finished toast!"
+ submarine_nuc:0 "Submarino Nuclear"
+ submarine_nuc_short:0 "Submarino Nuclear"
+ submarine_nuc_desc:0 "¡El poder! ¡El resplandor! ¡Las tostadas instantáneas!"
 
 
 #-<><><> Submarine Flavor
@@ -148,19 +147,19 @@ l_spanish:
  SOV_submarine_nuc_short:0 "Project 627"
 
 #-<><><> Light Cruisers <><> <><> <><> <><> <><>
- light_cruiser_5:0 "Semi-Modern Light Cruiser"
- light_cruiser_5_short:0 "Semi-Modern Light Cruiser"
- light_cruiser_5_desc:0 "Nearly everything from the guns to the engines has been improved."
+ light_cruiser_5:0 "Crucero Ligero Semi-Moderno"
+ light_cruiser_5_short:0 "Crucero Ligero Semi-Moderno"
+ light_cruiser_5_desc:0 "Casi todo, desde los cañones hasta los motores, ha sido mejorado."
 
 #-<><><> 
- light_cruiser_6:0 "Modern Light Cruiser"
- light_cruiser_6_short:0 "Modern Light Cruiser"
- light_cruiser_6_desc:0 "Nearly everything from the guns to the engines has been improved."
+ light_cruiser_6:0 "Crucero Ligero Moderno"
+ light_cruiser_6_short:0 "Crucero Ligero Moderno"
+ light_cruiser_6_desc:0 "Casi todo, desde los cañones hasta los motores, ha sido mejorado."
 
 #-<><><> 
- light_cruiser_7:0 "1956 Light Cruiser"
- light_cruiser_7_short:0 "1956 Light Cruiser"
- light_cruiser_7_desc:0 "Nearly everything from the guns to the engines has been improved."
+ light_cruiser_7:0 "Crucero Ligero de 1956"
+ light_cruiser_7_short:0 "Crucero Ligero de 1956"
+ light_cruiser_7_desc:0 "Casi todo, desde los cañones hasta los motores, ha sido mejorado."
 
  
 #-<><><> Light Cruiser Flavor <><> <><> <><> <><> <><> 
@@ -178,19 +177,19 @@ l_spanish:
  SOV_light_cruiser_7_short:0 "Kutuzov Class"
  
 #-<><><> Heavy Cruisers <><> <><> <><> <><> <><>
- heavy_cruiser_5:0 "Semi-Modern Heavy Cruiser"
- heavy_cruiser_5_short:0 "Semi-Modern Heavy Cruiser"
- heavy_cruiser_5_desc:0 "Nearly everything from the guns to the engines has been improved."
+ heavy_cruiser_5:0 "Crucero Pesado Semi-Moderno"
+ heavy_cruiser_5_short:0 "Crucero Pesado Semi-Moderno"
+ heavy_cruiser_5_desc:0 "Casi todo, desde los cañones hasta los motores, ha sido mejorado."
 
 #-<><><> 
- heavy_cruiser_6:0 "Modern Heavy Cruiser"
- heavy_cruiser_6_short:0 "Modern Heavy Cruiser"
- heavy_cruiser_6_desc:0 "Nearly everything from the guns to the engines has been improved."
+ heavy_cruiser_6:0 "Crucero Pesado Moderno"
+ heavy_cruiser_6_short:0 "Crucero Pesado Moderno"
+ heavy_cruiser_6_desc:0 "Casi todo, desde los cañones hasta los motores, ha sido mejorado."
 
 #-<><><> 
- heavy_cruiser_7:0 "1956 Heavy Cruiser"
- heavy_cruiser_7_short:0 "1956 Heavy Cruiser"
- heavy_cruiser_7_desc:0 "Nearly everything from the guns to the engines has been improved."
+ heavy_cruiser_7:0 "Crucero Pesado de 1956"
+ heavy_cruiser_7_short:0 "Crucero Pesado de 1956"
+ heavy_cruiser_7_desc:0 "Casi todo, desde los cañones hasta los motores, ha sido mejorado."
 
  
 #-<><><> Heavy Cruiser Flavor
