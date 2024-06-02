@@ -502,145 +502,228 @@ tech_flamethrower3_desc:0 "Los lanzallamas son útiles en combate cercano y en g
 tech_flamethrower4:0 "Lanzallamas IV"
 tech_flamethrower4_desc:0 "Los lanzallamas son útiles en combate cercano y en guerra urbana, así como contra fortificaciones fijas. Estos también añaden un ataque blando sustancial a nuestras divisiones."
 
-###------> Improved Equipment   <><> <><> <><> <><> <><>
- ETAT_TITLE_STEEL_PRODUCTION:0 "Resource Production"
- ETAT_TITLE_CLOTHING:0 "Clothing"
- ETAT_TITLE_SPECIALIST_EQUIPMENT:0 "Specialist Equipment"
- ETAT_TITLE_MODIFIWAFIONS:0 "Modifications"
- 
- fabric:0 "Fabric"
- fabric_desc:0 "Fabric used for clothing."
- PRODUCTION_MATERIALS_FABRIC:0 "Fabric"
- PRODUCTION_MATERIALS_FABRIC_desc:0 "Fabric used for clothing."
- 
- plate_skirt:0 "Armoured Skirts"
- plate_skirt_desc:0 "Adding plate skirts to our tanks and half-track will add some protections against new AT infantry weapons at the expense of adding extra weight to our units."
- bed_spring_skirt:0 "Slat Armour Skirts"
- bed_spring_skirt_desc:0 "We will improve the armor by replacing the metal plates with wire mesh-type armor, removing the extra weight from the previous upgrade."
- plate_skirt_desc:0 "Adding plate skirts to our tanks and half-track will add some protections against new AT infantry weapons at the expense of adding extra weight to our units."
- bed_spring_skirt_2:0 "Improved Armour Skirts"
- bed_spring_skirt_2_short:0 "Imp. Armour Skirts"
- bed_spring_skirt_2_desc:0 "We will improve armor by replacing the metal plates with even lighter materials, removing the extra weight from the previous upgrade."
- bed_spring_skirt_3:0 "Semi-Modern Armour Skirts"
- bed_spring_skirt_3_short:0 "SM. Armour Skirts"
- bed_spring_skirt_3_desc:0 "We will improve armor by replacing the metal plates with even lighter materials, removing the extra weight from the previous upgrade."
- bed_spring_skirt_4:0 "Modern Armour Skirts"
- bed_spring_skirt_4_short:0 "Mod. Armour Skirts"
- bed_spring_skirt_4_desc:0 "We will improve armor by replacing the metal plates with even lighter materials, removing the extra weight from the previous upgrade."
- oscillating_turret_tech: "Oscillating Turret"
- oscillating_turret_tech_desc: "The oscillating turret allows the entire turret to be raised and lowered with the gun, allowing for the gun to be fitted higher as connected machinery will move along with it, creating the possibility to fit larger guns and to aim at a larger range of inclination."
- modern_light_tank_chassis: "1944 Light"
- 
- sniper_rifle:0 "Sniper Team"
- sniper_rifle_desc:0 "Adding a sniper unit in each platoon will effectively increase the unit's recon ability and attack."
- sniper_rifle_2:0 "Advanced Sniper Team"
- sniper_rifle_2_desc:0 "We have improved the rifles and training available to our Sniper Teams, allowing for a notable increase in their effectiveness."
- sniper_rifle_3:0 "Semi-Modern Sniper Team"
- sniper_rifle_3_desc:0 "Our Sniper Teams' extensive experience and feedback have enabled us to produce even better equipment."
- sniper_rifle_4:0 "Modern Sniper Team"
- sniper_rifle_4_desc:0 "Our teams have the very best equipment and employ nothing less than modern equipment."
+###------> Equipamiento Mejorado <><> <><> <><> <><>
+ETAT_TITLE_STEEL_PRODUCTION:0 "Producción de Recursos"
+ETAT_TITLE_CLOTHING:0 "Vestimenta"
+ETAT_TITLE_SPECIALIST_EQUIPMENT:0 "Equipamiento Especializado"
+ETAT_TITLE_MODIFIWAFIONS:0 "Modificaciones"
 
- flamethrower:0 "Flamethrower"
- flamethrower_desc:0 "Developing flamethrowers will allow our troops to be more effective in urban warfare and against forts. But running with a tank full of fuel on your back and ready to explode can have catastrophic consequences."
- flamethrower_squad:0 "Flamethrower Squad"
- flamethrower_2:0 "Advanced Flamethrower"
- flamethrower_2_desc:0 "Advances in armor and weight reduction have improved the safety and effectiveness of our flamethrower teams."
- flamethrower_3:0 "Semi-Modern Flamethrower"
- flamethrower_3_desc:0 "Our teams are well experienced and have given us extensive feedback on the equipment they need. We've integrated these suggestions into our production lines, resulting in improvements in combat effectiveness."
- 
- ARMOUR_TITLE_CAMO:0 "PAINT"
- painting:0 "Flat Finish" #new
- painting_desc:0 "Flat color from the factory." #new
- painting2:0 "Factory Camo" #new
- painting2_desc:0 "New camouflage for our tanks. This fresh paint is directly applied at the factory, allowing better ambush defense and infiltration." #new
- painting3:0 "Battlefield Camo" #new
- painting3_desc:0 "New camouflage for our tanks. Allowing our army to modify the factory camo with their design will increase tank ambush defense and infiltration." #new
- painting4:0 "Semi-Modern Camo" #new
- painting4_desc:0 "New camouflage for our tanks. We've made it easier to apply prefab paints in the field and increased the durability of the first factory coat."
- painting5:0 "Modern Camo" #new
- painting5_desc:0 "New camouflage for our tanks. The applications are versatile and robust, withstanding nearly anything the enemy throws at them."
- 
- INFANTRY_TITLE_CLOTHING:0 "CLOTHING"
- camo:0 "Basic Uniforms"
- camo_desc:0 "Solid color uniforms modeled after those in the Great War."
- camo1942:0 "Advanced Camouflage Pattern"
- camo1942_desc:0 "New camouflage design makes our troops less locatable while ambushing or infiltrating."
- camo1948:0 "Semi-Modern Camouflage Pattern"
- camo1948_desc:0 "A new camouflage design is lighter and even more adept and enables ambush and infiltration."
- camo1955:0 "Modern Camouflage Pattern"
- camo1955_desc:0 "Now you see it, now you don't."
- winter_clothes_gw:0 "Winter Clothing"
- winter_clothes_gw_desc:0 "Winter clothes made of wool. Not very effective, but better than nothing."
- winter_clothes_1939:0 "Improved Winter Clothing"
- winter_clothes_1939_desc:0 "More decent winter clothes. They are made of a warm cotton wool-padded jacket."
- winter_clothes_1941:0 "Advanced Winter Clothing"
- winter_clothes_1941_desc:0 "Advanced winter clothes made of natural warm wool and synthetic fur, coated with an early hydrophobic material and tainted in white."
- winter_clothes_1944:0 "Modern Winter Clothing"
- winter_clothes_1944_desc:0 "Modern reversible winter clothes made of warm synthetic fabric and coated with a removable hydrophobic Windstopper jacket, painted in white, black, and brown to be more effective in combat. It will lighten our soldiers and keep them warm and dry."
- jngdst_clothes_gw:0 "Desert & Jungle Clothing" #new
- jngdst_clothes_gw_desc:0 "Desert & Jungle clothes made of cotton. Not very practical, but better than nothing." #new
- jngdst_clothes_1939:0 "Improved Desert & Jungle Clothing" #new
- jngdst_clothes_1939_desc:0 "More decent desert & jungle clothes. They are made of thin cotton. Goggles have been added to help soldiers fighting in sandy environments." #new
- jngdst_clothes_1941:0 "Advanced Desert & Jungle Clothing" #new
- jngdst_clothes_1941_desc:0 "Advanced desert & jungle clothes made of natural thin cotton, coated with a special coating that dries faster to help soldiers fighting in hot/wet environments." #new
- jngdst_clothes_1944:0 "Modern Desert & Jungle Clothing" #new
- jngdst_clothes_1944_desc:0 "Modern desert & jungle clothes made of unique light fabric and coated with a heat repellant jacket, tainted in tan, black and brown to be more effective in combat. It will lighten our soldiers and keep them fresh and dry." #new
+fabric:0 "Tela"
+fabric_desc:0 "Tela utilizada para vestimenta."
+PRODUCTION_MATERIALS_FABRIC:0 "Tela"
+PRODUCTION_MATERIALS_FABRIC_desc:0 "Tela utilizada para vestimenta."
 
- AIR_TITLE_DROPTANK:0 "Drop Tank"
- droptank40:0 "Drop Tank I"
- droptank40_desc:0 "Adding an external tank to our planes will increase their range."
- droptank44:0 "Drop Tank II"
- droptank44_desc:0 "Bigger and lighter external tank."
- droptank45:0 "Drop Tank III"
- droptank45_desc:0 "Most recent drop tank. It will improve the plane's range but needs a Jet Reactor to compensate for its weight."
- droptank55:0 "Drop Tank IV"
- droptank55_desc:0 "Our tanks are now lighter and can take even more fuel."
- 
- ###------> Misc.   <><> <><> <><> <><> <><>
- 
- r56_tooltip_SRD_unlock:0 "Unlocks the Special Research Division"
- 
- elite_forces_02:0 "Elite Forces II"
- elite_forces_02_desc:0 "Only the best of the best will become special forces. The soldiers that make it through the training will be stronger, faster, and fight harder than anyone else."
- elite_forces_03:0 "Elite Forces III"
- elite_forces_03_desc:0 "Only the best of the best will become special forces. The soldiers that make it through the training will be stronger, faster, and fight harder than anyone else."
+plate_skirt:0 "Faldones Blindados"
+plate_skirt_desc:0 "Añadir faldones blindados a nuestros tanques y semiorugas proporcionará protección adicional contra nuevas armas antitanque de infantería a costa de añadir peso extra a nuestras unidades."
+bed_spring_skirt:0 "Faldones de Blindaje de Rejilla"
+bed_spring_skirt_desc:0 "Mejoraremos el blindaje reemplazando las placas metálicas con blindaje de malla de alambre, eliminando el peso extra de la mejora anterior."
+plate_skirt_desc:0 "Añadir faldones blindados a nuestros tanques y semiorugas proporcionará protección adicional contra nuevas armas antitanque de infantería a costa de añadir peso extra a nuestras unidades."
+bed_spring_skirt_2:0 "Faldones de Blindaje Mejorado"
+bed_spring_skirt_2_short:0 "Fald. Blind. Mej."
+bed_spring_skirt_2_desc:0 "Mejoraremos el blindaje reemplazando las placas metálicas con materiales aún más ligeros, eliminando el peso extra de la mejora anterior."
+bed_spring_skirt_3:0 "Faldones de Blindaje Semi-Moderno"
+bed_spring_skirt_3_short:0 "Fald. Blind. SM."
+bed_spring_skirt_3_desc:0 "Mejoraremos el blindaje reemplazando las placas metálicas con materiales aún más ligeros, eliminando el peso extra de la mejora anterior."
+bed_spring_skirt_4:0 "Faldones de Blindaje Moderno"
+bed_spring_skirt_4_short:0 "Fald. Blind. Mod."
+bed_spring_skirt_4_desc:0 "Mejoraremos el blindaje reemplazando las placas metálicas con materiales aún más ligeros, eliminando el peso extra de la mejora anterior."
+oscillating_turret_tech: "Torreta Oscilante"
+oscillating_turret_tech_desc: "La torreta oscilante permite que toda la torreta se eleve y descienda con el cañón, permitiendo que el cañón se coloque más alto ya que la maquinaria conectada se moverá junto con él, creando la posibilidad de montar cañones más grandes y apuntar a un rango mayor de inclinación."
+modern_light_tank_chassis: "Ligero de 1944"
 
-TITLE_EXP_ROCKETS_SUBTITLE:0 "Rocketry"
+sniper_rifle:0 "Equipo de Francotiradores"
+sniper_rifle_desc:0 "Añadir una unidad de francotiradores en cada pelotón aumentará efectivamente la capacidad de reconocimiento y ataque de la unidad."
+sniper_rifle_2:0 "Equipo de Francotiradores Avanzado"
+sniper_rifle_2_desc:0 "Hemos mejorado los rifles y el entrenamiento disponible para nuestros equipos de francotiradores, permitiendo un notable incremento en su efectividad."
+sniper_rifle_3:0 "Equipo de Francotiradores Semi-Moderno"
+sniper_rifle_3_desc:0 "La amplia experiencia y retroalimentación de nuestros equipos de francotiradores nos ha permitido producir un equipamiento aún mejor."
+sniper_rifle_4:0 "Equipo de Francotiradores Moderno"
+sniper_rifle_4_desc:0 "Nuestros equipos cuentan con el mejor equipamiento y utilizan nada menos que equipo moderno."
 
-icbm_missile_equipment_1:0 "Nuclear ICBM"
-icbm_missile_equipment_1_desc:0 "The pinnacle of nuclear science and rocketry, these Inter Continental Ballistic Missiles combine unfathomable striking ranges of a missile with the capability of delivering a nuclear warhead, anytime and anywhere. Target destruction is more or less assured with one of these missiles."
+flamethrower:0 "Lanzallamas"
+flamethrower_desc:0 "Desarrollar lanzallamas permitirá que nuestras tropas sean más efectivas en combate urbano y contra fortificaciones. Pero correr con un tanque lleno de combustible en la espalda listo para explotar puede tener consecuencias catastróficas."
+flamethrower_squad:0 "Escuadra de Lanzallamas"
+flamethrower_2:0 "Lanzallamas Avanzado"
+flamethrower_2_desc:0 "Los avances en armadura y reducción de peso han mejorado la seguridad y efectividad de nuestros equipos de lanzallamas."
+flamethrower_3:0 "Lanzallamas Semi-Moderno"
+flamethrower_3_desc:0 "Nuestros equipos están bien experimentados y nos han proporcionado una extensa retroalimentación sobre el equipamiento que necesitan. Hemos integrado estas sugerencias en nuestras líneas de producción, resultando en mejoras en la efectividad en combate."
 
-nukes_3:0 "Miniaturized Nukes"
-nukes_3_desc:0 "Further developments in nuclear weapons design permit tiny, linear implosion-type weapons to fit within suitcases. Such terrifying weapons are made possible by deeper understanding in producing more effective fissile materials that also conversely improve the yields of our other conventional nukes."
-nuke_rocket_engines:0 "Nuclear ICBM"
+ARMOUR_TITLE_CAMO:0 "PINTURA"
+painting:0 "Acabado Mate" #nuevo
+painting_desc:0 "Color mate de fábrica." #nuevo
+painting2:0 "Camuflaje de Fábrica" #nuevo
+painting2_desc:0 "Nuevo camuflaje para nuestros tanques. Esta pintura fresca se aplica directamente en la fábrica, permitiendo una mejor defensa en emboscadas e infiltración." #nuevo
+painting3:0 "Camuflaje de Campo de Batalla" #nuevo
+painting3_desc:0 "Nuevo camuflaje para nuestros tanques. Permitir que nuestro ejército modifique el camuflaje de fábrica con su diseño aumentará la defensa en emboscadas e infiltración." #nuevo
+painting4:0 "Camuflaje Semi-Moderno" #nuevo
+painting4_desc:0 "Nuevo camuflaje para nuestros tanques. Hemos facilitado la aplicación de pinturas prefabricadas en el campo y aumentado la durabilidad de la primera capa de fábrica." #nuevo
+painting5:0 "Camuflaje Moderno" #nuevo
+painting5_desc:0 "Nuevo camuflaje para nuestros tanques. Las aplicaciones son versátiles y robustas, resistiendo casi cualquier cosa que el enemigo les arroje."
+
+INFANTRY_TITLE_CLOTHING:0 "VESTIMENTA"
+camo:0 "Uniformes Básicos"
+camo_desc:0 "Uniformes de color sólido modelados según los de la Gran Guerra."
+camo1942:0 "Patrón de Camuflaje Avanzado"
+camo1942_desc:0 "El nuevo diseño de camuflaje hace que nuestras tropas sean menos detectables durante emboscadas o infiltraciones."
+camo1948:0 "Patrón de Camuflaje Semi-Moderno"
+camo1948_desc:0 "Un nuevo diseño de camuflaje es más ligero y aún más efectivo, permitiendo emboscadas e infiltraciones."
+camo1955:0 "Patrón de Camuflaje Moderno"
+camo1955_desc:0 "Ahora lo ves, ahora no lo ves."
+winter_clothes_gw:0 "Ropa de Invierno"
+winter_clothes_gw_desc:0 "Ropa de invierno hecha de lana. No muy efectiva, pero mejor que nada."
+winter_clothes_1939:0 "Ropa de Invierno Mejorada"
+winter_clothes_1939_desc:0 "Ropa de invierno más decente. Está hecha de una chaqueta acolchada de lana y algodón."
+winter_clothes_1941:0 "Ropa de Invierno Avanzada"
+winter_clothes_1941_desc:0 "Ropa de invierno avanzada hecha de lana natural y cálida con piel sintética, recubierta con un material hidrofóbico temprano y teñida de blanco."
+winter_clothes_1944:0 "Ropa de Invierno Moderna"
+winter_clothes_1944_desc:0 "Ropa de invierno moderna reversible hecha de tela sintética cálida y recubierta con una chaqueta desmontable hidrofóbica Windstopper, pintada en blanco, negro y marrón para ser más efectiva en combate. Aligerará a nuestros soldados y los mantendrá calientes y secos."
+jngdst_clothes_gw:0 "Ropa para Desierto y Jungla" #nuevo
+jngdst_clothes_gw_desc:0 "Ropa para desierto y jungla hecha de algodón. No muy práctica, pero mejor que nada." #nuevo
+jngdst_clothes_1939:0 "Ropa Mejorada para Desierto y Jungla" #nuevo
+jngdst_clothes_1939_desc:0 "Ropa más decente para desierto y jungla. Está hecha de algodón fino. Se han añadido gafas protectoras para ayudar a los soldados que combaten en ambientes arenosos." #nuevo
+jngdst_clothes_1941:0 "Ropa Avanzada para Desierto y Jungla" #nuevo
+jngdst_clothes_1941_desc:0 "Ropa avanzada para desierto y jungla hecha de algodón fino natural, recubierta con un revestimiento especial que se seca más rápido para ayudar a los soldados que combaten en entornos calientes y húmedos." #nuevo
+jngdst_clothes_1944:0 "Ropa Moderna para Desierto y Jungla" #nuevo
+jngdst_clothes_1944_desc:0 "Ropa moderna para desierto y jungla hecha de una tela ligera única y recubierta con una chaqueta repelente al calor, teñida en tonos marrón, negro y marrón claro para ser más efectiva en combate. Aligerará a nuestros soldados y los mantendrá frescos y secos." #nuevo
+
+###------> Equipamiento Mejorado   <><> <><> <><> <><>
+ETAT_TITLE_STEEL_PRODUCTION:0 "Producción de Recursos"
+ETAT_TITLE_CLOTHING:0 "Vestimenta"
+ETAT_TITLE_SPECIALIST_EQUIPMENT:0 "Equipamiento Especializado"
+ETAT_TITLE_MODIFIWAFIONS:0 "Modificaciones"
+
+fabric:0 "Tela"
+fabric_desc:0 "Tela utilizada para vestimenta."
+PRODUCTION_MATERIALS_FABRIC:0 "Tela"
+PRODUCTION_MATERIALS_FABRIC_desc:0 "Tela utilizada para vestimenta."
+
+plate_skirt:0 "Faldones Blindados"
+plate_skirt_desc:0 "Añadir faldones blindados a nuestros tanques y semiorugas proporcionará protección adicional contra nuevas armas antitanque de infantería a costa de añadir peso extra a nuestras unidades."
+bed_spring_skirt:0 "Faldones de Blindaje de Rejilla"
+bed_spring_skirt_desc:0 "Mejoraremos el blindaje reemplazando las placas metálicas con blindaje de malla de alambre, eliminando el peso extra de la mejora anterior."
+plate_skirt_desc:0 "Añadir faldones blindados a nuestros tanques y semiorugas proporcionará protección adicional contra nuevas armas antitanque de infantería a costa de añadir peso extra a nuestras unidades."
+bed_spring_skirt_2:0 "Faldones de Blindaje Mejorado"
+bed_spring_skirt_2_short:0 "Fald. Blind. Mej."
+bed_spring_skirt_2_desc:0 "Mejoraremos el blindaje reemplazando las placas metálicas con materiales aún más ligeros, eliminando el peso extra de la mejora anterior."
+bed_spring_skirt_3:0 "Faldones de Blindaje Semi-Moderno"
+bed_spring_skirt_3_short:0 "Fald. Blind. SM."
+bed_spring_skirt_3_desc:0 "Mejoraremos el blindaje reemplazando las placas metálicas con materiales aún más ligeros, eliminando el peso extra de la mejora anterior."
+bed_spring_skirt_4:0 "Faldones de Blindaje Moderno"
+bed_spring_skirt_4_short:0 "Fald. Blind. Mod."
+bed_spring_skirt_4_desc:0 "Mejoraremos el blindaje reemplazando las placas metálicas con materiales aún más ligeros, eliminando el peso extra de la mejora anterior."
+oscillating_turret_tech: "Torreta Oscilante"
+oscillating_turret_tech_desc: "La torreta oscilante permite que toda la torreta se eleve y descienda con el cañón, permitiendo que el cañón se coloque más alto ya que la maquinaria conectada se moverá junto con él, creando la posibilidad de montar cañones más grandes y apuntar a un rango mayor de inclinación."
+modern_light_tank_chassis: "Ligero de 1944"
+
+sniper_rifle:0 "Equipo de Francotiradores"
+sniper_rifle_desc:0 "Añadir una unidad de francotiradores en cada pelotón aumentará efectivamente la capacidad de reconocimiento y ataque de la unidad."
+sniper_rifle_2:0 "Equipo de Francotiradores Avanzado"
+sniper_rifle_2_desc:0 "Hemos mejorado los rifles y el entrenamiento disponible para nuestros equipos de francotiradores, permitiendo un notable incremento en su efectividad."
+sniper_rifle_3:0 "Equipo de Francotiradores Semi-Moderno"
+sniper_rifle_3_desc:0 "La amplia experiencia y retroalimentación de nuestros equipos de francotiradores nos ha permitido producir un equipamiento aún mejor."
+sniper_rifle_4:0 "Equipo de Francotiradores Moderno"
+sniper_rifle_4_desc:0 "Nuestros equipos cuentan con el mejor equipamiento y utilizan nada menos que equipo moderno."
+
+flamethrower:0 "Lanzallamas"
+flamethrower_desc:0 "Desarrollar lanzallamas permitirá que nuestras tropas sean más efectivas en combate urbano y contra fortificaciones. Pero correr con un tanque lleno de combustible en la espalda listo para explotar puede tener consecuencias catastróficas."
+flamethrower_squad:0 "Escuadra de Lanzallamas"
+flamethrower_2:0 "Lanzallamas Avanzado"
+flamethrower_2_desc:0 "Los avances en armadura y reducción de peso han mejorado la seguridad y efectividad de nuestros equipos de lanzallamas."
+flamethrower_3:0 "Lanzallamas Semi-Moderno"
+flamethrower_3_desc:0 "Nuestros equipos están bien experimentados y nos han proporcionado una extensa retroalimentación sobre el equipamiento que necesitan. Hemos integrado estas sugerencias en nuestras líneas de producción, resultando en mejoras en la efectividad en combate."
+
+ARMOUR_TITLE_CAMO:0 "PINTURA"
+painting:0 "Acabado Mate" #nuevo
+painting_desc:0 "Color mate de fábrica." #nuevo
+painting2:0 "Camuflaje de Fábrica" #nuevo
+painting2_desc:0 "Nuevo camuflaje para nuestros tanques. Esta pintura fresca se aplica directamente en la fábrica, permitiendo una mejor defensa en emboscadas e infiltración." #nuevo
+painting3:0 "Camuflaje de Campo de Batalla" #nuevo
+painting3_desc:0 "Nuevo camuflaje para nuestros tanques. Permitir que nuestro ejército modifique el camuflaje de fábrica con su diseño aumentará la defensa en emboscadas e infiltración." #nuevo
+painting4:0 "Camuflaje Semi-Moderno" #nuevo
+painting4_desc:0 "Nuevo camuflaje para nuestros tanques. Hemos facilitado la aplicación de pinturas prefabricadas en el campo y aumentado la durabilidad de la primera capa de fábrica." #nuevo
+painting5:0 "Camuflaje Moderno" #nuevo
+painting5_desc:0 "Nuevo camuflaje para nuestros tanques. Las aplicaciones son versátiles y robustas, resistiendo casi cualquier cosa que el enemigo les arroje."
+
+INFANTRY_TITLE_CLOTHING:0 "VESTIMENTA"
+camo:0 "Uniformes Básicos"
+camo_desc:0 "Uniformes de color sólido modelados según los de la Gran Guerra."
+camo1942:0 "Patrón de Camuflaje Avanzado"
+camo1942_desc:0 "El nuevo diseño de camuflaje hace que nuestras tropas sean menos detectables durante emboscadas o infiltraciones."
+camo1948:0 "Patrón de Camuflaje Semi-Moderno"
+camo1948_desc:0 "Un nuevo diseño de camuflaje es más ligero y aún más efectivo, permitiendo emboscadas e infiltraciones."
+camo1955:0 "Patrón de Camuflaje Moderno"
+camo1955_desc:0 "Ahora lo ves, ahora no lo ves."
+winter_clothes_gw:0 "Ropa de Invierno"
+winter_clothes_gw_desc:0 "Ropa de invierno hecha de lana. No muy efectiva, pero mejor que nada."
+winter_clothes_1939:0 "Ropa de Invierno Mejorada"
+winter_clothes_1939_desc:0 "Ropa de invierno más decente. Está hecha de una chaqueta acolchada de lana y algodón."
+winter_clothes_1941:0 "Ropa de Invierno Avanzada"
+winter_clothes_1941_desc:0 "Ropa de invierno avanzada hecha de lana natural y cálida con piel sintética, recubierta con un material hidrofóbico temprano y teñida de blanco."
+winter_clothes_1944:0 "Ropa de Invierno Moderna"
+winter_clothes_1944_desc:0 "Ropa de invierno moderna reversible hecha de tela sintética cálida y recubierta con una chaqueta desmontable hidrofóbica Windstopper, pintada en blanco, negro y marrón para ser más efectiva en combate. Aligerará a nuestros soldados y los mantendrá calientes y secos."
+jngdst_clothes_gw:0 "Ropa para Desierto y Jungla" #nuevo
+jngdst_clothes_gw_desc:0 "Ropa para desierto y jungla hecha de algodón. No muy práctica, pero mejor que nada." #nuevo
+jngdst_clothes_1939:0 "Ropa Mejorada para Desierto y Jungla" #nuevo
+jngdst_clothes_1939_desc:0 "Ropa más decente para desierto y jungla. Está hecha de algodón fino. Se han añadido gafas protectoras para ayudar a los soldados que combaten en ambientes arenosos." #nuevo
+jngdst_clothes_1941:0 "Ropa Avanzada para Desierto y Jungla" #nuevo
+jngdst_clothes_1941_desc:0 "Ropa avanzada para desierto y jungla hecha de algodón fino natural, recubierta con un revestimiento especial que se seca más rápido para ayudar a los soldados que combaten en entornos calientes y húmedos." #nuevo
+jngdst_clothes_1944:0 "Ropa Moderna para Desierto y Jungla" #nuevo
+jngdst_clothes_1944_desc:0 "Ropa moderna para desierto y jungla hecha de una tela ligera única y recubierta con una chaqueta repelente al calor, teñida en tonos marrón, negro y marrón claro para ser más efectiva en combate. Aligerará a nuestros soldados y los mantendrá frescos y secos." #nuevo
+
+###------> Tanque de Descarga   <><> <><> <><> <><>
+AIR_TITLE_DROPTANK:0 "Tanque de Descarga"
+droptank40:0 "Tanque de Descarga I"
+droptank40_desc:0 "Añadir un tanque externo a nuestros aviones aumentará su alcance."
+droptank44:0 "Tanque de Descarga II"
+droptank44_desc:0 "Tanque externo más grande y ligero."
+droptank45:0 "Tanque de Descarga III"
+droptank45_desc:0 "El tanque de descarga más reciente. Mejorará el alcance del avión, pero necesita un reactor a chorro para compensar su peso."
+droptank55:0 "Tanque de Descarga IV"
+droptank55_desc:0 "Nuestros tanques ahora son más ligeros y pueden llevar aún más combustible."
+
+###------> Misceláneo   <><> <><> <><> <><> <><>
+r56_tooltip_SRD_unlock:0 "Desbloquea la División de Investigación Especial"
+
+elite_forces_02:0 "Fuerzas de Élite II"
+elite_forces_02_desc:0 "Solo lo mejor de lo mejor se convertirá en fuerzas especiales. Los soldados que completen el entrenamiento serán más fuertes, rápidos y lucharán con más ferocidad que cualquier otro."
+elite_forces_03:0 "Fuerzas de Élite III"
+elite_forces_03_desc:0 "Solo lo mejor de lo mejor se convertirá en fuerzas especiales. Los soldados que completen el entrenamiento serán más fuertes, rápidos y lucharán con más ferocidad que cualquier otro."
+
+TITLE_EXP_ROCKETS_SUBTITLE:0 "Cohetería"
+
+icbm_missile_equipment_1:0 "ICBM Nuclear"
+icbm_missile_equipment_1_desc:0 "La cúspide de la ciencia nuclear y la cohetería, estos Misiles Balísticos Intercontinentales combinan alcances de ataque inconcebibles de un misil con la capacidad de entregar una ojiva nuclear, en cualquier momento y lugar. La destrucción del objetivo está más o menos asegurada con uno de estos misiles."
+
+nukes_3:0 "Bombas Nucleares Miniaturizadas"
+nukes_3_desc:0 "Desarrollos adicionales en el diseño de armas nucleares permiten que armas diminutas de tipo implosión lineal quepan dentro de maletines. Tales armas terroríficas son posibles gracias a una comprensión más profunda en la producción de materiales fisibles más efectivos que también, a su vez, mejoran el rendimiento de nuestras otras bombas nucleares convencionales."
+nuke_rocket_engines:0 "ICBM Nuclear"
 nuke_rocket_engines_desc: ""
 
-modern_AA_01:0 "Modern AA Systems"
+modern_AA_01:0 "Sistemas Antiaéreos Modernos"
 modern_AA_01_desc:0 ""
-modern_AA_02:0 "Modern AA Systems II"
+modern_AA_02:0 "Sistemas Antiaéreos Modernos II"
 modern_AA_02_desc:0 ""
-modern_AA_03:0 "Modern AA Systems III"
+modern_AA_03:0 "Sistemas Antiaéreos Modernos III"
 modern_AA_03_desc:0 ""
 
-modern_fc_radar_01:0 "Modern FC Radar"
+modern_fc_radar_01:0 "Radar FC Moderno"
 modern_fc_radar_01_desc:0 ""
-modern_fc_radar_02:0 "Modern FC Radar II"
+modern_fc_radar_02:0 "Radar FC Moderno II"
 modern_fc_radar_02_desc:0 ""
 
-modern_sonar_01:0 "Modern Sonar"
+modern_sonar_01:0 "Sonar Moderno"
 modern_sonar_01_desc:0 ""
-modern_sonar_02:0 "Modern Sonar II"
+modern_sonar_02:0 "Sonar Moderno II"
 modern_sonar_02_desc:0 ""
-modern_sonar_03:0 "Modern Sonar III"
+modern_sonar_03:0 "Sonar Moderno III"
 modern_sonar_03_desc:0 ""
 
-modern_torpedoes_01:0 "Modern Torpedoes"
+modern_torpedoes_01:0 "Torpedos Modernos"
 modern_torpedoes_01_desc:0 ""
-modern_torpedoes_02:0 "Modern Torpedoes II"
+modern_torpedoes_02:0 "Torpedos Modernos II"
 modern_torpedoes_02_desc:0 ""
-modern_torpedoes_03:0 "Modern Torpedoes III"
+modern_torpedoes_03:0 "Torpedos Modernos III"
 modern_torpedoes_03_desc:0 ""
 
-
-transport_plane2:0 "Transport Plane II"
+transport_plane2:0 "Avión de Transporte II"
 #####---------------------------------------------------------------------> End

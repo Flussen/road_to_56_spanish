@@ -1,7 +1,7 @@
 ﻿l_spanish:
- gwtank_chassis:1 "I.W-Era Tank Chassis"
- improved_light_tank_chassis:1 "Improved Light Tank Chassis"
- improved_light_tank_chassis_short:1 "1937 Light"
- improved_light_tank_chassis_desc:1 "A further iteration based on the experiences gained with previous light tanks, this chassis allows for better reliability and maintenance."
- super_heavy_tank_chassis:1 "1943 Super-Heavy"
- main_battle_tank_chassis:1 "1945 Modern"
+gwtank_chassis:1 "Chasis de Tanque de la Gran Guerra"
+improved_light_tank_chassis:1 "Chasis de Tanque Ligero Mejorado"
+improved_light_tank_chassis_short:1 "Ligero de 1937"
+improved_light_tank_chassis_desc:1 "Una iteración adicional basada en las experiencias obtenidas con los tanques ligeros anteriores, este chasis permite una mejor fiabilidad y mantenimiento."
+super_heavy_tank_chassis:1 "Superpesado de 1943"
+main_battle_tank_chassis:1 "Moderno de 1945"
