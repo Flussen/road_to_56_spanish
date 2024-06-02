@@ -1,8 +1,9 @@
 version="0.1"
 tags={
 	"Translation"
+	"Spanish"
 }
-name="The Road to 56 - Spanish Translation"
+name="The Road to 56 - Español"
 dependencies={
 	"The Road to 56"
 }
