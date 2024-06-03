@@ -14,6 +14,5 @@ Estás interesado en contribuir en mejorar estas traducciones, alguna cosa no te
 - Solicita el cambio desde una pull request al merge de este repositorio original.
 ## Licencia
 Este proyecto está bajo una licencia MIT 
-
-[GNU](x)
+[LICENSE](LICENSE)
 
