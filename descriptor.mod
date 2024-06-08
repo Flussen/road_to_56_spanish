@@ -3,7 +3,7 @@ tags={
 	"Translation"
 	"Spanish"
 }
-name="The Road to 56 - Español"
+name="The Road to 56 - Traducción al Español"
 dependencies={
 	"The Road to 56"
 }
