@@ -52,8 +52,8 @@
  SWE_GATHERING_STORM_DESC:0 "Habiendo sido neutral durante la Gran Guerra, Suecia permaneció ilesa tras la guerra que devastó Europa y vio la caída de imperios en todo el continente.\n\nNo han pasado ni treinta años y ya se está gestando una nueva tormenta en el horizonte. Los fascistas del sur se están preparando para otra guerra, y en el este, el oso ruso está dormido, por ahora. Se avecinan días oscuros, y el camino de Suecia es nuevamente incierto."
 
  ###---> Scenario Names <><> <><> <><>
- FE_SELECT_SCENARIO:0 "El Escenario"
-GATHERING_STORM_NAME:0 "La Tormenta que se Avecina"
+ FE_SELECT_SCENARIO:0 "Escenarios"
+GATHERING_STORM_NAME:0 "La Tormenta se Avecina"
 BLITZKRIEG_NAME:0 "Blitzkrieg (No Soportado)"
 
 BLITZKRIEG_DESC:0 "Este escenario no es soportado por The Road to 56. Asegúrate de no tener conflictos con otros mods; de lo contrario, por favor repórtalo en nuestro Discord."
