@@ -491,6 +491,7 @@ GER_iraq_friend:0 "Hacer Amistad con [IRQ.GetNameDef]"
  GER_wilhelm_ii_idea:0 "Wilhelm II"
  GER_wilhelm_iii_idea:0 "Wilhelm III"
  GER_frederick_iv_idea:0 "Frederick IV"
+ 
  GER_new_german_constitution:0 "A New [GER.GetAdjective] Constitution"
  GER_prioritize_infrastructure_idea:0 "Prioritization of Infrastructure"
  GER_prioritize_civilian_industry_idea:0 "Prioritization of Civilian Industries"
