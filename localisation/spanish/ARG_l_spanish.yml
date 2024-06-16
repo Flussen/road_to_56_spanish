@@ -315,6 +315,20 @@
  ARG_national_catholicism_desc:0 "The Catholic Church is the Church of God and nothing can be above it."
 
 
+ #DLC dynamic modifiers made into ideas because they are changed ONLY ONCE, ahh vanilla... -Illya
+ARG_political_corruption_idea: "Corrupción Política"
+ARG_political_corruption_idea_desc: "Durante muchos años, [ARG.GetNameDef] ha sido azotada por una ferviente corrupción dentro de su gobierno. Aunque se pensó que al permitir la formación de la Concordancia esto podría haber disminuido, los votos fraudulentos y la intimidación de votantes continúan presentes."
+
+ARG_corruption_crackdown_idea: "$ARG_crack_down_on_corruption$"
+ARG_corruption_crackdown_ideas_desc: "La corrupción que plagó el gobierno de nuestra nación era completamente inaceptable. Gracias a las políticas de Roberto María Ortiz, finalmente hemos podido comenzar a poner fin a las descaradas actividades fraudulentas en las que participaban nuestros políticos."
+
+ARG_anti_corruption_idea: "Política Anticorrupción"
+ARG_anti_corruption_idea_desc: "La corrupción que plagó el gobierno de nuestra nación era completamente inaceptable. Gracias a las políticas de Marcelo T. de Alvear, finalmente hemos podido comenzar a poner fin a las descaradas actividades fraudulentas en las que participaban nuestros políticos."
+
+ARG_growing_nationalism_idea: "Creciente Movimiento Nacionalista"
+ARG_growing_nationalism_idea_desc: "El partido Nacionalista Argentino ha causado un gran impacto en todo el país y, como tal, cada vez más personas se unen a sus filas para apoyar su creciente ideología. El nacionalismo argentino sigue la idea de restaurar la identidad [ARG.GetAdjective] y consolidarnos como una potencia dominante en Sudamérica."
+
+
  ARG_instituto_aerotecnico_de_cordoba:0 "Instituto Aerotecnico de Cordoba"
 
  ARG_american_oil_concern:0 "Industrial Oil Concern"

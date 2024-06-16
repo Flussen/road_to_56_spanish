@@ -270,3 +270,7 @@
 
  #threats#
  COL_war_with_andean_threat:0 "Bolivarian Ambitions in the Andes"
+
+ #Extras agregados por Submod Español
+ HON_banana_republic:0 "República Bananera"
+ HON_banana_republic_desc:0 "[ROOT.GetNonIdeologyName] está influenciada por la empresa United Fruit, que controla una parte sustancial de la economía. La economía de [ROOT.GetAdjective] depende en gran medida de las exportaciones de plátanos, por lo que será difícil asignar recursos a otras industrias."
