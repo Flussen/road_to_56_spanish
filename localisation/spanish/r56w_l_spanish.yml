@@ -4,157 +4,158 @@ l_spanish:
 
 ###------> Events <><> <><> <><> <><> <><>
 
-#Discover the Necrowombaticon
- r56w.event.30.t:0 "A Strange Book"
- r56w.event.30.d:0 "We have recently come into possession of some very unusual spoils, the most notable of which is an ancient book covered in arcane and bizarre symbology. Some of our scholars believe that it could be worth studying, while others suggest that it might be no more than a hoax."
- r56w.event.30.a:0 "Meddling with dark forces? Sign me up!"
- r56w.event.30.b:0 "No thanks."
+#Descubre el Necrowombaticon
+ r56w.event.30.t:0 "Un Libro Extraño"
+ r56w.event.30.d:0 "Recientemente hemos obtenido algunos botines muy inusuales, el más notable de los cuales es un libro antiguo cubierto de simbología arcana y bizarra. Algunos de nuestros eruditos creen que podría valer la pena estudiarlo, mientras que otros sugieren que no es más que un engaño."
+ r56w.event.30.a:0 "¿Jugar con fuerzas oscuras? ¡Apúntame!"
+ r56w.event.30.b:0 "No, gracias."
 
-#The Necrowombaticon can be studied
- r56w.event.31.t:0 "Our Scholars Report"
- r56w.event.31.d:0 "After a period of study, it has become clear that the book describes an elaborate ritual for gaining vast amounts of power. It calls for large quantities of scented candles, a black cat, and a great deal of enriched uranium.\n\n Along with the translation for the ritual comes a cryptic curse, \"Warning! Going forward with this will really mess with your game and result in something very silly. Save now, if in doubt.\" \n\nShould we move forward or abandon this path entirely?"
- r56w.event.31.a:0 "I eat danger for breakfast."
- r56w.event.31.b:0 "...but the historical!"
+#El Necrowombaticon puede ser estudiado
+ r56w.event.31.t:0 "Nuestros Eruditos Informan"
+ r56w.event.31.d:0 "Tras un período de estudio, ha quedado claro que el libro describe un elaborado ritual para obtener grandes cantidades de poder. Requiere grandes cantidades de velas aromáticas, un gato negro y una gran cantidad de uranio enriquecido.\n\n Junto con la traducción del ritual viene una maldición críptica: \"¡Advertencia! Continuar con esto realmente arruinará tu partida y resultará en algo muy tonto. Guarda ahora, si tienes dudas.\" \n\n¿Deberíamos seguir adelante o abandonar este camino por completo?"
+ r56w.event.31.a:0 "Desayuno peligro."
+ r56w.event.31.b:0 "...pero ¡la historia!"
 
-#The Necrowombaticon's deadly power is revealed
- r56w.event.32.t:0 "A Dimensional Distortion"
- r56w.event.32.d:0 "Our scholars performed the ritual precisely as instructed. Unfortunately, this resulted in a small-scale nuclear inferno that appears to have torn the fabric of space and time. An army of creatures has come pouring forth from the distortion, pushing our forces back. We have lost the Oregon territory and, along with it, some of our national dignity."
- r56w.event.32.a:0 "Well s***."
+#El poder mortal del Necrowombaticon se revela
+ r56w.event.32.t:0 "Una Distorsión Dimensional"
+ r56w.event.32.d:0 "Nuestros eruditos realizaron el ritual tal y como se instruyó. Desafortunadamente, esto resultó en un pequeño infierno nuclear que parece haber desgarrado el tejido del espacio y el tiempo. Un ejército de criaturas ha surgido de la distorsión, empujando a nuestras fuerzas hacia atrás. Hemos perdido el territorio de Oregón y, con él, algo de nuestra dignidad nacional."
+ r56w.event.32.a:0 "Maldita sea."
 
-#News of the book's power reaches the world
- r56w.event.33.t:0 "Strange Happenings"
- r56w.event.33.d:0 "Reports of unusual activities have been reported from North America. The occupying forces have denied all unusual suggestions, but this has been somewhat undercut by their unexpected and fairly disorganized abandonment of the Oregon territory. Only time will tell the truth of the matter."
- r56w.event.33.a:0 "I wonder what that's all about?"
+#Las noticias del poder del libro llegan al mundo
+ r56w.event.33.t:0 "Sucesos Extraños"
+ r56w.event.33.d:0 "Se han reportado actividades inusuales en América del Norte. Las fuerzas ocupantes han negado todas las sugerencias inusuales, pero esto ha sido algo socavado por su abandono inesperado y bastante desorganizado del territorio de Oregón. Solo el tiempo dirá la verdad del asunto."
+ r56w.event.33.a:0 "¿Me pregunto de qué se trata todo esto?"
 
-#How do we react to these events?
- r56w.event.34.t:0 "A Diplomatic Overture"
- r56w.event.34.d:0 "A representative of the monsters has arrived at our doorstep and politely requested to speak with you. Though their language is strange and cryptic, we were able to discern a single question:\n\n\"Can has?\""
- r56w.event.34.a:0 "This is all very silly. Say nothing!"
- r56w.event.34.b:0 "Can has... War!"
- r56w.event.34.c:0 "Yeah, sure. Whatever."
+#¿Cómo reaccionamos ante estos eventos?
+ r56w.event.34.t:0 "Un Oferente Diplomático"
+ r56w.event.34.d:0 "Un representante de los monstruos ha llegado a nuestra puerta y ha solicitado educadamente hablar contigo. Aunque su lenguaje es extraño y críptico, pudimos discernir una sola pregunta:\n\n\"¿Pueden tener?\""
+ r56w.event.34.a:0 "Esto es muy tonto. ¡No digas nada!"
+ r56w.event.34.b:0 "¿Pueden tener... guerra!"
+ r56w.event.34.c:0 "Sí, claro. Lo que sea."
 
-#The Tender Loving Empire is Defeated
- r56w.event.35.t:0 "The Impossible Victory"
- r56w.event.35.d:0 "The force of monsters that had come from nowhere into our world has been defeated. Though they tried to wreak havoc, their efforts were ultimately for naught. Today is a calmer and more sane day."
- r56w.event.35.a:0 "They were super OP anyway."
+#El Imperio del Amor Tierno es derrotado
+ r56w.event.35.t:0 "La Victoria Imposible"
+ r56w.event.35.d:0 "La fuerza de monstruos que había aparecido de la nada en nuestro mundo ha sido derrotada. Aunque intentaron causar estragos, sus esfuerzos fueron en vano. Hoy es un día más tranquilo y sensato."
+ r56w.event.35.a:0 "De todos modos, eran super OP."
 
-#To War or Not to War
- r56w.event.36.t:0 "War Games"
- r56w.event.36.d:0 "Our military leadership is playing a game to see what country we should attempt to conquer next. If we want, the results can be binding and put into immediate effect."
- r56w.event.36.a:0 "Seems legit."
- r56w.event.36.b:0 "Maybe later..."
- r56w.event.36.c:0 "Stop asking!"
+#Guerra o no guerra
+ r56w.event.36.t:0 "Juegos de Guerra"
+ r56w.event.36.d:0 "Nuestro liderazgo militar está jugando un juego para ver qué país deberíamos intentar conquistar a continuación. Si queremos, los resultados pueden ser vinculantes y ponerse en efecto inmediato."
+ r56w.event.36.a:0 "Parece legítimo."
+ r56w.event.36.b:0 "Tal vez más tarde..."
+ r56w.event.36.c:0 "¡Deja de preguntar!"
 
-#Invisibile DOW event
- r56w.event.37.t:0 "They did what?"
+#Evento invisible de declaración de guerra
+ r56w.event.37.t:0 "¿Hicieron qué?"
  r56w.event.37.d:0 ""
- r56w.event.37.a:0 "Yes!"
+ r56w.event.37.a:0 "¡Sí!"
 
-#Hitler's Stach
- r56w.event.38.t:0 "The Razor of Justice"
- r56w.event.38.d:0 "Our Ministers have proposed a bold plan to bring one of our enemies down a peg. It's time to strike at none other than Adolf Hitler and teach him the value of a good shave. \n\nOur agents are standing by. Shall we attempt the expedition?"
- r56w.event.38.a:0 "That sounds like a lovely idea!"
- r56w.event.38.b:0 "Not at the moment."
- r56w.event.38.c:0 "It is a silly suggestion."
+#El bigote de Hitler
+ r56w.event.38.t:0 "La Navaja de la Justicia"
+ r56w.event.38.d:0 "Nuestros ministros han propuesto un plan audaz para rebajar a uno de nuestros enemigos. Es hora de atacar nada menos que a Adolf Hitler y enseñarle el valor de un buen afeitado. \n\nNuestros agentes están listos. ¿Intentamos la expedición?"
+ r56w.event.38.a:0 "¡Suena como una idea encantadora!"
+ r56w.event.38.b:0 "No en este momento."
+ r56w.event.38.c:0 "Es una sugerencia tonta."
 
-#The World Learns of the Stache
- r56w.event.40.t:0 "Mustache Malfunction"
- r56w.event.40.d:0 "This morning the leader of the German Reich woke up to find an absolute atrocity had been committed to his facial hair. He was führious - and declared that all mustaches are now banned until he can regrow his own."
- r56w.event.40.a:0 "A national monument has been desecrated."
+#El mundo se entera del bigote
+ r56w.event.40.t:0 "Malfunción del Bigote"
+ r56w.event.40.d:0 "Esta mañana el líder del Reich Alemán se despertó para encontrar que una atrocidad absoluta había sido cometida en su vello facial. Estaba enfurecido y declaró que todos los bigotes están ahora prohibidos hasta que pueda volver a dejar crecer el suyo."
+ r56w.event.40.a:0 "Se ha profanado un monumento nacional."
 
-#Proposal for Taking Europe
- r56w.event.41.t:0 "A Simple Proposal"
- r56w.event.41.d:0 "A minister of ours has suggested an audacious plan for planting an agent in the European forces. What shall we do?"
- r56w.event.41.a:0 "Fund it!"
- r56w.event.41.b:0 "No thanks. I prefer pancakes."
+#Propuesta para tomar Europa
+ r56w.event.41.t:0 "Una Propuesta Simple"
+ r56w.event.41.d:0 "Uno de nuestros ministros ha sugerido un plan audaz para plantar un agente en las fuerzas europeas. ¿Qué haremos?"
+ r56w.event.41.a:0 "¡Fináncialo!"
+ r56w.event.41.b:0 "No gracias. Prefiero panqueques."
 
-#Agent Werewaffle Reports
- r56w.event.42.t:0 "Our Agent Reports"
- r56w.event.42.d:0 "Minster Thinking Waffle has reported and has already undergone the required changes to blend in with Belgian society. Now, as a part-werewolf-waffle, he can strike at night while being delicious during the day."
- r56w.event.42.a:0 "Ingenious!"
+#El Agente Werewaffle informa
+ r56w.event.42.t:0 "Nuestro Agente Informa"
+ r56w.event.42.d:0 "El ministro Thinking Waffle ha informado y ya ha pasado por los cambios requeridos para integrarse en la sociedad belga. Ahora, como un waffle-hombre-lobo, puede atacar de noche mientras es delicioso durante el día."
+ r56w.event.42.a:0 "¡Ingenioso!"
 
-#News of the Belgian Takeover
- r56w.event.44.t:0 "Delicious Revolution"
- r56w.event.44.d:0 "The country of Belgium has had an unexpected change in leadership recently. A news conference was held by what appeared to be a sentient Waffle, which then turned into a wolf and mauled a nearby vice minister. Pundits are not sure what the new leader's international policy decisions will entail, but it will most certainly not involve syrup."
- r56w.event.44.a:0 "Breakfast will never be the same again."
+#Noticias de la toma belga
+ r56w.event.44.t:0 "Revolución Deliciosa"
+ r56w.event.44.d:0 "El país de Bélgica ha tenido un cambio inesperado en el liderazgo recientemente. Se celebró una conferencia de prensa por lo que parecía ser un Waffle consciente, que luego se transformó en un lobo y atacó a un viceministro cercano. Los expertos no están seguros de lo que implicarán las decisiones de política internacional del nuevo líder, pero ciertamente no involucrará jarabe."
+ r56w.event.44.a:0 "El desayuno nunca volverá a ser el mismo."
 
-#GE Adopts a Cat
- r56w.event.45.t:0 "A Good Deed"
- r56w.event.45.d:0 "Upon walking down a long lane in London, Greatexperiment spotted a stray kitten. It mewed softly and then asked for a cigar. I suppose it could be adopted?"
- r56w.event.45.a:0 "Yes! Bring the hijinx!"
- r56w.event.45.b:0 "Noooo! The unforeseen consequences!"
+#GE Adopta un gato
+ r56w.event.45.t:0 "Una Buena Acción"
+ r56w.event.45.d:0 "Al caminar por un largo camino en Londres, Greatexperiment vio un gatito callejero. Maulló suavemente y luego pidió un cigarro. ¿Podríamos adoptarlo?"
+ r56w.event.45.a:0 "¡Sí! ¡Que comiencen las travesuras!"
+ r56w.event.45.b:0 "¡Nooo! ¡Las consecuencias imprevistas!"
 
-#The Cat Runs Away
- r56w.event.46.t:0 "Not Enough Catnip"
- r56w.event.46.d:0 "Sometime in the night, the cigar-smoking cat vanished from inside the President's palace. A strange note was found afterward suggesting the need for a bigger litter box."
- r56w.event.46.a:0 "I sense a plot twist."
+#El gato se escapa
+ r56w.event.46.t:0 "No Suficiente Hierba Gatera"
+ r56w.event.46.d:0 "En algún momento de la noche, el gato fumador de cigarros desapareció del palacio presidencial. Se encontró una nota extraña después, sugiriendo la necesidad de una caja de arena más grande."
+ r56w.event.46.a:0 "Siento un giro en la trama."
 
-#News of the Cat Takeover
- r56w.event.48.t:0 "The Rise of the fantastic furries"
- r56w.event.48.d:0 "Deep in the heart of the deserts of Saudi Arabia, a formidable and slightly annoyed army has arisen from nowhere. Having declared themselves and taken territory, they have promptly demanded tuna and to be petted when approval is given."
- r56w.event.48.a:0 "Impawsibble!"
+#Noticias de la toma de control del gato
+ r56w.event.48.t:0 "El Auge de los Felinos Fantásticos"
+ r56w.event.48.d:0 "En el corazón del desierto de Arabia Saudita, ha surgido de la nada un formidable y ligeramente molesto ejército. Tras declarar su dominio y tomar territorio, han exigido inmediatamente atún y ser acariciados cuando se les dé aprobación."
+ r56w.event.48.a:0 "¡Imposible!"
 
-#Daniel Craig Appears
- r56w.event.49.t:0 "Release the Craigken!"
- r56w.event.49.d:0 "A man has appeared, claiming to be a super-spy from the distant future. Having given no details or reasoning, he claims that it is vital for the timeline that he be allowed to take over Tibet. The fate of the world depends on it."
- r56w.event.49.a:0 "Yeah, sure. Whatever."
- r56w.event.49.b:0 "Turn him into glue."
+#Daniel Craig aparece
+ r56w.event.49.t:0 "¡Liberen al Craigken!"
+ r56w.event.49.d:0 "Ha aparecido un hombre, afirmando ser un súper espía del futuro distante. Sin dar detalles ni razones, afirma que es vital para la línea temporal que se le permita tomar el control de Tíbet. El destino del mundo depende de ello."
+ r56w.event.49.a:0 "Sí, claro. Lo que sea."
+ r56w.event.49.b:0 "Convierte en pegamento."
 
-#Someone Found a Puppet
- r56w.event.51.t:0 "Something Fluffy This Way Comes"
- r56w.event.51.d:0 "Greatexperiment recently decided to go on a holiday to Britain. While on a stroll, he came across a rather strange and suspicious puppet hiding behind a phone booth. \n\n\"I really should infuse this thing with magic so that it will take over the country and cause absolute havoc.\", Greatexperiment said to himself."
- r56w.event.51.a:0 "Yeah, why not?"
- r56w.event.51.b:0 "Nah. Throw it in the river."
+#Alguien encontró un títere
+ r56w.event.51.t:0 "Algo Esponjoso Viene En Camino"
+ r56w.event.51.d:0 "Greatexperiment decidió recientemente irse de vacaciones a Gran Bretaña. Mientras paseaba, se encontró con un títere bastante extraño y sospechoso escondido detrás de una cabina telefónica. \n\n\"Realmente debería infundir magia a esta cosa para que tome el control del país y cause un caos absoluto.\", se dijo a sí mismo Greatexperiment."
+ r56w.event.51.a:0 "Sí, ¿por qué no?"
+ r56w.event.51.b:0 "No. Tíralo al río."
 
-#News of the British Takeover
- r56w.event.53.t:0 "A Hand on Power"
- r56w.event.53.d:0 "For reasons utterly beyond all comprehension, it seems that the sovereign government of [ENG.GetNameDef] has decided to place all power in the felt-tipped hands of a sentient puppet. God save us all."
- r56w.event.53.a:0 "That's politics for you."
+#Noticias de la toma de control británica
+ r56w.event.53.t:0 "Una Mano en el Poder"
+ r56w.event.53.d:0 "Por razones absolutamente incomprensibles, parece que el gobierno soberano de [ENG.GetNameDef] ha decidido colocar todo el poder en las manos de un títere consciente. Dios nos salve a todos."
+ r56w.event.53.a:0 "Así es la política."
 
-#Hitler and Baldur's Gate
- r56w.event.100.t:0 "A Curious Door"
- r56w.event.100.desc:0 "Today at the Reich Chancellery, Baldur von Schirach suggested to the Führer his own design for the construction of Germania.\n\nAlways ready to discuss cultural matters, he designed in secret a new type of door that is causing some division among Hitler's inner circle. The motives are judged to be unworthy of the capital of Europe by Albert Speer. At the same time, the rumor circulates that Himmler admires the Nordic mythological references and judges it "authentically German".\n\nToday, the Reich Chancellery did not perform any critical work as the Nazi leadership was too busy discussing Baldur's Gate."
- r56w.event.100.a:0 "Send the plans to Arno Breker."
+#Hitler y la Puerta de Baldur
+ r56w.event.100.t:0 "Una Puerta Curiosa"
+ r56w.event.100.desc:0 "Hoy en la Cancillería del Reich, Baldur von Schirach sugirió al Führer su propio diseño para la construcción de Germania.\n\nSiempre dispuesto a discutir asuntos culturales, diseñó en secreto un nuevo tipo de puerta que está causando cierta división entre el círculo íntimo de Hitler. Los motivos son juzgados como indignos de la capital de Europa por Albert Speer. Al mismo tiempo, circula el rumor de que Himmler admira las referencias mitológicas nórdicas y lo considera \"auténticamente alemán\".\n\nHoy, la Cancillería del Reich no realizó ningún trabajo crítico, ya que la dirección nazi estaba demasiado ocupada discutiendo la Puerta de Baldur."
+ r56w.event.100.a:0 "Envía los planos a Arno Breker."
 
-#Comet Tank sighted
-r56w.event.101.t:0 "Comet Tank Sighted!"
-r56w.event.101.desc:0 "While it was driving too close from the limit of the Bovington military base, an experimental variant of our new Comet tank was inadvertently sighted by a few civilians passing by. We must act quickly to ensure that the matter will be dealt with with the necessary discretion. The MPs are understandably irritated, and the tank driver will undoubtedly be reprimanded.\n\nIf loose lips sink ships, they can also pierce armor."
-r56w.event.101.a:0 "Let's make a few phone calls."
+#Tanque Comet avistado
+r56w.event.101.t:0 "¡Tanque Comet Avistado!"
+r56w.event.101.desc:0 "Mientras se conducía demasiado cerca del límite de la base militar de Bovington, una variante experimental de nuestro nuevo tanque Comet fue avistada inadvertidamente por unos pocos civiles que pasaban por allí. Debemos actuar rápidamente para asegurarnos de que el asunto se maneje con la discreción necesaria. Los MPs están comprensiblemente irritados, y el conductor del tanque sin duda será reprendido.\n\nSi los labios sueltos hunden barcos, también pueden perforar armaduras."
+r56w.event.101.a:0 "Hagamos unas cuantas llamadas telefónicas."
 
 ###------> Tooltips <><> <><> <><> <><> <><>
 
-#Generic
- r56w_tt_nothing:0 "Nothing Happens."
- r56w_tt_failure:0 "Miserable Failure"
- r56w_tt_mission_go:0 "Success!"
+#Genérico
+ r56w_tt_nothing:0 "No ocurre nada."
+ r56w_tt_failure:0 "Fracaso miserable"
+ r56w_tt_mission_go:0 "¡Éxito!"
 
-###------> Countries <><> <><> <><> <><> <><>
+###------> Países <><> <><> <><> <><> <><>
 
 #WHY
- WHY_neutrality:0 "Tender Loving Empire"
- WHY_neutrality_DEF:0 "The Tender Loving Empire"
- WHY_neutrality_ADJ:0 "Tenderites"
+ WHY_neutrality:0 "Imperio del Amor Tierno"
+ WHY_neutrality_DEF:0 "El Imperio del Amor Tierno"
+ WHY_neutrality_ADJ:0 "Tenderitas"
 
-#Parties
- r56w_anarchism:0 "Organized Anarchy"
- r56w_anarchism_desc:0 "It makes sense if you don't think about it."
+#Partidos
+ r56w_anarchism:0 "Anarquía Organizada"
+ r56w_anarchism_desc:0 "Tiene sentido si no lo piensas mucho."
 
-#Factions
- r56w_modderite:0 "Modderite"
- r56w_modderite_desc:0 "Puns!"
+#Facciones
+ r56w_modderite:0 "Modderita"
+ r56w_modderite_desc:0 "¡Juegos de palabras!"
+
 
 ###------> Ideas <><> <><> <><> <><> <><>
 
 #National Ideas
- r56w_idea_national_tabletop_games:0 "Tabletop Games"
- r56w_idea_national_tabletop_games_desc:0 "The citizens of this nation enjoy playing extremely nerdy games."
- r56w_idea_national_poor_as_f:0 "Poor AF"
- r56w_idea_national_poor_as_f_desc:0 "Even Taco Bell looks pricey."
- r56w_idea_national_got_up_early_today:0 "Got Up Early"
- r56w_idea_national_got_up_early_today_desc:0 "...and no one is happy about it."
- r56w_idea_national_got_up_early_today_tooltip:0 "May decline a call to war, due to being far too tired."
- r56w_idea_national_feeling_guilty:0 "Feeling Guilty"
- r56w_idea_national_feeling_guilty_desc:0 "Fine! I'll help! Happy now?"
+ r56w_idea_national_tabletop_games:0 "Juegos de Mesa"
+ r56w_idea_national_tabletop_games_desc:0 "Los ciudadanos de esta nación disfrutan jugando juegos extremadamente nerds."
+ r56w_idea_national_poor_as_f:0 "Pobres como Ratas"
+ r56w_idea_national_poor_as_f_desc:0 "Incluso Taco Bell parece caro."
+ r56w_idea_national_got_up_early_today:0 "Madrugaron Hoy"
+ r56w_idea_national_got_up_early_today_desc:0 "...y nadie está contento por ello."
+ r56w_idea_national_got_up_early_today_tooltip:0 "Puede rechazar una llamada a la guerra, debido a estar demasiado cansado."
+ r56w_idea_national_feeling_guilty:0 "Sintiendo Culpa"
+ r56w_idea_national_feeling_guilty_desc:0 "¡Está bien! ¡Ayudaré! ¿Contentos ahora?"
 
 #Advisors
  r56w_idea_minister_zukas:0 "Zukas"
@@ -221,128 +222,130 @@ r56w.event.101.a:0 "Let's make a few phone calls."
  r56w_idea_minister_perjh_desc:0 ""
 
 #Designers
- r56w_idea_designer_massif_manufacturing:0 "Massif Manufacturing"
+ r56w_idea_designer_massif_manufacturing:0 "Fabricación Massif"
  r56w_idea_designer_massif_manufacturing_desc:0 ""
- r56w_idea_designer_holst_planet_foundry:0 "Holst Planet Foundry"
+ r56w_idea_designer_holst_planet_foundry:0 "Fundición Planetaria Holst"
  r56w_idea_designer_holst_planet_foundry_desc:0 ""
- r56w_idea_designer_la_societe_construction:0 "La Société Arms"
+ r56w_idea_designer_la_societe_construction:0 "Armas La Société"
  r56w_idea_designer_la_societe_construction_desc:0 ""
- r56w_idea_designer_efrafa_shipbuilding:0 "Efrafa Shipbuilding"
+ r56w_idea_designer_efrafa_shipbuilding:0 "Construcción Naval Efrafa"
  r56w_idea_designer_efrafa_shipbuilding_desc:0 ""
- r56w_idea_designer_heyoka_air:0 "Heyoka Air"
+ r56w_idea_designer_heyoka_air:0 "Aire Heyoka"
  r56w_idea_designer_heyoka_air_desc:0 ""
 
 
-###------> Traits <><> <><> <><> <><> <><>
+###------> Rasgos <><> <><> <><> <><> <><>
 
-#Minister Traits
- r56w_trait_minister_zukas:0 "War Pirate"
- r56w_trait_minister_herman_lindqvist:0 "Super Builder"
- r56w_trait_minister_thinking_waffle:0 "Not a Waffle"
- r56w_trait_minister_linda:0 "Very Chill"
- r56w_trait_minister_pompelmo:0 "Butterfly Catcher"
- r56w_trait_minister_patchie:0 "Negative Integer"
- r56w_trait_minister_xuan_kamo:0 "Divided by Zero"
- r56w_trait_minister_verenikin:0 "Imaginary Numbers"
- r56w_trait_minister_toasted_toaster:0 "So Toasty"
- r56w_trait_minister_jamryl:0 "Not a Band"
- r56w_trait_minister_dvenom:0 "Had Breakfast"
- r56w_trait_minister_tugas_eagle_eye:0 "Made of Eyes"
- r56w_trait_minister_black_falcon:0 "Death from Above"
- r56w_trait_minister_tai:0 "Just Tai"
- r56w_trait_minister_sorensen:0 "Actually a General"
- r56w_trait_minister_vfacure:0 "Still Not Sure"
- r56w_trait_minister_sangriacus:0 "Meticulous"
- r56w_trait_minister_master_splinter:0 "Alternate Timeline"
- r56w_trait_minister_antonius_magnus:0 "Magnanimous"
- r56w_trait_minister_johan_schmidt:0 "Likes Flowers"
- r56w_trait_minister_mr_tsubodai:0 "Sir to You"
- r56w_trait_minister_kriplaik:0 "Cryptic"
+#Rasgos de Ministros
+ r56w_trait_minister_zukas:0 "Pirata de Guerra"
+ r56w_trait_minister_herman_lindqvist:0 "Súper Constructor"
+ r56w_trait_minister_thinking_waffle:0 "No es un Waffle"
+ r56w_trait_minister_linda:0 "Muy Relajada"
+ r56w_trait_minister_pompelmo:0 "Cazador de Mariposas"
+ r56w_trait_minister_patchie:0 "Número Negativo"
+ r56w_trait_minister_xuan_kamo:0 "Dividido por Cero"
+ r56w_trait_minister_verenikin:0 "Números Imaginarios"
+ r56w_trait_minister_toasted_toaster:0 "Muy Tostado"
+ r56w_trait_minister_jamryl:0 "No es una Banda"
+ r56w_trait_minister_dvenom:0 "Desayunó"
+ r56w_trait_minister_tugas_eagle_eye:0 "Hecho de Ojos"
+ r56w_trait_minister_black_falcon:0 "Muerte desde Arriba"
+ r56w_trait_minister_tai:0 "Solo Tai"
+ r56w_trait_minister_sorensen:0 "Realmente un General"
+ r56w_trait_minister_vfacure:0 "Todavía No Seguro"
+ r56w_trait_minister_sangriacus:0 "Meticuloso"
+ r56w_trait_minister_master_splinter:0 "Línea Temporal Alternativa"
+ r56w_trait_minister_antonius_magnus:0 "Magnánimo"
+ r56w_trait_minister_johan_schmidt:0 "Le Gustan las Flores"
+ r56w_trait_minister_mr_tsubodai:0 "Señor para Ti"
+ r56w_trait_minister_kriplaik:0 "Críptico"
 
-#Designer Traits
- r56w_trait_designer_massif_manufacturing:0 "So Very Massif"
- r56w_trait_designer_holst_planet_foundry:0 "Referenced"
- r56w_trait_designer_la_societe_construction:0 "Cannot Read French"
- r56w_trait_designer_efrafa_shipbuilding:0 "Books Are Great"
- r56w_trait_designer_heyoka_air:0 "Hello Ground"
+#Rasgos de Diseñadores
+ r56w_trait_designer_massif_manufacturing:0 "Muy Massif"
+ r56w_trait_designer_holst_planet_foundry:0 "Referenciado"
+ r56w_trait_designer_la_societe_construction:0 "No Puede Leer Francés"
+ r56w_trait_designer_efrafa_shipbuilding:0 "Los Libros Son Geniales"
+ r56w_trait_designer_heyoka_air:0 "Hola Suelo"
 
-#Generic Traits
- r56w_trait_generic_is_breathing:0 "Is Alive"
- r56w_trait_generic_is_breathing_desc:0 "Yep. Unless they're a secret zombie. That's always possible."
- r56_trait_anti_fascist:0 "Anti-Fascist"
- r56_trait_anti_democratic:0 "Anti-Democratic"
+#Rasgos Genéricos
+ r56w_trait_generic_is_breathing:0 "Está Vivo"
+ r56w_trait_generic_is_breathing_desc:0 "Sí. A menos que sea un zombi secreto. Eso siempre es posible."
+ r56_trait_anti_fascist:0 "Antifascista"
+ r56_trait_anti_democratic:0 "Antidemocrático"
 
-#Field Marshal Traits
- r56w_trait_marshal_master_exploder:0 "Master Exploder"
- r56w_trait_marshal_master_exploder_desc:0 "The movie was really bad though."
+#Rasgos de Mariscal de Campo
+ r56w_trait_marshal_master_exploder:0 "Maestro Explosivo"
+ r56w_trait_marshal_master_exploder_desc:0 "La película fue realmente mala, sin embargo."
 
-#Land Commander Traits
- r56w_trait_army_vibrates:0 "Vibrates"
- r56w_trait_army_vibrates_desc:0 "This General is capable of vibrating at high speed."
- r56w_trait_army_packed_lunch:0 "Packed Lunch"
- r56w_trait_army_packed_lunch_desc:0 "This General always remembers to pack a good lunch before going into battle."
- r56w_trait_army_saw_a_squirrel:0 "Saw a Squirrel"
- r56w_trait_army_saw_a_squirrel_desc:0 "Was that a squirrel? Where did it go?!"
- r56w_trait_army_knows_what_you_did:0 "Knows What You Did"
- r56w_trait_army_knows_what_you_did_desc:0 "They know."
- r56w_trait_army_force_user:0 "Force User"
- r56w_trait_army_force_user_desc:0 "Sure, why not?"
- r56w_trait_army_is_a_lemur:0 "Is a Lemur"
- r56w_trait_army_is_a_lemur_desc:0 "This General is a Lemur. Apparently."
- r56w_trait_army_personal_space:0 "Personal Space"
- r56w_trait_army_personal_space_desc:0 "This General has a very good sense of personal space."
- r56w_trait_army_free_coffee:0 "Quality Coffee"
- r56w_trait_army_free_coffee_desc:0 "Only the best, straight from the top of Murder Mountain."
+#Rasgos de Comandante de Tierra
+ r56w_trait_army_vibrates:0 "Vibra"
+ r56w_trait_army_vibrates_desc:0 "Este General es capaz de vibrar a alta velocidad."
+ r56w_trait_army_packed_lunch:0 "Almuerzo Empacado"
+ r56w_trait_army_packed_lunch_desc:0 "Este General siempre recuerda empacar un buen almuerzo antes de ir a la batalla."
+ r56w_trait_army_saw_a_squirrel:0 "Vio una Ardilla"
+ r56w_trait_army_saw_a_squirrel_desc:0 "¿Era una ardilla? ¿Dónde se fue?"
+ r56w_trait_army_knows_what_you_did:0 "Sabe lo que Hiciste"
+ r56w_trait_army_knows_what_you_did_desc:0 "Lo sabe."
+ r56w_trait_army_force_user:0 "Usuario de la Fuerza"
+ r56w_trait_army_force_user_desc:0 "Claro, ¿por qué no?"
+ r56w_trait_army_is_a_lemur:0 "Es un Lémur"
+ r56w_trait_army_is_a_lemur_desc:0 "Este General es un Lémur. Aparentemente."
+ r56w_trait_army_personal_space:0 "Espacio Personal"
+ r56w_trait_army_personal_space_desc:0 "Este General tiene un muy buen sentido del espacio personal."
+ r56w_trait_army_free_coffee:0 "Café de Calidad"
+ r56w_trait_army_free_coffee_desc:0 "Solo lo mejor, directamente desde la cima de la Montaña del Asesinato."
 
-#Naval Commander Traits
+#Rasgos de Comandante Naval
  r56w_trait_navy_ocean_haiku:0 "Haiku"
- r56w_trait_navy_ocean_haiku_desc:0 "I do like water \n It is so very dandy \n This is a Haiku"
- r56w_trait_navy_hates_water:0 "Hates Water"
- r56w_trait_navy_hates_water_desc:0 "It's more of a mutual disrespect."
- r56w_trait_navy_rubber_duck:0 "Rubber Duck"
- r56w_trait_navy_rubber_duck_desc:0 "This general possesses a rubber duck. From the future."
- r56w_trait_navy_can_swim:0 "Can Swim"
- r56w_trait_navy_can_swim_desc:0 "Probably."
+ r56w_trait_navy_ocean_haiku_desc:0 "Me gusta el agua \n Es muy encantadora \n Esto es un Haiku"
+ r56w_trait_navy_hates_water:0 "Odia el Agua"
+ r56w_trait_navy_hates_water_desc:0 "Es más una falta de respeto mutuo."
+ r56w_trait_navy_rubber_duck:0 "Pato de Goma"
+ r56w_trait_navy_rubber_duck_desc:0 "Este general posee un pato de goma. Del futuro."
+ r56w_trait_navy_can_swim:0 "Puede Nadar"
+ r56w_trait_navy_can_swim_desc:0 "Probablemente."
+
 
 
 #Leader Traits
- r56w_trait_leader_unemployed:0 "Unemployed"
- r56w_trait_leader_unemployed_desc:0 "World Conquest is a hobby."
- r56w_trait_leader_punny:0 "Punny"
- r56w_trait_leader_punny_desc:0 "Tells really awful old man jokes, and lots of puns."
- r56w_trait_leader_sounds_like_batman:0 "Sounds Like Batman"
- r56w_trait_leader_sounds_like_batman_desc:0 "The kid next door said so."
- r56w_trait_leader_life_experience:0 "Life Experience"
- r56w_trait_leader_life_experience_desc:0 "Has survived horrifying events beyond the ken of most mortals."
- r56w_trait_leader_shaved:0 "Shaved!"
- r56w_trait_leader_shaved_desc:0 "...and yet no one has any sympathy."
+ r56w_trait_leader_unemployed:0 "Desempleado"
+ r56w_trait_leader_unemployed_desc:0 "La conquista mundial es un pasatiempo."
+ r56w_trait_leader_punny:0 "Chistoso"
+ r56w_trait_leader_punny_desc:0 "Cuenta chistes de viejos terribles y muchos juegos de palabras."
+ r56w_trait_leader_sounds_like_batman:0 "Suena como Batman"
+ r56w_trait_leader_sounds_like_batman_desc:0 "El niño de al lado lo dijo."
+ r56w_trait_leader_life_experience:0 "Experiencia de Vida"
+ r56w_trait_leader_life_experience_desc:0 "Ha sobrevivido a eventos horribles más allá de la comprensión de la mayoría de los mortales."
+ r56w_trait_leader_shaved:0 "¡Afeitado!"
+ r56w_trait_leader_shaved_desc:0 "...y aun así nadie tiene simpatía."
  r56w_trait_leader_lycofluarop:0 "Lycofluarop"
- r56w_trait_leader_lycofluarop_desc:0 "Cursed to be a Wolf by night, Waffle by day."
- r56w_trait_leader_historical:0 "Super Historical"
- r56w_trait_leader_historical_desc:0 "The staff at the library knows him too well."
- r56w_trait_leader_badass:0 "Badass"
- r56w_trait_leader_badass_desc:0 "The very baddest of asses."
- r56w_trait_leader_fluffy:0 "Very Fluffy"
- r56w_trait_leader_fluffy_desc:0 "It's almost comforting. In an evil sort of way."
+ r56w_trait_leader_lycofluarop_desc:0 "Maldito a ser un Lobo de noche, Waffle de día."
+ r56w_trait_leader_historical:0 "Súper Histórico"
+ r56w_trait_leader_historical_desc:0 "El personal de la biblioteca lo conoce demasiado bien."
+ r56w_trait_leader_badass:0 "Rudo"
+ r56w_trait_leader_badass_desc:0 "El más rudo de los rudos."
+ r56w_trait_leader_fluffy:0 "Muy Esponjoso"
+ r56w_trait_leader_fluffy_desc:0 "Es casi reconfortante. De una manera malvada."
 
-###------> Modifiers <><> <><> <><> <><> <><>
+###------> Modificadores <><> <><> <><> <><> <><>
 
-#Opinion Modifiers
- r56w_opinion_modifier_shaved_stache:0 "Shaved Stache"
+#Modificadores de Opinión
+ r56w_opinion_modifier_shaved_stache:0 "Bigote Afeitado"
  r56w_opinion_modifier_shaved_stache_desc:0 ""
- r56w_opinion_modifier_not_in_the_club:0 "Not In The Club"
+ r56w_opinion_modifier_not_in_the_club:0 "No Está en el Club"
  r56w_opinion_modifier_not_in_the_club_desc:0 ""
- r56w_opinion_modifier_totally_op:0 "OP Nation"
- r56w_opinion_modifier_totally_op_desc:0 "Publicly condemned for being OP, but really everyone is just jelly."
- r56w_opinion_modifier_naval_invasion:0 "Naval Invasion"
+ r56w_opinion_modifier_totally_op:0 "Nación OP"
+ r56w_opinion_modifier_totally_op_desc:0 "Condenada públicamente por ser OP, pero en realidad todos están celosos."
+ r56w_opinion_modifier_naval_invasion:0 "Invasión Naval"
  r56w_opinion_modifier_naval_invasion_desc:0 ""
- r56w_opinion_modifier_opened_portal:0 "Opened Portal"
- r56w_opinion_modifier_opened_portal_desc:0 "Everyone is a bit upset that you opened a portal to the hell dimensions."
+ r56w_opinion_modifier_opened_portal:0 "Portal Abierto"
+ r56w_opinion_modifier_opened_portal_desc:0 "Todos están un poco molestos porque abriste un portal a las dimensiones infernales."
 
-###------> Focuses <><> <><> <><> <><> <><>
+###------> Enfoques <><> <><> <><> <><> <><>
 
 #WHY
- r56w_focus_WHY_totally_op:0 "It's Super OP"
- r56w_focus_WHY_totally_op_desc:0 "YES. WE KNOW."
+ r56w_focus_WHY_totally_op:0 "Es Súper OP"
+ r56w_focus_WHY_totally_op_desc:0 "SÍ. LO SABEMOS."
+
 
 #####---------------------------------------------------------------------> End
