@@ -1,6 +1,6 @@
 ﻿l_spanish:
- ABILITY_RESERVE_TRANSFER:0 "Reserve Transfer"
- ABILITY_RESERVE_TRANSFER_DESC:0 "A fresh supply of troops is essential to keep the fighting divisions ready to fight."
+ABILITY_RESERVE_TRANSFER:0 "Transferencia de Reservas"
+ABILITY_RESERVE_TRANSFER_DESC:0 "Un suministro fresco de tropas es esencial para mantener las divisiones combatientes listas para luchar."
 
- ABILITY_EXTRA_FUEL_RESERVES:0 "Extra Fuel Reserves"
- ABILITY_EXTRA_FUEL_RESERVES_DESC:0 "Ordering the troops to ensure that more fuel is carried by the supply train will ensure that the motorized troops will not run dry."
+ABILITY_EXTRA_FUEL_RESERVES:0 "Reservas Adicionales de Combustible"
+ABILITY_EXTRA_FUEL_RESERVES_DESC:0 "Ordenar a las tropas que aseguren que más combustible sea transportado por el tren de suministros garantizará que las tropas motorizadas no se queden sin combustible."
