@@ -1,22 +1,27 @@
 ﻿l_spanish:
-operation_targeted_attack_officers:0 "Attack Enemy Officers"
-operation_targeted_attack_officers_desc:0 "By attack enemy officers we can significantly disturb the chain of command and weaken the commanding capabilities of an enemy commander."
-targeted_attack_theater:0 "Attack Military Theater"
-targeted_attack_theater_desc:0 "A place where a lot of officers gather to relax is the ideal place to surprise them and eliminate both enemies and collaborators. The spectacle will not be on stage this time..."
-targeted_attack_theater_outcome:0 "The bomb planted in the middle of the public had a devastating effect, killing and injuring many officers of the general staff of the division stationed in the area, crippling its military efficiency."
-targeted_bomb_officers_mess:0 "Attack Officers Mess"
-targeted_bomb_officers_mess_desc:0 "Where to find a lot of officers if not at a mess? Making a mess out of it would surely disorganize local units."
-targeted_attack_theater_outcome:0 "While the soup was cooking, the bomb was ticking. The noise in the busy room was soon covered by a large explosion...followed by a second of silence and the crying of commanders of the local [FROM.getAdjective] unit."
-targeted_assassinate_division_commander:0 "Target the General"
-targeted_assassinate_division_commander_desc:0 "There is no better way to disorganize a division than to decapitate its head. It will demoralize the troops and force the [FROM.getAdjective] army to appoint a less experienced replacement."
-targeted_assassinate_divison_commander_outcome:0 "Using stealth and surprise, grenades were lobbed in the commanders car followed by additional gunshots in order to dispatch the pursuers."
-targeted_attack_theater_outcome:0 "It was quick, brief. Our agents were waiting for the commanders car. A couple of grenades, a few bullets and it was done."
-operation_outcome_officers_assassinated_tt:0 "A random [FROM.GetNameWithFlag] §Ycommander§! leading troops will gain the trait §YWounded§! for §Y90 days§!"
+operation_targeted_attack_officers:0 "Atacar a los Oficiales Enemigos"
+operation_targeted_attack_officers_desc:0 "Al atacar a los oficiales enemigos, podemos perturbar significativamente la cadena de mando y debilitar las capacidades de comando de un comandante enemigo."
 
-operation_targeted_plant_false_new_order_intel:0 "Plant Fake German Map"
-operation_targeted_plant_false_new_order_intel_desc:0 "By forcing the discovery of a forged map supposed to represent the German plans for the Western Hemisphere, we can irritate [USA.GetLeader] and force him to take a stronger stance towards [GER.getNameDef]."
+targeted_attack_theater:0 "Atacar el Teatro Militar"
+targeted_attack_theater_desc:0 "Un lugar donde muchos oficiales se reúnen para relajarse es el lugar ideal para sorprenderlos y eliminar tanto a enemigos como a colaboradores. Esta vez, el espectáculo no estará en el escenario..."
+targeted_attack_theater_outcome:0 "La bomba plantada en medio del público tuvo un efecto devastador, matando y hiriendo a muchos oficiales del estado mayor de la división estacionada en la zona, paralizando su eficiencia militar."
 
-operation_outcome_new_order_map_planted_tt:0 "§Y[FROM.GetNameWithFlag]§! will gain §G+5%§! War Support and will decrease its opinion of §Y[GER.GetNameDef]§!!"
+targeted_bomb_officers_mess:0 "Atacar el Comedor de Oficiales"
+targeted_bomb_officers_mess_desc:0 "¿Dónde encontrar a muchos oficiales si no en un comedor? Convertirlo en un caos seguramente desorganizaría las unidades locales."
+targeted_bomb_officers_mess_outcome:0 "Mientras la sopa se cocinaba, la bomba estaba haciendo tic-tac. El ruido en la concurrida sala pronto fue cubierto por una gran explosión... seguida de un segundo de silencio y los llantos de los comandantes de la unidad local [FROM.getAdjective]."
 
- r56_leader_events.1.t:0 "[From.GetNameDefCap] Escaped Miraculously"
- r56_leader_events.1.desc:0 "While commanding his troops, [From.GetRank] [From.GetName] put [From.GetHerselfHimself] in danger, and for a little while, it was feared that [From.GetSheHe] was hit personally. But despite the enemy's attempts, fate had other plans for [From.GetRank] [From.GetName], who is unscathed and ready to continue the war."
+targeted_assassinate_division_commander:0 "Objetivo: El General"
+targeted_assassinate_division_commander_desc:0 "No hay mejor manera de desorganizar una división que decapitar su liderazgo. Desmoralizará a las tropas y obligará al ejército [FROM.getAdjective] a nombrar un reemplazo menos experimentado."
+targeted_assassinate_division_commander_outcome:0 "Utilizando el sigilo y la sorpresa, se lanzaron granadas en el coche del comandante seguidas de disparos adicionales para despachar a los perseguidores."
+
+targeted_attack_theater_outcome:0 "Fue rápido, breve. Nuestros agentes estaban esperando el coche del comandante. Un par de granadas, unos cuantos disparos y todo había terminado."
+
+operation_outcome_officers_assassinated_tt:0 "Un [FROM.GetNameWithFlag] §Ycomandante§! aleatorio al mando de tropas ganará el rasgo §YHerido§! por §Y90 días§!"
+
+operation_targeted_plant_false_new_order_intel:0 "Plantación de Mapa Falso Alemán"
+operation_targeted_plant_false_new_order_intel_desc:0 "Al forzar el descubrimiento de un mapa falsificado que supuestamente representa los planes alemanes para el hemisferio occidental, podemos irritar a [USA.GetLeader] y obligarlo a adoptar una postura más firme hacia [GER.getNameDef]."
+
+operation_outcome_new_order_map_planted_tt:0 "§Y[FROM.GetNameWithFlag]§! ganará §G+5%§! de Apoyo Bélico y disminuirá su opinión de §Y[GER.GetNameDef]§!!"
+
+r56_leader_events.1.t:0 "[From.GetNameDefCap] Escapó Milagrosamente"
+r56_leader_events.1.desc:0 "Mientras comandaba a sus tropas, [From.GetRank] [From.GetName] se puso en peligro, y por un momento se temió que [From.GetSheHe] fuera alcanzado personalmente. Pero a pesar de los intentos del enemigo, el destino tenía otros planes para [From.GetRank] [From.GetName], quien está ileso y listo para continuar la guerra."
