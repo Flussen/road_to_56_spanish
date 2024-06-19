@@ -8,7 +8,7 @@
 
  FRA_mio_trait_modular_turret:0 "Modular Turret"
 
- FRA_liberalism_desc:0 «§¡Radicalismo§! ¡§Es, en Francia, una posición política que reivindica la herencia de 1789, marcada en particular por§! ¡§BAnticlericalismo§! §¡Y la defensa del §!§HSufragio Universal§!§W.§!"
+ FRA_liberalism_desc:0 "§¡Radicalismo§! ¡§Es, en Francia, una posición política que reivindica la herencia de 1789, marcada en particular por§! ¡§BAnticlericalismo§! §¡Y la defensa del §!§HSufragio Universal§!§W.§!"
 
  FRA_communism_party:0 "PCF"
  FRA_communism_party_long:0 "Parti Communiste Français"
@@ -27,7 +27,7 @@
  continental_system:0 "Sistema continental"
  FRA_the_american_napoleon:0 "El Napoleón americano"
  FRA_repatriate_the_remains_of_napoleon_ii:0 "Repatriar los restos del aguilucho"
- FRA_repatriate_the_remains_of_napoleon_ii_desc:0 "Napoleón II, Príncipe de Roma, comúnmente conocido como «el Aguilucho», fue el único hijo de Napoleón el Grande y María Luisa de Austria. Murió en 1832 y fue enterrado en Viena. Ha llegado el momento de reunir a padre e hijo y darle la sepultura imperial que merece en el Dôme des Invalides."
+ FRA_repatriate_the_remains_of_napoleon_ii_desc:0 "Napoleón II, Príncipe de Roma, comúnmente conocido como 'el Aguilucho', fue el único hijo de Napoleón el Grande y María Luisa de Austria. Murió en 1832 y fue enterrado en Viena. Ha llegado el momento de reunir a padre e hijo y darle la sepultura imperial que merece en el Dôme des Invalides."
 
  #flags#
 catalonia_ceded_to_france:0 "Cataluña fue cedida a [FRA.GetNameDef]"
@@ -613,8 +613,8 @@ FRA_militarist_society:0 "Sociedad Militarista"
 FRA_militarist_society_desc:0 "El pacifismo nos impide tener la gloria que merecemos. Los esfuerzos para militarizar más la sociedad permitirán que [FRA.GetNameDef] recupere su grandeza militar."
 FRA_national_integralism:0 "Integralismo Nacional"
 FRA_national_integralism_desc:0 "Para asegurar la perennidad del nuevo reino, debemos seguir la doctrina integralista imaginada por Charles Maurras. Esto garantizará la cohesión y grandeza del territorio [FRA.GetAdjective]."
-FRA_the_new_continental_system:0 "El Nuevo Sistema Continental"
-FRA_the_new_continental_system_desc:0 "Europa tiene muchas potencias que estarán listas para iniciar una guerra ante el menor incidente territorial. Para asegurar nuestro lugar en el continente, debemos crear nuestro propio bloque para que nuestros intereses sean prioritarios."
+FRA_the_new_continental_system:0 "The New Continental System"
+FRA_the_new_continental_system_desc:0 "Europe has many powers that will be ready to start a war at the slightest territorial incident. In order to secure our place in the continent, we must create our own bloc so that our interests are put first."
 FRA_our_natural_borders:0 "Nuestras Fronteras Naturales"
 FRA_our_natural_borders_desc:0 "Para asegurar la seguridad de [FRA.GetNameDef], nuestra frontera norte debe seguir el curso del Rin. Es hora de recuperar nuestra frontera legítima."
 FRA_compromise_with_germany:0 "Compromiso con [GER.GetNameDef]"

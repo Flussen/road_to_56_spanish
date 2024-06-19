@@ -210,7 +210,7 @@ hfighter_bomber_equipment_3_short:0 "Caza-Bombardero Pesado '44"
 hfighter_bomber_equipment_3_desc:0 "Un caza pesado avanzado modificado para el rol de ataque a tierra."
 
 
-"Medium Maritime '36"
+# Medium Maritime '36
 med_maritime_equipment_1_short:0 "Marítimo Medio '36"
 med_maritime_equipment_1_desc:0 "Bombardero Medio modificado para patrullaje marítimo, vigilancia, misiones antisuperficie y antisubmarinas."
 med_maritime_equipment_2:0 "Marítimo Medio '40"

@@ -2,8 +2,8 @@
 
 l_spanish:
  #placeholders
- tech_trucks:0 «Camiones»
- tech_trucks_desc:0 «Vroom Vroom»
+ tech_trucks:0 "Camiones"
+ tech_trucks_desc:0 "Vroom Vroom"
  #############
 
 motorized_rocket_equipment:0 "Artillería de cohetes motorizada"
@@ -469,7 +469,7 @@ r56_modern_military_railnetwork_2_desc:0 "Las lecciones en ferrocarriles militar
  ENG_mechanized_equipment_2_desc:0 "Conversión de los Stuart M3/M5 en desuso a un papel de apoyo más valioso como vehículos blindados de transporte de tropas (APC) y otras tareas que requerían vehículos motorizados. Los Stuart Kangaroos sirvieron magníficamente al ejército británico a lo largo de sus campañas en África durante la guerra, pero la falta de blindaje o de capacidad de carga se notó mucho."
  ENG_mechanized_equipment_3:0 "Ram Kangaroo"
  ENG_mechanized_equipment_3_short:0 "Ram Kangaroo"
- ENG_mechanized_equipment_3_desc:0 "Los Ram Kangaroos fueron una medida provisional ideada por ingenieros de campo bajo las órdenes del general canadiense Guy Simonds para cubrir la necesidad urgente de APC en sus unidades. Creados a partir de M7 Priest «desguazados» (mediante la retirada de sus cañones de artillería pesada), estos vehículos también tienen su origen en tanques Ram y Sherman obsoletos y excedentes de las necesidades. Armados con simples ametralladoras de calibre .30 o .50, estos vehículos servían bien como autobuses de enlace con las zonas de combate."
+ ENG_mechanized_equipment_3_desc:0 "Los Ram Kangaroos fueron una medida provisional ideada por ingenieros de campo bajo las órdenes del general canadiense Guy Simonds para cubrir la necesidad urgente de APC en sus unidades. Creados a partir de M7 Priest 'desguazados' (mediante la retirada de sus cañones de artillería pesada), estos vehículos también tienen su origen en tanques Ram y Sherman obsoletos y excedentes de las necesidades. Armados con simples ametralladoras de calibre .30 o .50, estos vehículos servían bien como autobuses de enlace con las zonas de combate."
  ENG_mechanized_equipment_x:0 "Humber Pig"
  ENG_mechanized_equipment_x_short:0 "Pig"
  ENG_mechanized_equipment_x_desc:0 "El Pig era un camión ligeramente blindado utilizado por el ejército británico. Propulsado por un motor Rolls-Royce de 6 cilindros y 150 CV, y equipado con tracción a las cuatro ruedas, grandes ruedas todoterreno, así como suspensiones reforzadas de alta resistencia, no era ajeno a las condiciones todoterreno."
@@ -803,7 +803,7 @@ r56_modern_military_railnetwork_2_desc:0 "Las lecciones en ferrocarriles militar
  HOL_motorized_rocket_equipment_1_short:0 "12,7cm Raket M.43"
  HOL_motorized_equipment_1:0 "DAF Trado"
  HOL_motorized_equipment_1_short:0 "DAF Trado"
- HOL_motorized_equipment_1_desc:0 "El sistema de suspensión Trado tuvo un considerable éxito comercial y se aplicó a muchos nuevos tipos de camiones civiles y militares. Consistía en un bogie de ballestas con dos ruedas de carretera accionadas que se podían acoplar, accionar y girar fácilmente sobre el eje trasero de cualquier camión comercial, añadiendo así una «viga andante» al vehículo que mejoraba notablemente sus prestaciones campo a través."
+ HOL_motorized_equipment_1_desc:0 "El sistema de suspensión Trado tuvo un considerable éxito comercial y se aplicó a muchos nuevos tipos de camiones civiles y militares. Consistía en un bogie de ballestas con dos ruedas de carretera accionadas que se podían acoplar, accionar y girar fácilmente sobre el eje trasero de cualquier camión comercial, añadiendo así una 'viga andante' al vehículo que mejoraba notablemente sus prestaciones campo a través."
  HOL_mechanized_equipment_1:0 "Braat Overvalwagen"
  HOL_mechanized_equipment_1_short:0 "Overvalwagen"
  HOL_mechanized_equipment_1_desc:0 "Diseñado en 1940 y basado en un camión Chevrolet COE (Cab Over Chassis). Para desviar o detener el fuego de armas ligeras, el casco inclinado tenía un grosor de 20 mm en el glacis delantero y de 12 mm en los laterales y la parte trasera. La cabina principal contaba con un panel abatible blindado para el conductor y una rendija de visión lateral, mientras que la posición del comandante disponía de una casamata de tres caras que albergaba una ametralladora Browning calibre 30 (7,62 mm) refrigerada por aire o una Vickers calibre 303 (7,7 mm) refrigerada por líquido y una escotilla trasera."
@@ -1266,7 +1266,7 @@ r56_modern_military_railnetwork_2_desc:0 "Las lecciones en ferrocarriles militar
  USA_mechanized_equipment_1_desc:0 "Inspirado en los semiorugas franceses, el semioruga M2 fue concebido inicialmente como tractor de artillería, pero tenía un gran potencial para servir de transporte a la infantería mecanizada. La gran mayoría de estos semiorugas fueron fabricados por las empresas White Motor Company y Autocar Company."
  USA_mechanized_equipment_1_short:0 "Half Track Car M2"
  USA_mechanized_equipment_2:0 "Half Track Car M3"
- USA_mechanized_equipment_2_desc:0 "Producido por Autocar Company, Diamond T Motor Company y White Motor Company, el M3 estaba equipado con una ametralladora M2 del calibre 50 y algunos soportes para más. Las tropas se quejaban de la falta de protección que ofrecían los paneles blindados, y apodaban a estos vehículos «Cajas de Corazón Púrpura», ya que las medallas suelen entregarse a los militares heridos o muertos sobre el terreno."
+ USA_mechanized_equipment_2_desc:0 "Producido por Autocar Company, Diamond T Motor Company y White Motor Company, el M3 estaba equipado con una ametralladora M2 del calibre 50 y algunos soportes para más. Las tropas se quejaban de la falta de protección que ofrecían los paneles blindados, y apodaban a estos vehículos 'Cajas de Corazón Púrpura', ya que las medallas suelen entregarse a los militares heridos o muertos sobre el terreno."
  USA_mechanized_equipment_2_short:0 "Half Track Car M3"
  USA_mechanized_equipment_3:0 "M39 Armored Utility Vehicle"
  USA_mechanized_equipment_3_desc:0 "Construido sobre el chasis del M18 Hellcat, el AUV tuvo una amplia gama de usos, desde ser transportes de tropas, ambulancias de evacuación médica y portadores de munición para obuses autopropulsados. Al igual que los diseños anteriores, su delgado blindaje y la parte superior abierta hacían que las tripulaciones fueran vulnerables al fuego enemigo."
