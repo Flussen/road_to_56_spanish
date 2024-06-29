@@ -28,1132 +28,1159 @@
  AUS_leopold_figl:0 "Leopold Figl"
  AUS_wilhelm_miklas:0 "Wilhelm Miklas"
  AUS_gottfried_von_banfield:0 "Gottfried von Banfield"
- AST_prince_henry:0 "Prince Henry, Duke of Gloucester"
+ AST_prince_henry:0 "Príncipe Enrique, Duque de Gloucester"
 
- #POLITICS
- AUS_fascism_ideology_desc:0 "§YAustrofascism§! is the authoritarian system installed in Austria with the May Constitution of 1934. It is based on a ruling party, the §YFatherland Front§! (Vaterländische Front) and the §YHeimwehr§! (Home Guard) paramilitary militia, and espouses §Hstate Catholicism§!, §gcorporatism§!, and §BAustrian nationalism§!."
+# POLITICS
+AUS_fascism_ideology_desc:0 "§YAustrofascismo§! es el sistema autoritario instalado en Austria con la Constitución de mayo de 1934. Se basa en un partido gobernante, el §YFrente Patriótico§! (Vaterländische Front) y la milicia paramilitar §YHeimwehr§! (Guardia Nacional), y defiende el §Hcatolicismo estatal§!, el §gcorporativismo§! y el §Bnacionalismo austriaco§!."
 
- #FOCUS
- AUS_subsidize_STRABAG_construction:0 "Subsidize STRABAG Construction"
- AUS_subsidize_STRABAG_construction_desc:0 "No matter how many resources we apply, [AUS.GetNameDef] can only produce new military installations so quickly. We must secure more industrial assets, such as STRABAG SE's. Their assistance will be invaluable in keeping us ahead in industrial matters."
- AUS_subsidize_STRABAG_construction_tt:0 "Unlocks STRABAG Construction Industrial Concern\n"
+# FOCUS
+AUS_subsidize_STRABAG_construction:0 "Subvencionar la Construcción de STRABAG"
+AUS_subsidize_STRABAG_construction_desc:0 "No importa cuántos recursos apliquemos, [AUS.GetNameDef] solo puede producir nuevas instalaciones militares a una cierta velocidad. Debemos asegurar más activos industriales, como los de STRABAG SE. Su asistencia será invaluable para mantenernos a la vanguardia en asuntos industriales."
+AUS_subsidize_STRABAG_construction_tt:0 "Desbloquea Preocupación Industrial de Construcción de STRABAG\n"
 
- AUS_fortify_the_austrian_alps:0 "Fortify the Austrian Alps"
- AUS_fortify_the_austrian_alps_desc:0 "The Austrian Alps represent an indispensable natural barrier. We can render our territories practically impregnable if we put effort into ensuring that they are adequately fortified."
- AUS_fortify_the_austrian_alps_tt:0 "Add §Y14 Land Forts§! along the Austrian Central Alps."
+AUS_fortify_the_austrian_alps:0 "Fortificar los Alpes Austriacos"
+AUS_fortify_the_austrian_alps_desc:0 "Los Alpes Austriacos representan una barrera natural indispensable. Podemos hacer que nuestros territorios sean prácticamente inexpugnables si nos esforzamos en asegurarnos de que estén adecuadamente fortificados."
+AUS_fortify_the_austrian_alps_tt:0 "Añade §Y14 Fortalezas Terrestres§! a lo largo de los Alpes Centrales Austriacos."
 
- AUS_fortify_the_danube_and_drava_rivers:0 "Fortify the Danube and Drava Rivers"
- AUS_fortify_the_danube_and_drava_rivers_desc:0 "The Danube and the Drava have long been economic boons to Austria, but our interest is not only financial. They are tough to cross - more so if we fortify them against enemy incursion."
- AUS_fortify_the_danube_and_drava_rivers_tt:0 "Add §Y18 Land Forts§! along the Austrian Danube and Drava rivers."
+AUS_fortify_the_danube_and_drava_rivers:0 "Fortificar los Ríos Danubio y Drava"
+AUS_fortify_the_danube_and_drava_rivers_desc:0 "El Danubio y el Drava han sido durante mucho tiempo beneficios económicos para Austria, pero nuestro interés no es solo financiero. Son difíciles de cruzar, aún más si los fortificamos contra incursiones enemigas."
+AUS_fortify_the_danube_and_drava_rivers_tt:0 "Añade §Y18 Fortalezas Terrestres§! a lo largo de los ríos Danubio y Drava en Austria."
 
- AUS_defend_our_new_borders:0 "Defend Our New Borders"
- AUS_defend_our_new_borders_desc:0 "Now that we have occupied the mountainous [SWI.GetAdjective] terrain, their borders are our borders. We should ensure that none of the larger nations will come through here."
- AUS_defend_our_new_borders_tt:0 "Add §Y28 Land Forts§! along the [FRA.GetAdjective], [GER.GetAdjective], and [ITA.GetAdjective] border with Switzerland."
+AUS_defend_our_new_borders:0 "Defender Nuestras Nuevas Fronteras"
+AUS_defend_our_new_borders_desc:0 "Ahora que hemos ocupado el terreno montañoso [SWI.GetAdjective], sus fronteras son nuestras fronteras. Debemos asegurarnos de que ninguna de las naciones más grandes entre por aquí."
+AUS_defend_our_new_borders_tt:0 "Añade §Y28 Fortalezas Terrestres§! a lo largo de la frontera con [FRA.GetAdjective], [GER.GetAdjective] y [ITA.GetAdjective] con Suiza."
 
- AUS_open_the_mittersill_mine:0 "Open the Mittersill Tungsten Mine"
- AUS_open_the_mittersill_mine_desc:0 "There is precious little tungsten to be had in the world - and we are sitting directly atop a massive reserve of it. Our industrial consultants have surveyed samples from Mittersill and advised us to begin excavations there."
+AUS_open_the_mittersill_mine:0 "Abrir la Mina de Tungsteno de Mittersill"
+AUS_open_the_mittersill_mine_desc:0 "Hay muy poco tungsteno en el mundo, y estamos sentados directamente sobre una reserva masiva de este. Nuestros consultores industriales han examinado muestras de Mittersill y nos han aconsejado comenzar las excavaciones allí."
 
- AUS_expand_erzberg_mine:0 "Expand Erzberg Iron Mine"
- AUS_expand_erzberg_mine_desc:0 "The Erzberg Mine is the largest reserve of iron that [AUS.GetNameDef] possesses, and as of yet, we don't exploit it as thoroughly as we could. Extending our open-pit operations should increase our ready supply of steel."
+AUS_expand_erzberg_mine:0 "Expandir la Mina de Hierro de Erzberg"
+AUS_expand_erzberg_mine_desc:0 "La mina de Erzberg es la reserva de hierro más grande que posee [AUS.GetNameDef], y hasta ahora, no la explotamos tan a fondo como podríamos. Ampliar nuestras operaciones a cielo abierto debería aumentar nuestro suministro disponible de acero."
 
- AUS_expand_the_vienna_basin_oilfield:0 "Expand the Vienna Basin Oilfield"
- AUS_expand_the_vienna_basin_oilfield_desc:0 "We have a possibility in the Vienna oil basin, but our current rate of oil processing is lacking. Expanding our industry will be vital to a diverse and powerful war machine."
+AUS_expand_the_vienna_basin_oilfield:0 "Expandir el Campo Petrolífero de la Cuenca de Viena"
+AUS_expand_the_vienna_basin_oilfield_desc:0 "Tenemos una posibilidad en la cuenca petrolífera de Viena, pero nuestra tasa actual de procesamiento de petróleo es insuficiente. Ampliar nuestra industria será vital para una máquina de guerra diversa y poderosa."
 
- AUS_extend_the_grossglockner_highway:0 "Extend the Grossglockner Highway"
- AUS_extend_the_grossglockner_highway_desc:0 "The Grossglockner Highway is a scenic route through the Austrian mountains, from Salzburg in the north to Carinthia in the south. It is an excellent feat of engineering, but we can improve on it by extending its route throughout Austria."
- AUS_extend_the_grossglockner_highway_tt:0 "Add §YMaximum Infrastructure§! in §YTyrol§!, §YUpper Austria§! and §YLower Austria§!."
+AUS_extend_the_grossglockner_highway:0 "Extender la Autopista Grossglockner"
+AUS_extend_the_grossglockner_highway_desc:0 "La Autopista Grossglockner es una ruta escénica a través de las montañas austriacas, desde Salzburgo en el norte hasta Carintia en el sur. Es una gran obra de ingeniería, pero podemos mejorarla extendiendo su ruta por toda Austria."
+AUS_extend_the_grossglockner_highway_tt:0 "Añade §YInfraestructura Máxima§! en §YTirol§!, §YAlta Austria§! y §YBaja Austria§!."
 
- AUS_hungarian_railways_and_roads_project:0 "Hungarian Railways and Roads Project"
- AUS_hungarian_railways_and_roads_project_desc:0 "The Hungarian transport system used to be the responsibility of the Austrian government before the separation of our states. Now that we are rejoined, it is up to us to bring their infrastructure up to snuff."
- AUS_hungarian_railways_and_roads_project_tt:0 "Add §YMaximum Infrastructure§! in §YTransdanubia§!, §YNorthern Hungary§! and §YAlföld§!."
+AUS_hungarian_railways_and_roads_project:0 "Proyecto de Ferrocarriles y Carreteras Húngaras"
+AUS_hungarian_railways_and_roads_project_desc:0 "El sistema de transporte húngaro solía ser responsabilidad del gobierno austriaco antes de la separación de nuestros estados. Ahora que estamos reunidos, nos corresponde a nosotros mejorar su infraestructura."
+AUS_hungarian_railways_and_roads_project_tt:0 "Añade §YInfraestructura Máxima§! en §YTransdanubia§!, §YNorte de Hungría§! y §YAlföld§!."
 
- AUS_construct_papa_air_base:0 "Construct Pápa Air Base"
- AUS_construct_papa_air_base_desc:0 "The Pápa Air Base has been under production since 1936, and with [AUS.GetAdjective] intervention, it can be at last completed. More air capacity would be invaluable for our war efforts."
+AUS_construct_papa_air_base:0 "Construir la Base Aérea de Pápa"
+AUS_construct_papa_air_base_desc:0 "La Base Aérea de Pápa ha estado en construcción desde 1936, y con la intervención de [AUS.GetAdjective], finalmente se puede completar. Más capacidad aérea sería invaluable para nuestros esfuerzos de guerra."
 
-AUS_industrialise_the_great_hungarian_plains:0 "Industrialize the Great Hungarian Plains"
-AUS_industrialise_the_great_hungarian_plains_desc:0 "Hungary has great swathes of land that is entirely usable for industrial purposes and is unneeded for any other purpose. The fact that this has not been exploited yet is a travesty in itself. We will develop this land to contribute to our efforts."
-AUS_industrialise_the_great_hungarian_plains_tt:0 "Controlling §YVojvodina§!, §YWest Banat§!, §YBanat§!, §YCrisana§!, §YTransylvania§!, and/or §YNorth Transylvania§! will extend the industrialization to those states as well."
+AUS_industrialise_the_great_hungarian_plains:0 "Industrializar las Grandes Llanuras Húngaras"
+AUS_industrialise_the_great_hungarian_plains_desc:0 "Hungría tiene grandes extensiones de tierra que son completamente utilizables para fines industriales y no son necesarias para ningún otro propósito. El hecho de que esto aún no haya sido explotado es una tragedia en sí misma. Desarrollaremos esta tierra para contribuir a nuestros esfuerzos."
+AUS_industrialise_the_great_hungarian_plains_tt:0 "Controlar §YVojvodina§!, §YOeste de Banat§!, §YBanat§!, §YCrisana§!, §YTransilvania§! y/o §YNorte de Transilvania§! extenderá la industrialización a esos estados también."
 
-AUS_fortify_the_hungarian_danube:0 "Fortify the Hungarian Danube"
-AUS_fortify_the_hungarian_danube_desc:0 "The Danube is a vital part of Hungary's defensive potential as well. We will continue our fortification efforts here."
-AUS_fortify_the_hungarian_danube_tt:0 "Add §Y20 Land Forts§! along the Transdanubian Border"
+AUS_fortify_the_hungarian_danube:0 "Fortificar el Danubio Húngaro"
+AUS_fortify_the_hungarian_danube_desc:0 "El Danubio también es una parte vital del potencial defensivo de Hungría. Continuaremos nuestros esfuerzos de fortificación aquí."
+AUS_fortify_the_hungarian_danube_tt:0 "Añade §Y20 Fortalezas Terrestres§! a lo largo de la frontera Transdanubiana."
 
-AUS_secure_the_two_cities:0 "Secure the Two Cities"
-AUS_secure_the_two_cities_desc:0 "The twin imperial cities of Budapest and Vienna have a shared history that predates many of the great cities of the modern day. Now that we have secured both of them, it is intended that neither of them falls out of [AUS.GetAdjective] hands again."
-AUS_secure_the_two_cities_tt:0 "Add §Y3 Land Forts§! in Vienna and Budapest."
+AUS_secure_the_two_cities:0 "Asegurar las Dos Ciudades"
+AUS_secure_the_two_cities_desc:0 "Las ciudades imperiales gemelas de Budapest y Viena tienen una historia compartida que precede a muchas de las grandes ciudades modernas. Ahora que hemos asegurado ambas, la intención es que ninguna de ellas caiga fuera de manos [AUS.GetAdjective] de nuevo."
+AUS_secure_the_two_cities_tt:0 "Añade §Y3 Fortalezas Terrestres§! en Viena y Budapest."
 
-AUS_transylvanian_highways_project:0 "Transylvanian Highways Project"
-AUS_transylvanian_highways_project_desc:0 "Transylvania has always been Austro-Hungarian, and the rule of [ROM.GetNameDef] in recent years has left it sadly underdeveloped, to the point of being undeserving of our association. Nonetheless, it is our land, and we will take care of it."
-AUS_transylvanian_highways_project_tt:0 "Add §Y3 Infrastructure§! in the Transylvanian Region."
+AUS_transylvanian_highways_project:0 "Proyecto de Autopistas de Transilvania"
+AUS_transylvanian_highways_project_desc:0 "Transilvania siempre ha sido austrohúngara, y el gobierno de [ROM.GetNameDef] en los últimos años la ha dejado tristemente subdesarrollada, hasta el punto de ser indigna de nuestra asociación. No obstante, es nuestra tierra, y nos encargaremos de ella."
+AUS_transylvanian_highways_project_tt:0 "Añade §Y3 Infraestructuras§! en la región de Transilvania."
 
-AUS_road_to_the_black_sea:0 "Road to the Black Sea"
-AUS_road_to_the_black_sea_desc:0 "The Black Sea has always been a historically significant body of water, not least because it represents [SOV.GetAdjective] access to the Mediterranean. We must secure our place in its waters - but first, we must ensure that we can reach those waters quickly."
-AUS_road_to_the_black_sea_tt:0 "Add §Y3 Infrastructure§! in the Romanian Region."
+AUS_road_to_the_black_sea:0 "Camino al Mar Negro"
+AUS_road_to_the_black_sea_desc:0 "El Mar Negro siempre ha sido un cuerpo de agua históricamente significativo, no menos porque representa el acceso de [SOV.GetAdjective] al Mediterráneo. Debemos asegurar nuestro lugar en sus aguas, pero primero debemos asegurarnos de poder llegar a esas aguas rápidamente."
+AUS_road_to_the_black_sea_tt:0 "Añade §Y3 Infraestructuras§! en la región de Rumanía."
 
-AUS_the_carpathian_line:0 "The Carpathian Line"
-AUS_the_carpathian_line_desc:0 "Carpathian Ruthenia is a land integral to Hungarian history, and our brothers in imperial union hold it as dear to their hearts as we do. We will defend it to the last drop of [AUS.GetAdjective] blood - but it doesn't need to come to that if we fortify it."
-AUS_the_carpathian_line_tt:0 "Extends the fortification line to §YCarpathian Ruthenia§! and §YOltenia§! if you control them."
+AUS_the_carpathian_line:0 "La Línea de los Cárpatos"
+AUS_the_carpathian_line_desc:0 "La Rutenia Cárpatos es una tierra integral en la historia de Hungría, y nuestros hermanos en unión imperial la tienen tan cerca de sus corazones como nosotros. La defenderemos hasta la última gota de sangre [AUS.GetAdjective], pero no tiene que llegar a eso si la fortificamos."
+AUS_the_carpathian_line_tt:0 "Extiende la línea de fortificación a §YRutenia Cárpatos§! y §YOltenia§! si los controlas."
 
-AUS_expand_the_constanta_shipyards:0 "Expand the Constanta Shipyards"
-AUS_expand_the_constanta_shipyards_desc:0 "The Constanta Shipyard is the largest in Romania. Her industrial capacity is unrivaled throughout our territory; the opportunity she presents now that we control her is too valuable to pass up. We can develop her even further if we wish."
+AUS_expand_the_constanta_shipyards:0 "Expandir los Astilleros de Constanta"
+AUS_expand_the_constanta_shipyards_desc:0 "El Astillero de Constanta es el más grande de Rumanía. Su capacidad industrial es incomparable en todo nuestro territorio; la oportunidad que presenta ahora que lo controlamos es demasiado valiosa para dejarla pasar. Podemos desarrollarlo aún más si lo deseamos."
 
-AUS_cacova_ierii_iron_mine:0 "Cacova Ierii Iron Mine"
-AUS_cacova_ierii_iron_mine_desc:0 "The iron reserves of Romania are not as significant as those of our home soil, but what we can find, we will exploit. How else can we expect to survive as a nation?"
+AUS_cacova_ierii_iron_mine:0 "Mina de Hierro de Cacova Ierii"
+AUS_cacova_ierii_iron_mine_desc:0 "Las reservas de hierro de Rumanía no son tan significativas como las de nuestro suelo natal, pero lo que podamos encontrar, lo explotaremos. ¿De qué otra manera podemos esperar sobrevivir como nación?"
 
-AUS_the_prut_line:0 "The Prut Line"
-AUS_the_prut_line_desc:0 "The River Prut is our natural line of defense against [SOV.GetNameDef]. It is sensible and utterly necessary to fortify and secure it against foreign incursion."
-AUS_the_prut_line_tt:0 "Add §Y2 Land Forts§! per owned province of the Prut River."
+AUS_the_prut_line:0 "La Línea del Prut"
+AUS_the_prut_line_desc:0 "El río Prut es nuestra línea natural de defensa contra [SOV.GetNameDef]. Es sensato y absolutamente necesario fortificar y asegurarla contra incursiones extranjeras."
+AUS_the_prut_line_tt:0 "Añade §Y2 Fortalezas Terrestres§! por cada provincia propia del río Prut."
 
-AUS_black_sea_wall:0 "Black Sea Wall"
-AUS_black_sea_wall_desc:0 "In the case of war with any of the Black Sea or Mediterranean powers, we would do well to prevent landings on our territory as comprehensively as possible. A few fortifications and a light garrison should see off most threats."
-AUS_black_sea_wall_tt:0 "Will add §Y2 Coastal Forts§! on the coast in §YOdessa§!, §YDobrudja§! or §YBurgas§! if you own them."
+AUS_black_sea_wall:0 "Muro del Mar Negro"
+AUS_black_sea_wall_desc:0 "En caso de guerra con cualquiera de las potencias del Mar Negro o del Mediterráneo, nos convendría prevenir desembarcos en nuestro territorio de la manera más completa posible. Algunas fortificaciones y una guarnición ligera deberían repeler la mayoría de las amenazas."
+AUS_black_sea_wall_tt:0 "Añadirá §Y2 Fortalezas Costeras§! en la costa de §YOdessa§!, §YDobrudja§! o §YBurgas§! si las posees."
 
-AUS_dubova_chromium_mine:0 "Dubova Chromium Mine"
-AUS_dubova_chromium_mine_desc:0 "The earth of Dubova has been surveyed and found to contain viable amounts of Chromium. We would be fools to pass this up, especially considering the road to the Black Sea that Romania itself represents."
+AUS_dubova_chromium_mine:0 "Mina de Cromo de Dubova"
+AUS_dubova_chromium_mine_desc:0 "La tierra de Dubova ha sido estudiada y se ha encontrado que contiene cantidades viables de cromo. Seríamos tontos si dejáramos pasar esta oportunidad, especialmente considerando el camino hacia el Mar Negro que representa Rumanía."
 
-AUS_balkan_highways_project:0 "Balkan Highways Project"
-AUS_balkan_highways_project_desc:0 "[YUG.GetNameDefCap] has done a poor job of providing for itself. As we now own their land, let us try to repair some of the mistakes they've made."
-AUS_balkan_highways_project_tt:0 "Add §Y1 Infrastructure§! in §YSlovenia§!, §YCroatia§! and §YBosnia§!, owning §YDalmatia§!, §YVojvodina§!, §YSerbia§!, §YMontenegro§!, §YMorava§! or §YMacedonia§! will extend construction."
+AUS_balkan_highways_project:0 "Proyecto de Autopistas de los Balcanes"
+AUS_balkan_highways_project_desc:0 "[YUG.GetNameDefCap] ha hecho un mal trabajo al proveerse a sí mismo. Como ahora poseemos su tierra, intentemos corregir algunos de los errores que han cometido."
+AUS_balkan_highways_project_tt:0 "Añade §Y1 Infraestructura§! en §YEslovenia§!, §YCroacia§! y §YBosnia§!, poseer §YDalmatia§!, §YVojvodina§!, §YSerbia§!, §YMontenegro§!, §YMorava§! o §YMacedonia§! extenderá la construcción."
 
-AUS_exploit_the_romanian_oil_fields:0 "Exploit the Romanian Oil Fields"
-AUS_exploit_the_romanian_oil_fields_desc:0 "Romania has vast quantities of oil relative to the regions surrounding it. The reserves may be significant, but the extraction process is thus far inefficient. There are measures we can take to increase yield."
+AUS_exploit_the_romanian_oil_fields:0 "Explotar los Campos Petrolíferos de Rumanía"
+AUS_exploit_the_romanian_oil_fields_desc:0 "Rumanía tiene grandes cantidades de petróleo en comparación con las regiones circundantes. Las reservas pueden ser significativas, pero el proceso de extracción es hasta ahora ineficiente. Hay medidas que podemos tomar para aumentar el rendimiento."
 
-AUS_expand_ljubija_mine:0 "Expand Ljubija Mine"
-AUS_expand_ljubija_mine_desc:0 "The iron reserves of [YUG.GetNameDef] rival our own, but they have been slow to exploit it. We can remedy this to our gain by expanding the operations they commenced at Ljubija."
+AUS_expand_ljubija_mine:0 "Expandir la Mina de Ljubija"
+AUS_expand_ljubija_mine_desc:0 "Las reservas de hierro de [YUG.GetNameDef] rivalizan con las nuestras, pero han sido lentos en explotarlas. Podemos remediar esto para nuestro beneficio ampliando las operaciones que comenzaron en Ljubija."
 
-AUS_the_sarajevo_plan:0 "The Sarajevo Plan"
-AUS_the_sarajevo_plan_desc:0 "The land of former Bosnia could have been developed exceptionally thoroughly. However, [YUG.GetNameDef] has neglected this in recent years, resulting in a significant loss of potential. Fortunately, we are here to rectify this."
+AUS_the_sarajevo_plan:0 "El Plan de Sarajevo"
+AUS_the_sarajevo_plan_desc:0 "La tierra de la antigua Bosnia podría haberse desarrollado de manera excepcionalmente completa. Sin embargo, [YUG.GetNameDef] ha descuidado esto en los últimos años, resultando en una pérdida significativa de potencial. Afortunadamente, estamos aquí para rectificar esto."
 
-AUS_the_south_dinaric_line:0 "The South Dinaric Line"
-AUS_the_south_dinaric_line_desc:0 "Our enemies to the south are hardly threatening, but we are surrounded by enemies in many other directions who will require a significant number of our resources to handle. The more we fortify our southern border, the less we need to defend it."
-AUS_the_south_dinaric_line_tt:0 "Add §Y18 Land Forts§! along the [ALB.GetAdjective] and [GRE.GetAdjective] border."
+AUS_the_south_dinaric_line:0 "La Línea Dinárica Sur"
+AUS_the_south_dinaric_line_desc:0 "Nuestros enemigos del sur apenas son amenazantes, pero estamos rodeados de enemigos en muchas otras direcciones que requerirán una cantidad significativa de nuestros recursos para manejarlos. Cuanto más fortifiquemos nuestra frontera sur, menos tendremos que defenderla."
+AUS_the_south_dinaric_line_tt:0 "Añade §Y18 Fortalezas Terrestres§! a lo largo de la frontera con [ALB.GetAdjective] y [GRE.GetAdjective]."
 
-AUS_the_adriatic_wall:0 "The Adriatic Sea Wall"
-AUS_the_adriatic_wall_desc:0 "Across the Adriatic lies perhaps our greatest potential threat in the south - [ITA.GetNameDef]. [ITA.GetLeader] claims to want to rebuild the Roman Empire, but we cannot let them threaten ours in the process."
-AUS_the_adriatic_wall_tt:0 "Add §Y14 Coastal Forts§! in §YDalmatia§!, owning §YMontenegro§!, §YIstria§! or §YZara§! will extend the fortifications."
+AUS_the_adriatic_wall:0 "Muro del Mar Adriático"
+AUS_the_adriatic_wall_desc:0 "Al otro lado del Adriático se encuentra quizás nuestra mayor amenaza potencial en el sur: [ITA.GetNameDef]. [ITA.GetLeader] afirma querer reconstruir el Imperio Romano, pero no podemos permitir que amenacen el nuestro en el proceso."
+AUS_the_adriatic_wall_tt:0 "Añade §Y14 Fortalezas Costeras§! en §YDalmatia§!, poseer §YMontenegro§!, §YIstria§! o §YZara§! extenderá las fortificaciones."
 
-AUS_the_belgrade_plan:0 "The Belgrade Plan"
-AUS_the_belgrade_plan_desc:0 "Serbia no longer has control of their lands since the events of the Great War handed control of their industry to the management of [YUG.GetNameDef]. Now that this is no longer the case, we should develop their industry as we would have it developed."
+AUS_the_belgrade_plan:0 "El Plan de Belgrado"
+AUS_the_belgrade_plan_desc:0 "Serbia ya no tiene control de sus tierras desde que los eventos de la Gran Guerra entregaron el control de su industria a la gestión de [YUG.GetNameDef]. Ahora que esto ya no es así, deberíamos desarrollar su industria como nos gustaría que se desarrollara."
 
-AUS_extend_the_lines:0 "Extend the Lines"
-AUS_extend_the_lines_desc:0 "As our territory expands, we must defend what we have taken. Our control over the Dinaric range and the Adriatic coast has extended, so we must raise our fortification lines."
-AUS_extend_the_lines_tt:0 "Add §Y10 Coastal Forts§! and §Y6 Land Forts§! in §YAlbania§!, owning §YSofia§! will extend the fortifications."
+AUS_extend_the_lines:0 "Extender las Líneas"
+AUS_extend_the_lines_desc:0 "A medida que nuestro territorio se expande, debemos defender lo que hemos tomado. Nuestro control sobre la cordillera Dinárica y la costa Adriática se ha extendido, por lo que debemos levantar nuestras líneas de fortificación."
+AUS_extend_the_lines_tt:0 "Añade §Y10 Fortalezas Costeras§! y §Y6 Fortalezas Terrestres§! en §YAlbania§!, poseer §YSofia§! extenderá las fortificaciones."
 
-AUS_slovakian_roads_and_railways:0 "Slovakian Roads and Railways"
-AUS_slovakian_roads_and_railways_desc:0 "The Slovakian region has an underdeveloped transport system; any troops in that area cannot afford to be bogged down in transit. We must repair and renovate their infrastructure."
-AUS_slovakian_roads_and_railways_tt:0 "Add §Y1 Infrastructure§! to Slovakian Regions and Carpatho-Ukraine."
+AUS_slovakian_roads_and_railways:0 "Carreteras y Ferrocarriles Eslovacos"
+AUS_slovakian_roads_and_railways_desc:0 "La región eslovaca tiene un sistema de transporte subdesarrollado; cualquier tropa en esa área no puede permitirse el lujo de quedar atrapada en el tránsito. Debemos reparar y renovar su infraestructura."
+AUS_slovakian_roads_and_railways_tt:0 "Añade §Y1 Infraestructura§! a las regiones eslovacas y a la Ucrania Cárpata."
 
-AUS_expand_czech_industry:0 "Expand Czech Industry"
-AUS_expand_czech_industry_desc:0 "The [CZE.GetAdjective] government has neglected their population, refusing to create factories and, therefore, employment where it is entirely possible. We can and must take action to correct this."
+AUS_expand_czech_industry:0 "Expandir la Industria Checa"
+AUS_expand_czech_industry_desc:0 "El gobierno [CZE.GetAdjective] ha descuidado a su población, negándose a crear fábricas y, por lo tanto, empleo donde es completamente posible. Podemos y debemos tomar medidas para corregir esto."
 
-AUS_the_slovakian_line:0 "The Slovakian Line"
-AUS_the_slovakian_line_desc:0 "[POL.GetNameDefCap] has displayed interest in the Slovakian region before occupying the land to the immediate north. Fortifications are a must to secure this border from potentially dangerous incursion."
-AUS_the_slovakian_line_tt:0 "Add §Y20 Land Forts§! along the Slovak/[POL.GetAdjective] border."
+AUS_the_slovakian_line:0 "La Línea Eslovaca"
+AUS_the_slovakian_line_desc:0 "[POL.GetNameDefCap] ha mostrado interés en la región eslovaca antes de ocupar la tierra al norte inmediato. Las fortificaciones son imprescindibles para asegurar esta frontera contra incursiones potencialmente peligrosas."
+AUS_the_slovakian_line_tt:0 "Añade §Y20 Fortalezas Terrestres§! a lo largo de la frontera eslovaca/[POL.GetAdjective]."
 
-AUS_industrialise_northern_slovakia:0 "Industrialize Slovakia"
-AUS_industrialise_northern_slovakia_desc:0 "Slovakia is ripe with industrial potential that has as of yet remained untapped. We will take steps to modernize and industrialize the land."
+AUS_industrialise_northern_slovakia:0 "Industrializar Eslovaquia"
+AUS_industrialise_northern_slovakia_desc:0 "Eslovaquia está llena de potencial industrial que aún no se ha aprovechado. Tomaremos medidas para modernizar e industrializar la tierra."
 
-AUS_fortify_the_sudeten_land:0 "Fortify the Sudetenland"
-AUS_fortify_the_sudeten_land_desc:0 "The Sudetenland is the border with [GER.GetNameDef] and, therefore, potentially dangerous ground. There are gaps in the fortifications already constructed there that we can take steps to fill."
-AUS_fortify_the_sudeten_land_tt:0 "Add §Y22 Land Forts§! in §YSudetenland§!."
+AUS_fortify_the_sudeten_land:0 "Fortificar los Sudetes"
+AUS_fortify_the_sudeten_land_desc:0 "Los Sudetes son la frontera con [GER.GetNameDef] y, por lo tanto, una zona potencialmente peligrosa. Hay brechas en las fortificaciones ya construidas allí que podemos tomar medidas para llenar."
+AUS_fortify_the_sudeten_land_tt:0 "Añade §Y22 Fortalezas Terrestres§! en §YSudetes§!."
 
-AUS_subsidize_kapsch:0 "Subsidize Kapsch"
-AUS_subsidize_kapsch_desc:0 "Kapsch has a distinguished history of profitable electronics and fine engineering contracts with the Austrian government. We should reward the patriotism and loyalty of such a company by being sure to renew their contracts."
-AUS_subsidize_kapsch_tt:0 "Unlocks Kapsch Industrial Concern\n"
+AUS_subsidize_kapsch:0 "Subvencionar a Kapsch"
+AUS_subsidize_kapsch_desc:0 "Kapsch tiene una historia distinguida de contratos rentables de electrónica e ingeniería fina con el gobierno austriaco. Deberíamos recompensar el patriotismo y la lealtad de una empresa así asegurándonos de renovar sus contratos."
+AUS_subsidize_kapsch_tt:0 "Desbloquea Preocupación Industrial Kapsch\n"
 
-AUS_fund_the_vienna_college_of_technology:0 "Fund the Vienna College of Technology"
-AUS_fund_the_vienna_college_of_technology_desc:0 "The Vienna College of Technology has been instrumental in keeping us abreast of other nations' technological progress for over a hundred years, helping our finest minds make the best of themselves. In these dark times, their assistance will be vital."
+AUS_fund_the_vienna_college_of_technology:0 "Financiar el Colegio de Tecnología de Viena"
+AUS_fund_the_vienna_college_of_technology_desc:0 "El Colegio de Tecnología de Viena ha sido fundamental para mantenernos al tanto del progreso tecnológico de otras naciones durante más de cien años, ayudando a nuestras mentes más brillantes a dar lo mejor de sí mismas. En estos tiempos oscuros, su ayuda será vital."
 
-AUS_nuclear_experimentation:0 "Nuclear Experimentation"
-AUS_nuclear_experimentation_desc:0 "Industrial surveying has revealed Uranium deposits in our newfound territories. Experimentation with this unique and heavy metal will doubtless yield exciting results."
+AUS_nuclear_experimentation:0 "Experimentación Nuclear"
+AUS_nuclear_experimentation_desc:0 "El estudio industrial ha revelado depósitos de uranio en nuestros nuevos territorios. La experimentación con este metal único y pesado sin duda dará resultados emocionantes."
 
-AUS_bilhorod_dnistrovskyi_nuclear_plant:0 "Bilhorod-Dnistovskyi Nuclear Plant"
-AUS_bilhorod_dnistrovskyi_nuclear_plant_desc:0 "An opportune place for a nuclear reactor has been found, and it makes sense to build just that there. Nuclear weaponry is the future, and if nothing else, we must embrace our future."
+AUS_bilhorod_dnistrovskyi_nuclear_plant:0 "Planta Nuclear de Bilhorod-Dnistrovskyi"
+AUS_bilhorod_dnistrovskyi_nuclear_plant_desc:0 "Se ha encontrado un lugar oportuno para un reactor nuclear, y tiene sentido construirlo allí. Las armas nucleares son el futuro, y si no otra cosa, debemos abrazar nuestro futuro."
 
 ### AIRFORCE SECTION ###
+AUS_construct_the_tullnerfeld_airbase:0 "Construir la Base Aérea de Tullnerfeld"
+AUS_construct_the_tullnerfeld_airbase_desc:0 "Durante mucho tiempo, los planes para construir una base aérea en Tullnerfeld han acumulado polvo. La guerra se avecina en el norte, y no hay mejor momento para actuar sobre esos planes."
 
-AUS_construct_the_tullnerfeld_airbase:0 "Construct the Tullnerfeld Airbase"
-AUS_construct_the_tullnerfeld_airbase_desc:0 "For a long time, plans to build an airbase at Tullnerfeld have gathered dust. War is stirring to the north, and there is no better time to act on those plans."
+AUS_announce_the_new_austrian_air_force:0 "Anunciar la Nueva Luftstreitkräfte"
+AUS_announce_the_new_austrian_air_force_desc:0 "Desde la Gran Guerra, los aviones han sido la fascinante nueva arma potencial del futuro. No podemos permitir que otras naciones nos dejen atrás; hemos estado construyendo nuestra fuerza aérea en secreto durante años, y ahora estamos listos para anunciarla."
 
-AUS_announce_the_new_austrian_air_force:0 "Announce the New Luftstreitkräfte"
-AUS_announce_the_new_austrian_air_force_desc:0 "Since the Great War, aircraft has been the fascinating new potential weapon of the future. Other nations cannot leave us behind; we have been building our airforce in secret for years, and now we are ready to announce it."
+AUS_german_aeronautic_cooperation:0 "Cooperación Aeronáutica [GER.GetAdjective]"
+AUS_german_aeronautic_cooperation_desc:0 "La ingeniería [GER.GetAdjective] ha revolucionado casi todos los campos de la guerra, incluyendo la guerra aérea. Tenemos mucho en común y todas las razones para cooperar en nuestras búsquedas tecnológicas. Sin embargo, el acceso que les damos les permitirá influir en nuestra política."
 
-AUS_german_aeronautic_cooperation:0 "[GER.GetAdjective] Aeronautic Cooperation"
-AUS_german_aeronautic_cooperation_desc:0 "[GER.GetAdjective] engineering has revolutionized nearly every field of warfare, including air warfare. We have much in common and every reason to cooperate in our technological pursuits. However, the access we give them will allow them to affect our politics."
+AUS_british_aeronautic_cooperation:0 "Cooperación Aeronáutica [ENG.GetAdjective]"
+AUS_british_aeronautic_cooperation_desc:0 "[ENG.GetNameDefCap] está desesperado por asegurar amigos en el centro de Europa, y nosotros necesitamos su experiencia tecnológica. Su fuerza aérea es una de las más fuertes del mundo, y podemos compartir esto con solo una pequeña pérdida de influencia interna."
 
-AUS_british_aeronautic_cooperation:0 "[ENG.GetAdjective] Aeronautic Cooperation"
-AUS_british_aeronautic_cooperation_desc:0 "[ENG.GetNameDefCap] is desperate to secure friends in central Europe, and we need their technological expertise. Their airforce is one of the strongest globally, and we can share in this with only a minor loss of internal influence."
+AUS_soviet_aeronautic_cooperation:0 "Cooperación Aeronáutica [SOV.GetAdjective]"
+AUS_soviet_aeronautic_cooperation_desc:0 "[SOV.GetNameDefCap] siempre busca expandir su influencia en la esfera europea, y estamos en el mercado para modernizar nuestra fuerza aérea. Podemos asegurar acceso a su experiencia industrial con algún intercambio político."
 
-AUS_soviet_aeronautic_cooperation:0 "[SOV.GetAdjective] Aeronautic Cooperation"
-AUS_soviet_aeronautic_cooperation_desc:0 "[SOV.GetNameDefCap] is always looking to spread its influence throughout the European sphere, and we are in the market to modernize our airforce. We can secure access to their industry expertise with some political give and take."
+AUS_innsbruck_airbase_project:0 "Proyecto de Base Aérea de Innsbruck"
+AUS_innsbruck_airbase_project_desc:0 "El Aeropuerto de Innsbruck está situado en un gran valle, ideal para el lanzamiento de aviones de guerra y civiles. Convertirlo en un aeródromo militar lo hará más adecuado para nuestras necesidades."
+AUS_innsbruck_airbase_project_tt:0 "Añadir §Y2 Fortines§! en Innsbruck."
 
-AUS_innsbruck_airbase_project:0 "Innsbruck Airbase Project"
-AUS_innsbruck_airbase_project_desc:0 "Innsbruck Airport is placed in a large valley, ideal for launching warplanes and civilian aircraft. Converting it to a military aerodrome will make it more suitable for our needs."
-AUS_innsbruck_airbase_project_tt:0 "Add §Y2 Land Forts§! on Innsbruck."
+AUS_protect_our_skies:0 "Proteger Nuestros Cielos"
+AUS_protect_our_skies_desc:0 "El vuelo solía ser una novedad, pero los aviones han cambiado, y también lo ha hecho la guerra aeronáutica. No podemos ignorar las amenazas desde los cielos, y debemos hacer preparativos en consecuencia."
+AUS_protect_our_skies_tt:0 "Añadir §Y2 Antiaéreos§! a todos los territorios controlados de Austria-Hungría propiamente dicha."
 
-AUS_protect_our_skies:0 "Protect Our Skies"
-AUS_protect_our_skies_desc:0 "Flight used to be a novelty, but planes have changed, and so too has aeronautical warfare. We cannot ignore threats from the skies - and we must make preparations accordingly."
-AUS_protect_our_skies_tt:0 "Add §Y2 Anti-Air§! to all controlled territories of Austria-Hungary proper."
+AUS_fortify_our_airfields:0 "Fortificar Nuestros Aeródromos"
+AUS_fortify_our_airfields_desc:0 "Ninguna de nuestras bases aéreas se encuentra muy lejos dentro de nuestras fronteras, y no podemos descartar la posibilidad de un ataque dirigido que capture una u otra. Fortificarlas reducirá el riesgo de esto."
+AUS_fortify_our_airfields_tt:0 "Añadir §Y2 Fortines§! en aeródromos austriacos."
 
-AUS_fortify_our_airfields:0 "Fortify Our Airfields"
-AUS_fortify_our_airfields_desc:0 "None of our airbases lie very far inside our borders, and we cannot rule out the possibility of a targeted strike capturing one or the other. Fortifying them both will lessen the risk of this."
-AUS_fortify_our_airfields_tt:0 "Add §Y2 Land Forts§! on Austrian airfields."
+AUS_investigate_jet_technology:0 "Investigar Tecnología de Reactores"
+AUS_investigate_jet_technology_desc:0 "Ha habido noticias de nuestro departamento de ingeniería sobre un nuevo motor a reacción teórico que puede producir aviones que vuelen más rápido, más alto y más lejos que nunca. Si hay algo que podamos investigar para crear una ventaja táctica, lo haremos."
 
-AUS_investigate_jet_technology:0 "Investigate Jet Technology"
-AUS_investigate_jet_technology_desc:0 "There has been word from our engineering department of a new, theoretical jet-turbine engine that can produce planes flying faster, higher, and further than ever before. If anything we can look into can create a tactical edge, we will take it."
+AUS_experimental_bomber_programme:0 "Programa de Bombarderos Experimentales"
+AUS_experimental_bomber_programme_desc:0 "Ya se han redactado diseños teóricos para la próxima generación de aviones bombarderos, lo que nos dará una ventaja en las guerras que prevemos. Solo necesitamos asignar fondos para la creación de prototipos para poner en marcha este programa."
 
-AUS_experimental_bomber_programme:0 "Experimental Bomber Program"
-AUS_experimental_bomber_programme_desc:0 "Theoretical designs have already been drafted for the next generation of bomber craft, which will give us an edge in the wars we foresee coming our way. We only need to allocate funding for prototyping to kick this program into gear."
+AUS_establish_the_austrian_airforce_academy:0 "Establecer la Academia de la Fuerza Aérea [AUS.GetAdjective]"
+AUS_establish_the_austrian_airforce_academy_desc:0 "Nuestra incipiente fuerza aérea se está desarrollando bien, pero aunque nuestra tecnología puede no estar faltando, nuestra formación sí lo está. Podemos dedicar recursos para solucionar este problema y no tenemos excusa para no hacerlo."
 
-AUS_establish_the_austrian_airforce_academy:0 "Establish the [AUS.GetAdjective] Airforce Academy"
-AUS_establish_the_austrian_airforce_academy_desc:0 "Our fledgling airforce is developing well, but while our technology may not be lacking, our training is. We can devote resources to fixing this issue and have no excuse not to."
+### SECCIÓN NAVAL ###
 
-### NAVAL SECTION ###
+AUS_repair_pola_naval_base:0 "Reparar la Base Naval de Pola"
+AUS_repair_pola_naval_base_desc:0 "La base naval de Pola fue una de las instalaciones clave de la Kriegsmarine austriaca. Ha caído en el abandono desde que fuimos expulsados del mar, pero podemos y debemos esforzarnos para asegurarnos de que vuelva a ser utilizable."
 
-AUS_repair_pola_naval_base:0 "Repair Pola Naval Base"
-AUS_repair_pola_naval_base_desc:0 "Pola naval base was once one of the key installations of the Austrian Kriegsmarine. It has fallen into disrepair since we have been driven from the sea, but we can and must put effort into ensuring that it is once against useable."
+AUS_recreate_the_kuk_kriegsmarine:0 "Recrear la K.u.K Kriegsmarine"
+AUS_recreate_the_kuk_kriegsmarine_desc:0 "La Real y Imperial Armada de Guerra fue la marina de Austria hasta que perdimos el acceso al mar tras perder la Gran Guerra. Podemos recuperar su antigua gloria con no poco esfuerzo."
 
-AUS_recreate_the_kuk_kriegsmarine:0 "Recreate the K.u.K Kriegsmarine"
-AUS_recreate_the_kuk_kriegsmarine_desc:0 "The Royal and Imperial War Navy was Austria's navy until we lost access to the sea after losing the Great War. We can reclaim its former glory with no small amount of effort."
+AUS_acquire_skoda_naval_artillery_experience:0 "Adquirir la Experiencia de Artillería Naval de Skoda"
+AUS_acquire_skoda_naval_artillery_experience_desc:0 "Skoda diseñó los cañones de la marina austrohúngara; es hora de volver a poner esa experiencia en buen uso."
 
-AUS_acquire_skoda_naval_artillery_experience:0 "Acquire Skoda Naval Artillery Experience"
-AUS_acquire_skoda_naval_artillery_experience_desc:0 "Skoda designed the guns of the Austro-Hungarian navy; it's time to once again put that experience to good use."
+AUS_rijeka_naval_academy:0 "Academia Naval de Rijeka"
+AUS_rijeka_naval_academy_desc:0 "Rijeka es una de las ciudades portuarias más grandes de la zona croata y uno de los principales activos navales para la causa austrohúngara. No son ajenos a la navegación y la guerra naval, y podemos aprovechar esta experiencia."
 
-AUS_rijeka_naval_academy:0 "Rijeka Naval Academy"
-AUS_rijeka_naval_academy_desc:0 "Rijeka is one of the largest port cities in the Croatian area and one of the principal naval assets to the Austro-Hungarian cause. They are no stranger to seafaring and naval warfare, and we can take this expertise on board."
+AUS_trieste_shipyards:0 "Astilleros de Trieste"
+AUS_trieste_shipyards_desc:0 "Trieste es una ciudad con una industria de astilleros existente que deberíamos subvencionar y explotar. Esto asegurará nuestra dominancia en el Mediterráneo."
+AUS_trieste_shipyards_tt:0 "Permite la contratación del Diseñador de Barcos de los Astilleros de Trieste.\n"
 
-AUS_trieste_shipyards:0 "Trieste Shipyards"
-AUS_trieste_shipyards_desc:0 "Trieste is a town with an existing shipyard industry that we should subsidize and exploit. This will ensure our dominance in the Mediterranean."
-AUS_trieste_shipyards_tt:0 "Allows for the hiring of Trieste Shipyards Ship Designer.\n"
+AUS_expand_cattaro_harbour:0 "Expandir el Puerto de Cattaro"
+AUS_expand_cattaro_harbour_desc:0 "Cattaro es una bahía interior, un lugar protegido donde un grupo naval podría alojarse con seguridad. Es un activo natural de seguridad, y deberíamos tratarlo como tal. Nuestra próxima expansión será aquí."
 
-AUS_expand_cattaro_harbour:0 "Expand Cattaro Harbour"
-AUS_expand_cattaro_harbour_desc:0 "Cattaro is an inland bay, a sheltered place where a naval group might be safely housed. It's a natural security asset, and we should treat it as such. Our next expansion will be here."
+AUS_a_stealthier_approach:0 "Un Enfoque Más Sigiloso"
+AUS_a_stealthier_approach_desc:0 "La marina [AUS.GetAdjective] no es lo que era, de hecho, es inexistente. No podemos permitirnos invertir enormes cantidades de recursos en barcos que simplemente serán destruidos por fuerzas mayores. La guerra submarina más sigilosa es el futuro para nosotros."
 
-AUS_a_stealthier_approach:0 "A Stealthier Approach"
-AUS_a_stealthier_approach_desc:0 "The [AUS.GetAdjective] navy is not what it was - in fact, it is nonexistent. We cannot afford to sink massive amounts of resources into ships that will simply be destroyed by larger forces. Stealthier submarine warfare is the future for us."
+AUS_sieze_the_adriatic:0 "Tomar el Adriático"
+AUS_sieze_the_adriatic_desc:0 "El Adriático es uno de nuestros principales puntos de acceso a la península italiana y una de las franjas costeras críticas de nuestro territorio. Asegurarlo con buques especializados para mares interiores, como los cruceros, sería prudente."
 
-AUS_sieze_the_adriatic:0 "Seize the Adriatic"
-AUS_sieze_the_adriatic_desc:0 "The Adriatic is one of our principal access points to the Italian boot and one of our territory's critical stretches of coastline. Securing it with specialized inland sea vessels like cruisers would be prudent."
+AUS_push_for_the_mediterranean:0 "Presionar por el Mediterráneo"
+AUS_push_for_the_mediterranean_desc:0 "El Mediterráneo es un mar famoso, sostén y cuna de muchos imperios africanos y europeos. Se convertirá una vez más en la cuna de nuestra nación, si podemos asegurarlo."
 
-AUS_push_for_the_mediterranean:0 "Push for the Mediterranean"
-AUS_push_for_the_mediterranean_desc:0 "The Mediterranean is a famous sea, supporter, and cradle for many African and European empires. It will once again become the cradle for our nation - if we can secure it."
+AUS_reform_the_kuk_seefliegerkorps:0 "Reformar el Seefliegerkorps"
+AUS_reform_the_kuk_seefliegerkorps_desc:0 "La fuerza aérea naval austriaca era separada y distinta de la fuerza naval principal, con sus especializaciones y funciones. Su utilidad será útil en el futuro; deberíamos destinar recursos para reformarla."
 
-AUS_reform_the_kuk_seefliegerkorps:0 "Reform the Seefliegerkorps"
-AUS_reform_the_kuk_seefliegerkorps_desc:0 "The Austrian naval airforce was separate and distinct from the main naval force, with its specializations and functions. Its utility will be helpful in the future - we should put resources into reforming it."
+AUS_found_the_austrian_marines:0 "Fundar los Marines [AUS.GetAdjective]"
+AUS_found_the_austrian_marines_desc:0 "Desde que nos quedamos sin litoral, una rama de nuestro ejército que ha caído en un inaceptable abandono son nuestros marines. Podemos reparar el daño hecho con algo de financiación y un poco de tiempo."
 
-AUS_found_the_austrian_marines:0 "Found the [AUS.GetAdjective] Marines"
-AUS_found_the_austrian_marines_desc:0 "Since we became landlocked, a branch of our military that has fallen into unacceptable neglect is our marines. We can repair the damage done with some funding and a little time."
+### SECCIÓN MILITAR ###
 
-### MILITARY SECTION ###
+AUS_subsidize_steyr_werke_arms:0 "Subvencionar las Armas Steyr-Werke"
+AUS_subsidize_steyr_werke_arms_desc:0 "Steyr-Werke Arms es el remanente de la empresa de armas Steyr Mannlicher. Se han recuperado bien del Tratado de Saint-Germain, pero la asistencia del gobierno podría ayudar aún más y asegurar el acceso estatal a sus líneas de producción."
 
-AUS_subsidize_steyr_werke_arms:0 "Subsidize Steyr-Werke Arms"
-AUS_subsidize_steyr_werke_arms_desc:0 "Steyre-Werke Arms is the shell of the Steyr Mannlicher firearms company. They have recovered well from the Treaty of Saint-Germain, but government assistance could help even further and secure state access to their production lines."
+AUS_endorse_the_foreign_volunteer_programme:0 "Respaldar el Programa de Voluntarios Extranjeros"
+AUS_endorse_the_foreign_volunteer_programme_desc:0 "Aunque no podemos alcanzar a todo el mundo por nosotros mismos, podemos respaldar y apoyar fuerzas que puedan ser simpatizantes de nuestra causa con la ayuda de algunos de nuestros mejores y más valientes soldados voluntarios."
 
-AUS_endorse_the_foreign_volunteer_programme:0 "Endorse the Foreign Volunteer Program"
-AUS_endorse_the_foreign_volunteer_programme_desc:0 "While we cannot reach the whole world ourselves, we can endorse and support forces that might be sympathetic to our cause with the help of some of our best and bravest volunteer troops."
+AUS_rearm_the_bundesheer:0 "Rearmar el Bundesheer"
+AUS_rearm_the_bundesheer_desc:0 "Las fuerzas armadas austriacas fueron golpeadas duramente por el tratado de Saint-Germain-en-Laye. Pero con [GER.GetLeader] preparando sus fuerzas, nunca ha habido un mejor momento para rearmarse, ya sea que estemos con él o contra él."
 
-AUS_rearm_the_bundesheer:0 "Rearm the Bundesheer"
-AUS_rearm_the_bundesheer_desc:0 "The Austrian armed forces were hit hard by the treaty of Saint-Germain-en-Laye. But with [GER.GetLeader] preparing his forces, there has never been a better time to rearm whether we stand with or against him."
+AUS_fund_the_gebirgsjaeger_programme:0 "Financiar el Programa Gebirgsjäger"
+AUS_fund_the_gebirgsjaeger_programme_desc:0 "Nuestra tierra es montañosa, y debemos adaptarnos a lo que se nos ha dado naturalmente. Cualquiera que ataque nuestra tierra encontrará nuestras fuerzas muy bien equipadas para enfrentarse a ellos en el terreno."
 
-AUS_fund_the_gebirgsjaeger_programme:0 "Fund the Gebirgsjäger Program"
-AUS_fund_the_gebirgsjaeger_programme_desc:0 "Our land is mountainous, and we must adapt to what we were naturally given. Anyone attacking our land will find our forces very well-equipped to handle them on the terrain."
+AUS_prepare_for_war:0 "Prepararse para la Guerra"
+AUS_prepare_for_war_desc:0 "Lo más probable es que otra guerra esté a la vuelta de la esquina; no podemos permitirnos estar desprevenidos. Si vamos a abastecer a nuestros ejércitos, debemos estar listos para convertir nuestras fábricas civiles de manera mucho más eficiente de lo que lo hacemos actualmente."
 
-AUS_prepare_for_war:0 "Prepare for War"
-AUS_prepare_for_war_desc:0 "The likelihood is that another war is just around the corner - we cannot allow ourselves to be unprepared. If we are to supply our armies, we must be ready to convert our civilian factories much more efficiently than we currently do."
+AUS_expand_csepel_muvek:0 "Expandir Csepel Művek"
+AUS_expand_csepel_muvek_desc:0 "Csepel Művek es una de las principales instalaciones de producción de maquinaria de [AUS.GetAdjective] y ha estado en el núcleo del antiguo imperio desde el siglo XIX. Es de propiedad privada, pero dudamos que los propietarios objeten al apoyo financiero."
 
-AUS_expand_csepel_muvek:0 "Expand Csepel Művek"
-AUS_expand_csepel_muvek_desc:0 "Csepel Művek is one of [AUS.GetAdjective]'s foremost machine production facilities and has lain at the core of the old empire since the nineteenth century. It is privately owned, but we doubt the owners will object to financial support."
+AUS_steyr_mannlicher_arms:0 "Armas Steyr Mannlicher"
+AUS_steyr_mannlicher_arms_desc:0 "Steyr Mannlicher como empresa ha permanecido patriótica y fiel al estilo de vida [AUS.GetAdjective]. Su apoyo inquebrantable ha hecho posible nuestro rearme. No hay razón para no convertirla en nuestra contratista militar habitual."
 
-AUS_steyr_mannlicher_arms:0 "Steyr Mannlicher Arms"
-AUS_steyr_mannlicher_arms_desc:0 "Steyr Mannlicher as a company has remained patriotic and faithful to the [AUS.GetAdjective] way of life. Their unwavering support has made our rearmament possible. There is no reason why we should not make it our regular military contractor."
+AUS_german_armour_cooperation:0 "Cooperación en Blindaje [GER.GetAdjective]"
+AUS_german_armour_cooperation_desc:0 "Los [GER.GetAdjective] han creado diseños para rivalizar con las fuerzas blindadas de otras naciones, y su expansión en el campo ha sido decidida. Tal vez tengamos algo que aprender de ellos si están dispuestos."
 
-AUS_german_armour_cooperation:0 "[GER.GetAdjective] Armor Cooperation"
-AUS_german_armour_cooperation_desc:0 "The [GER.GetAdjective]s have created designs to rival the armored forces of the other nations, and their expansion into the field has been single-minded. Perhaps we have something to learn from them if they are amenable."
+AUS_british_armour_cooperation:0 "Cooperación en Blindaje [ENG.GetAdjective]"
+AUS_british_armour_cooperation_desc:0 "[ENG.GetNameDefCap] es una de las fuerzas más variadas y extendidas del mundo. Tienen acceso a un número sin precedentes de las mejores mentes del mundo. Tendríamos mucho que aprender estudiando sus diseños de blindaje."
 
-AUS_british_armour_cooperation:0 "[ENG.GetAdjective] Armor Cooperation"
-AUS_british_armour_cooperation_desc:0 "[ENG.GetNameDefCap] is one of the most varied and widespread forces globally. They have access to an unprecedented number of the finest minds in the world. We would have much to learn from studying their armor designs."
+AUS_soviet_armour_cooperation:0 "Cooperación en Blindaje [SOV.GetAdjective]"
+AUS_soviet_armour_cooperation_desc:0 "Los [SOV.GetAdjective] tienen la base industrial más poderosa en el área euroasiática, rivalizada solo por unas pocas grandes potencias europeas. Se dice que pueden producir cien tanques al día; ¿nos serviría esta eficiencia en nuestros esfuerzos?"
 
-AUS_soviet_armour_cooperation:0 "[SOV.GetAdjective] Armor Cooperation"
-AUS_soviet_armour_cooperation_desc:0 "The [SOV.GetAdjective]s have the most powerful industrial base in the Eurasian area, rivaled by only a few great European powers. It's said that they can churn out a hundred tanks a day - would this efficiency serve us in our efforts?"
+AUS_motorisation_effort:0 "Esfuerzo de Motorización"
+AUS_motorisation_effort_desc:0 "El motor de combustión interna fue una vez una novedad destinada al sector civil, demasiado ineficiente para ser utilizado en la guerra, pero ahora es tanto fiable como potente. Las aplicaciones militares no pueden ser ignoradas."
 
-AUS_motorisation_effort:0 "Motorization Effort"
-AUS_motorisation_effort_desc:0 "The internal combustion engine was once a novelty meant for the civilian sector, too inefficient to be used for warfare, but now it is both reliable and powerful. The military applications cannot be ignored."
+AUS_great_guns_of_yore:0 "Grandes Cañones de Ayer"
+AUS_great_guns_of_yore_desc:0 "La artillería ganó la última guerra, y no hay razón para creer que no debería ser fundamental en ganar la próxima. Las mejoras en la tecnología antigua siguen siendo mejoras."
 
-AUS_great_guns_of_yore:0 "Great Guns of Yore"
-AUS_great_guns_of_yore_desc:0 "Artillery won the last war, and there is no reason to believe that it shouldn't be instrumental in winning the next one. Improvements on old technology are still improvements."
+AUS_found_the_jagdkommando_school:0 "Fundar la Escuela Jagdkommando"
+AUS_found_the_jagdkommando_school_desc:0 "Se han elaborado planes para formar una unidad de fuerzas especiales con nuestros mejores y más brillantes soldados, capaces de operar tras las líneas enemigas y en condiciones adversas. Todo lo que requieren es financiación para ponerse en marcha."
 
-AUS_found_the_jagdkommando_school:0 "Found the Jagdkommando School"
-AUS_found_the_jagdkommando_school_desc:0 "Plans have been drafted to form a special forces unit of our best and brightest soldiers, capable of operating behind enemy lines and in unlikely odds. All they require is funding to be put in motion."
+### SECCIÓN POLÍTICA ###
 
-### POLITICAL SECITON ###
+AUS_establish_the_foreign_ministry:0 "Establecer el Ministerio de Asuntos Exteriores"
+AUS_establish_the_foreign_ministry_desc:0 "Desde la Gran Guerra, hemos evitado interactuar con otras naciones para mantener nuestro ritmo de recuperación nacional. Ahora que nuestra posición en el mundo está más firmemente establecida, podemos empezar a mirar hacia afuera."
 
-AUS_establish_the_foreign_ministry:0 "Establish the Foreign Ministry"
-AUS_establish_the_foreign_ministry_desc:0 "Since the Great War, we have avoided interacting with other nations to maintain our rate of national recovery. Now that our position in the world is established more firmly, we can begin to look outwards."
+AUS_pro_austrian_propoganda:0 "Propaganda Pro-[AUS.GetAdjective]"
+AUS_pro_austrian_propoganda_desc:0 "Austria fue una de las mayores naciones del mundo en su momento y lo será nuevamente. Nuestro esfuerzo de guerra comienza en casa, con el apoyo de nuestro pueblo."
 
-AUS_pro_austrian_propoganda:0 "Pro-[AUS.GetAdjective] Propaganda"
-AUS_pro_austrian_propoganda_desc:0 "Austria was one of the greatest nations in the world at one time and will be again. Our war effort starts at home, with the support of our people."
+AUS_defence_of_the_homeland:0 "Defensa del Vaterland"
+AUS_defence_of_the_homeland_desc:0 "Como nación, no tenemos interés en permitir que nuestros enemigos accedan a nuestras fronteras nunca más. Debemos fortificarnos tan a fondo como sea posible y asegurarnos de que nunca más estaremos a la defensiva."
 
-AUS_defence_of_the_homeland:0 "Defense of the Vaterland"
-AUS_defence_of_the_homeland_desc:0 "As a nation, we have no interest in allowing our enemies to access our borders ever again. We must fortify ourselves as thoroughly as possible and ensure that we will never be on the defensive again."
+AUS_the_austrian_compromise:0 "El Compromiso [AUS.GetAdjective]"
+AUS_the_austrian_compromise_desc:0 "[GER.GetLeader] ha estado haciendo esfuerzos por su pueblo y ha estado abogando por el concepto de un 'Anschluss' entre [AUS.GetNameDef] y [GER.GetNameDef]. No tenemos interés en perder autonomía, pero tal vez una promesa de apoyo en la próxima guerra sea suficiente."
+AUS_the_austrian_compromise_tt:0 "Si [GER.GetNameDef] acepta, el §YAnschluss de Austria§! será evitado, pero [AUS.GetNameDef] entrará en el §YEje§!.\n"
 
-AUS_the_austrian_compromise:0 "The [AUS.GetAdjective] Compromise"
-AUS_the_austrian_compromise_desc:0 "[GER.GetLeader] has been making efforts for his people and been espousing the concept of an 'Anschluss' between [AUS.GetNameDef] and [GER.GetNameDef]. We have no interest in losing autonomy, but perhaps a promise of support in the next war will suffice."
-AUS_the_austrian_compromise_tt:0 "If [GER.GetNameDef] accepts, the §YAnschluss of Austria§! will be bypassed, but [AUS.GetNameDef] will enter the §YAxis§!.\n"
+AUS_past_glories:0 "Glorias Pasadas"
+AUS_past_glories_desc:0 "La unión austrohúngara fue una de las fuerzas más tremendas en la esfera de influencia europea. Sin embargo, fuimos cruelmente mutilados por el Tratado de Saint-Germain en nuestro apogeo. Debemos encontrar la fuerza como nación para reclamar lo que nos han quitado."
 
-AUS_past_glories:0 "Past Glories"
-AUS_past_glories_desc:0 "The Austro-Hungarian union was once one of the most tremendous forces in the European sphere of influence. However, we were cruelly cut down by the Treaty of Saint-Germain in our prime. We must find the strength as a nation to reclaim what has been taken."
+AUS_establish_the_frontmilliz:0 "Establecer la Frontmilliz"
+AUS_establish_the_frontmilliz_desc:0 "Después de la Gran Guerra, la Heimwehr fue una forma práctica para que los soldados desmovilizados siguieran siendo útiles para los esfuerzos de seguridad nacional de Austria. Sin embargo, necesitamos un cuerpo de hombres más controlado y coherente. La idea de un nuevo comienzo debe ser explorada."
 
-AUS_establish_the_frontmilliz:0 "Establish the Frontmilliz"
-AUS_establish_the_frontmilliz_desc:0 "After the Great War, the Heimwehr was a practical way for demobilized soldiers to remain helpful to Austria's efforts at national security. However, we need a more controlled and coherent body of men. The idea of a new start must be explored."
+AUS_imperial_ambitions:0 "Ambiciones Imperiales"
+AUS_imperial_ambitions_desc:0 "Muchas otras naciones están completamente dispuestas a jactarse y declarar su poderío marcial antes de finalmente ponerse a la tarea de la guerra. Aprendimos hace mucho tiempo que ser tímidos sobre disparar el primer tiro es un camino seguro hacia la derrota."
 
-AUS_imperial_ambitions:0 "Imperial Ambitions"
-AUS_imperial_ambitions_desc:0 "Many other nations are entirely willing to breast-beat and declare martial might before finally getting down to the business of war. We learned long ago that being coy about firing the first shot is a sure path to defeat."
+AUS_the_old_empire:0 "El Viejo Imperio"
+AUS_the_old_empire_desc:0 "La Unión Austrohúngara fue la fuerza política y militar más tremenda de Europa cuando existía. Nos reuniremos con la otra mitad de nuestro imperio y, de esta manera, recuperaremos una vez más lo que una vez fue nuestro."
 
-AUS_the_old_empire:0 "The Old Empire"
-AUS_the_old_empire_desc:0 "The Austro-Hungarian Union was the most tremendous political and military force in Europe when it existed. We will reunite with the other half of our empire and, in this way, gain once again what was once ours."
+AUS_pressure_for_transylvania:0 "Presionar por Transilvania"
+AUS_pressure_for_transylvania_desc:0 "[ROM.GetNameDefCap] ha poseído durante mucho tiempo estados que simplemente no les pertenecen. La región de Transilvania ha sido parte de Austria-Hungría desde hace más tiempo del que se recuerda, y la tomaremos de [ROM.GetNameDef] si es necesario, sin importar el precio."
+AUS_pressure_for_transylvania_tt:0 "§RPodría llevar a la guerra con [ROM.GetNameDef].§!\n"
 
-AUS_pressure_for_transylvania:0 "Pressure for Transylvania"
-AUS_pressure_for_transylvania_desc:0 "[ROM.GetNameDefCap] has long possessed states that simply do not belong to them. The Transylvanian region has been part of Austria-Hungary for longer than remembrance, and we will take it from [ROM.GetNameDef] if we must, no matter the price."
-AUS_pressure_for_transylvania_tt:0 "§RMay lead to war with [ROM.GetNameDef].§!\n"
+AUS_the_romanian_obstacle:0 "El Obstáculo [ROM.GetAdjective]"
+AUS_the_romanian_obstacle_desc:0 "Tenemos tierras que una vez fueron nuestras, pero la existencia continuada de [ROM.GetNameDef] es un insulto a nuestro pueblo. Los anexaremos por la fuerza y abriremos un camino hacia el Mar Negro."
 
-AUS_the_romanian_obstacle:0 "The [ROM.GetAdjective] Obstacle"
-AUS_the_romanian_obstacle_desc:0 "We have lands that once were ours, but the continued existence of [ROM.GetNameDef] is an insult to our people. We will annex them by force and forge a path to the Black Sea."
+AUS_pressure_for_slovenia:0 "Presionar por Eslovenia"
+AUS_pressure_for_slovenia_desc:0 "Desde la disolución de Venecia como estado, Eslovenia ha sido nuestra, y los eslovenos siempre han querido ser parte del pueblo germánico. Están separados de nosotros por el tiempo, pero demostraremos al mundo que cualquier diferencia puede reconciliarse."
+AUS_pressure_for_slovenia_tt:0 "§RPodría llevar a la guerra con [YUG.GetNameDef].§!\n"
 
-AUS_pressure_for_slovenia:0 "Pressure for Slovenia"
-AUS_pressure_for_slovenia_desc:0 "Since the dissolving of Venice as a state, Slovenia has been ours, and the Slovenes have always wanted to be part of the Germanic people. They are separated from us by time, but we shall prove to the world that any difference can be reconciled."
-AUS_pressure_for_slovenia_tt:0 "§RMay lead to war with [YUG.GetNameDef].§!\n"
+AUS_the_balkan_territories:0 "Los Territorios Balcánicos"
+AUS_the_balkan_territories_desc:0 "[YUG.GetNameDefCap] es un estado falso y débil que deberíamos dividir entre sus legítimos dueños. Serbia ha anexado injustamente una parte significativa de nuestras posesiones, y desharemos eso por la fuerza si es necesario."
+AUS_the_balkan_territories_tt:0 "§RPodría llevar a la guerra con [YUG.GetNameDef].§!\n"
 
-AUS_the_balkan_territories:0 "The Balkan Territories"
-AUS_the_balkan_territories_desc:0 "[YUG.GetNameDefCap] is a false and weak state that we should divide amongst its rightful owners. Serbia has wrongfully annexed a significant part of our holdings, and we shall undo that by force if we must."
-AUS_the_balkan_territories_tt:0 "§RMay lead to war with [YUG.GetNameDef].§!\n"
+AUS_restore_the_liechtenstein_potectorate:0 "Restaurar el Protectorado [LIE.GetNonIdeologyName]"
+AUS_restore_the_liechtenstein_potectorate_desc:0 "[LIE.GetNameDefCap] siempre ha estado históricamente dentro de nuestra esfera de influencia, pero esto nos fue arrebatado después de la Gran Guerra. Es hora de restaurar nuestra antigua influencia y prestigio sobre la micronación."
 
-AUS_restore_the_liechtenstein_potectorate:0 "Restore the [LIE.GetNonIdeologyName] Puppet"
-AUS_restore_the_liechtenstein_potectorate_desc:0 "[LIE.GetNameDefCap] has historically always been within our sphere of influence, but this was ripped from us after the Great War. It is now time to restore our former infuelnce and prestige over the micronation."
+AUS_the_way_to_france:0 "El Camino hacia [FRA.GetNameDef]"
+AUS_the_way_to_france_desc:0 "[FRA.GetNameDefCap] tiene muchas reparaciones que hacer por su trato despiadado a las potencias centrales. Les mostraremos cómo es la venganza [AUS.GetAdjective], pero primero necesitamos una frontera para que nuestros soldados puedan cruzar. [SWI.GetNameDefCap] está en nuestro camino."
 
-AUS_the_way_to_france:0 "The Way to [FRA.GetNameDef]"
-AUS_the_way_to_france_desc:0 "[FRA.GetNameDefCap] has many reparations to make for its merciless treatment of the central powers. We will show them what [AUS.GetAdjective] vengeance looks like, but first, we need a border to march our troops over. [SWI.GetNameDefCap] is in our way."
+AUS_our_oldest_enemy:0 "Nuestro Enemigo Más Antiguo"
+AUS_our_oldest_enemy_desc:0 "La avaricia [FRA.GetAdjective] nos costó caro tras la Gran Guerra, y no estamos por encima de la venganza en asuntos tan profundos. Habrían disuelto toda nuestra nación si hubieran podido; ahora haremos lo mismo con ellos."
 
-AUS_our_oldest_enemy:0 "Our Oldest Enemy"
-AUS_our_oldest_enemy_desc:0 "[FRA.GetAdjective] greed cost us dearly in the aftermath of the Great War, and we are not above revenge over matters so profound. They would have dissolved our entire nation if they could have - now we will do the same to them."
+AUS_request_slovakia:0 "Solicitar Eslovaquia"
+AUS_request_slovakia_desc:0 "Hasta ahora, hemos tenido buenas relaciones con [GER.GetNameDef], pero su anexión de [CZE.GetNameDef] mantiene la tercera Ciudad Imperial de Praga lejos de nosotros. Podemos hacer esfuerzos diplomáticos, pero queda por ver si [GER.GetNameDef] accederá."
 
-AUS_request_slovakia:0 "Request Slovakia"
-AUS_request_slovakia_desc:0 "So far, we have had good relations with [GER.GetNameDef], but their annexation of [CZE.GetNameDef] keeps the third Imperial City of Prague from us. We can make diplomatic efforts, but it remains to be seen if [GER.GetNameDef] will acquiesce."
+AUS_request_krakow:0 "Solicitar Cracovia"
+AUS_request_krakow_desc:0 "Nuestro control sobre la región eslovaca nos coloca en buena posición para solicitar una responsabilidad más personal sobre su control. Cracovia fue una vez un ducado bajo el dominio austriaco, y no hay razón para que no vuelva a serlo."
 
-AUS_request_krakow:0 "Request Krakow"
-AUS_request_krakow_desc:0 "Our control over the Slovakian region places us in good stead to request more personal responsibility from their control. Krakow was once a duchy in Austrian rule, and there is no reason it should not be so again."
+AUS_second_serbian_campaign:0 "Segunda Campaña Serbia"
+AUS_second_serbian_campaign_desc:0 "La primera guerra serbia deshizo el Imperio Austriaco. No será así esta vez. Los destruiremos por completo y tomaremos todas sus tierras para nosotros. Por fin, tendremos la oportunidad de vengar la muerte prematura del Archiduque Fernando."
 
-AUS_second_serbian_campaign:0 "Second Serbian Campaign"
-AUS_second_serbian_campaign_desc:0 "The first Serbian war undid the Austrian Empire. Not so this time. We shall destroy them utterly, and we shall take all of their lands for our own. At long last, we will have the chance to avenge the untimely death of Archduke Ferdinand."
+AUS_dalmatia_for_south_tyrol:0 "Dalmacia por el Tirol del Sur"
+AUS_dalmatia_for_south_tyrol_desc:0 "[ITA.GetNameDefCap] ha deseado durante mucho tiempo la provincia dálmata de habla italiana de [YUG.GetNameDef]. Nosotros, a cambio, queremos reunir el Tirol bajo el dominio [AUS.GetAdjective] una vez más. Parece que se puede arreglar un intercambio."
 
-AUS_dalmatia_for_south_tyrol:0 "Dalmatia for South Tyrol"
-AUS_dalmatia_for_south_tyrol_desc:0 "[ITA.GetNameDefCap] has long wanted the Italian-speaking Dalmatian province of [YUG.GetNameDef]. We, in return, want to reunite Tyrol under [AUS.GetAdjective] rule once more. It seems a trade can be arranged."
+AUS_demand_the_istrian_peninsula:0 "Demandar la Península de Istria"
+AUS_demand_the_istrian_peninsula_desc:0 "La pequeña península de Istria puede no ser tan grande como la bota italiana, pero es nuestro antiguo acceso al Mediterráneo. Todavía la necesitamos, y si es necesario, la tomaremos de los usurpadores [ITA.GetAdjective]."
 
-AUS_demand_the_istrian_peninsula:0 "Demand the Istrian Peninsula"
-AUS_demand_the_istrian_peninsula_desc:0 "The small Istrian Peninsula might not be as great as the Italian boot, but it is our old access to the Mediterranean. We still have use for it, and if we have to, we will take it from the usurping [ITA.GetAdjective]s."
+AUS_traitors_of_the_great_war:0 "Traidores de la Gran Guerra"
+AUS_traitors_of_the_great_war_desc:0 "[ITA.GetNameDefCap] pretende reconstruirse, olvidando que algunos han perdido más y han sufrido más en las secuelas de la Guerra. Les mostraremos cómo se reconstruye una nación: quitándoselo a sus vecinos."
 
-AUS_traitors_of_the_great_war:0 "Traitors of the Great War"
-AUS_traitors_of_the_great_war_desc:0 "[ITA.GetNameDefCap] purports to rebuild itself, forgetting that some have lost more and suffered more in the aftermath of the War. We will show them how a nation rebuilds itself - by taking from its neighbors."
+AUS_our_fate_is_our_own:0 "Nuestro Destino es Nuestro Propio"
+AUS_our_fate_is_our_own_desc:0 "[GER.GetLeader] y su [GER.GetName] están muy interesados en aumentar su poder y están haciendo propuestas veladas para anexionar pacíficamente nuestras tierras a las suyas. No tenemos ningún interés en permitirles tan fácil acceso. ¡Preservaremos nuestra nación hasta la última gota de sangre!"
+AUS_our_fate_is_our_own_tt:0 "§RPodría llevar a la guerra con [GER.GetNameDef]§!.\n"
 
-AUS_our_fate_is_our_own:0 "Our Fate is Our Own"
-AUS_our_fate_is_our_own_desc:0 "[GER.GetLeader]'s [GER.GetName] is very keen to grow its power and is making unveiled overtures at peacefully annexing our lands into their own. We have no interest in allowing them so easy a time. We will preserve our nation to the last drop of fighting blood!"
-AUS_our_fate_is_our_own_tt:0 "§RMay lead to war with [GER.GetNameDef]§!.\n"
+AUS_our_old_allies:0 "Nuestros Antiguos Aliados"
+AUS_our_old_allies_desc:0 "Bulgaria luchó junto a nosotros en la Gran Guerra y demostró ser un aliado competente y valioso. Tendrán la oportunidad de unirse pacíficamente a nuestra nueva unión, pero no tenemos intención de favoritismos en nuestro regreso al poder."
 
-AUS_our_old_allies:0 "Our Old Allies"
-AUS_our_old_allies_desc:0 "Bulgaria fought alongside us in the Great War and proved a competent and valuable ally. They will have the opportunity to peacefully join our new union, but we have no intention of playing favorites in our return to power."
+AUS_control_the_balkan_peninsula:0 "Controlar la Península Balcánica"
+AUS_control_the_balkan_peninsula_desc:0 "Grecia ha sido una cuna ancestral para muchos imperios, y ahora volvemos a ellos, ofreciendo la oportunidad de ser parte del nuestro. Será otra historia si no están de acuerdo, pero ofrecemos la rama de olivo de todas formas."
 
-AUS_control_the_balkan_peninsula:0 "Control the Balkan Peninsula"
-AUS_control_the_balkan_peninsula_desc:0 "Greece has been an ancestral cradle for many empires, and now we return to them, offering a chance to be part of ours. It will be another story if they disagree, but we offer the olive branch nonetheless."
+AUS_alliance_with_turkey:0 "Alianza con [TUR.GetNameDef]"
+AUS_alliance_with_turkey_desc:0 "El Imperio Otomano luchó con nosotros en la Gran Guerra y sufrió junto a nosotros en la derrota. Debemos ayudarnos mutuamente en cooperación, no estar en la garganta del otro. Si rechazan nuestra alianza, ese es otro asunto."
 
-AUS_alliance_with_turkey:0 "Alliance with [TUR.GetNameDef]"
-AUS_alliance_with_turkey_desc:0 "The Ottoman Empire fought with us in the Great War and suffered alongside us in failure. We must help each other in cooperation, not be at each other's throats. If they refuse our alliance, that is another matter."
+AUS_the_ottoman_menace:0 "La Amenaza Otomana"
+AUS_the_ottoman_menace_desc:0 "Los turcos pueden haber perdido mucho después de la Gran Guerra, pero siguen siendo ambiciosos y con recursos. Otro estado musulmán poderoso no puede ser tolerado y no será permitido. Los devolveremos al otro lado de su estrecho."
 
-AUS_the_ottoman_menace:0 "The Ottoman Menace"
-AUS_the_ottoman_menace_desc:0 "The Turks might have lost much after the Great War, but they remain ambitious and resourceful. Another powerful Muslim state cannot be tolerated and will not be brooked. We will drive them back across their strait."
+AUS_friends_beneath_the_bear:0 "Amigos Bajo el Oso"
+AUS_friends_beneath_the_bear_desc:0 "Los [SOV.GetAdjective]s fueron minuciosos en su purga de elementos imperialistas y fascistas, pero aún existen. Podemos contactar a disidentes en [SOV.GetNameDef] y poner a Rusia en el camino de la reforma. Los viejos enemigos pueden convertirse rápidamente en nuevos amigos."
+AUS_friends_beneath_the_bear_tt:0 "Prepara a los ucranianos para la guerra.\n"
 
-AUS_friends_beneath_the_bear:0 "Friends Beneath the Bear"
-AUS_friends_beneath_the_bear_desc:0 "The [SOV.GetAdjective]s were thorough in their purging of imperialist and fascist elements, yet they still exist. We can contact dissidents in [SOV.GetNameDef] and start Russia on the path to reformation. Old enemies can quickly become new friends."
-AUS_friends_beneath_the_bear_tt:0 "Prepares the Ukrainians for war.\n"
+AUS_start_the_uprising:0 "Iniciar la Insurrección"
+AUS_start_the_uprising_desc:0 "El oso no ha notado que durmiendo bajo él está Ucrania armada con dagas. Al armar a su pueblo, podemos crear condiciones óptimas para arrancar un trozo de [SOV.GetNameDef] y añadir su poder al nuestro."
+AUS_start_the_uprising_tt:0 "§RIniciará una guerra con [SOV.GetNameDef]!§!\n"
 
-AUS_start_the_uprising:0 "Start the Uprising"
-AUS_start_the_uprising_desc:0 "The bear has failed to notice that sleeping under it is the dagger-armed Ukraine. In arming their people, we can create prime conditions to take a chunk out of [SOV.getNameDef] and add their power to our own."
-AUS_start_the_uprising_tt:0 "§RWill start a war with [SOV.GetNameDef]!§!\n"
+AUS_war_for_the_black_sea:0 "Guerra por el Mar Negro"
+AUS_war_for_the_black_sea_desc:0 "El control [SOV.GetAdjective] del Mar Negro es nuestra mayor amenaza, junto con el control [ITA.GetAdjective]. Podemos resolver esto tomando de [SOV.GetNameDef] las tierras que bordean el Mar Negro, bloqueando su capacidad de mantener y proyectar poder naval en el Mediterráneo."
 
-AUS_war_for_the_black_sea:0 "War for the Black Sea"
-AUS_war_for_the_black_sea_desc:0 "[SOV.GetAdjective] control of the Black Sea is our greatest threat, alongside [ITA.GetAdjective] control. We can solve this by taking from [SOV.GetNameDef] the lands that border the Black Sea, blocking their ability to maintain and project naval power in the Mediterranean."
+AUS_germanic_brotherhood:0 "Hermandad Germánica"
+AUS_germanic_brotherhood_desc:0 "El Anschluss como idea es simplemente demasiado extremo. Sin embargo, estamos totalmente dispuestos a cooperar con nuestros hermanos germánicos del norte, y un pacto de investigación sería un excelente paso en este proceso."
 
-AUS_germanic_brotherhood:0 "Germanic Brotherhood"
-AUS_germanic_brotherhood_desc:0 "Anschluss as an idea is simply too extreme. However, we are altogether willing to cooperate with our Germanic brothers to the north - and a research pact would be an excellent step in this process."
+AUS_imperial_administration:0 "Administración Imperial"
+AUS_imperial_administration_desc:0 "La adquisición de tierras ha llevado a la necesidad de reformas en nuestro sistema de gobierno. Una revisión de las libertades de nuestros estados coloniales estará en orden y debería conducir a unos asuntos internos más fluidos."
+AUS_imperial_administration_tt:0 "Controlar §YViena§!, §YBudapest§!, §YBucarest§!, §YSarajevo§! y §YCracovia§! añadirá §Y100 Poder Político§!.\n"
 
-AUS_imperial_administration:0 "Imperial Administration"
-AUS_imperial_administration_desc:0 "Acquisition of land has led to the need for reforms in our system of government. A review of the freedoms of our colony states will be in order and should lead to smoother domestic affairs."
-AUS_imperial_administration_tt:0 "Controlling §YVienna§!, §YBudapest§!, §YBucharest§!, §YSarajevo§! and §YKrakow§! will add §Y100 Political Power§!.\n"
+AUS_strengthen_ties_with_ukraine:0 "Fortalecer Lazos con [UKR.GetNameDef]"
+AUS_strengthen_ties_with_ukraine_desc:0 "No hay razón por la que no debamos buscar acercarnos más a nuestros nuevos aliados en [UKR.GetNameDef]. Si les ofrecemos algunos de nuestros recursos, seguramente encontraremos formas de beneficiarnos."
 
-AUS_strengthen_ties_with_ukraine:0 "Strengthen Ties with [UKR.GetNameDef]"
-AUS_strengthen_ties_with_ukraine_desc:0 "There is no reason we shouldn't seek to become closer to our newfound allies in [UKR.GetNameDef]. If we offer them some of our resources, we are sure to find ways to benefit."
+AUS_the_kiev_annex:0 "La Anexión de Kiev"
+AUS_the_kiev_annex_desc:0 "[UKR.GetNameDefCap] ha sido un valioso aliado y ahora merece la protección completa de [AUS.GetNameDef]. La anexión es una excelente posibilidad para que lo consideren."
 
-AUS_the_kiev_annex:0 "The Kiev Annexation"
-AUS_the_kiev_annex_desc:0 "[UKR.GetNameDefCap] has been a valuable ally and is now deserving of the complete protection of [AUS.GetNameDef]. Annexation is an excellent possibility for them to consider."
+AUS_no_more_tyrants:0 "No Más Tiranos"
+AUS_no_more_tyrants_desc:0 "La avaricia imperial y el control monárquico en ambos lados de la guerra produjeron la Europa rota que vemos hoy. Ya hemos sufrido bastante como nación, y el [GER.GetLeader] de [GER.GetName] estaría tan pronto rearmado. Decimos no más guerra y no más tiranos."
 
-AUS_no_more_tyrants:0 "No More Tyrants"
-AUS_no_more_tyrants_desc:0 "Imperial greed and monarchistic control on both sides of the war produced the broken Europe we see today. We have already suffered enough as a nation, and [GER.GetLeader]'s [GER.GetName] would be so soon rearmed. We say no more war and no more tyrants."
+AUS_freedom_liberty_and_strength:0 "Libertad, Igualdad y Fuerza"
+AUS_freedom_liberty_and_strength_desc:0 "[AUS.GetNameDefCap] puede haber cambiado mucho al reformar drásticamente nuestro gobierno, pero eso no significa que nuestro ejército o nuestro pueblo sean débiles. El viejo orgullo en la voluntad [AUS.GetAdjective] sigue ahí, y el pueblo aún luchará por salvar su país."
 
-AUS_freedom_liberty_and_strength:0 "Freedom, Liberty and Strength"
-AUS_freedom_liberty_and_strength_desc:0 "[AUS.GetNameDefCap] may have changed much in drastically reforming our government, but that does not mean our military or our people are weak. The old pride in [AUS.GetAdjective] will is still there, and the people will still fight to save their country."
+AUS_seek_british_support:0 "Buscar Apoyo [ENG.GetAdjective]"
+AUS_seek_british_support_desc:0 "[ENG.GetNameDefCap] no es un viejo amigo de nuestra nación, pero ahora no se trata de una batalla entre países, sino de ideologías. La era de las disputas mezquinas entre naciones ha terminado. La cooperación es el camino a seguir, no el nacionalismo individual."
 
-AUS_seek_british_support:0 "Seek [ENG.GetAdjective] Support"
-AUS_seek_british_support_desc:0 "[ENG.GetNameDefCap] is not an old friend of our nation, but now it is not a battle between countries to be fought, but ideologies. The age of petty squabbles between nations is over. Cooperation is the way forward, not individual nationalism."
+AUS_break_the_compromise:0 "Romper el Compromiso"
+AUS_break_the_compromise_desc:0 "Nos inclinamos y nos arrastramos ante los [GER.GetAdjective]s porque estaban sobre nosotros, con un ejército muy superior. Ahora que hemos reformado y afirmado nuestro nuevo gobierno, podemos tener una oportunidad de enfrentarnos a los nazis."
+AUS_break_the_compromise_tt:0 "Podría llevar a la guerra con [GER.GetNameDef].\n"
 
-AUS_break_the_compromise:0 "Break the Compromise"
-AUS_break_the_compromise_desc:0 "We bowed and scraped to the [GER.GetAdjective]s because they were on top of us, with a far superior military. Now that we have reformed and affirmed our new government, we may stand a chance of facing the Nazis."
-AUS_break_the_compromise_tt:0 "May lead to war with [GER.GetNameDef].\n"
+AUS_free_the_balkans:0 "Liberar los Balcanes"
+AUS_free_the_balkans_desc:0 "Algunos estados en los Balcanes han caído bajo el liderazgo fascista desde que Hitler comenzó a ejercer influencia sobre Europa. Debemos actuar para deshacer este daño, incluso si significa hacer la guerra para liberar a la gente."
+AUS_free_the_balkans_tt:0 "Otorga objetivo de guerra de marioneta en todas las naciones balcánicas no democráticas.\n"
 
-AUS_free_the_balkans:0 "Free the Balkans"
-AUS_free_the_balkans_desc:0 "Certain states in the Balkans have fallen under fascist leadership since Hitler began to exert influence over Europe. We must act to undo this damage, even if it means making war to free the people."
-AUS_free_the_balkans_tt:0 "Gives puppet wargoal on all non-democratic Balkan nations.\n"
+AUS_free_the_ukrainians:0 "Liberar a los Ucranianos"
+AUS_free_the_ukrainians_desc:0 "Los ucranianos han estado atrapados bajo la bota [SOV.GetAdjective] durante demasiado tiempo. Hemos puesto nuestra mira en su liberación, y no hay mejor momento que ahora para hacerlo."
 
-AUS_free_the_ukrainians:0 "Free the Ukrainians"
-AUS_free_the_ukrainians_desc:0 "The Ukrainians have been trapped under the [SOV.GetAdjective] boot for too long. We have set our sights on their release, and there is no better time than now to do so."
+AUS_remove_the_horthy_government:0 "Remover el Gobierno de Horthy"
+AUS_remove_the_horthy_government_desc:0 "Nuestros hermanos históricos en [HUN.GetNameDef] están sufriendo bajo el yugo de un régimen fascista que hace peligrosos acercamientos hacia la unión con [GER.GetNameDef] en cooperación militar. Tiene sentido atacar lo antes posible y liberar a su pueblo."
 
-AUS_remove_the_horthy_government:0 "Remove the Horthy Government"
-AUS_remove_the_horthy_government_desc:0 "Our historical brethren in [HUN.GetNameDef] are suffering under the yolk of a fascist regime making dangerous overtures towards uniting with [GER.GetNameDef] in military cooperation. It makes sense to attack as quickly as possible and liberate their people."
+AUS_dethrone_mussolini:0 "Destronar a Mussolini"
+AUS_dethrone_mussolini_desc:0 "Mussolini es un tirano que ha cerrado casi todos los vestigios del proceso democrático en [ITA.GetNameDef]. Si no da a su pueblo la opción de quién los dirigirá, entonces nosotros lo haremos."
 
-AUS_dethrone_mussolini:0 "Dethrone Mussolini"
-AUS_dethrone_mussolini_desc:0 "Mussolini is a tyrant who has closed down almost every last vestige of the democratic process in [ITA.GetNameDef]. If he does not give his people the choice of who will lead them, then we will."
-
-AUS_request_balkan_support:0 "Request Balkan Support"
-AUS_request_balkan_support_desc:0 "Many states in the Balkans have reason to fear Nazi incursion. We are the shield between [GER.GetNameDef] and many of them, and we will need their help to turn back the tide. We must appeal for aid."
+AUS_request_balkan_support:0 "Solicitar Apoyo Balcánico"
+AUS_request_balkan_support_desc:0 "Muchos estados en los Balcanes tienen razones para temer la incursión nazi. Somos el escudo entre [GER.GetNameDef] y muchos de ellos, y necesitaremos su ayuda para detener la marea. Debemos pedir ayuda."
 
 ##communist
 
-AUS_organise_local_raterepubliks:0 "Organise Local Räterepubliks"
+AUS_organise_local_raterepubliks:0 "Organizar Räterepubliks Locales"
 AUS_organise_local_raterepubliks_desc:0 ""
-AUS_continue_the_tolerant_stance:0 "Continue the Tolerant Stance"
+
+AUS_continue_the_tolerant_stance:0 "Continuar la Postura Tolerante"
 AUS_continue_the_tolerant_stance_desc:0 ""
-AUS_republikanischer_shutzbund_integration:0 "Republikanischer Schutzbund Integration"
+
+AUS_republikanischer_shutzbund_integration:0 "Integración del Republikanischer Schutzbund"
 AUS_republikanischer_shutzbund_integration_desc:0 ""
-AUS_rso_assistance:0 "RSO Assistance"
+
+AUS_rso_assistance:0 "Asistencia de la RSO"
 AUS_rso_assistance_desc:0 ""
-AUS_inspire_bundesheer_desertion:0 "Inspire Bundesheer Desertion"
+
+AUS_inspire_bundesheer_desertion:0 "Inspirar la Deserción del Bundesheer"
 AUS_inspire_bundesheer_desertion_desc:0 ""
-AUS_occupy_workplaces:0 "Occupy Workplaces"
+
+AUS_occupy_workplaces:0 "Ocupar Lugares de Trabajo"
 AUS_occupy_workplaces_desc:0 ""
-AUS_condemn_social_democracy:0 "Condemn Social Democracy"
+
+AUS_condemn_social_democracy:0 "Condenar la Socialdemocracia"
 AUS_condemn_social_democracy_desc:0 ""
-AUS_reproachment_for_the_7th_world_congress:0 "Rapprochement for the 7th World Congress"
+
+AUS_reproachment_for_the_7th_world_congress:0 "Acercamiento para el 7º Congreso Mundial"
 AUS_reproachment_for_the_7th_world_congress_desc:0 ""
-AUS_appeal_for_urgent_soviet_support:0 "Appeal for Urgent [SOV.GetAdjective] Support"
+
+AUS_appeal_for_urgent_soviet_support:0 "Apelar por Urgente Apoyo [SOV.GetAdjective]"
 AUS_appeal_for_urgent_soviet_support_desc:0 ""
-AUS_the_balkan_road:0 "The Balkan Road"
+
+AUS_the_balkan_road:0 "El Camino Balcánico"
 AUS_the_balkan_road_desc:0 ""
-AUS_covertly_return_the_exiles:0 "Covertly Return the Exiles"
+
+AUS_covertly_return_the_exiles:0 "Devolver a los Exiliados de Forma Encubierta"
 AUS_covertly_return_the_exiles_desc:0 ""
-AUS_seal_rural_workers_support:0 "Guarantee Rural Workers' Support"
+
+AUS_seal_rural_workers_support:0 "Garantizar el Apoyo de los Trabajadores Rurales"
 AUS_seal_rural_workers_support_desc:0 ""
-AUS_a_new_rote_garde:0 "Rote Garde"
+
+AUS_a_new_rote_garde:0 "Nueva Rote Garde"
 AUS_a_new_rote_garde_desc:0 ""
-AUS_assassinate_schuschnigg:0 "Assassinate Schuschnigg"
+
+AUS_assassinate_schuschnigg:0 "Asesinar a Schuschnigg"
 AUS_assassinate_schuschnigg_desc:0 ""
-AUS_hunt_down_the_stragglers:0 "Hunt Down the Stragglers"
+
+AUS_hunt_down_the_stragglers:0 "Cazar a los Rezagados"
 AUS_hunt_down_the_stragglers_desc:0 ""
-AUS_form_the_supreme_raterepublik:0 "Form the Supreme Räterepublik"
+
+AUS_form_the_supreme_raterepublik:0 "Formar la Suprema Räterepublik"
 AUS_form_the_supreme_raterepublik_desc:0 ""
-AUS_disband_the_rote_garde:0 "Disband the Rote Garde"
+
+AUS_disband_the_rote_garde:0 "Disolver la Rote Garde"
 AUS_disband_the_rote_garde_desc:0 ""
-AUS_offer_rehabilitation_to_opposing_troops:0 "Offer Rehabilitation to Opposing Troops"
+
+AUS_offer_rehabilitation_to_opposing_troops:0 "Ofrecer Rehabilitación a las Tropas Oponentes"
 AUS_offer_rehabilitation_to_opposing_troops_desc:0 ""
-AUS_a_new_volkswehr:0 "A New Volkswehr"
+
+AUS_a_new_volkswehr:0 "Una Nueva Volkswehr"
 AUS_a_new_volkswehr_desc:0 ""
-AUS_membership_into_the_comintern:0 "Comintern Membership"
+
+AUS_membership_into_the_comintern:0 "Membresía en la Comintern"
 AUS_membership_into_the_comintern_desc:0 ""
-AUS_assist_the_allies:0 "Assist the Allies"
+
+AUS_assist_the_allies:0 "Asistir a los Aliados"
 AUS_assist_the_allies_desc:0 ""
-AUS_border_preparations:0 "Border Preparations"
+
+AUS_border_preparations:0 "Preparativos Fronterizos"
 AUS_border_preparations_desc:0 ""
-AUS_liberate_red_hungarians:0 "Liberate Red Hungarians"
+
+AUS_liberate_red_hungarians:0 "Liberar a los Húngaros Rojos"
 AUS_liberate_red_hungarians_desc:0 ""
-AUS_inspire_the_SKH:0 "Inspire the KPJ"
+
+AUS_inspire_the_SKH:0 "Inspirar a la KPJ"
 AUS_inspire_the_SKH_desc:0 ""
-AUS_an_incursion_into_yugoslavia:0 "Incursion into Yugoslavia"
+
+AUS_an_incursion_into_yugoslavia:0 "Incursión en Yugoslavia"
 AUS_an_incursion_into_yugoslavia_desc:0 ""
-AUS_demand_a_free_slovakia:0 "Demand a Free Slovakia"
-AUS_demand_a_free_slovakia_desc:0 "To continue solidifying our influence over the region, we should demand that the Czechs part with Slovakia, liberating them under a new government that we will fund and assist!"
-AUS_break_a_stick_in_the_fasces:0 "Break a Stick in the Fasces"
+
+AUS_demand_a_free_slovakia:0 "Exigir una Eslovaquia Libre"
+AUS_demand_a_free_slovakia_desc:0 "Para continuar solidificando nuestra influencia sobre la región, debemos exigir que los checos se separen de Eslovaquia, liberándolos bajo un nuevo gobierno que financiaremos y asistiremos."
+
+AUS_break_a_stick_in_the_fasces:0 "Romper un Palo en el Fasces"
 AUS_break_a_stick_in_the_fasces_desc:0 ""
-AUS_plead_our_case_to_our_allies:0 "Plead Our Case"
+
+AUS_plead_our_case_to_our_allies:0 "Defender Nuestro Caso a Nuestros Aliados"
 AUS_plead_our_case_to_our_allies_desc:0 ""
 
-AUS_red_agitators:0 "Red Agitators in the North"
+AUS_red_agitators:0 "Agitadores Rojos en el Norte"
 
-### ROYALIST SECTION ###
+### SECCIÓN REALISTA ###
 
-AUS_repeal_the_abolition_of_nobility:0 "Repeal the Abolition of Nobility"
-AUS_repeal_the_abolition_of_nobility_desc:0 "In the aftermath of the Great War, the core of our heritage was ripped from us with the abolition of nobility. However, undoing this law will be simpler than previously thought."
+AUS_repeal_the_abolition_of_nobility:0 "Derogar la Abolición de la Nobleza"
+AUS_repeal_the_abolition_of_nobility_desc:0 "Después de la Gran Guerra, el núcleo de nuestra herencia nos fue arrebatado con la abolición de la nobleza. Sin embargo, deshacer esta ley será más sencillo de lo que se pensaba."
 
-AUS_propose_the_alps_defence_pact:0 "Propose the Alps Defence Pact"
-AUS_propose_the_alps_defence_pact_desc:0 "[ITA.GetNameDefCap] has taken some of our most critical strategic locations from us and displaced thousands of our citizens by absorbing Istria and South Tyrol in the wake of the Great War. Now, however, Europe simmers again with tension, and their position relative to us cannot be ignored - or their potential use as an ally."
-AUS_propose_the_alps_defence_pact_tt:0 "If [ITA.GetNameDef] accepts, will bypass the Anschluss.\nWe will also receive §Y300 Light Tanks§!.\n"
-AUS_propose_the_alps_defence_pact_advisor_tt:0 "Has completed focus §YPropose the Alps Defence Pact§!"
+AUS_propose_the_alps_defence_pact:0 "Proponer el Pacto de Defensa de los Alpes"
+AUS_propose_the_alps_defence_pact_desc:0 "[ITA.GetNameDefCap] ha tomado algunas de nuestras ubicaciones estratégicas más críticas y ha desplazado a miles de nuestros ciudadanos al absorber Istria y el Tirol del Sur tras la Gran Guerra. Ahora, sin embargo, Europa vuelve a estar tensa, y su posición relativa a nosotros no puede ser ignorada, ni su potencial uso como aliado."
+AUS_propose_the_alps_defence_pact_tt:0 "Si [ITA.GetNameDef] acepta, se evitará el Anschluss.\nTambién recibiremos §Y300 Tanques Ligeros§!.\n"
+AUS_propose_the_alps_defence_pact_advisor_tt:0 "Ha completado el enfoque §YProponer el Pacto de Defensa de los Alpes§!"
 
-AUS_bolster_nations_defences:0 "Bolster National Defences"
-AUS_bolster_nations_defences_desc:0 "We have no time at our disposal to wait for any sort of protection by foreign powers. Our people shall defend themselves by any means necessary!"
+AUS_bolster_nations_defences:0 "Reforzar las Defensas Nacionales"
+AUS_bolster_nations_defences_desc:0 "No tenemos tiempo a nuestra disposición para esperar algún tipo de protección por parte de potencias extranjeras. ¡Nuestro pueblo se defenderá por cualquier medio necesario!"
 
-AUS_repeal_ban_on_political_parties:0 "Repeal Ban on Political Parties"
-AUS_repeal_ban_on_political_parties_desc:0 "The fascists who presently control our country have shortsightedly banned all political parties and assemblies. However, this ban is not so widely-supported that it cannot be overturned with a bit of shrewd political maneuvering."
+AUS_repeal_ban_on_political_parties:0 "Derogar la Prohibición de los Partidos Políticos"
+AUS_repeal_ban_on_political_parties_desc:0 "Los fascistas que actualmente controlan nuestro país han prohibido todos los partidos políticos y asambleas de manera miope. Sin embargo, esta prohibición no es tan ampliamente apoyada como para no poder ser revocada con un poco de astucia política."
 
-AUS_reinstate_the_habsburg_family:0 "Reinstate the Habsburg Family"
-AUS_reinstate_the_habsburg_family_desc:0 "After the end of the Great War, the Habsburgs, the rightful rulers of Austria-Hungary, were stripped of all lands and titles and exiled. These steps were taken under duress; however, the only thing the Habsburgs ever did wrong was losing the war in the first place. They have ever been loyal to us, so we shall be loyal to them."
+AUS_reinstate_the_habsburg_family:0 "Restaurar a la Familia Habsburgo"
+AUS_reinstate_the_habsburg_family_desc:0 "Tras el fin de la Gran Guerra, los Habsburgo, los legítimos gobernantes de Austria-Hungría, fueron despojados de todas sus tierras y títulos y exiliados. Estos pasos se tomaron bajo coacción; sin embargo, lo único que los Habsburgo hicieron mal fue perder la guerra en primer lugar. Siempre han sido leales a nosotros, por lo que seremos leales a ellos."
 
-AUS_liechtenstein_treaty:0 "Liechtenstein Treaty"
-AUS_liechtenstein_treaty_desc:0 "[GER.GetNameDefCap] has ceased to be a responsible world power ruled by a steadying and mighty kaiser. Instead, the madman [GER.GetLeader] threatens all of Europe with his expansionist policies. [AUS.GetNameDefCap] must look to all possible allies to survive - [SWI.GetNameDef] included."
+AUS_liechtenstein_treaty:0 "Tratado de Liechtenstein"
+AUS_liechtenstein_treaty_desc:0 "[GER.GetNameDefCap] ha dejado de ser una potencia mundial responsable gobernada por un kaiser firme y poderoso. En su lugar, el loco [GER.GetLeader] amenaza a toda Europa con sus políticas expansionistas. [AUS.GetNameDefCap] debe buscar todos los posibles aliados para sobrevivir, incluyendo a [SWI.GetNameDef]."
 
-AUS_ban_the_national_socialist_party:0 "Arrest the National Socialist Party"
-AUS_ban_the_national_socialist_party_desc:0 "The Nazis are a political powerhouse in [AUS.GetNameDef] and [GER.GetNameDef]. However, their message to [AUS.GetNameDef] does not align with our interests. One might argue that it is treason. Shall we act accordingly?"
+AUS_ban_the_national_socialist_party:0 "Arrestar al Partido Nacional Socialista"
+AUS_ban_the_national_socialist_party_desc:0 "Los nazis son una potencia política en [AUS.GetNameDef] y [GER.GetNameDef]. Sin embargo, su mensaje para [AUS.GetNameDef] no se alinea con nuestros intereses. Podría decirse que es traición. ¿Actuaremos en consecuencia?"
 
-AUS_undermine_mussolini:0 "Undermine Mussolini"
-AUS_undermine_mussolini_desc:0 "Not all of [ITA.GetNameDef] is united under Mussolini's ideals, as much as he would like for that to be the case. A little political support from our royalists may increase royalist support in [ITA.GetNameDef] and oust the fascist regime."
+AUS_undermine_mussolini:0 "Socavar a Mussolini"
+AUS_undermine_mussolini_desc:0 "No todo [ITA.GetNameDef] está unido bajo los ideales de Mussolini, por más que él quisiera que así fuera. Un poco de apoyo político de nuestros monárquicos puede aumentar el apoyo monárquico en [ITA.GetNameDef] y derrocar al régimen fascista."
 
-AUS_issue_emergency_powers:0 "Issue Emergency Powers"
-AUS_issue_emergency_powers_desc:0 "The situation in Europe becomes more tense and volatile with every passing day. In times such as this, the only solution to the threat of our proactive and expansionist neighbors is to do away with bureaucracy and grant similarly bold powers to our leaders."
+AUS_issue_emergency_powers:0 "Emitir Poderes de Emergencia"
+AUS_issue_emergency_powers_desc:0 "La situación en Europa se vuelve más tensa y volátil con cada día que pasa. En tiempos como estos, la única solución a la amenaza de nuestros vecinos proactivos y expansionistas es eliminar la burocracia y otorgar poderes igualmente audaces a nuestros líderes."
 
-AUS_for_kaiser_and_fatherland:0 "For Kaiser and Fatherland"
-AUS_for_kaiser_and_fatherland_desc:0 "It is a time of change for Europe, and [AUS.GetNameDef]'s place in the world to come will be determined by the willingness of both state and people to sacrifice. It is time for every able-bodied man to step forward for Kaiser and fatherland."
+AUS_for_kaiser_and_fatherland:0 "Por el Kaiser y la Patria"
+AUS_for_kaiser_and_fatherland_desc:0 "Es un tiempo de cambio para Europa, y el lugar de [AUS.GetNameDef] en el mundo por venir será determinado por la disposición tanto del estado como del pueblo para sacrificarse. Es hora de que todo hombre capaz se presente por el Kaiser y la patria."
 
-AUS_issue_the_venetia_treaty:0 "Issue the Venetia Treaty"
+AUS_issue_the_venetia_treaty:0 "Emitir el Tratado de Venetia"
 AUS_issue_the_venetia_treaty_desc:0 ""
 
-AUS_italian_civil_war:0 "[ITA.GetAdjective] Civil War"
-AUS_italian_civil_war_desc:0 "[ITA.GetNameDefCap] is in a fragile state. Their king is well-loved, and the royalist faction is strong, even if the fascists would have us believe that no other political force exists. A little push will be all it takes to plunge [ITA.GetNameDef] into a civil war."
+AUS_italian_civil_war:0 "Guerra Civil [ITA.GetAdjective]"
+AUS_italian_civil_war_desc:0 "[ITA.GetNameDefCap] está en un estado frágil. Su rey es muy querido, y la facción monárquica es fuerte, aunque los fascistas quisieran hacernos creer que no existe otra fuerza política. Un pequeño empujón será todo lo que se necesita para sumergir a [ITA.GetNameDef] en una guerra civil."
 
 AUS_demand_sudtyrol:0 "Rebuke the Treaty of Vienna"
-AUS_demand_sudtyrol_desc:0 "With [ITA.GetNameDef] in a state of pitched civil war, we are in an excellent position to reclaim South Tyrol, Friuli, and Istrian Peninsula. A little political leverage will save us from exercising a lot of military force."
+AUS_demand_sudtyrol_desc:0 "Con [ITA.GetNameDef] en un estado de guerra civil encarnizada, estamos en una posición excelente para reclamar el Tirol del Sur, Friuli y la península de Istria. Un poco de influencia política nos evitará ejercer mucha fuerza militar."
 
-AUS_interfere_in_italian_civil_war:0 "Offer Assistance for Former Crown Lands"
-AUS_interfere_in_italian_civil_war_desc:0 "The righteous royalists now fight to restore their king to true power. Our own Habsburg ruling family looks on their struggle with sympathy - and senses opportunity. Perhaps a bargain can be struck, and an ally won."
+AUS_interfere_in_italian_civil_war:0 "Ofrecer Asistencia por las Antiguas Tierras de la Corona"
+AUS_interfere_in_italian_civil_war_desc:0 "Los justos monárquicos ahora luchan por restaurar a su rey al verdadero poder. Nuestra propia familia gobernante de los Habsburgo observa su lucha con simpatía, y siente la oportunidad. Tal vez se pueda hacer un trato y ganar un aliado."
 
-AUS_old_ties:0 "Old Ties"
-AUS_old_ties_desc:0 "The ties that bind [AUS.GetNameDef] and [HUN.GetNameDef] are deep and powerful, and no argument needs to be made to restore an alliance between them. A partnership between us will help us recover our place in the world better than any rearmament or treaty with another power."
+AUS_old_ties:0 "Viejos Lazos"
+AUS_old_ties_desc:0 "Los lazos que unen a [AUS.GetNameDef] y [HUN.GetNameDef] son profundos y poderosos, y no es necesario argumentar para restaurar una alianza entre ellos. Una asociación entre nosotros nos ayudará a recuperar nuestro lugar en el mundo mejor que cualquier rearme o tratado con otra potencia."
 
-AUS_assassination_of_horthy:0 "Assassination of Horthy"
-AUS_assassination_of_horthy_desc:0 "'King Horthy', as he has pretentiously called himself, was once a mere military officer. He now has pretensions to the throne of [HUN.GetNameDef], an essentially laughable claim. He has power, however, despite this. A simple, if volatile, solution would be to assassinate him so the Habsburgs can step in."
+AUS_assassination_of_horthy:0 "Asesinato de Horthy"
+AUS_assassination_of_horthy_desc:0 "'Rey Horthy', como pretenciosamente se ha llamado a sí mismo, fue una vez un simple oficial militar. Ahora tiene pretensiones al trono de [HUN.GetNameDef], una reivindicación esencialmente risible. Sin embargo, tiene poder a pesar de esto. Una solución simple, aunque volátil, sería asesinarlo para que los Habsburgo puedan intervenir."
 
-AUS_stabilise_hungary:0 "Stabilise Hungary"
-AUS_stabilise_hungary_desc:0 "Hungary is within our domain once again, but the instability after Horthy's assassination has caused problems. Time and effort must be put into restoring order."
+AUS_stabilise_hungary:0 "Estabilizar Hungría"
+AUS_stabilise_hungary_desc:0 "Hungría está nuevamente dentro de nuestro dominio, pero la inestabilidad tras el asesinato de Horthy ha causado problemas. Se debe dedicar tiempo y esfuerzo para restaurar el orden."
 
-AUS_the_czech_plan:0 "The Czech Plan"
-AUS_the_czech_plan_desc:0 "Former Czechoslovakia, a part of Austria-Hungary of old, is now under [GER.GetAdjective] occupation. The region is locked under martial law, but leverage from us could plunge it into the kind of uprising we need to regain the territory without war with [GER.GetLeader]."
+AUS_the_czech_plan:0 "El Plan Checo"
+AUS_the_czech_plan_desc:0 "La antigua Checoslovaquia, parte del viejo Austria-Hungría, está ahora bajo ocupación [GER.GetAdjective]. La región está bajo ley marcial, pero la influencia de nuestra parte podría sumergirla en el tipo de levantamiento que necesitamos para recuperar el territorio sin guerra con [GER.GetLeader]."
 
-AUS_path_of_war:0 "Path of War"
-AUS_path_of_war_desc:0 "[GER.GetNameDefCap] has taken from us our territories to the north in Czechoslovakia. We, of course, plan to take this land back. The path of war is the only way forward."
+AUS_path_of_war:0 "Camino de Guerra"
+AUS_path_of_war_desc:0 "[GER.GetNameDefCap] nos ha arrebatado nuestros territorios al norte en Checoslovaquia. Por supuesto, planeamos recuperar estas tierras. El camino de la guerra es el único camino a seguir."
 
-AUS_path_of_peace:0 "Path of Peace"
-AUS_path_of_peace_desc:0 "[GER.GetNameDefCap] has annexed our old territory of Czechoslovakia, but that does not place Austro-Hungarian people out of our reach. Preparations can still be made to bring our people to our borders."
+AUS_path_of_peace:0 "Camino de Paz"
+AUS_path_of_peace_desc:0 "[GER.GetNameDefCap] ha anexado nuestro antiguo territorio de Checoslovaquia, pero eso no coloca al pueblo austrohúngaro fuera de nuestro alcance. Todavía se pueden hacer preparativos para traer a nuestro pueblo a nuestras fronteras."
 
-AUS_arm_czech_resistance:0 "Arm the [CZE.GetAdjective] Resistance"
-AUS_arm_czech_resistance_desc:0 "[GER.GetNameDefCap] may control Czechoslovakia, but we can still put more than one spanner in their works; one concept is a proxy war, fought by funding the [CZE.GetAdjective] resistance."
+AUS_arm_czech_resistance:0 "Armar a la Resistencia [CZE.GetAdjective]"
+AUS_arm_czech_resistance_desc:0 "[GER.GetNameDefCap] puede controlar Checoslovaquia, pero aún podemos poner más de un obstáculo en su camino; un concepto es una guerra por poder, financiada por la resistencia [CZE.GetAdjective]."
 
-AUS_czech_immigration:0 "[CZE.GetAdjective] Immigration"
-AUS_czech_immigration_desc:0 "[GER.GetNameDefCap] is pressing every able-bodied man into service somewhere in its emerging empire. However, [CZE.GetAdjective] citizens clamor every day to escape this indentured servitude and find their place in [AUS.GetNameDef]. We, of course, welcome them."
+AUS_czech_immigration:0 "Inmigración [CZE.GetAdjective]"
+AUS_czech_immigration_desc:0 "[GER.GetNameDefCap] está presionando a todo hombre capaz de servir en alguna parte de su emergente imperio. Sin embargo, los ciudadanos [CZE.GetAdjective] claman cada día por escapar de esta servidumbre y encontrar su lugar en [AUS.GetNameDef]. Nosotros, por supuesto, les damos la bienvenida."
 
-AUS_demand_czech_autonomy:0 "Demand [CZE.GetAdjective] Autonomy"
-AUS_demand_czech_autonomy_desc:0 "Gaining direct control of Czechoslovakia might be a forlorn hope, but we can still petition for their autonomy under [GER.GetAdjective] rule. From there, our hope might not be so forlorn."
+AUS_demand_czech_autonomy:0 "Demandar Autonomía [CZE.GetAdjective]"
+AUS_demand_czech_autonomy_desc:0 "Obtener el control directo de Checoslovaquia podría ser una esperanza vana, pero aún podemos pedir su autonomía bajo el dominio [GER.GetAdjective]. Desde ahí, nuestra esperanza podría no ser tan vana."
 
-AUS_allow_czech_volunteers:0 "Allow [CZE.GetAdjective] Volunteers"
-AUS_allow_czech_volunteers_desc:0 "The [CZE.GetAdjective] military is nonexistent, and the [GER.GetAdjective] occupation allows the people no way to fight for a country they see as theirs. [CZE.GetAdjective] volunteers petition us every day to serve by the thousands - and it is time we let them."
+AUS_allow_czech_volunteers:0 "Permitir Voluntarios [CZE.GetAdjective]"
+AUS_allow_czech_volunteers_desc:0 "El ejército [CZE.GetAdjective] es inexistente, y la ocupación [GER.GetAdjective] no permite que la gente luche por un país que consideran suyo. Los voluntarios [CZE.GetAdjective] nos solicitan cada día servir por miles, y es hora de permitirles hacerlo."
 
-AUS_operation_skoda:0 "Operation: Skoda"
-AUS_operation_skoda_desc:0 "The Skoda engineering company is staffed with some of the brightest minds of the modern-day - and based firmly in [GER.GetAdjective]-controlled Czechoslovakia. Those minds should instead serve our interests."
+AUS_operation_skoda:0 "Operación: Skoda"
+AUS_operation_skoda_desc:0 "La compañía de ingeniería Skoda cuenta con algunas de las mentes más brillantes de la actualidad, y está firmemente basada en la Checoslovaquia controlada por [GER.GetAdjective]. Esas mentes deberían servir a nuestros intereses."
 
-AUS_request_southern_slovakia:0 "Request Southern Slovakia"
-AUS_request_southern_slovakia_desc:0 "Slovakia was always Austro-Hungarian land. It is only fair, now that our old ally controls it, that it be returned to us - and the case would be easy to make if we cared to."
+AUS_request_southern_slovakia:0 "Solicitar Eslovaquia Meridional"
+AUS_request_southern_slovakia_desc:0 "Eslovaquia siempre fue tierra austrohúngara. Es justo, ahora que nuestro antiguo aliado la controla, que se nos devuelva; y sería fácil presentar el caso si nos importara hacerlo."
 
-AUS_continue_secret_armament:0 "Continue Secret Armament"
-AUS_continue_secret_armament_desc:0 "We have been supplying the resistance in Czechoslovakia with arms for an appreciable time now, at a noticeable cost. A case might be made to step that up into complete covert rearmament."
+AUS_continue_secret_armament:0 "Continuar el Armamento Secreto"
+AUS_continue_secret_armament_desc:0 "Hemos estado suministrando armas a la resistencia en Checoslovaquia por un tiempo considerable, a un costo notable. Podría hacerse un caso para intensificar esto hacia un rearme encubierto completo."
 
-AUS_initiate_the_bohmen_plan:0 "Initiate the Böhmen Plan"
-AUS_initiate_the_bohmen_plan_desc:0 "Czechoslovakia has been all but freed from [GER.GetAdjective] rule, and the time has come to directly challenge their control and restore our people to our union. War, if unpleasant, is at times necessary."
-AUS_initiate_the_bohmen_plan_tt:0 "§YCzechoslovakia§! will become our puppet, but we will declare war on §R[GER.GetNameDef].§!\n"
+AUS_initiate_the_bohmen_plan:0 "Iniciar el Plan Böhmen"
+AUS_initiate_the_bohmen_plan_desc:0 "Checoslovaquia ha sido prácticamente liberada del dominio [GER.GetAdjective], y ha llegado el momento de desafiar directamente su control y restaurar a nuestro pueblo a nuestra unión. La guerra, aunque desagradable, es a veces necesaria."
+AUS_initiate_the_bohmen_plan_tt:0 "§YChecoslovaquia§! se convertirá en nuestro títere, pero declararemos la guerra a §R[GER.GetNameDef].§!\n"
 
+AUS_deactivate_YUG_collaboration_tt:0 "§REsta opción deshabilitará la oportunidad de crear un gobierno de colaboración [YUG.GetAdjective].§!\n"
+AUS_full_czech_citizenship:0 "Ciudadanía Completa [CZE.GetAdjective]"
+AUS_full_czech_citizenship_desc:0 "Checoslovaquia fue una vez austrohúngara, y las personas dentro de ella eran consideradas austrohúngaras. Es justo y apropiado que restauremos este estatus para que nuestro pueblo pueda vivir libre bajo nuestro gobierno."
 
-AUS_deactivate_YUG_collaboration_tt:0 "§RThis option will disable the opportunity to create a [YUG.GetAdjective] collaboration government.§!\n"
-AUS_full_czech_citizenship:0 "Full [CZE.GetAdjective] Citizenship"
-AUS_full_czech_citizenship_desc:0 "Czechoslovakia was once Austro-Hungarian, and the people within it were considered Austro-Hungarian. It is only fair and proper that we restore this status so that our people may live free under our rule."
+AUS_annex_bohemia_and_moravia:0 "Anexar Bohemia y Moravia"
+AUS_annex_bohemia_and_moravia_desc:0 "Bohemia y Moravia estuvieron una vez bajo nuestro control y lo estarán de nuevo. Anunciaremos su anexión y ay de aquellos que nos desafíen."
 
-AUS_annex_bohemia_and_moravia:0 "Annex Bohemia and Moravia"
-AUS_annex_bohemia_and_moravia_desc:0 "Bohemia and Moravia were once under our control and shall be again. We shall announce their annexation and woe to any who challenge us."
+AUS_seek_closer_ties_to_yugoslavia:0 "Buscar Vínculos Más Cercanos con [YUG.GetNonIdeologyNameDef]"
+AUS_seek_closer_ties_to_yugoslavia_desc:0 "[YUG.GetNameDefCap] no es un enemigo peligroso, pero su posición los convierte en aliados potencialmente valiosos. Una invitación al pacto defensivo que estamos formando fortalecerá nuestras posiciones."
 
-AUS_seek_closer_ties_to_yugoslavia:0 "Seek Closer Ties with [YUG.GetNonIdeologyNameDef]" #with ideology doesnt fit
-AUS_seek_closer_ties_to_yugoslavia_desc:0 "[YUG.GetNameDefCap] is not a dangerous foe, but their position makes them potentially valuable allies. An invitation to the defensive pact we are forming will strengthen our positions."
+AUS_demand_slovenia:0 "Demandar Eslovenia"
+AUS_demand_slovenia_desc:0 "[YUG.GetNameDefCap] siempre ha sido un país débil, y ahora está bajo una amenaza mayor que nunca. Sería algo sencillo tomar las tierras de un pueblo ya intimidado que son legítimamente nuestras."
 
-AUS_demand_slovenia:0 "Demand Slovenia"
-AUS_demand_slovenia_desc:0 "[YUG.GetNameDefCap] has always been a weak country, and now it is under a more significant threat than ever before. It would be a simple thing to take an already-intimidated people's land that is rightfully ours."
+AUS_invite_yugoslavia_to_faction:0 "Invitar a [YUG.GetNameDef] a la Facción"
+AUS_invite_yugoslavia_to_faction_desc:0 "Nuestro pacto defensivo con [YUG.GetNameDef] ha sido hasta ahora mutuamente beneficioso, y ha llegado el momento de buscar una unión más cercana, una alianza más formal y concreta."
 
-AUS_invite_yugoslavia_to_faction:0 "Invite [YUG.GetNameDef] to Faction"
-AUS_invite_yugoslavia_to_faction_desc:0 "Our defensive pact with [YUG.GetNameDef] has so far been mutually profitable, and the time has come to pursue a closer union - a more formal and concrete alliance."
+AUS_war_for_the_balkans:0 "Guerra por los Balcanes"
+AUS_war_for_the_balkans_desc:0 "[YUG.GetNameDefCap] está en una posición débil, y nuestro territorio en los Balcanes está listo para ser recuperado. Incluso si debemos ir a la guerra, devolveremos a los ciudadanos austrohúngaros a la civilización austrohúngara."
 
-AUS_war_for_the_balkans:0 "War for the Balkans"
-AUS_war_for_the_balkans_desc:0 "[YUG.GetNameDefCap] is in a weak position, and our territory in the Balkans is ripe for retaking. Even if we must go to war, we will return Austro-Hungarian citizens to Austro-Hungarian civilization."
+AUS_establish_research_partnership:0 "Establecer Alianza de Investigación"
+AUS_establish_research_partnership_desc:0 "Se ha propuesto otra unión de Austria-Hungría y Yugoslavia; esta vez, entre las mejores mentes nuestras y las mejores de ellos. Un pacto de investigación nos beneficiará a ambos."
 
-AUS_establish_research_partnership:0 "Establish Research Partnership"
-AUS_establish_research_partnership_desc:0 "Another union of Austria-Hungary and Yugoslavia has been proposed; this time, between the greatest of our minds and the greatest of theirs. A research pact will benefit us both."
+AUS_allow_croat_semi_autonomy:0 "Permitir Semi-Autonomía Croata"
+AUS_allow_croat_semi_autonomy_desc:0 "Los croatas siempre han resentido la dominación superior, la nuestra no más ni menos que otras. Permitirles cierta autonomía simplificará las cosas para nosotros en todos los aspectos."
 
-AUS_allow_croat_semi_autonomy:0 "Allow Croatian Semi-Autonomy"
-AUS_allow_croat_semi_autonomy_desc:0 "The Croatians have always resented higher rule, ours no more or less than others. Allowing them some autonomy will make things simpler for us in all respects."
+AUS_suppress_serbian_nationalists:0 "Suprimir Nacionalistas Serbios"
+AUS_suppress_serbian_nationalists_desc:0 "Los serbios son ferozmente independientes, y sus facciones nacionalistas tienen mucho poder en sus regiones. Es hora de detener esto, por la fuerza si es necesario."
 
-AUS_suppress_serbian_nationalists:0 "Suppress Serbian Nationalists"
-AUS_suppress_serbian_nationalists_desc:0 "The Serbians are fiercely independent, and their nationalist factions command much power in their regions. It is time we stop this - by force, if necessary."
+AUS_establish_autonomous_serbian_puppet:0 "Establecer un Títere Serbio Autónomo"
+AUS_establish_autonomous_serbian_puppet_desc:0 "Los nacionalistas serbios han sido una espina en el costado del dominio austrohúngaro desde que Serbia cayó una vez más bajo nuestra jurisdicción. Permitirles autonomía bajo nuestro control es una solución simple y de costo mínimo al problema."
 
-AUS_establish_autonomous_serbian_puppet:0 "Establish Autonomous Serbian Puppet"
-AUS_establish_autonomous_serbian_puppet_desc:0 "The Serbian nationalists have been a thorn in the side of Austro-Hungarian rule ever since Serbia fell once again under our jurisdiction. Allowing them autonomy under our control is a cost-minimal and straightforward solution to the issue."
+AUS_transylvania_or_war:0 "Transilvania o Guerra"
+AUS_transylvania_or_war_desc:0 "Rumanía se abalanzó sobre la región de Transilvania como un buitre después de la Gran Guerra. Debemos exigir la devolución de esta tierra y el regreso de nuestro pueblo a nuestro dominio."
 
-AUS_transylvania_or_war:0 "Transylvania or War"
-AUS_transylvania_or_war_desc:0 "Romania swooped in like a vulture onto the region of Transylvania after the Great War. We must demand this land back and the return of our people to our rule."
+AUS_suppress_transylvanian_romanians:0 "Suprimir Rumanos Transilvanos"
+AUS_suppress_transylvanian_romanians_desc:0 "A pesar del legítimo dominio austrohúngaro de Transilvania, sigue habiendo un elemento nacionalista rumano que es una irritante espina en el costado del imperio. Deben tomarse medidas para suprimir esto."
 
-AUS_suppress_transylvanian_romanians:0 "Suppress Transylvanian Romanians"
-AUS_suppress_transylvanian_romanians_desc:0 "Despite the rightful Austro-Hungarian rule of Transylvania, there remains a nationalist Romanian element that remains an irritating thorn in the empire's side. Steps must be taken to suppress this."
+AUS_deport_romanians:0 "Deportar Rumanos Transilvanos"
+AUS_deport_romanians_desc:0 "Los nacionalistas rumanos presentes en Transilvania presentan un desafío constante e irritante a nuestro dominio. Sin embargo, deshacernos de ellos será menos desafiante, si así lo elegimos."
 
-AUS_deport_romanians:0 "Deport Transylvanian Romanians"
-AUS_deport_romanians_desc:0 "The Romanian nationalists present in Transylvania present a constant and irritating challenge to our rule. However, getting rid of them will be less of a challenge, should we choose to."
+AUS_form_holy_roman_empire:0 "Formar el Sacro Imperio Romano"
+AUS_form_holy_roman_empire_desc:0 "Austria-Hungría no es el imperio más antiguo de Europa central. Hubo un tiempo en que el Sacro Imperio Romano fue una de las potencias militares y políticas más fuertes de la época, y nosotros controlamos las mismas tierras, el mismo pueblo, la misma fuerza militar y política. ¿Nos atrevemos a reformar el poder que una vez gobernó Europa central?"
 
-AUS_form_holy_roman_empire:0 "Form the Holy Roman Empire"
-AUS_form_holy_roman_empire_desc:0 "Austria-Hungary is not the oldest empire in central Europe. Once upon a time, the Holy Roman Empire was one of the strongest military and political powers of the day - and we control all the same land, the same people, the same military and political might. Do we dare reform the power that once ruled central Europe?"
+AUS_reclaim_historical_lands:0 "Reclamar Tierras Históricas"
+AUS_reclaim_historical_lands_desc:0 "Con la declaración de la reforma del Sacro Imperio Romano, hemos reclamado tácitamente todos los territorios que el Imperio controló una vez. ¡Pero somos el mismo poder imperial! No necesitamos hacer nada tácitamente. Anunciaremos nuestra reclamación de las tierras al mundo."
 
-AUS_reclaim_historical_lands:0 "Reclaim Historical Lands"
-AUS_reclaim_historical_lands_desc:0 "With the declaration of the reformation of the Holy Roman Empire, we have tacitly laid claim to all territories the Empire once controlled. But we are the very same imperial power! We need not tacitly do anything. We shall announce our claim to the lands to the world."
-
-AUS_invade_czechoslovakia:0 "Invade [CZE.GetNameDef]"
+AUS_invade_czechoslovakia:0 "Invadir [CZE.GetNameDef]"
 AUS_invade_czechoslovakia_desc:0 ""
 
-AUS_prepare_czechoslovak_invasion:0 "Prepare [CZE.GetAdjective] Invasion"
+AUS_prepare_czechoslovak_invasion:0 "Preparar la Invasión [CZE.GetAdjective]"
 AUS_prepare_czechoslovak_invasion_desc:0 ""
 
-AUS_dissociate_austrofascism_from_nazism:0 "Austrofascism, not Nazism"
-AUS_dissociate_austrofascism_from_nazism_desc:0 "Our vision of the state and the future of [AUS.GetNameDef] has nothing to do with those dangerous so-called national socialists who want to destroy the [AUS.GetAdjective] identity into racial mythology."
-AUS_red_white_red_until_death:0 "Red White Red Until Death"
-AUS_red_white_red_until_death_desc:0 "Our loyalty to the nation must be unquestionable. It is not just a vague concept. It is constituted of our homes, our families, our friends."
-AUS_security_measures:0 "Security Measures"
-AUS_security_measures_desc:0 "It is essential to protect [AUS.GetNameDef] against foreign threats."
-
- #IDEAS
-
- AUS_generic_democratic_reformer:0 "Adolf Schärf"
- AUS_generic_communist_revolutionary:0 "Franz Koritschoner"
- AUS_royalist_support:0 "Royalist Support"
- AUS_royalist_plot:0 "Royalist Plot"
- AUS_for_kaiser_and_fatherland_idea:0 "For Kaiser and Fatherland"
- AUS_destabilised_hungary:0 "Destabilized Hungary"
- AUS_aggressive_politics:0 "Aggressive Politics"
- AUS_careful_politics:0 "Careful Politics"
- AUS_czech_resistance:0 "[CZE.GetAdjective] Resistance"
- AUS_czech_resistance_2:0 "[CZE.GetAdjective] Resistance"
- AUS_skoda_engineers:0 "Skoda Engineers"
- AUS_growing_movement:0 "Growing Movement"
- AUS_czech_support:0 "[CZE.GetAdjective] Support"
- AUS_croat_resistance:0 "Croatian Resistance"
- AUS_serbian_nationalism:0 "Serbian Nationalism"
- AUS_serbian_nationalism_2:0 "Serbian Nationalism"
- AUS_romanian_nationalists:0 "Romanian Nationalists"
- AUS_romanian_nationalists_2:0 "Romanian Nationalists"
- AUS_empire_reformed:0 "Empire Reformed"
- AUS_raterepubliks:0 "Local Räterepubliks"
- AUS_republikanischer_shutzbund:0 "Republikanischer Schutzbund Remnants"
- AUS_rso_manpower:0 "RSO Manpower"
- AUS_internationale_diktats:0 "Internationale Diktats"
- AUS_rote_garde:0 "Rote Garde"
- AUS_raterepubliks2:0 "A Supreme Räterepublik"
- AUS_rote_garde2:0 "A Professional Army"
- AUS_rote_garde3:0 "Rote Garde"
-
- AUS_ernst_rudiger_starhemberg:0 "Ernst Rüdiger Starhemberg"
- AUS_hermann_broch:0 "Hermann Broch"
- AUS_otto_von_habsburg:0 "Otto von Habsburg"
- AUS_wilhelm_miklas:0 "Wilhelm Miklas"
- AUS_alfred_jansa:0 "Alfred Jansa"
- AUS_johann_koplenig:0 "Johann Koplenig"
- AUS_bruno_frei:0 "Bruno Frei"
- AUS_ernst_fischer:0 "Ernst Fischer"
- AUS_ernst_fabri:0 "Ernst Fabri"
- AUS_lucien_laurat:0 "Lucien Laurat"
-
-
- AUS_exiles_returned:0 "The Exiled Communists Have Returned"
- AUS_anti_stalin:0 "A More Tolerant Stance Has Been Taken"
-
- AUS_nationalist_sentiment:0 "Nationalist Sentiment"
- AUS_nationalist_sentiment_desc:0 "[GER.GetLeader]'s [GER.GetName] may have accepted our proposal, yet some of the bravest [ROOT.getAdjective] politicians are still refusing to collaborate with their [GER.getAdjective] counterparts."
-
- AUS_austrian_resistance:0 "[AUS.GetAdjective] Resistance"
- AUS_austrian_resistance_desc:0 "[GER.GetLeader] has decided that Austria must be a part of [GER.GetNameDef]; we will prove him wrong!"
-
- AUS_front_milliz:0 "Front Milliz"
-
- AUS_austro_hungarian_union:0 "Austro-Hungarian Union"
-
- AUS_the_austrian_plot:0 "The [AUS.GetAdjective] Plot"
- AUS_the_austrian_plot_desc:0 "[AUS.GetNameDefCap] is planning something along our border."
-
- AUS_ukrainian_uprising:0 "The Ukrainian Uprising"
- AUS_ukrainian_uprising_desc:0 "The war for Ukraine's independence has begun; if we push the [SOV.GetAdjective]s far enough away from Ukraine, perhaps we can force them to surrender."
-
- AUS_grand_imperial_bureaucracy:0 "Grand Imperial Bureaucracy"
-
- AUS_austrian_military_assistance:0 "[AUS.GetAdjective] Military Assistance"
-
- AUS_great_steppe_testing_grounds:0 "Great Steppe Testing Grounds"
-
- AUS_inspired_population:0 "Inspired Population"
-
- AUS_british_support:0 "[ENG.GetAdjective] Support"
- AUS_british_support_desc:0 "With the [ENG.GetAdjective] on our side, we may stand a chance against the [GER.GetAdjective]s."
-
- AUS_soviet_support:0 "[SOV.GetAdjective] Support"
- AUS_soviet_support_desc:0 "With the [SOV.GetAdjective]s on our side, we may stand a chance against the [GER.GetAdjective]s."
-
- AUS_austrian_neutrality:0 "[AUS.GetAdjective] Neutrality"
-
- AUS_austrian_german_leadership:0 "[AUS.GetAdjective]-[GER.GetAdjective] Leadership"
-
- AUS_austria_montage:0 "Oesterreichisch-Alpine Montangesellschaft"
- AUS_berndorf:0 "Berndorfer Metallwarenfabrik"
- AUS_bohler:0 "Böhler"
- AUS_graef_stift:0 "Gräf & Stift"
- AUS_graz:0 "Grazer Maschinen- und Waggonbau"
- AUS_hirtenberger:0 "Hirtenberger"
- AUS_lohner_werke:0 "Lohnerwerker"
- AUS_kapsch:0 "Kapsch"
- AUS_oaf:0 "Österreichische Automobil-Fabrik"
- AUS_saurerwerke:0 "Saurer-Werke"
- AUS_semperit:0 "Semperit"
- AUS_steyr_mannlicher:0 "Steyr Mannlicher"
- AUS_steyr_daimler_puch:0 "Steyr-Daimler-Puch"
- AUS_steyr_daimler_puch_mot:0 "Steyr-Daimler-Puch"
- AUS_strabag:0 "STRABAG"
- AUS_wiener_neu_flugzeug:0 "Wiener Neustädter Flugzeugwerke"
- AUS_wiener_neu_lokomotiv:0 "Wiener Neustädter Lokomotivfabrik"
+AUS_dissociate_austrofascism_from_nazism:0 "Austrofascismo, no Nazismo"
+AUS_dissociate_austrofascism_from_nazism_desc:0 "Nuestra visión del estado y del futuro de [AUS.GetNameDef] no tiene nada que ver con esos peligrosos llamados nacional socialistas que quieren destruir la identidad [AUS.GetAdjective] en mitología racial."
+AUS_red_white_red_until_death:0 "Rojo Blanco Rojo Hasta la Muerte"
+AUS_red_white_red_until_death_desc:0 "Nuestra lealtad a la nación debe ser incuestionable. No es solo un concepto vago. Se constituye de nuestros hogares, nuestras familias, nuestros amigos."
+
+AUS_security_measures:0 "Medidas de Seguridad"
+AUS_security_measures_desc:0 "Es esencial proteger [AUS.GetNameDef] contra amenazas extranjeras."
+
+#IDEAS
+
+AUS_generic_democratic_reformer:0 "Adolf Schärf"
+AUS_generic_communist_revolutionary:0 "Franz Koritschoner"
+AUS_royalist_support:0 "Apoyo Realista"
+AUS_royalist_plot:0 "Complot Realista"
+AUS_for_kaiser_and_fatherland_idea:0 "Por el Kaiser y la Patria"
+AUS_destabilised_hungary:0 "Hungría Desestabilizada"
+AUS_aggressive_politics:0 "Política Agresiva"
+AUS_careful_politics:0 "Política Cautelosa"
+AUS_czech_resistance:0 "Resistencia [CZE.GetAdjective]"
+AUS_czech_resistance_2:0 "Resistencia [CZE.GetAdjective]"
+AUS_skoda_engineers:0 "Ingenieros de Skoda"
+AUS_growing_movement:0 "Movimiento Creciente"
+AUS_czech_support:0 "Apoyo [CZE.GetAdjective]"
+AUS_croat_resistance:0 "Resistencia Croata"
+AUS_serbian_nationalism:0 "Nacionalismo Serbio"
+AUS_serbian_nationalism_2:0 "Nacionalismo Serbio"
+AUS_romanian_nationalists:0 "Nacionalistas Rumanos"
+AUS_romanian_nationalists_2:0 "Nacionalistas Rumanos"
+AUS_empire_reformed:0 "Imperio Reformado"
+AUS_raterepubliks:0 "Räterepubliks Locales"
+AUS_republikanischer_shutzbund:0 "Restos del Republikanischer Schutzbund"
+AUS_rso_manpower:0 "Mano de Obra RSO"
+AUS_internationale_diktats:0 "Diktats Internacionales"
+AUS_rote_garde:0 "Rote Garde"
+AUS_raterepubliks2:0 "Una Räterepublik Suprema"
+AUS_rote_garde2:0 "Un Ejército Profesional"
+AUS_rote_garde3:0 "Rote Garde"
+
+AUS_ernst_rudiger_starhemberg:0 "Ernst Rüdiger Starhemberg"
+AUS_hermann_broch:0 "Hermann Broch"
+AUS_otto_von_habsburg:0 "Otto von Habsburg"
+AUS_wilhelm_miklas:0 "Wilhelm Miklas"
+AUS_alfred_jansa:0 "Alfred Jansa"
+AUS_johann_koplenig:0 "Johann Koplenig"
+AUS_bruno_frei:0 "Bruno Frei"
+AUS_ernst_fischer:0 "Ernst Fischer"
+AUS_ernst_fabri:0 "Ernst Fabri"
+AUS_lucien_laurat:0 "Lucien Laurat"
+
+AUS_exiles_returned:0 "Los Comunistas Exiliados Han Regresado"
+AUS_anti_stalin:0 "Se Ha Adoptado una Postura Más Tolerante"
+
+AUS_nationalist_sentiment:0 "Sentimiento Nacionalista"
+AUS_nationalist_sentiment_desc:0 "El [GER.GetLeader]'s [GER.GetName] puede haber aceptado nuestra propuesta, pero algunos de los políticos [ROOT.getAdjective] más valientes aún se niegan a colaborar con sus homólogos [GER.getAdjective]."
+
+AUS_austrian_resistance:0 "Resistencia [AUS.GetAdjective]"
+AUS_austrian_resistance_desc:0 "[GER.GetLeader] ha decidido que Austria debe ser parte de [GER.GetNameDef]; ¡le demostraremos que está equivocado!"
+
+AUS_front_milliz:0 "Front Milliz"
+
+AUS_austro_hungarian_union:0 "Unión Austrohúngara"
+
+AUS_the_austrian_plot:0 "El Complot [AUS.GetAdjective]"
+AUS_the_austrian_plot_desc:0 "[AUS.GetNameDefCap] está planeando algo a lo largo de nuestra frontera."
+
+AUS_ukrainian_uprising:0 "El Levantamiento Ucraniano"
+AUS_ukrainian_uprising_desc:0 "La guerra por la independencia de Ucrania ha comenzado; si empujamos a los [SOV.GetAdjective] lo suficientemente lejos de Ucrania, quizás podamos obligarlos a rendirse."
+
+AUS_grand_imperial_bureaucracy:0 "Gran Burocracia Imperial"
+
+AUS_austrian_military_assistance:0 "Asistencia Militar [AUS.GetAdjective]"
+
+AUS_great_steppe_testing_grounds:0 "Grandes Campos de Pruebas de la Estepa"
+
+AUS_inspired_population:0 "Población Inspirada"
+
+AUS_british_support:0 "Apoyo [ENG.GetAdjective]"
+AUS_british_support_desc:0 "Con los [ENG.GetAdjective] de nuestro lado, podríamos tener una oportunidad contra los [GER.GetAdjective]."
+
+AUS_soviet_support:0 "Apoyo [SOV.GetAdjective]"
+AUS_soviet_support_desc:0 "Con los [SOV.GetAdjective] de nuestro lado, podríamos tener una oportunidad contra los [GER.GetAdjective]."
+
+AUS_austrian_neutrality:0 "Neutralidad [AUS.GetAdjective]"
+
+AUS_austrian_german_leadership:0 "Liderazgo [AUS.GetAdjective]-[GER.GetAdjective]"
+
+AUS_austria_montage:0 "Oesterreichisch-Alpine Montangesellschaft"
+AUS_berndorf:0 "Berndorfer Metallwarenfabrik"
+AUS_bohler:0 "Böhler"
+AUS_graef_stift:0 "Gräf & Stift"
+AUS_graz:0 "Grazer Maschinen- und Waggonbau"
+AUS_hirtenberger:0 "Hirtenberger"
+AUS_lohner_werke:0 "Lohnerwerker"
+AUS_kapsch:0 "Kapsch"
+AUS_oaf:0 "Österreichische Automobil-Fabrik"
+AUS_saurerwerke:0 "Saurer-Werke"
+AUS_semperit:0 "Semperit"
+AUS_steyr_mannlicher:0 "Steyr Mannlicher"
+AUS_steyr_daimler_puch:0 "Steyr-Daimler-Puch"
+AUS_steyr_daimler_puch_mot:0 "Steyr-Daimler-Puch"
+AUS_strabag:0 "STRABAG"
+AUS_wiener_neu_flugzeug:0 "Wiener Neustädter Flugzeugwerke"
+AUS_wiener_neu_lokomotiv:0 "Wiener Neustädter Lokomotivfabrik"
 
- AUS_german_aero_tech:0 "[GER.GetAdjective] Aircraft Designs"
- AUS_german_aero_tech_desc:0 "Our [GER.GetAdjective] allies have given us access to their newest aircraft designs."
+AUS_german_aero_tech:0 "Diseños de Aeronaves [GER.GetAdjective]"
+AUS_german_aero_tech_desc:0 "Nuestros aliados [GER.GetAdjective] nos han dado acceso a sus más recientes diseños de aeronaves."
 
- AUS_british_aero_tech:0 "[ENG.GetAdjective] Aircraft Designs"
- AUS_british_aero_tech_desc:0 "Our [ENG.GetAdjective] allies have given us access to their newest aircraft designs."
+AUS_british_aero_tech:0 "Diseños de Aeronaves [ENG.GetAdjective]"
+AUS_british_aero_tech_desc:0 "Nuestros aliados [ENG.GetAdjective] nos han dado acceso a sus más recientes diseños de aeronaves."
 
- AUS_soviet_aero_tech:0 "[SOV.GetAdjective] Aircraft Designs"
- AUS_soviet_aero_tech_desc:0 "Our [SOV.GetAdjective] allies have given us access to their newest aircraft designs."
+AUS_soviet_aero_tech:0 "Diseños de Aeronaves [SOV.GetAdjective]"
+AUS_soviet_aero_tech_desc:0 "Nuestros aliados [SOV.GetAdjective] nos han dado acceso a sus más recientes diseños de aeronaves."
 
- AUS_imperial_naval_academy:0 "Imperial Naval Academy"
- AUS_imperial_naval_academy_desc:0 "The Rijeka Naval Academy will field the brightest and finest of naval officers."
+AUS_imperial_naval_academy:0 "Academia Naval Imperial"
+AUS_imperial_naval_academy_desc:0 "La Academia Naval de Rijeka formará a los oficiales navales más brillantes y destacados."
 
- AUS_triesteshipyards:0 "Stabilimento Tecnico Triestino"
- AUS_triesteshipyards_desc:0 "The great shipyards at the coastal town of Trieste were once the leading producer of the Dual Monarchies' navies. Now they shall serve us once more."
+AUS_triesteshipyards:0 "Stabilimento Tecnico Triestino"
+AUS_triesteshipyards_desc:0 "Los grandes astilleros de la ciudad costera de Trieste fueron una vez el principal productor de las armadas de las Monarquías Dualistas. Ahora nos servirán una vez más."
 
- AUS_csepel_muvek:0 "Csepel Művek"
- AUS_csepel_muvek_desc:0 "Located on an island in Budapest, this massive industrial complex shall serve our needs for the mass production of armored vehicles."
+AUS_csepel_muvek:0 "Csepel Művek"
+AUS_csepel_muvek_desc:0 "Ubicado en una isla en Budapest, este enorme complejo industrial servirá a nuestras necesidades de producción masiva de vehículos blindados."
+
+AUS_erdol_bohr_und_verwertungs_gesellschaft:0 "Erdol-Bohr und Verwertungs Gesellschaft"
 
- AUS_erdol_bohr_und_verwertungs_gesellschaft:0 "Erdol-Bohr und Verwertungs Gesellschaft"
+AUS_german_armour_tech:0 "Diseños de Blindaje [GER.GetAdjective]"
+AUS_german_armour_tech_desc:0 "Nuestros aliados [GER.GetAdjective] nos han dado acceso a sus más recientes diseños de blindaje."
+
+AUS_british_armour_tech:0 "Diseños de Blindaje [ENG.GetAdjective]"
+AUS_british_armour_tech_desc:0 "Nuestros aliados [ENG.GetAdjective] nos han dado acceso a sus más recientes diseños de blindaje."
+
+AUS_soviet_armour_tech:0 "Diseños de Blindaje [SOV.GetAdjective]"
+AUS_soviet_armour_tech_desc:0 "Nuestros aliados [SOV.GetAdjective] nos han dado acceso a sus más recientes diseños de blindaje."
 
- AUS_german_armour_tech:0 "[GER.GetAdjective] Armor Designs"
- AUS_german_armour_tech_desc:0 "Our [GER.GetAdjective] allies have given us access to their newest armor designs."
+#Diplomacy
+alps_defence_member:0 "Miembro del Pacto de Defensa de los Alpes"
+
+#Events
+news.10001.t:0 "Bienvenidos a Mayores Posibilidades: Austria"
+news.10001.d:0 "Este mod te permitirá negar el evento del Anschluss de Austria por [GER.GetNameDef], forjando tu camino a través de la Segunda Guerra Mundial. Asegúrate de leer cuidadosamente la sección política de enfoques, especialmente El Compromiso Austriaco, ya que esta es tu única oportunidad para negar el Anschluss."
+news.10001.a:0 "¡Diviértete!"
 
- AUS_british_armour_tech:0 "[ENG.GetAdjective] Armor Designs"
- AUS_british_armour_tech_desc:0 "Our [ENG.GetAdjective] allies have given us access to their newest armor designs."
+r56.news_event.1114.t:0 "Austria-Hungría se ha Reformado"
+r56.news_event.1114.d:0 "A pesar de estar separados durante más de 19 años, Austria y Hungría han decidido reunirse en la unión que una vez compartieron; ambos países son ahora uno, tanto política como militarmente."
+r56.news_event.1114.a:0 "¿Veremos de nuevo el viejo imperio?"
 
- AUS_soviet_armour_tech:0 "[SOV.GetAdjective] Armor Designs"
- AUS_soviet_armour_tech_desc:0 "Our [SOV.GetAdjective] allies have given us access to their newest armor designs."
-
-
- #Diplomacy
- alps_defence_member:0 "Alps Defence Pact Member"
-
- #Events
- news.10001.t:0 "Welcome to Greater Possibilities: Austria"
- news.10001.d:0 "This mod will allow you to deny the Anschluss of Austria event by [GER.GetNameDef], forging your path through the Second World War. Be sure to carefully read the political section of focuses, especially The Austrian Compromise, as this is your only chance to deny the Anschluss."
- news.10001.a:0 "Have fun!"
-
- r56.news_event.1114.t:0 "Austria-Hungary Has Reformed"
- r56.news_event.1114.d:0 "Despite being apart for over 19 years, Austria and Hungary have decided to rejoin the union they once shared; both countries are now one, both politically and militarily."
- r56.news_event.1114.a:0 "Will we see the old empire anew?"
-
- austria.1111.t:0 "The [AUS.GetAdjective] Compromise"
- austria.1111.d:0 "The [AUS.GetAdjective] government has heard the word of our campaign for Anschluss of our two great nations and offered a compromise - support in any future war, for autonomy in the meantime."
- austria.1111.a:0 "They will be valuable as an autonomous ally."
- austria.1111.b:0 "Must we remind them of the importance of true unity?"
-
- austria.1112.t:0 "[GER.GetNameDefCap] Has Accepted Our Proposal"
- austria.1112.d:0 "The [GER.GetAdjective] government has accepted our alternate offer, granting us our freedom as a nation. Hail to our alliance!"
- austria.1112.a:0 "To the future of the Central Powers!"
-
- austria.1113.t:0 "[GER.GetNameDefCap] Has Denied Our Proposal"
- austria.1113.d:0 "The [GER.GetAdjective]s have decided that the unification of the Central Powers is the only way forward, and it seems that we are not part of that plan. Anschluss will go ahead."
- austria.1113.a:0 "This is a foreboding possibility."
-
- austria.1114.t:0 "Reunification of Austria-Hungary"
- austria.1114.d:0 "For a long time, the countries of Austria and Hungary were united under one emperor. The [AUS.GetAdjective] government has approached us and requested that we reinstate this arrangement."
- austria.1114.a:0 "Of course! We will regain what we have lost together!"
- austria.1114.b:0 "[HUN.GetNameDefCap] will protect its autonomy from [GER.GetNameDef] and [AUS.GetNameDef] alike."
-
- austria.1115.t:0 "[HUN.GetNameDefCap] Has Accepted Reunification"
- austria.1115.d:0 "[HUN.GetNameDefCap] has accepted its place in our new, shared empire. Now, we look onwards to the future of Austria-Hungary!"
- austria.1115.a:0 "Onwards!"
-
- austria.1116.t:0 "[HUN.GetNameDefCap] Has Declined Reunification"
- austria.1116.d:0 "It seems that [HUN.GetNameDef] is protective of its autonomy. Our offer has been respectfully declined, raising doubts about their true motives."
- austria.1116.a:0 "Hm..."
-
- austria.1117.t:0 "[AUS.GetNameDefCap] Demands Transylvania"
- austria.1117.d:0 "[AUS.GetNameDefCap] has been making statements amongst its people and ours about the importance of Transylvania to the [HUN.GetAdjective] people. If we wish to avoid war, it has come to the breakpoint - do we cede Transylvania?"
- austria.1117.a:0 "Transylvania is rightfully ours!"
- austria.1117.b:0 "If we go to war, they will just take everything."
-
- austria.1118.t:0 "Romania Has Yielded"
- austria.1118.d:0 "The [ROM.GetAdjective]s have displayed unusual wisdom in ceding Transylvania as demanded. The local governmental infrastructure is already being transferred to our control, and we can move troops in as needed."
- austria.1118.a:0 "Perfect."
-
- austria.1119.t:0 "Romania Has Denied Us"
- austria.1119.d:0 "It seems the upstart [ROM.GetAdjective]s have forgotten to whom Transylvania belongs. War with them is justified, but is it the time?"
- austria.1119.a:0 "The fools. Mobilize the troops."
- austria.1119.b:0 "War is inopportune right now. Another time."
-
- austria.1122.t:0 "Transylvania Is Ours"
- austria.1122.d:0 "Transylvania is ours, and we have the opportunity to force an advantageous peace to keep the land we have demanded. This war has already claimed too many lives; should we force a peace deal?"
- austria.1122.a:0 "This war is pointless now."
- austria.1122.b:0 "Push to [ROM.Capital.GetName]!"
-
- austria.1124.t:0 "The Romanian Question"
- austria.1124.d:0 "The Romanian majority in Transylvania has, despite being largely peaceful, kept up stiff political resistance to [HUN.GetAdjective] rule. This is unacceptable. If the majority doesn't accept their authority, we will make them a minority."
- austria.1124.a:0 "Remove them."
- austria.1124.b:0 "Perhaps a bridge too far."
-
- austria.1125.t:0 "[AUS.GetNameDefCap] Demands Slovenia"
- austria.1125.d:0 "The [AUS.GetAdjective] government has been applying political pressure of late for the region of Slovenia. War with them may be costly, but can we afford to cede land so easily?"
- austria.1125.a:0 "If it spares the lives of our people, yes."
- austria.1125.b:0 "Never! [YUG.GetNameDefCap] will defend its own!"
-
- austria.1126.t:0 "[YUG.GetNameDefCap] Cedes Slovenia"
- austria.1126.d:0 "The [YUG.GetAdjective]s have wisely ceded the land we have demanded, granting our troops complete access, as well as control of all facilities. Our plans proceed as required."
- austria.1126.a:0 "Excellent."
-
- austria.1127.t:0 "[YUG.GetNameDefCap] Refused Our Demands"
- austria.1127.d:0 "The upstart false-nation of [YUG.GetNameDef] seems to want to fight back against us. What other explanation could we have for so rude a refusal? We will have to take back what is ours."
- austria.1127.a:0 "Then it seems we have no choice."
-
- austria.1128.t:0 "[AUS.GetNameDefCap] Demands Former Territories"
- austria.1128.d:0 "[AUS.GetAdjective] aggressions have come to a head, and they now demand the northern territories of [YUG.GetNameDefCap]. They are an intimidating power - but should we concede?"
- austria.1128.a:0 "We will defend our own land!"
- austria.1128.b:0 "We cannot face a war with [AUS.GetNameDef]."
-
- austria.1129.t:0 "[YUG.GetNameDefCap] Refuses Our Demands"
- austria.1129.d:0 "The pretender state of [YUG.GetNameDef] has denied us the land we have every right to. We can go to war over this very moment, but is it the opportune moment?"
- austria.1129.a:0 "We will take what we need."
- austria.1129.b:0 "Now is not the time."
-
- austria.1130.t:0 "[YUG.GetNameDefCap] Cedes the Northern Balkans"
- austria.1130.d:0 "[YUG.GetNameDefCap] recognized that they could not face a war with our superior military and ceded their northern lands. We are already installing our political agents."
- austria.1130.a:0 "Just as planned."
-
- austria.1131.t:0 "Our Goals Have Been Met"
- austria.1131.d:0 "We have taken all the ground we demanded from [YUG.GetNameDef], and now their desperate defensive forces are grasping at straws for any way out - including a ceasefire. We can enforce this immediately, but is it the best option?"
- austria.1131.a:0 "Now is not the time for overlong wars."
- austria.1131.b:0 "We can and will take all they have!"
-
- austria.1132.t:0 "Remilitarization of Serbia"
- austria.1132.d:0 "In the aftermath of the [YUG.GetAdjective] war, our armies have gained tactical access to deeper regions of Serbia. Onwards!"
- austria.1132.a:0 "Just as planned!"
-
- austria.1133.t:0 "[AUS.GetNameDefCap] Requests Slovakia"
- austria.1133.d:0 "The [AUS.GetAdjective] government has requested that the occupied region of Slovakia be transferred to their control in light of its ancestral heritage as Austro-Hungarian land."
- austria.1133.a:0 "This seems reasonable."
- austria.1133.b:0 "It is now [GER.GetAdjective]."
-
- austria.1138.t:0 "[GER.GetNameDefCap] Has Given Us Slovakia"
- austria.1138.d:0 "The [GER.GetAdjective] government has concluded that we are deserving of a stake in the Slovakian region. They have transferred control of all facilities to us, and we are free to use the land in any way necessary."
- austria.1138.a:0 "Excellent."
-
- austria.1139.t:0 "[GER.GetNameDefCap] Has Withheld Slovakia"
- austria.1139.d:0 "[GER.GetNameDefCap] has denied our request for the Slovak region. A sad state of affairs, but we will have our day in time."
- austria.1139.a:0 "An unfortunate setback."
-
- austria.1140.t:0 "[AUS.GetNameDefCap] Requests Krakow"
- austria.1140.d:0 "[AUS.GetNameDefCap] has requested the [POL.GetAdjective] region of Krakow, which has long been contested between the Austro-Hungarian Empire and Poland. Their claim is just - but will we grant it?"
- austria.1140.a:0 "Of course."
- austria.1140.b:0 "This does not suit our needs."
-
- austria.1141.t:0 "[GER.GetNameDefCap] Has Given Us Krakow"
- austria.1141.d:0 "[GER.GetNameDefCap] has ceded access to the region of Krakow, granting us access to another ancient center of Austro-Hungarian heritage."
- austria.1141.a:0 "Excellent."
-
- austria.1142.t:0 "[GER.GetNameDefCap] Has Withheld Krakow"
- austria.1142.d:0 "[GER.GetNameDefCap] has denied us Krakow, retaining access to the city and denying us ancient Austro-Hungarian land. A questionable decision, for sure."
- austria.1142.a:0 "Questionable, but implacable."
-
- austria.1143.t:0 "Dalmatia for South Tyrol"
- austria.1143.d:0 "The political machinations of Italy gained us a part of Tyrol after the Great War. The [AUS.GetAdjective]s intend to reclaim the territory in time - and we want to claim Dalmatia. Perhaps an agreement can be reached?"
- austria.1143.a:0 "It seems necessary."
- austria.1143.b:0 "We will cede them nothing!"
-
- austria.1144.t:0 "[ITA.GetNameDefCap] Has Agreed to Our Deal"
- austria.1144.d:0 "The [ITA.GetAdjective]s have accepted our offer, agreeing to move their troops out of Dalmatia as we move ours out of Tyrol. The exchange is effective immediately."
- austria.1144.a:0 "Just as planned."
-
- austria.1145.t:0 "[ITA.GetNameDefCap] Has Refused Our Deal"
- austria.1145.d:0 "The [ITA.GetAdjective]s have decided that their claim over the Italian majority in Dalmatia is worth more than their dubious claim to the rest of Tyrol. They have refused our offer."
- austria.1145.a:0 "Perhaps for the best."
-
- austria.1146.t:0 "[AUS.GetNameDefCap] Demands the Istrian Peninsula"
- austria.1146.d:0 "The [AUS.GetAdjective]s have demanded the Istrian peninsula, a stronghold of Austro-Hungarian naval superiority from before the Great War. Denying them could mean consequences."
- austria.1146.a:0 "They are too dangerous a power to deny."
- austria.1146.b:0 "We can deal with consequences."
-
- austria.1147.t:0 "[ITA.GetNameDefCap] Has Ceded Istria"
- austria.1147.d:0 "[ITA.GetNameDefCap] has ceded the old naval stronghold of Istria to us, effective immediately. Our troops are free to reclaim it."
- austria.1147.a:0 "Perfect!"
-
- austria.1148.t:0 "[ITA.GetNameDefCap] Has Refused Our Demands"
- austria.1148.d:0 "The [ITA.GetAdjective]s have foolishly stood up to us. Perhaps we must show the upstarts that beating us once does not guarantee victory again."
- austria.1148.a:0 "Are they prepared for war?"
-
- austria.1149.t:0 "[AUS.GetAdjective] Invitation"
- austria.1149.d:0 "The [AUS.GetAdjective] government has extended an invitation to a military alliance headed by their empire. A powerful ally to have - but do we need their help?"
- austria.1149.a:0 "Any help in these unstable times is welcome."
- austria.1149.b:0 "We can forge our own way."
-
- austria.1150.t:0 "[AUS.GetAdjective] Ultimatum"
- austria.1150.d:0 "[AUS.GetNameDefCap] has delivered an ultimatum to us - to come under [AUS.GetAdjective] dominion peacefully or be brought under it forcefully. We are placed in a difficult position."
- austria.1150.a:0 "We will protect our citizens' way of life!"
- austria.1150.b:0 "It seems we must accept [AUS.GetAdjective] leadership."
-
- austria.1151.t:0 "[GRE.GetNameDefCap] Has Refused Our Ultimatum"
- austria.1151.d:0 "The impudent [GRE.GetAdjective]s have delivered a stinging slap to the face, denying our offer of political and military protection. Such an overt gesture is absolutely an act of war!"
- austria.1151.a:0 "And we will treat it as such!"
-
- austria.1152.t:0 "[GRE.GetNameDefCap] Has Succumbed to Our Ultimatum"
- austria.1152.d:0 "[GRE.GetNameDefCap] has wisely accepted our protection offer in these dark and troubled times. Their government has changed hands with minimal fuss to our control, and they will operate as part of our coalition."
- austria.1152.a:0 "The wiser choice to make."
-
- austria.1153.t:0 "[AUS.GetAdjective] Invitation"
- austria.1153.d:0 "Our old allies, the [AUS.GetAdjective]s, have extended an arm in friendship, offering a resurrection of the Central Powers. Perhaps it is time to rejoin our old Ottoman allies?"
- austria.1153.a:0 "If there is any time, it is now."
- austria.1153.b:0 "We must consider our allies more carefully if a war is coming."
-
- austria.1154.t:0 "[TUR.GetNameDefCap] Has Agreed to Join Us"
- austria.1154.d:0 "[TUR.GetNameDefCap] has accepted our offer of alliance and stands with us in any future conflict. The Ottomans have not forgotten their friends!"
- austria.1154.a:0 "And neither have we."
-
- austria.1155.t:0 "[TUR.GetNameDefCap] Has Refused to Join Us"
- austria.1155.d:0 "[TUR.GetNameDefCap], it seems, has forgotten how loyally we stood by each other in the Great War. They have denied our alliance and will go their way."
- austria.1155.a:0 "A troubling concept."
-
- austria.1156.t:0 "We Have Beaten Back [SOV.GetNameDef]"
- austria.1156.d:0 "The Ukrainian uprising has been going well, relatively speaking, yet the [SOV.GetAdjective] bear is still a worrying presence above us. We can keep pushing if we believe we can take more ground or deliver a peace deal."
- austria.1156.a:0 "We will offer peace - with conditions."
- austria.1156.b:0 "[SOV.GetNameDefCap] cannot be allowed to continue!"
-
- austria.1157.t:0 "The Ukrainian Armistice"
- austria.1157.d:0 "The [AUS.GetAdjective]s have delivered a peace deal. Considering how the war has been going, the terms are generous - an immediate ceasefire in exchange for freedom for the Russian Ukraine. Should we accept?"
- austria.1157.a:0 "It seems necessary."
- austria.1157.b:0 "Not until the last man is dead!"
-
- austria.1158.t:0 "The [SOV.GetAdjective]s Have Conceded"
- austria.1158.d:0 "The [SOV.GetAdjective]s have accepted a ceasefire. Ukraine is in the hands of the Ukrainians, and the Ukrainians are very grateful to us. A major victory."
- austria.1158.a:0 "And another step in our plans."
-
- austria.1159.t:0 "The [SOV.GetAdjective]s Have Refused"
- austria.1159.d:0 "The [SOV.GetAdjective]s have decided that their interests are better served by a long, grinding war. Evidence of the actual [SOV.GetAdjective] view of the value of the worker, perhaps?"
- austria.1159.a:0 "For the sake of our own, we will end this quickly."
-
- austria.1160.t:0 "We Have Achieved Our Goals"
- austria.1160.d:0 "The Ukrainian uprising has gone well, and a free Ukrainian state is now possible. We can deliver a peace deal to the Soviets - peace, for Ukrainian freedom. A more reasonable offer, we could not make."
- austria.1160.a:0 "Anything to bring democracy to Ukraine."
- austria.1160.b:0 "The [SOV.GetAdjective]s cannot be trusted to remain peaceful."
+austria.1111.t:0 "El Compromiso [AUS.GetAdjective]"
+austria.1111.d:0 "El gobierno [AUS.GetAdjective] ha escuchado la palabra de nuestra campaña por el Anschluss de nuestras dos grandes naciones y ha ofrecido un compromiso: apoyo en cualquier guerra futura, a cambio de autonomía mientras tanto."
+austria.1111.a:0 "Serán valiosos como aliados autónomos."
+austria.1111.b:0 "¿Debemos recordarles la importancia de la verdadera unidad?"
+
+austria.1112.t:0 "[GER.GetNameDefCap] Ha Aceptado Nuestra Propuesta"
+austria.1112.d:0 "El gobierno [GER.GetAdjective] ha aceptado nuestra oferta alternativa, otorgándonos nuestra libertad como nación. ¡Salve a nuestra alianza!"
+austria.1112.a:0 "¡Por el futuro de las Potencias Centrales!"
+
+austria.1113.t:0 "[GER.GetNameDefCap] Ha Negado Nuestra Propuesta"
+austria.1113.d:0 "Los [GER.GetAdjective] han decidido que la unificación de las Potencias Centrales es el único camino a seguir, y parece que no somos parte de ese plan. El Anschluss se llevará a cabo."
+austria.1113.a:0 "Esta es una posibilidad ominosa."
+
+austria.1114.t:0 "Reunificación de Austria-Hungría"
+austria.1114.d:0 "Durante mucho tiempo, los países de Austria y Hungría estuvieron unidos bajo un mismo emperador. El gobierno [AUS.GetAdjective] nos ha solicitado reinstaurar este arreglo."
+austria.1114.a:0 "¡Por supuesto! ¡Recuperaremos lo que hemos perdido juntos!"
+austria.1114.b:0 "[HUN.GetNameDefCap] protegerá su autonomía tanto de [GER.GetNameDef] como de [AUS.GetNameDef]."
+
+austria.1115.t:0 "[HUN.GetNameDefCap] Ha Aceptado la Reunificación"
+austria.1115.d:0 "[HUN.GetNameDefCap] ha aceptado su lugar en nuestro nuevo y compartido imperio. ¡Ahora, miramos hacia el futuro de Austria-Hungría!"
+austria.1115.a:0 "¡En marcha!"
+
+austria.1116.t:0 "[HUN.GetNameDefCap] Ha Rechazado la Reunificación"
+austria.1116.d:0 "Parece que [HUN.GetNameDef] protege su autonomía. Nuestra oferta ha sido respetuosamente rechazada, lo que genera dudas sobre sus verdaderas intenciones."
+austria.1116.a:0 "Hm..."
+
+austria.1117.t:0 "[AUS.GetNameDefCap] Exige Transilvania"
+austria.1117.d:0 "[AUS.GetNameDefCap] ha estado haciendo declaraciones entre su pueblo y el nuestro sobre la importancia de Transilvania para el pueblo [HUN.GetAdjective]. Si deseamos evitar la guerra, hemos llegado al punto crítico: ¿cedemos Transilvania?"
+austria.1117.a:0 "¡Transilvania es legítimamente nuestra!"
+austria.1117.b:0 "Si vamos a la guerra, se llevarán todo."
+
+austria.1118.t:0 "Rumania Ha Cedido"
+austria.1118.d:0 "Los [ROM.GetAdjective] han mostrado una sabiduría inusual al ceder Transilvania como se les exigió. La infraestructura gubernamental local ya se está transfiriendo a nuestro control, y podemos mover tropas según sea necesario."
+austria.1118.a:0 "Perfecto."
+
+austria.1119.t:0 "Rumania Nos Ha Negado"
+austria.1119.d:0 "Parece que los insolentes [ROM.GetAdjective] han olvidado a quién pertenece Transilvania. La guerra con ellos está justificada, pero ¿es este el momento?"
+austria.1119.a:0 "Los necios. Movilicen las tropas."
+austria.1119.b:0 "La guerra es inoportuna ahora. En otro momento."
+
+austria.1122.t:0 "Transilvania Es Nuestra"
+austria.1122.d:0 "Transilvania es nuestra, y tenemos la oportunidad de forzar una paz ventajosa para mantener la tierra que hemos exigido. Esta guerra ya ha cobrado demasiadas vidas; ¿deberíamos forzar un acuerdo de paz?"
+austria.1122.a:0 "Esta guerra es inútil ahora."
+austria.1122.b:0 "¡Avancen hacia [ROM.Capital.GetName]!"
+
+austria.1124.t:0 "La Cuestión Rumana"
+austria.1124.d:0 "La mayoría rumana en Transilvania ha mantenido una fuerte resistencia política contra el gobierno [HUN.GetAdjective] a pesar de ser en gran medida pacífica. Esto es inaceptable. Si la mayoría no acepta su autoridad, la convertiremos en minoría."
+austria.1124.a:0 "Remuévanlos."
+austria.1124.b:0 "Quizás sea un paso demasiado lejos."
+
+austria.1125.t:0 "[AUS.GetNameDefCap] Exige Eslovenia"
+austria.1125.d:0 "El gobierno [AUS.GetAdjective] ha estado aplicando presión política últimamente por la región de Eslovenia. La guerra con ellos puede ser costosa, pero ¿podemos permitirnos ceder tierras tan fácilmente?"
+austria.1125.a:0 "Si salva las vidas de nuestro pueblo, sí."
+austria.1125.b:0 "¡Nunca! ¡[YUG.GetNameDefCap] defenderá lo suyo!"
+
+austria.1126.t:0 "[YUG.GetNameDefCap] Cede Eslovenia"
+austria.1126.d:0 "Los [YUG.GetAdjective] han cedido sabiamente la tierra que hemos exigido, otorgando a nuestras tropas acceso completo, así como el control de todas las instalaciones. Nuestros planes proceden según lo requerido."
+austria.1126.a:0 "Excelente."
+
+austria.1127.t:0 "[YUG.GetNameDefCap] Rechazó Nuestras Demandas"
+austria.1127.d:0 "El falso estado de [YUG.GetNameDef] parece querer luchar contra nosotros. ¿Qué otra explicación podríamos tener para un rechazo tan grosero? Tendremos que recuperar lo que es nuestro."
+austria.1127.a:0 "Entonces parece que no tenemos elección."
+
+austria.1128.t:0 "[AUS.GetNameDefCap] Exige Territorios Antiguos"
+austria.1128.d:0 "Las agresiones [AUS.GetAdjective] han llegado a un punto crítico, y ahora exigen los territorios del norte de [YUG.GetNameDefCap]. Son un poder intimidante, pero ¿debemos ceder?"
+austria.1128.a:0 "¡Defenderemos nuestra propia tierra!"
+austria.1128.b:0 "No podemos enfrentarnos a una guerra con [AUS.GetNameDef]."
+
+austria.1129.t:0 "[YUG.GetNameDefCap] Rechaza Nuestras Demandas"
+austria.1129.d:0 "El estado pretendiente de [YUG.GetNameDef] nos ha negado la tierra que tenemos todo el derecho a reclamar. Podemos ir a la guerra en este mismo momento, pero ¿es el momento oportuno?"
+austria.1129.a:0 "Tomaremos lo que necesitamos."
+austria.1129.b:0 "Ahora no es el momento."
+
+austria.1130.t:0 "[YUG.GetNameDefCap] Cede los Balcanes del Norte"
+austria.1130.d:0 "[YUG.GetNameDefCap] reconoció que no podían enfrentarse a una guerra con nuestro superior ejército y cedieron sus tierras del norte. Ya estamos instalando a nuestros agentes políticos."
+austria.1130.a:0 "Tal como se planeó."
+
+austria.1131.t:0 "Nuestros Objetivos Han Sido Alcanzados"
+austria.1131.d:0 "Hemos tomado todo el terreno que exigimos de [YUG.GetNameDef], y ahora sus desesperadas fuerzas defensivas están buscando cualquier forma de salida, incluida una tregua. Podemos imponer esto de inmediato, pero ¿es la mejor opción?"
+austria.1131.a:0 "Ahora no es el momento para guerras prolongadas."
+austria.1131.b:0 "¡Podemos y tomaremos todo lo que tienen!"
+
+austria.1132.t:0 "Remilitarización de Serbia"
+austria.1132.d:0 "En el resultado de la guerra [YUG.GetAdjective], nuestros ejércitos han ganado acceso táctico a regiones más profundas de Serbia. ¡En marcha!"
+austria.1132.a:0 "¡Tal como se planeó!"
+
+austria.1133.t:0 "[AUS.GetNameDefCap] Solicita Eslovaquia"
+austria.1133.d:0 "El gobierno [AUS.GetAdjective] ha solicitado que la región ocupada de Eslovaquia sea transferida a su control en vista de su herencia ancestral como tierra austrohúngara."
+austria.1133.a:0 "Esto parece razonable."
+austria.1133.b:0 "Ahora es [GER.GetAdjective]."
+
+austria.1138.t:0 "[GER.GetNameDefCap] Nos Ha Dado Eslovaquia"
+austria.1138.d:0 "El gobierno [GER.GetAdjective] ha concluido que merecemos una participación en la región de Eslovaquia. Han transferido el control de todas las instalaciones a nosotros, y somos libres de usar la tierra de cualquier manera necesaria."
+austria.1138.a:0 "Excelente."
+
+austria.1139.t:0 "[GER.GetNameDefCap] Nos Ha Negado Eslovaquia"
+austria.1139.d:0 "[GER.GetNameDefCap] ha denegado nuestra solicitud para la región de Eslovaquia. Un estado de cosas triste, pero tendremos nuestro día a su debido tiempo."
+austria.1139.a:0 "Un revés desafortunado."
+
+austria.1140.t:0 "[AUS.GetNameDefCap] Solicita Cracovia"
+austria.1140.d:0 "[AUS.GetNameDefCap] ha solicitado la región [POL.GetAdjective] de Cracovia, que ha sido durante mucho tiempo disputada entre el Imperio Austrohúngaro y Polonia. Su reclamación es justa, pero ¿la concederemos?"
+austria.1140.a:0 "Por supuesto."
+austria.1140.b:0 "Esto no se ajusta a nuestras necesidades."
+
+austria.1141.t:0 "[GER.GetNameDefCap] Nos Ha Dado Cracovia"
+austria.1141.d:0 "[GER.GetNameDefCap] ha cedido el acceso a la región de Cracovia, otorgándonos acceso a otro antiguo centro del patrimonio austrohúngaro."
+austria.1141.a:0 "Excelente."
+
+austria.1142.t:0 "[GER.GetNameDefCap] Nos Ha Negado Cracovia"
+austria.1142.d:0 "[GER.GetNameDefCap] nos ha denegado Cracovia, reteniendo el acceso a la ciudad y negándonos tierras antiguas del Imperio Austrohúngaro. Una decisión cuestionable, sin duda."
+austria.1142.a:0 "Cuestionable, pero implacable."
+
+austria.1143.t:0 "Dalmacia por el Tirol del Sur"
+austria.1143.d:0 "Las maquinaciones políticas de Italia nos consiguieron una parte del Tirol después de la Gran Guerra. Los [AUS.GetAdjective]s intentan reclamar el territorio a tiempo - y nosotros queremos reclamar Dalmacia. ¿Quizás se pueda llegar a un acuerdo?"
+austria.1143.a:0 "Parece necesario."
+austria.1143.b:0 "¡No les cederemos nada!"
+
+austria.1144.t:0 "[ITA.GetNameDefCap] Ha Aceptado Nuestro Trato"
+austria.1144.d:0 "Los [ITA.GetAdjective]s han aceptado nuestra oferta, acordando retirar sus tropas de Dalmacia mientras nosotros retiramos las nuestras del Tirol. El intercambio es efectivo de inmediato."
+austria.1144.a:0 "Tal como se planeó."
+
+austria.1145.t:0 "[ITA.GetNameDefCap] Ha Rechazado Nuestro Trato"
+austria.1145.d:0 "Los [ITA.GetAdjective]s han decidido que su reclamación sobre la mayoría italiana en Dalmacia vale más que su dudosa reclamación sobre el resto del Tirol. Han rechazado nuestra oferta."
+austria.1145.a:0 "Quizás sea lo mejor."
+
+austria.1146.t:0 "[AUS.GetNameDefCap] Exige la Península de Istria"
+austria.1146.d:0 "Los [AUS.GetAdjective]s han exigido la península de Istria, un bastión de la superioridad naval austrohúngara antes de la Gran Guerra. Negarles podría tener consecuencias."
+austria.1146.a:0 "Son un poder demasiado peligroso para negarles."
+austria.1146.b:0 "Podemos lidiar con las consecuencias."
+
+austria.1147.t:0 "[ITA.GetNameDefCap] Ha Cedido Istria"
+austria.1147.d:0 "[ITA.GetNameDefCap] ha cedido el antiguo bastión naval de Istria a nosotros, con efecto inmediato. Nuestras tropas son libres de reclamarlo."
+austria.1147.a:0 "¡Perfecto!"
+
+austria.1148.t:0 "[ITA.GetNameDefCap] Ha Rechazado Nuestras Demandas"
+austria.1148.d:0 "Los [ITA.GetAdjective]s nos han desafiado neciamente. Quizás debamos mostrarles que vencernos una vez no garantiza la victoria nuevamente."
+austria.1148.a:0 "¿Están preparados para la guerra?"
+
+austria.1149.t:0 "Invitación [AUS.GetAdjective]"
+austria.1149.d:0 "El gobierno [AUS.GetAdjective] ha extendido una invitación a una alianza militar encabezada por su imperio. Un aliado poderoso para tener, pero ¿necesitamos su ayuda?"
+austria.1149.a:0 "Cualquier ayuda en estos tiempos inestables es bienvenida."
+austria.1149.b:0 "Podemos forjar nuestro propio camino."
+
+austria.1150.t:0 "Ultimátum [AUS.GetAdjective]"
+austria.1150.d:0 "[AUS.GetNameDefCap] nos ha entregado un ultimátum: someternos pacíficamente al dominio [AUS.GetAdjective] o ser sometidos a la fuerza. Estamos en una posición difícil."
+austria.1150.a:0 "¡Protegeremos el estilo de vida de nuestros ciudadanos!"
+austria.1150.b:0 "Parece que debemos aceptar el liderazgo [AUS.GetAdjective]."
+
+austria.1151.t:0 "[GRE.GetNameDefCap] Ha Rechazado Nuestro Ultimátum"
+austria.1151.d:0 "Los impúdicos [GRE.GetAdjective]s nos han dado una bofetada en la cara, rechazando nuestra oferta de protección política y militar. ¡Tal gesto tan abierto es absolutamente un acto de guerra!"
+austria.1151.a:0 "¡Y lo trataremos como tal!"
+
+austria.1152.t:0 "[GRE.GetNameDefCap] Ha Sucumbido a Nuestro Ultimátum"
+austria.1152.d:0 "[GRE.GetNameDefCap] ha aceptado sabiamente nuestra oferta de protección en estos tiempos oscuros y problemáticos. Su gobierno ha cambiado de manos con mínima resistencia a nuestro control, y operarán como parte de nuestra coalición."
+austria.1152.a:0 "La elección más sabia."
+
+austria.1153.t:0 "Invitación [AUS.GetAdjective]"
+austria.1153.d:0 "Nuestros antiguos aliados, los [AUS.GetAdjective]s, han extendido un brazo en amistad, ofreciendo una resurrección de las Potencias Centrales. Quizás sea el momento de reunirnos con nuestros antiguos aliados otomanos."
+austria.1153.a:0 "Si hay un momento, es ahora."
+austria.1153.b:0 "Debemos considerar a nuestros aliados con más cuidado si se avecina una guerra."
+
+austria.1154.t:0 "[TUR.GetNameDefCap] Ha Aceptado Unirse a Nosotros"
+austria.1154.d:0 "[TUR.GetNameDefCap] ha aceptado nuestra oferta de alianza y está con nosotros en cualquier conflicto futuro. ¡Los otomanos no han olvidado a sus amigos!"
+austria.1154.a:0 "Y nosotros tampoco."
+
+austria.1155.t:0 "[TUR.GetNameDefCap] Ha Rechazado Unirse a Nosotros"
+austria.1155.d:0 "[TUR.GetNameDefCap], parece, ha olvidado cómo nos apoyamos mutuamente lealmente en la Gran Guerra. Han rechazado nuestra alianza y seguirán su propio camino."
+austria.1155.a:0 "Un concepto preocupante."
+
+austria.1156.t:0 "Hemos Rechazado a [SOV.GetNameDef]"
+austria.1156.d:0 "El levantamiento ucraniano ha ido relativamente bien, sin embargo, el oso [SOV.GetAdjective] sigue siendo una presencia preocupante sobre nosotros. Podemos seguir avanzando si creemos que podemos tomar más terreno o entregar un acuerdo de paz."
+austria.1156.a:0 "Ofreceremos paz, con condiciones."
+austria.1156.b:0 "¡[SOV.GetNameDefCap] no puede continuar!"
+
+austria.1157.t:0 "El Armisticio Ucraniano"
+austria.1157.d:0 "Los [AUS.GetAdjective]s han entregado un acuerdo de paz. Considerando cómo ha ido la guerra, los términos son generosos: un alto el fuego inmediato a cambio de la libertad para la Ucrania rusa. ¿Deberíamos aceptarlo?"
+austria.1157.a:0 "Parece necesario."
+austria.1157.b:0 "¡No hasta que el último hombre esté muerto!"
+
+austria.1158.t:0 "Los [SOV.GetAdjective]s Han Concedido"
+austria.1158.d:0 "Los [SOV.GetAdjective]s han aceptado un alto el fuego. Ucrania está en manos de los ucranianos, y los ucranianos están muy agradecidos con nosotros. Una gran victoria."
+austria.1158.a:0 "Y otro paso en nuestros planes."
+
+austria.1159.t:0 "Los [SOV.GetAdjective]s Han Rechazado"
+austria.1159.d:0 "Los [SOV.GetAdjective]s han decidido que sus intereses están mejor servidos por una guerra larga y agotadora. ¿Evidencia de la verdadera visión [SOV.GetAdjective] del valor del trabajador, tal vez?"
+austria.1159.a:0 "Por el bien de los nuestros, terminaremos esto rápidamente."
+
+austria.1160.t:0 "Hemos Logrado Nuestros Objetivos"
+austria.1160.d:0 "El levantamiento ucraniano ha ido bien, y un estado ucraniano libre ahora es posible. Podemos entregar un acuerdo de paz a los soviéticos: paz, por la libertad de Ucrania. Una oferta más razonable, no podríamos hacer."
+austria.1160.a:0 "Cualquier cosa para traer la democracia a Ucrania."
+austria.1160.b:0 "No se puede confiar en los [SOV.GetAdjective]s para que permanezcan pacíficos."
 
  ### ROYALIST SECTION ###
+austria.5000.t:0 "[AUS.GetNameDefCap] Propone el Pacto de Defensa de los Alpes"
+austria.5000.d:0 "Aparentemente para evitar las tácticas predatorias de los [GER.GetAdjective]s al norte, hemos recibido a diplomáticos [AUS.GetAdjective] con una propuesta para un pacto defensivo. El objetivo es reforzar los lazos que ya tenemos con su nación, y el acuerdo también podría actuar como un disuasivo a la expansión [GER.GetAdjective]. ¿Cuál debería ser nuestra respuesta?"
+austria.5000.a:0 "Sí, es hora de formalizar nuestra amistad."
+austria.5000.b:0 "No, no podemos arriesgarnos a enfurecer a los [GER.GetAdjective]s."
 
- austria.5000.t:0 "[AUS.GetNameDefCap] Proposes the Alps Defense Pact"
- austria.5000.d:0 "Seemingly to stave off the predatory tactics of the [GER.GetAdjective]s to their north, we have been met with [AUS.GetAdjective] diplomats with a proposal for a defensive pact. The aim is to reinforce the bonds we already have with their nation, and the deal could also act as a deterrent to [GER.GetAdjective] expansion. What should our response be?"
- austria.5000.a:0 "Yes, it is time to formalize our friendship."
- austria.5000.b:0 "No, we cannot risk angering the [GER.GetAdjective]s."
+austria.5001.t:0 "[ITA.GetNameDefCap] Rechaza Nuestra Propuesta"
+austria.5001.d:0 "Claramente, por miedo a más represalias [GER.GetAdjective], los [ITA.GetAdjective]s han rechazado nuestra generosa propuesta."
+austria.5001.a:0 "Si debemos estar solos, lo haremos."
 
- austria.5001.t:0 "[ITA.GetNameDefCap] Rejects Our Proposal"
- austria.5001.d:0 "Clearly, out of fear of more [GER.GetAdjective] retaliation, the [ITA.GetAdjective]s have declined our generous proposal."
- austria.5001.a:0 "If we must stand alone, we will do so."
+r56.news_event.1115.t:0 "[AUS.GetNameDefCap] y [ITA.GetNameDef] Firman Pacto de Defensa"
+r56.news_event.1115.d:0 "Apodado el 'Pacto de Defensa de los Alpes', los medios informan que las naciones de [AUS.GetNameDef] y [ITA.GetNameDef] han acordado la defensa mutua. Si [ITA.GetNameDef] pretende aprovechar su nuevo aliado para frenar la expansión [GER.GetAdjective] o simplemente fortalecer sus fronteras del norte es desconocido. Sea cual sea el caso, la idea de que la soberanía de [AUS.GetNameDef] sea violada sin conflicto parece haberse evaporado de la noche a la mañana."
+r56.news_event.1115.a:0 "Una vez enemigos, ahora amigos."
+r56.news_event.1115.b:0 "¡Una gran oportunidad!"
 
- r56.news_event.1115.t:0 "[AUS.GetNameDefCap] and [ITA.GetNameDef] Sign Defense Pact"
- r56.news_event.1115.d:0 "Dubbed the "Alps Defense Pact", new outlets are reporting that the nations of [AUS.GetNameDef] and [ITA.GetNameDef] have agreed on the matter of mutual defense. Whether [ITA.GetNameDef] aims to take advantage of its new ally in a bid to halt [GER.GetAdjective] expansionism or merely to shore up its northern borders is unknown. Whatever the case may be, the idea of [AUS.GetNameDef]'s sovereignty being violated without conflict has seemingly evaporated overnight."
- r56.news_event.1115.a:0 "Once enemies, now friends."
- r56.news_event.1115.b:0 "A great opportunity!"
+austria.5002.t:0 "Los Nacionalsocialistas Intentan un Golpe"
+austria.5002.d:0 "Fanáticos nazis han irrumpido en el parlamento en fuerza, matando a muchos políticos y causando un clamor público. Han exigido públicamente ser restaurados en su posición de poder. Su golpe ha sido sofocado, pero su demanda llena el lugar donde una vez estuvieron buenos y honestos políticos."
+austria.5002.a:0 "Esto es, sin embargo, una oportunidad para fortalecer nuestra posición."
+austria.5002.b:0 "Si no nos inclinamos a sus demandas, pueden encontrar otra forma de cometer otra atrocidad."
 
- austria.5002.t:0 "National Socialists Attempt Coup"
- austria.5002.d:0 "Nazi fanatics have broken into the house of parliament in force, killing many politicians and causing public uproar. They have publicly demanded that they be restored to their position of power. Their coup has been put down - but their demand fills the place where good, honest politicians once sat."
- austria.5002.a:0 "This is, however, a chance to strengthen our position."
- austria.5002.b:0 "If we do not bow to their demands, they may well find a way to commit another atrocity."
+austria.5003.t:0 "[AUS.GetNameDefCap] Propone el Tratado de Venecia"
+austria.5003.d:0 "Los diplomáticos [AUS.GetAdjective] nos han abordado nuevamente, buscando formalizar nuestro pacto en una alianza militar. ¿Cuál será nuestra respuesta?"
+austria.5003.a:0 "Firmar el tratado."
+austria.5003.b:0 "Nos negamos a firmar este tratado."
 
- austria.5003.t:0 "[AUS.GetNameDefCap] Proposes the Venetia Treaty"
- austria.5003.d:0 "[AUS.GetAdjective] diplomats have again approached us, seeking to formalize our pact into a military alliance. What will our response be?"
- austria.5003.a:0 "Sign the treaty."
- austria.5003.b:0 "We refuse to sign this treaty."
+austria.5004.t:0 "[ITA.GetNameDefCap] Rechaza la Propuesta"
+austria.5004.d:0 "Incapaz de profundizar en nuestras relaciones amistosas, el cobarde gobierno [ITA.GetAdjective] ha rechazado nuestra propuesta más generosa."
+austria.5004.a:0 "Quizás debamos buscar alianzas en otro lugar."
 
- austria.5004.t:0 "[ITA.GetNameDefCap] Rejects Proposal"
- austria.5004.d:0 "Unable to double down on our friendly relations, the cowardly [ITA.GetAdjective] government has rejected our most gracious proposal."
- austria.5004.a:0 "Perhaps we should seek alliances elsewhere."
+austria.5005.t:0 "Oferta de Intervención [AUS.GetAdjective]"
+austria.5005.d:0 "En medio de la guerra por el futuro de Italia, los diplomáticos [AUS.GetAdjective] nos han ofrecido asistencia para restaurar la monarquía [ITA.GetAdjective]. Piden una cosa: la devolución de las tierras que ganamos en la Gran Guerra y la reconsideración del Tratado de Viena de 1866."
+austria.5005.a:0 "Una oferta justa por una asistencia invaluable."
+austria.5005.b:0 "El precio es demasiado alto; mándalos lejos."
 
- austria.5005.t:0 "[AUS.GetAdjective] Offer of Intervention"
- austria.5005.d:0 "Amidst the war for Italy's future, [AUS.GetAdjective] diplomats have approached us and offered assistance restoring the [ITA.GetAdjective] Monarchy. They ask for one thing - the return of the lands we gained from the Great War and reconsideration of the Treaty of Vienna of 1866."
- austria.5005.a:0 "A fair offer for invaluable assistance."
- austria.5005.b:0 "The price is too steep; send them away."
+austria.5006.t:0 "[AUS.GetNameDefCap] Propone el Tratado de Liechtenstein"
+austria.5006.d:0 "Diplomáticos de [AUS.GetNameDef] han llegado con una propuesta de tratado. Su objetivo es claramente expandir su lista de aliados en caso de un conflicto armado. Con la expansión [GER.GetAdjective] en aumento y Europa aparentemente moviéndose hacia otra guerra, podría ser prudente escuchar sus palabras y considerar seriamente su oferta."
+austria.5006.a:0 "Sí, debemos buscar aliados en caso de otra guerra en Europa."
+austria.5006.b:0 "No podemos aceptar una propuesta que podría socavar nuestra neutralidad."
 
- austria.5006.t:0 "[AUS.GetNameDefCap] Proposes Liechtenstein Treaty"
- austria.5006.d:0 "Diplomats from [AUS.GetNameDef] have arrived with a proposal for a treaty. Its aim is clearly to expand its list of allies in the event of an armed conflict. With [GER.GetAdjective] expansionism on the rise and Europe seemingly moving towards another war, it may be wise to heed their words and seriously consider their offer."
- austria.5006.a:0 "Yes, we must seek allies in the event of another war in Europe."
- austria.5006.b:0 "We cannot accept a proposal that could undermine our neutrality."
+austria.5007.t:0 "[FROM.GetNameDefCap] Rechaza Nuestro Tratado"
+austria.5007.d:0 "[FROM.GetNameDefCap] ha rechazado nuestra propuesta de alianza, ya sea por el deseo de mantener una postura puramente neutral ante el resto del mundo o simplemente por diferencias entre su gobierno y el nuestro."
+austria.5007.a:0 "Maldita sea."
 
- austria.5007.t:0 "[FROM.GetNameDefCap] Declines Our Treaty"
- austria.5007.d:0 "[FROM.GetNameDefCap] has rejected our proposition for an alliance, either out of a desire to maintain its purely neutral stance to the rest of the world or simply differences between their government and ours."
- austria.5007.a:0 "Damn."
+austria.5008.t:0 "[AUS.GetNameDefCap] Exige su 'Reclamación Legítima'"
+austria.5008.d:0 "Sintiéndose en un momento de debilidad, [AUS.GetNameDef] ha enviado diplomáticos solicitando la devolución de las antiguas provincias austriacas de Tirol del Sur, Friuli y toda la península de Istria. Uno se pregunta cuánto han influido en los eventos hasta ahora."
+austria.5008.a:0 "No podemos permitirnos luchar en dos frentes. Cederemos las tierras."
+austria.5008.b:0 "No se atreverían a tomar tierras que hemos luchado por ganar, incluso ahora. Nos mantenemos firmes."
 
- austria.5008.t:0 "[AUS.GetNameDefCap] Demands its "Rightful" Claim"
- austria.5008.d:0 "Sensing our time of weakness, [AUS.GetNameDef] has sent diplomats to us 'requesting' the return of the once-Austrian provinces of South Tyrol, Friuli, and the entire Istrian peninsula. One wonders how much of a hand they have had in events thus far."
- austria.5008.a:0 "We cannot afford to fight a battle on two fronts. We will cede the land."
- austria.5008.b:0 "They wouldn't dare take land we have fought for and won, even now. We stand firm."
+austria.5009.t:0 "[ITA.GetNameDefCap] Rechaza Nuestras Demandas"
+austria.5009.d:0 "Una vez más, [ITA.GetNameDef] se ha negado a reconocer nuestras legítimas reclamaciones sobre las tierras de Tirol del Sur e Istria. Aunque nuestro intento de recuperar estas tierras diplomáticamente ha fallado, quizás un enfoque más directo sea más efectivo."
+austria.5009.a:0 "La diplomacia nos ha fallado; quizás otra ruta sea factible."
 
- austria.5009.t:0 "[ITA.GetNameDefCap] Rejects Our Demands"
- austria.5009.d:0 "Once again, [ITA.GetNameDef] has refused to recognize our legitimate claims to the lands of South Tyrol and Istria. While our attempt at diplomatically regaining these lands has failed, perhaps a more direct approach would prove more effective."
- austria.5009.a:0 "Diplomacy has failed us; perhaps another route is feasible."
+austria.5010.t:0 "[AUS.GetNameDefCap] Propone Alianza"
+austria.5010.d:0 "Nuestra antigua nación hermana [AUS.GetNameDef] ha propuesto una alianza entre nosotros. Aunque no sería una conexión tan fuerte como nuestro monarca compartido, sería un retorno a nuestras antiguas relaciones."
+austria.5010.a:0 "Es, por supuesto, la única opción sensata."
+austria.5010.b:0 "Austria-Hungría está rota. Los caminos de Hungría y Austria ahora divergen."
 
- austria.5010.t:0 "[AUS.GetNameDefCap] Proposes Alliance"
- austria.5010.d:0 "Our old sister-nation [AUS.GetNameDef] has proposed an alliance between us. Though it would not be as strong a connection as our shared monarch was, it would be a return to our former relations."
- austria.5010.a:0 "It is, of course, the only sensible option."
- austria.5010.b:0 "Austria-Hungary is broken. Hungary and Austria's paths now diverge."
+austria.5011.t:0 "[AUS.GetNameDefCap] Exige Autonomía [CZE.GetAdjective]!"
+austria.5011.d:0 "[AUS.GetNameDefCap] ha contactado a nuestros oficiales, exigiendo la liberación de su antiguo territorio bajo el dominio semi-autónomo [GER.GetAdjective]. Cómo esto les beneficia sigue siendo desconocido."
+austria.5011.a:0 "Mientras la tierra siga siendo [GER.GetAdjective], pueden llamarse como quieran."
+austria.5011.b:0 "Absolutamente no. El destino de Checoslovaquia está sellado."
 
- austria.5011.t:0 "[AUS.GetNameDefCap] Demands [CZE.GetAdjective] Autonomy!"
- austria.5011.d:0 "[AUS.GetNameDefCap] has contacted our officials, demanding the release of its former territory under semi-autonomous [GER.GetAdjective] rule. How this benefits them remains unknown."
- austria.5011.a:0 "As long as the land remains [GER.GetAdjective], they may call themselves what they like."
- austria.5011.b:0 "Absolutely not. The fate of Czechoslovakia has been sealed."
+austria.5012.t:0 "[AUS.GetNameDefCap] Solicita el Sur de Eslovaquia"
+austria.5012.d:0 "[AUS.GetNameDefCap] ha solicitado el retorno del Sur de Eslovaquia a su dominio, como era antes de la Gran Guerra. Dada la historia de la región, su reclamación es justa."
+austria.5012.a:0 "La justicia de la reclamación no puede ser negada."
+austria.5012.b:0 "Está y permanecerá bajo el dominio [GER.GetAdjective]."
 
- austria.5012.t:0 "[AUS.GetNameDefCap] Requests Southern Slovakia!"
- austria.5012.d:0 "[AUS.GetNameDefCap] has requested the return of Southern Slovakia to its rule, as it was before the Great War. Given the history of the region, they make a fair claim."
- austria.5012.a:0 "The fairness of the claim cannot be denied."
- austria.5012.b:0 "It is and will remain under [GER.GetAdjective] rule."
+austria.5013.t:0 "[AUS.GetNameDefCap] Nos Invita al Pacto de Defensa de los Alpes"
+austria.5013.d:0 "Como una potencia central en la región de los Alpes, [AUS.GetNameDef] siempre busca posibles aliados, aliados como nosotros, aparentemente. Ha llegado una carta de la embajada [AUS.GetAdjective] invitándonos a un 'Pacto de Defensa de los Alpes'."
+austria.5013.a:0 "Estos son tiempos inestables, y los aliados siempre son bienvenidos."
+austria.5013.b:0 "[AUS.GetNameDefCap] es poderoso, y con poder vienen enemigos peligrosos, enemigos que preferiríamos no compartir."
 
- austria.5013.t:0 "[AUS.GetNameDefCap] Invites Us to the Alps Defence Pact"
- austria.5013.d:0 "As a central power in the Alps region, [AUS.GetNameDef] is always looking out for potential allies - allies, apparently, like us. A letter has come from the [AUS.GetAdjective] embassy inviting us to one 'Alps Defence Pact'."
- austria.5013.a:0 "These are unstable times, and allies are always welcome."
- austria.5013.b:0 "[AUS.GetNameDefCap] is powerful, and with power comes dangerous enemies - enemies we would rather not share."
+austria.5014.t:0 "[AUS.GetNameDefCap] Exige Eslovenia"
+austria.5014.d:0 "Los diplomáticos [AUS.GetAdjective] se han reunido con nuestro Príncipe y han exigido la devolución de Eslovenia al dominio [AUS.GetAdjective]. Han advertido sobre las posibles 'repercusiones diplomáticas' de una respuesta apresurada."
+austria.5014.a:0 "No podemos permitirnos una guerra con [AUS.GetNameDef]. Aceptamos."
+austria.5014.b:0 "No se atreverían a presionar el asunto; nos mantendremos firmes."
 
- austria.5014.t:0 "[AUS.GetNameDefCap] Demands Slovenia"
- austria.5014.d:0 "[AUS.GetAdjective] diplomats have met with our Prince and demanded the return of Slovenia to [AUS.GetAdjective] rule. They have warned of the potential 'diplomatic repercussions' of a hasty response."
- austria.5014.a:0 "We cannot afford a war with [AUS.GetNameDef]. We accept."
- austria.5014.b:0 "They would not dare press the issue - we will stand firm."
+austria.5015.t:0 "Invitación [AUS.GetAdjective] a la Facción"
+austria.5015.d:0 "[AUS.GetNameDefCap] nos ha contactado con una propuesta para solidificar y oficializar nuestro pacto defensivo existente. Dada nuestra reciente historia de cooperación, esto podría ser de mutuo beneficio."
+austria.5015.a:0 "Por supuesto. Las relaciones [AUS.GetAdjective]-[YUG.GetAdjective] nunca han sido mejores."
+austria.5015.b:0 "A pesar de lo buenas que son nuestras relaciones, no deseamos ser responsables de la defensa de otros."
 
- austria.5015.t:0 "[AUS.GetAdjective] Invitation to Faction"
- austria.5015.d:0 "[AUS.GetNameDefCap] has contacted us with a proposal to solidify and make official our existing defensive pact. Given our recent history of cooperation, this might well be to our mutual advantage."
- austria.5015.a:0 "Of course. [AUS.GetAdjective]-[YUG.GetAdjective] relations have never been better."
- austria.5015.b:0 "As good as our relations are, we do not wish to be held responsible for the defense of others."
+austria.5016.t:0 "Resistencia Croata"
+austria.5016.d:0 "Aunque los croatas fueron un Banato en nuestro antiguo Imperio, parece que han aprovechado el cambio de propietario y han comenzado a formar una resistencia activa contra nuestras fuerzas."
+austria.5016.a:0 "Seguramente, eventualmente entrarán en razón."
 
- austria.5016.t:0 "Croatian Resistance"
- austria.5016.d:0 "While the Croatians were a Banate in our old Empire, it appears that they have taken advantage of the change of ownership and begun forming an active resistance to our forces."
- austria.5016.a:0 "Surely they must come to their senses eventually."
+austria.5017.t:0 "Nacionalismo Serbio"
+austria.5017.d:0 "Los serbios una vez más están causando problemas a nuestras fuerzas, en forma de un continuo sentimiento nacionalista por el concepto perdido de un 'Reino de Serbia' una vez más. No muestran signos de retroceder pronto, por lo que nuestras fuerzas deben estar alertas."
+austria.5017.a:0 "¡Serbien muss sterbien!"
 
- austria.5017.t:0 "Serbian Nationalism"
- austria.5017.d:0 "The Serbians once again are causing trouble for our forces, in the form of continued nationalistic sentiment for a forlorn concept of a 'Kingdom of Serbia' once more. They show no signs of backing down anytime soon, so our forces must be alert."
- austria.5017.a:0 "Serbien muss sterbien!"
+austria.5018.t:0 "Ultimátum de Transilvania"
+austria.5018.d:0 "[AUS.GetNameDefCap] nos ha exigido la devolución de Transilvania a su dominio. Una vez gobernaron la región, pero la Gran Guerra cambió eso. Sin embargo, la amenaza que plantean ahora es genuina."
+austria.5018.a:0 "No podemos enfrentarnos a una guerra solos con [AUS.GetNameDef]."
+austria.5018.b:0 "Después de su derrota en la Gran Guerra, no se atreverían."
 
- austria.5018.t:0 "Transylvanian Ultimatum"
- austria.5018.d:0 "[AUS.GetNameDefCap] has demanded of us the return of Transylvania to its rule. They did once rule the region - but the Great War changed that. The threat they pose now, however, is genuine."
- austria.5018.a:0 "We cannot face a war alone with [AUS.GetNameDef]."
- austria.5018.b:0 "After their defeat in the Great War, they would not dare."
+austria.5019.t:0 "[FROM.GetNameDefCap] Rechaza Nuestro Ultimátum"
+austria.5019.d:0 "Parece que el gobierno en [FROM.GetNameDef] no reconoce el poder de la nación con la que está tratando. Han rechazado nuestro ultimátum, negándose a reconocer nuestros derechos históricos para gobernar sobre Transilvania."
+austria.5019.a:0 "¡Si la pluma falla, la espada debe ser desenvainada!"
 
- austria.5019.t:0 "[FROM.GetNameDefCap] Refuses Our Ultimatum"
- austria.5019.d:0 "It appears that the government in [FROM.GetNameDef] does not recognize the power of the nation it is dealing with. They have refused our ultimatum, refusing to acknowledge our historical rights to rule over Transylvania."
- austria.5019.a:0 "Should the pen fail, the sword must be drawn!"
+austria.5020.t:0 "Aparecen Nacionalistas Rumanos en Transilvania"
+austria.5020.d:0 "Aparentemente descontentos con el cambio de manos de [ROM.GetAdjective] a [AUS.GetAdjective], notamos una amenaza genuina en el terreno en forma de agitación nacionalista. Esto obstaculizará un poco nuestros esfuerzos para integrar completamente la región."
+austria.5020.a:0 "Debemos redoblar nuestros esfuerzos."
 
- austria.5020.t:0 "Romanian Nationalists Appear in Transylvania"
- austria.5020.d:0 "Seemingly discontent over the changing of hands from [ROM.GetAdjective] to [AUS.GetAdjective], we notice a genuine threat on the ground in the form of nationalist agitation. This will somewhat hamper our efforts to fully integrate the region."
- austria.5020.a:0 "We must re-double our efforts."
+austria.5023.t:0 "[YUG.GetNameDefCap] Ha Cedido Eslovenia"
+austria.5023.d:0 "El gobierno en [YUG.GetNameDef], ya sea por temor a un conflicto armado o simplemente por darse cuenta de que la tierra no es legítimamente suya, ha aceptado nuestras demandas por Eslovenia."
+austria.5023.a:0 "¡Una provincia del Imperio una vez más!"
 
- austria.5023.t:0 "[YUG.GetNameDefCap] Has Ceded Slovenia"
- austria.5023.d:0 "The government in [YUG.GetNameDef], whether out of fear of an armed conflict or a simple realization that the land is not rightfully theirs, has accepted our demands for Slovenia."
- austria.5023.a:0 "A province of the Empire once more!"
+austria.5034.t:0 "El Asesinato de Kurt Schuschnigg"
+austria.5034.d:0 "Según una declaración oficial del gobierno de [AUS.GetNameDefCap], el Canciller Kurt Schuschnigg fue asesinado esta mañana.\n\nAún no está claro cómo ocurrió el asesinato, pero fuentes indican que un simpatizante comunista logró colarse en su residencia privada y emboscarlo con un piolet. Hasta ahora, no se ha podido establecer ninguna conexión entre él y ningún grupo político organizado, pero el hecho de que se suicidara con píldoras de cianuro ocultas al ser capturado sugiere asistencia externa.\n\nVarios líderes comunistas influyentes celebraron abiertamente la muerte de Schuschnigg. Marchas celebratorias seguidas de disturbios violentos estallaron en Viena, y se ha hecho evidente que la violencia política ya no está fuera de los límites. Los observadores extranjeros temen una rápida escalada que conduzca a algo mucho peor, ya que [AUS.GetNameDefCap] ahora se ha quedado sin una figura firme anticomunista en el cargo más alto."
+austria.5034.a:0 "¡Muerte a todos los opresores!"
 
- austria.5034.t:0 "The Assassination of Kurt Schuschnigg"
- austria.5034.d:0 "According to an official statement by the government of [AUS.GetNameDefCap], Chancellor Kurt Schuschnigg was assassinated earlier this morning.\n\nIt is still unclear how the murder transpired, but sources indicate that a communist sympathizer managed to sneak into his private residence and ambush him with an ice axe. As of now, no connection between him and any organized political groups could be established, but the fact that he committed suicide via hidden cyanide pills upon capture hints towards outside assistance.\n\nQuite a few influential communist leaders openly celebrated the death of Schushnigg. Celebratory marches followed by violent riots broke out in Vienna, and it has become apparent that political violence isn't off-limits anymore. Foreign observers fear a rapid escalation leading to something far worse, as [AUS.GetNameDefCap] is now left without a steadfast anti-communist figure in the highest office."
- austria.5034.a:0 "Death to all oppressors!"
+austria.5035.t:0 "Desertores del Bundesheer"
+austria.5035.d:0 ""
+austria.5035.a:0 "Genial"
 
- austria.5035.t:0 "Bundesheer Deserters"
- austria.5035.d:0 ""
- austria.5035.a:0 "Great"
+austria.5036.t:0 "Generales Socialdemócratas"
+austria.5036.d:0 ""
+austria.5036.a:0 "Genial"
 
- austria.5036.t:0 "Socdem Generals"
- austria.5036.d:0 ""
- austria.5036.a:0 "Great"
+austria.5037.t:0 "[AUS.GetNameDefCap] Exige una Eslovaquia Libre"
+austria.5037.d:0 "[AUS.GetNameDefCap] ha exigido que declaremos Eslovaquia como un estado independiente. Tal movimiento les permitirá mover a Eslovaquia a su esfera de influencia, pero ¿es una mejor opción que una posible guerra?"
+austria.5037.a:0 "De mala gana haremos lo que piden."
+austria.5037.b:0 "Piden lo imposible; no lo haremos."
 
- austria.5037.t:0 "[AUS.GetNameDefCap] Demands a Free Slovakia"
- austria.5037.d:0 "[AUS.GetNameDefCap] has demanded we declare Slovakia an independent state. Such a move will allow it to move Slovakia into their sphere of influence, but is it a better option than possible war?"
- austria.5037.a:0 "We will begrudgingly do as they ask."
- austria.5037.b:0 "They ask the impossible; we shan't do it."
+austria.5038.t:0 "Chequia se Separa de Eslovaquia"
+austria.5038.d:0 "Chequia se ha separado de Eslovaquia, ya que un gobierno amigo ya ha asumido el poder. Ahora todo lo que debemos hacer es atraerlos más a nuestra esfera."
+austria.5038.a:0 "¡Maravillosa noticia!"
 
- austria.5038.t:0 "Czechia Splits with Slovakia"
- austria.5038.d:0 "Czechia has parted with Slovakia, as a friendly government has already taken office. Now all we must do is pull them further into our sphere."
- austria.5038.a:0 "Wonderful news!"
+austria.5039.t:0 "[CZE.GetNameDefCap] Ha Rechazado Nuestra Solicitud"
+austria.5039.d:0 "[CZE.GetNameDefCap] ha rechazado nuestra solicitud. Ahora estamos en un punto de inflexión en nuestra historia en cuanto a lo que deberíamos hacer respecto a la situación."
+austria.5039.a:0 "Nos han forzado la mano; estamos sin opciones."
+austria.5039.b:0 "Retiren las tropas; no habrá guerra este año."
 
- austria.5039.t:0 "[CZE.GetNameDefCap] Has Refused Our Request"
- austria.5039.d:0 "[CZE.GetNameDefCap] has refused our request. We now stand at a turning point in our history in what we should do regarding the situation."
- austria.5039.a:0 "They've forced our hand; we're out of options."
- austria.5039.b:0 "Stand down the troops; there'll be no war this year."
+austria.5040.t:0 "[ITA.GetNameDefCap] Acepta Nuestra Propuesta de Intervención"
+austria.5040.d:0 "Ansioso por salvar a su país contra el fascismo republicano, [ITA.GetLeader] ha aceptado ceder algunas tierras a cambio de su victoria garantizada en la guerra civil."
+austria.5040.a:0 "¡Estamos en guerra!"
 
- austria.5040.t:0 "[ITA.GetNameDefCap] Accepts Our Intervention Proposal"
- austria.5040.d:0 "Eager to save his country against Republican fascism, [ITA.GetLeader] has agreed to concede some land in exchange for their guaranteed victory in the civil war."
- austria.5040.a:0 "We are at war!"
+austria.5041.t:0 "[ITA.GetNameDefCap] Rechazó"
+austria.5041.d:0 "Dispuesto a apostar todo a su victoria, [ITA.GetLeader] rechazó nuestra propuesta de intercambiar algunas tierras por asistencia en su guerra civil."
+austria.5041.a:0 "¡Estamos en guerra!"
 
- austria.5041.t:0 "[ITA.GetNameDefCap] Refused"
- austria.5041.d:0 "Willing to bet everything on their victory, [ITA.GetLeader] refused our proposal to trade some land for assistance in their civil war."
- austria.5041.a:0 "We are at war!"
- #Research
- AUS_support_weapons:0 "Schwarlose M. 7"
- AUS_support_weapons_desc:0 "The Maschinengewehr (Schwarzlose) M. 7, also known as the Schwarzlose MG, is a medium machine-gun used as a standard issue firearm in the Austro-Hungarian Army throughout World War I. It was utilized by the Dutch, Greek, and Hungarian armies during World War II. It was routinely issued to Italian colonial troops, alongside the Mannlicher M1895 rifle."
- AUS_support_weapons2:0 "MG 34"
- AUS_support_weapons2_desc:0 "The versatile MG 34 was arguably the most advanced machine gun globally at the time of its deployment. Its combination of exceptional mobility – being light enough to be carried by one man – and high rate of fire (of up to 900 rounds per minute) was unmatched."
- AUS_support_weapons3:0 "MG 42"
- AUS_support_weapons3_desc:0 "Intended to replace the earlier MG 34, the MG 42 has proven reliability, durability, simplicity, and ease of operation. Still, it is most notable for its ability to produce a high volume of suppressive fire. The MG 42 had one of the highest average cyclic rates of any single-barreled man-portable machine gun: between 1,200 and 1,500 rpm, resulting in a distinctive muzzle report compared to the sound of a power saw or tearing linoleum."
- AUS_support_weapons4:0 "MG 45"
- AUS_support_weapons4_desc:0 "The MG 45 differed from the MG 42 in that it did not wholly lock its breech before firing, increasing its rate of fire and simplifying its construction. In 1945, the material shortages of the Third Reich led to the development of a newer version of the MG 42, the MG 45 (or MG 42V). The tested MG 45/42V fired 120,000 rounds in succession at a rate of fire around 1,350 rounds per minute."
+#Research
+AUS_support_weapons:0 "Schwarlose M. 7"
+AUS_support_weapons_desc:0 "La Maschinengewehr (Schwarzlose) M. 7, también conocida como la Schwarzlose MG, es una ametralladora media utilizada como arma de dotación estándar en el ejército austrohúngaro durante la Primera Guerra Mundial. Fue utilizada por los ejércitos holandés, griego y húngaro durante la Segunda Guerra Mundial. Se emitía rutinariamente a las tropas coloniales italianas, junto con el fusil Mannlicher M1895."
 
- AUS_tech_mountaineers:0 "Gebirgsjäger I"
- AUS_tech_mountaineers2:0 "Gebirgsjäger II"
- AUS_tech_mountaineers3:0 "Gebirgsjäger III"
+AUS_support_weapons2:0 "MG 34"
+AUS_support_weapons2_desc:0 "La versátil MG 34 fue posiblemente la ametralladora más avanzada del mundo en el momento de su despliegue. Su combinación de movilidad excepcional, siendo lo suficientemente ligera para ser llevada por un solo hombre, y su alta cadencia de fuego (hasta 900 disparos por minuto) no tenía igual."
 
- AUS_paratroopers:0 "Jagdkommando I"
- AUS_paratroopers2:0 "Jagdkommando II"
- AUS_paratroopers3:0 "Jagdkommando III"
+AUS_support_weapons3:0 "MG 42"
+AUS_support_weapons3_desc:0 "Destinada a reemplazar a la MG 34 anterior, la MG 42 ha demostrado ser fiable, duradera, simple y fácil de operar. Sin embargo, es más notable por su capacidad de producir un gran volumen de fuego de supresión. La MG 42 tenía una de las tasas cíclicas promedio más altas de cualquier ametralladora portátil de un solo cañón: entre 1,200 y 1,500 disparos por minuto, lo que resulta en un sonido característico comparado con el de una sierra eléctrica o linóleo rasgado."
 
- AUS_motorised_infantry:0 "Raupenschlepper Ost"
- AUS_motorised_infantry_desc:0 "Raupenschlepper Ost, literally "Caterpillar Tractor East", is more commonly abbreviated to RSO. This fully tracked, lightweight vehicle was conceived in response to the poor performance of wheeled and half-tracked vehicles in the mud and snow during the Wehrmacht's first autumn and winter on the Soviet Front."
+AUS_support_weapons4:0 "MG 45"
+AUS_support_weapons4_desc:0 "La MG 45 se diferenciaba de la MG 42 en que no bloqueaba completamente su cierre antes de disparar, aumentando su cadencia de fuego y simplificando su construcción. En 1945, la escasez de materiales del Tercer Reich llevó al desarrollo de una versión más nueva de la MG 42, la MG 45 (o MG 42V). La MG 45/42V probada disparó 120,000 rondas consecutivas a una cadencia de fuego de alrededor de 1,350 disparos por minuto."
 
- austrian_research_name:0 "Alps Defence Pact Research Group"
- austrian_research_desc:0 ""
+AUS_tech_mountaineers:0 "Gebirgsjäger I"
+AUS_tech_mountaineers2:0 "Gebirgsjäger II"
+AUS_tech_mountaineers3:0 "Gebirgsjäger III"
 
- #UNITS
- AUS_paratrooper:0 "Jagdkommando"
- AUS_paratrooper_desc:0 "By incorporating airborne forces into our army, we can make forced entries and position key troops in previously inaccessible areas, allowing for new tactical opportunities."
- AUS_mountaineers:0 "Gebirgsjäger"
- AUS_mountaineers_desc:0 "Combat in mountain ranges exposes troops to many perils but sometimes cannot be avoided. We can minimize these risks by providing our soldiers with specialized training for this environment."
+AUS_paratroopers:0 "Jagdkommando I"
+AUS_paratroopers2:0 "Jagdkommando II"
+AUS_paratroopers3:0 "Jagdkommando III"
 
- AUS_try_to_recruit_hungarian_officers:0 "Try to Recruit Hungarian Officers"
- AUS_try_to_recruit_czech_officers:0 "Try to Recruit Czech Officers"
- AUS_try_to_recruit_croat_officers:0 "Try to Recruit Croat Officers"
- AUS_try_to_recruit_german_officers:0 "Try to Recruit German Officers"
- AUS_try_to_recruit_austrian_officers:0 "Try to Recruit Austrian Officers"
+AUS_motorised_infantry:0 "Raupenschlepper Ost"
+AUS_motorised_infantry_desc:0 "Raupenschlepper Ost, literalmente 'Tractor Oruga del Este', se abrevia más comúnmente como RSO. Este vehículo totalmente oruga y ligero fue concebido en respuesta al mal rendimiento de los vehículos con ruedas y semioruga en el barro y la nieve durante el primer otoño e invierno de la Wehrmacht en el frente soviético."
 
- ##misc
+austrian_research_name:0 "Grupo de Investigación del Pacto de Defensa de los Alpes"
+austrian_research_desc:0 ""
 
- anti_moscow_comm:0 "Disobeyed the Soviet International Line"
- AUS_sov_relations:0 "§RThis will significantly improve relations with Moscow and guarantee their support in our bid to overthrow the government, however, such assistance doesn't come free!§!\n"
- AUS_desertion:0 "§RWith soldiers deserting the Bundesheer, our member count willing to fight for their freedom has grown.§!\n"
- AUS_desertion2:0 "§YUpon the outbreak of the civil war, we will gain§! §G3§! §Yextra units!§!\n"
- AUS_purged_minister:0 "§RMinister Purged§!\n"
- AUS_purged_ministers_tt:0 "§RWe will hunt down and arrest any right wing agitators of the previous government.§!\n"
+#UNITS
+AUS_paratrooper:0 "Jagdkommando"
+AUS_paratrooper_desc:0 "Al incorporar fuerzas aerotransportadas en nuestro ejército, podemos realizar entradas forzadas y posicionar tropas clave en áreas previamente inaccesibles, permitiendo nuevas oportunidades tácticas."
 
- AUS_bunkers_1:0 "Border Preparations"
+AUS_mountaineers:0 "Gebirgsjäger"
+AUS_mountaineers_desc:0 "El combate en cadenas montañosas expone a las tropas a muchos peligros, pero a veces no se puede evitar. Podemos minimizar estos riesgos proporcionando a nuestros soldados entrenamiento especializado para este entorno."
 
- POLITICS_ERNST_RUDIGER_STARHEMBERG_DESC:0 "Member of the Bundesrat and a prominent politician in Austria since the 1920s, this man is also known for his accommodations and ties with fascists from [GER.getNameDef].\n\nHis support of the Beer Hall Putsch in 1923 and establishment of "Vaterländische Front" in 1933 clearly shows his interests and accommodations with authoritarian structures and paramilitary organizations."
+AUS_try_to_recruit_hungarian_officers:0 "Intentar Reclutar Oficiales Húngaros"
+AUS_try_to_recruit_czech_officers:0 "Intentar Reclutar Oficiales Checos"
+AUS_try_to_recruit_croat_officers:0 "Intentar Reclutar Oficiales Croatas"
+AUS_try_to_recruit_german_officers:0 "Intentar Reclutar Oficiales Alemanes"
+AUS_try_to_recruit_austrian_officers:0 "Intentar Reclutar Oficiales Austríacos"
 
- austrian_focus:0 "Austrian National Focus"
+##misc
+anti_moscow_comm:0 "Desobedeció la Línea Internacional Soviética"
+AUS_sov_relations:0 "§REsto mejorará significativamente las relaciones con Moscú y garantizará su apoyo en nuestro intento de derrocar al gobierno, sin embargo, ¡tal asistencia no es gratuita!§!\n"
+AUS_desertion:0 "§RCon soldados desertando del Bundesheer, nuestro número de miembros dispuestos a luchar por su libertad ha crecido.§!\n"
+AUS_desertion2:0 "§YAl estallar la guerra civil, ganaremos§! §G3§! §Yunidades adicionales!§!\n"
+AUS_purged_minister:0 "§RMinistro Purgado§!\n"
+AUS_purged_ministers_tt:0 "§RPerseguiremos y arrestaremos a cualquier agitador de derecha del gobierno anterior.§!\n"
 
- integrate_south_tyrol:0 "Integrate [39.getName]"
+AUS_bunkers_1:0 "Preparaciones Fronterizas"
+
+POLITICS_ERNST_RUDIGER_STARHEMBERG_DESC:0 "Miembro del Bundesrat y un prominente político en Austria desde la década de 1920, este hombre también es conocido por sus acomodos y lazos con fascistas de [GER.GetNameDef].\n\nSu apoyo al Putsch de la Cervecería en 1923 y el establecimiento del 'Vaterländische Front' en 1933 muestra claramente sus intereses y acomodos con estructuras autoritarias y organizaciones paramilitares."
+
+austrian_focus:0 "Enfoque Nacional Austríaco"
+
+integrate_south_tyrol:0 "Integrar [39.getName]"
