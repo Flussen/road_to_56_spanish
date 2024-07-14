@@ -24,19 +24,20 @@
  BOL_enrique_finot:0 "Enrique Finot"
  BOL_german_busch_beccera:0 "Germán Busch Beccera"
  BOL_jose_maria_gutierrez:0 "José Maria Gutierrez"
+ 
+form_peru_bolivia_category_category:0 "Revive la Confederación Perú-Boliviana"
+form_peru_bolivia_category_category_desc:0 "Separados durante gran parte de su historia, hubo un breve período en que Perú y Bolivia estuvieron unidos en una sola confederación que podía competir con sus diversos vecinos. Ahora que nuestras dos naciones están nuevamente bajo la misma bandera, podríamos proclamar la restauración de la Confederación Perú-Boliviana."
+BOL_invite_vicente_rojo:0 "Invitar a Vicente Rojo"
 
- form_peru_bolivia_category_category:0 "Revive the Peru-Bolivian Confederation"
- form_peru_bolivia_category_category_desc:0 "Separated for much of their history, there was a short period when Peru and Bolivia were united in a single confederation that could compete with its various neighbors. Now that our two nations are back under the same flag, we could proclaim the restoration of the Peru-Bolivian Confederation."
- BOL_invite_vicente_rojo:0 "Invite Vicente Rojo"
+BOL_yacimientos_petroliferos_fiscales_bolivianos:0 "Yacimientos Petrolíferos Fiscales Bolivianos"
 
- BOL_yacimientos_petroliferos_fiscales_bolivianos:0 "Yacimientos Petrolíferos Fiscales Bolivianos"
+spanish_emigres_decisions:0 "El Destino de los Republicanos Españoles"
 
- spanish_emigres_decisions:0 "The Fate of the Spanish Republicans"
+BOL_military_socialist:0 "Socialista Militar"
 
- BOL_military_socialist:0 "Military Socialist"
+south_american_events.63.t:0 "Muerte de Germán Busch Becerra"
+south_american_events.63.d:0 "Después de una feroz e incesante presión mediática sobre el gobierno de Becerra, se ha informado que Germán Busch Becerra se quitó la vida esta tarde. Muchos de sus familiares, así como sus compañeros de trabajo, han citado que no parecía haber nada inusual o extraño en el comportamiento de Becerra. No obstante, esto ha dejado al país en completo shock, con muchos de los rivales políticos de Becerra ya compitiendo por el poder. El futuro de Bolivia es incierto."
+south_american_events.63.a:0 "¡Deben realizarse elecciones de inmediato!"
+south_american_events.63.b:0 "Establecer un gobierno provisional."
 
- south_american_events.63.t:0 "Death of Germán Busch Becerra"
- south_american_events.63.d:0 "After fierce and undying media pressure on Becerra's government, it has been reported that Germán Busch Becerra has taken his own life just this afternoon. Many of his family members as well as his coworkers have cited that there appeared to be nothing unusual or strange about Becerra's behaviour. Nonetheless, this has put the country in complete shock, with many of the political rivals of Becerra already vying for power. The future of Bolivia is uncertain."
- south_american_events.63.a:0 "Elections must take place immediately!"
- south_american_events.63.b:0 "Set up a provisional government."
  
