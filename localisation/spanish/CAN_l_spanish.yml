@@ -9,364 +9,362 @@
  CAN_guy_simonds:0 "Guy Granville Simonds"
 
  #Why is there not a localization for this in the game???
- radar_tech_research:0 "Radar Research Speed"
+ radar_tech_research:0 "Velocidad de investigación del radar"
 
  #Scarborough's General Engineering Company: mines, ammunition factory event airports
- CAN_dollar_a_year_men_idea:0 "Dollar-a-Year Men"
- CAN_henry_angus:0 "Henry Angus"
+ CAN_dollar_a_year_men_idea:0 "Hombres de un Dólar al Año"
+CAN_henry_angus:0 "Henry Angus"
 
- CAN_canadian_pacific_railway:0 "Canadian Pacific Railway"
- CAN_montreal_locomotive_works:0 "Montreal Locomotive Works"
- CAN_dominion_foundries:0 "Dominion Foundries"
- CAN_northern_electric:0 "Northern Electric"
- CAN_stelco:0 "Stelco"
- CAN_gm_of_canada:0 "General Motors of Canada"
- CAN_ford:0 "Ford Motor Company"
- CAN_sorel_industries:0 "Sorel Industries"
- CAN_canadian_power_boat_company:0 "Canadian Power Boat Company"
- CAN_marine_industries:0 "Marine Industries"
- CAN_davie_shipbuilding:0 "Davie Shipbuilding"
- pratt_and_whitney:0 "Pratt & Whitney"
- CAN_boeing_of_canada:0 "Boeing of Canada"
- CAN_victory_aircraft:0 "Victory Aircraft"
- CAN_canadair:0 "Canadair"
- CAN_sorel_steel_and_foundries:0 "Sorel Steel and Foundries"
- CAN_canadian_pacific_railway_organization:0 "Canadian Pacific Railway - Angus Shops"
- CAN_montreal_locomotive_works_organization:0 "Montreal Locomotive Works"
- CAN_ernest_james_renaud:0 "Ernest James Renaud"
- CAN_leonard_w_murray:0 "Leonard W. Murray"
+CAN_canadian_pacific_railway:0 "Ferrocarril Canadiense del Pacífico"
+CAN_montreal_locomotive_works:0 "Obras de Locomotoras de Montreal"
+CAN_dominion_foundries:0 "Fundiciones Dominion"
+CAN_northern_electric:0 "Northern Electric"
+CAN_stelco:0 "Stelco"
+CAN_gm_of_canada:0 "General Motors de Canadá"
+CAN_ford:0 "Ford Motor Company"
+CAN_sorel_industries:0 "Industrias Sorel"
+CAN_canadian_power_boat_company:0 "Compañía Canadiense de Embarcaciones a Motor"
+CAN_marine_industries:0 "Industrias Marinas"
+CAN_davie_shipbuilding:0 "Construcción Naval Davie"
+pratt_and_whitney:0 "Pratt & Whitney"
+CAN_boeing_of_canada:0 "Boeing de Canadá"
+CAN_victory_aircraft:0 "Victory Aircraft"
+CAN_canadair:0 "Canadair"
+CAN_sorel_steel_and_foundries:0 "Acero y Fundiciones Sorel"
+CAN_canadian_pacific_railway_organization:0 "Ferrocarril Canadiense del Pacífico - Talleres Angus"
+CAN_montreal_locomotive_works_organization:0 "Obras de Locomotoras de Montreal"
+CAN_ernest_james_renaud:0 "Ernest James Renaud"
+CAN_leonard_w_murray:0 "Leonard W. Murray"
 
- QBC_generic_electronics_concern:0 "Canadian Marconi Ltd."
+QBC_generic_electronics_concern:0 "Canadian Marconi Ltd."
 
+#Ideas
+CAN_patriation:0 "Patriación"
 
+CAN_swastika_clubs:0 "Clubes de la Esvástica"
+CAN_swastika_clubs_desc:0 "Muchos canadienses están recurriendo a los Clubes de la Esvástica para promover las ideas e ideales del fascismo. ¡Fascinante!"
 
- #Ideas
- CAN_patriation:0 "Patriation"
+r56_CAN_great_depression_01:0 "La Gran Depresión"
+r56_CAN_great_depression_02:0 "La Gran Depresión"
+r56_CAN_great_depression_03:0 "La Gran Depresión"
+r56_CAN_great_depression_04:0 "La Gran Depresión"
 
- CAN_swastika_clubs:0 "Swastika Clubs"
- CAN_swastika_clubs_desc:0 "Many Canadians are turning to Swastika Clubs to promote the ideas and ideals of Fascism. Fascinating!"
+r56_CAN_royal_twenty_centers:0 "[Root.GetTwentyCentersName]"
+r56_CAN_royal_twenty_centers_desc:0 "Debido a la §YGran Depresión§!, el gobierno sancionó un controvertido sistema nacional de campamentos para proporcionar trabajo a hombres solteros, desempleados y sin hogar [CAN.GetAdjective]. Se les llama los Centros Reales de Veinte Centavos por su pago de 20 centavos al día. Trabajando largas horas por una paga mínima, su ética laboral no es la mejor. Estos campamentos han sido responsables de varios disturbios, y más podrían ocurrir en el futuro si no los cerramos.\n\n§YPodría causar disturbios en el futuro.§!"
+R56_CAN_TWENTY_CENTERS_ROYAL:0 "Centros Reales de Veinte Centavos"
+R56_CAN_TWENTY_CENTERS:0 "Los Veinte Centavos"
 
- r56_CAN_great_depression_01:0 "The Great Depression"
- r56_CAN_great_depression_02:0 "The Great Depression"
- r56_CAN_great_depression_03:0 "The Great Depression"
- r56_CAN_great_depression_04:0 "The Great Depression"
- r56_CAN_great_depression_04:0 "The Great Depression"
+r56_CAN_royal_twenty_centers_angered:0 "[Root.GetTwentyCentersAngeredName]"
+r56_CAN_royal_twenty_centers_angered_desc:0 "Debido a la §YGran Depresión§!, el gobierno sancionó un controvertido sistema nacional de campamentos para proporcionar trabajo a hombres solteros, desempleados y sin hogar [CAN.GetAdjective]. Se les llama los Centros Reales de Veinte Centavos por su pago de 20 centavos al día. Trabajando largas horas por una paga mínima, su ética laboral no es la mejor. Estos campamentos han sido responsables de varios disturbios, y más podrían ocurrir en el futuro si no los cerramos.\n\nDebido al uso de la fuerza para sofocar su disturbio, los Centros de Veinte están más enfadados que antes. §RPuede causar disturbios graves en el futuro§!"
+R56_CAN_TWENTY_CENTERS_ROYAL_ANGERED:0 "Centros Reales de Veinte Centavos"
+R56_CAN_TWENTY_CENTERS_ANGERED:0 "Los Veinte Centavos"
 
- r56_CAN_royal_twenty_centers:0 "[Root.GetTwentyCentersName]"
- r56_CAN_royal_twenty_centers_desc:0 "Due to the §YGreat Depression§!, the government sanctioned a controversial nationwide system of camps to provide work for single, unemployed, homeless [CAN.GetAdjective] males. They are called the Royal Twenty Centers for their received pay of 20 cents a day. Working high hours per week for a tiny payment, their work ethic isn't great. These camps have been to blame for several riots, and more may occur in the future if we do not shut these down.\n\n§YMay cause riots in the future.§!"
- R56_CAN_TWENTY_CENTERS_ROYAL:0 "Royal Twenty Centers"
- R56_CAN_TWENTY_CENTERS:0 "The Twenty Centers"
+r56_CAN_royal_twenty_centers_compensated:0 "Compensación a los Amotinados"
 
- r56_CAN_royal_twenty_centers_angered:0 "[Root.GetTwentyCentersAngeredName]"
- r56_CAN_royal_twenty_centers_angered_desc:0 "Due to the §YGreat Depression§!, the government sanctioned a controversial nationwide system of camps to provide work for single, unemployed, homeless [CAN.GetAdjective] males. They are called the Royal Twenty Centers for their received pay of 20 cents a day. Working high hours per week for a tiny payment, their work ethic isn't great. These camps have been to blame for several riots, and more may occur in the future if we do not shut these down.\n\nDue to force being used to shut down their riot, the Twenty Centers are more angered than before. §RMay cause serious riots in the future§!"
- R56_CAN_TWENTY_CENTERS_ROYAL_ANGERED:0 "Royal Twenty Centers"
- R56_CAN_TWENTY_CENTERS_ANGERED:0 "The Twenty Centers"
+r56_CAN_the_big_cut_01:0 "El Gran Recorte"
+r56_CAN_the_big_cut_01_desc:0 "El ejército [CAN.GetAdjective] ha sufrido grandes recortes presupuestarios en los últimos años. Esto afecta el entrenamiento de nuestras tropas y la producción de armamento hasta que logremos aumentar nuestro presupuesto."
+r56_CAN_the_big_cut_02:0 "El Gran Recorte"
+r56_CAN_the_big_cut_02_desc:0 "El ejército [CAN.GetAdjective] ha sufrido grandes recortes presupuestarios en los últimos años. Esto afecta el entrenamiento de nuestras tropas y la producción de armamento hasta que logremos aumentar nuestro presupuesto."
 
- r56_CAN_royal_twenty_centers_compensated:0 "Compensated the Rioters"
+r56_CAN_nonindependent_airforce_01:0 "Fuerza Aérea No Independiente"
+r56_CAN_nonindependent_airforce_01_desc:0 "La fuerza aérea [CAN.GetAdjective] está vinculada al ejército y no se considera una organización independiente."
+r56_CAN_nonindependent_airforce_02:0 "Fuerza Aérea No Independiente"
+r56_CAN_nonindependent_airforce_02_desc:0 "La fuerza aérea [CAN.GetAdjective] está vinculada al ejército y no se considera una organización independiente."
 
- r56_CAN_the_big_cut_01:0 "The Big Cut"
- r56_CAN_the_big_cut_01_desc:0 "The [CAN.GetAdjective] military has gotten its budget cut down heavily in recent years. This affects the training of our troops and armament production until we manage to increase our budget."
- r56_CAN_the_big_cut_02:0 "The Big Cut"
- r56_CAN_the_big_cut_02_desc:0 "The [CAN.GetAdjective] military has gotten its budget cut down heavily in recent years. This affects the training of our troops and armament production until we manage to increase our budget."
+r56_CAN_dollar_a_year_men_idea:0 "Hombres de un Dólar al Año"
 
- r56_CAN_nonindependent_airforce_01:0 "Non-Independent Air Force"
- r56_CAN_nonindependent_airforce_01_desc:0 "The [CAN.GetAdjective] air force is tied to the army and not considered an independent organization."
- r56_CAN_nonindependent_airforce_02:0 "Non-Independent Air Force"
- r56_CAN_nonindependent_airforce_02_desc:0 "The [CAN.GetAdjective] air force is tied to the army and not considered an independent organization."
+r56_CAN_cbc_idea:0 "La CBC"
 
- r56_CAN_dollar_a_year_men_idea:0 "Dollar-a-Year Men"
+r56_CAN_national_housing_act_idea:0 "Ley Nacional de Vivienda"
 
- r56_CAN_cbc_idea:0 "The CBC"
+r56_CAN_volunteers_01:0 "Voluntarios"
+r56_CAN_volunteers_02:0 "Voluntarios"
+r56_CAN_volunteers_03:0 "Voluntarios"
 
- r56_CAN_national_housing_act_idea:0 "National Housing Act"
+r56_CAN_wartime_prices_and_trade_board_idea_01:0 "Consejo de Precios y Comercio en Tiempo de Guerra"
 
- r56_CAN_volunteers_01:0 "Volunteers"
- r56_CAN_volunteers_02:0 "Volunteers"
- r56_CAN_volunteers_03:0 "Volunteers"
+r56_CAN_department_of_munitions_and_supply_01:0 "Departamento de Municiones y Suministros"
+r56_CAN_department_of_munitions_and_supply_02:0 "Departamento de Municiones y Suministros"
 
- r56_CAN_wartime_prices_and_trade_board_idea_01:0 "Wartime Prices and Trade Board"
+r56_CAN_nrma_idea:0 "Ley de Movilización de Recursos Nacionales"
 
- r56_CAN_department_of_munitions_and_supply_01:0 "Department of Munitions and Supply"
- r56_CAN_department_of_munitions_and_supply_02:0 "Department of Munitions and Supply"
+r56_CAN_docr_democratic:0 "Regulaciones de Defensa de Canadá"
+r56_CAN_docr_communism:0 "Regulaciones de Defensa de Canadá"
+r56_CAN_docr_fascism:0 "Regulaciones de Defensa de Canadá"
 
- r56_CAN_nrma_idea:0 "National Resources Mobilisation Act"
+r56_CAN_camp_borden_idea:0 "Campamento Borden"
 
- r56_CAN_docr_democratic:0 "Defence of Canada Regulations"
- r56_CAN_docr_communism:0 "Defence of Canada Regulations"
- r56_CAN_docr_fascism:0 "Defence of Canada Regulations"
+r56_CAN_conscription_forced:0 "Conscripción Forzada"
 
- r56_CAN_camp_borden_idea:0 "Camp Borden"
+r56_CAN_fight_the_uboats_idea_01:0 "Combatir los U-Boats"
+r56_CAN_fight_the_uboats_idea_02:0 "Combatir los U-Boats"
 
- r56_CAN_conscription_forced:0 "Forced the Conscription"
+r56_CAN_merchant_fleet_idea:0 "La Flota Mercante"
 
- r56_CAN_fight_the_uboats_idea_01:0 "Fight the U-Boats"
- r56_CAN_fight_the_uboats_idea_02:0 "Fight the U-Boats"
+r56_CAN_wrens_idea:0 "[Root.GetWrensName]"
 
- r56_CAN_merchant_fleet_idea:0 "The Merchant Fleet"
+r56_CAN_forge_our_own_future_idea:0 "Forjar Nuestro Propio Futuro"
 
- r56_CAN_wrens_idea:0 "[Root.GetWrensName]"
+r56_CAN_cwatp:0 "El Plan"
 
- r56_CAN_forge_our_own_future_idea:0 "Forge Our Own Future"
+r56_CAN_blue_shirts:0 "Los Camisas Azules"
 
- r56_CAN_cwatp:0 "The Plan"
+r56_CAN_one_party_state:0 "Un Estado de Partido Único"
 
- r56_CAN_blue_shirts:0 "The Blue Shirts"
+r56_CAN_influenced_by_canada:0 "Influenciado por [CAN.GetNameDef]"
 
- r56_CAN_one_party_state:0 "A One Party State"
+r56_CAN_if_day:0 "Día Si"
+r56_CAN_if_day_desc:0 "La invasión simulada de [CAN.GetNameDef] por las fuerzas [GER.GetAdjective], organizada por Greater Winnipeg Victory Loan, tuvo éxito como recaudación de fondos para el esfuerzo bélico. Los fondos deberían impulsar nuestra economía por un tiempo."
 
- r56_CAN_influenced_by_canada:0 "Influenced by [CAN.GetNameDef]"
+r56_CAN_interventionism:0 "Intervencionismo"
 
- r56_CAN_if_day:0 "If Day"
- r56_CAN_if_day_desc:0 "The simulated invasion of [CAN.GetNameDef] by [GER.GetAdjective] forces, organized by Greater Winnipeg Victory Loan, succeeded as a fundraiser for the war effort. The funds should boost our economy for a while."
+r56_CAN_CAMP_X_idea:0 "Campamento X"
 
- r56_CAN_interventionism:0 "Interventionism"
+r56_CAN_grizzly_idea:0 "El Grizzly"
 
- r56_CAN_CAMP_X_idea:0 "Camp X"
+r56_CAN_restrict_immigration_idea:0 "Inmigración Restringida"
 
- r56_CAN_grizzly_idea:0 "The Grizzly"
+r56_CAN_mosleys_ideas:0 "Las Ideas de Mosley"
 
- r56_CAN_restrict_immigration_idea:0 "Restricted Immigration"
+r56_CAN_restructured_government:0 "Gobierno Reestructurado"
 
- r56_CAN_mosleys_ideas:0 "Mosley's Ideas"
+r56_CAN_anti_communism:0 "Anticomunismo"
 
- r56_CAN_restructured_government:0 "Restructured Government"
+r56_CAN_can_ship_purchases:0 "Pago por Barcos"
 
- r56_CAN_anti_communism:0 "Anti-Communism"
+r56_CAN_reduced_tariffs:0 "Aranceles Reducidos"
 
- r56_CAN_can_ship_purchases:0 "Payment for Ships"
+r56_CAN_WCMC:0 "Comando Militar de la Costa Oeste"
 
- r56_CAN_reduced_tariffs:0 "Reduced Tariffs"
+r56_CAN_free_access:0 "Fronteras Abiertas con [USA.GetNameDef]"
 
- r56_CAN_WCMC:0 "West Coast Military Command"
+r56_CAN_fighter:0 "Construir Cazas para el Imperio"
 
- r56_CAN_free_access:0 "Open Borders with [USA.GetNameDef]"
+r56_CAN_canada_united_idea:0 "Canadienses Unidos"
 
- r56_CAN_fighter:0 "Build Fighters for the Empire"
+r56_CAN_quebec_conscription_idea:0 "Nacionalismo Quebequense"
 
- r56_CAN_canada_united_idea:0 "Canadians United"
+r56_CAN_frogmen_idea:0 "Hombres Rana"
 
- r56_CAN_quebec_conscription_idea:0 "Quebecois Nationalism"
+r56_CAN_anti_war_policy_idea:0 "Política Anti-Guerra"
 
- r56_CAN_frogmen_idea:0 "Frogmen"
+r56_CAN_war_policy_idea:0 "Apoyo a la Guerra"
 
- r56_CAN_anti_war_policy_idea:0 "Anti-War Policy"
+r56_CAN_mac_paps_idea:0 "Los Mac-Paps"
 
- r56_CAN_war_policy_idea:0 "Supporting War"
+r56_CAN_red_guard:0 "Guardia Roja [CAN.GetAdjective]"
 
- r56_CAN_mac_paps_idea:0 "The Mac-Paps"
+r56_CAN_workers_rights_idea:0 "Mejorar los Derechos de los Trabajadores"
 
- r56_CAN_red_guard:0 "[CAN.GetAdjective] Red Guard"
+r56_CAN_workers_rights_improved:0 "Derechos de los Trabajadores Mejorados"
 
- r56_CAN_workers_rights_idea:0 "Improving Workers Rights"
+r56_CAN_divided_communists:0 "Comunistas Divididos"
+r56_CAN_divided_communists_desc:0 "El partido comunista está dividido entre las fuerzas pro-soviéticas y trotskistas."
 
- r56_CAN_workers_rights_improved:0 "Workers Right Improved"
+r56_CAN_YCLOC:0 "Liga Juvenil Comunista de Canadá"
 
- r56_CAN_divided_communists:0 "Divided Communists"
- r56_CAN_divided_communists_desc:0 "The communist party is divided between the pro-Soviet and Trotskyist forces."
+r56_CAN_public_ownership_idea:0 "Industria Colectivista"
 
- r56_CAN_YCLOC:0 "Young Communist League of Canada"
+r56_CAN_destroy_imperialism_idea:0 "Destruir el Imperialismo"
 
- r56_CAN_public_ownership_idea:0 "Collectivist Industry"
+r56_CAN_new_deal_idea:0 "Adoptar las Políticas [USA.GetAdjective]"
 
- r56_CAN_destroy_imperialism_idea:0 "Destroy Imperialism"
+r56_CAN_intervene_ACW_idea:0 "Intervención en la Guerra Civil Americana"
 
- r56_CAN_new_deal_idea:0 "Adopted [USA.GetAdjective] Policies"
+r56_CAN_contact_the_synarchists:0 "Contactar a los Sinárquicos"
 
- r56_CAN_intervene_ACW_idea:0 "ACW Intervention"
 
- r56_CAN_contact_the_synarchists:0 "Contact the Synarchists"
+r56_CAN_post_colonial_rule_idea:0 "Post-Influencia [ENG.GetAdjective]"
 
- r56_CAN_post_colonial_rule_idea:0 "Post [ENG.GetAdjective] Influence"
+r56_CAN_self_sufficiency_idea:0 "Autosuficiencia"
 
- r56_CAN_self_sufficiency_idea:0 "Self-Sufficiency"
+r56_CAN_arms_exports_idea:0 "Exportaciones de Armas"
 
- r56_CAN_arms_exports_idea:0 "Arms Exports"
+r56_CAN_canadian_interventionism_idea:0 "Intervencionismo [CAN.GetAdjective]"
 
- r56_CAN_canadian_interventionism_idea:0 "[CAN.GetAdjective] Interventionism"
+r56_CAN_canadian_cadet_corps_idea:0 "Cuerpo de Cadetes [CAN.GetAdjective]"
 
- r56_CAN_canadian_cadet_corps_idea:0 "[CAN.GetAdjective] Cadet Corps"
+r56_CAN_the_defense_of_canada_idea:0 "La Defensa de Canadá"
 
- r56_CAN_the_defense_of_canada_idea:0 "The Defense of Canada"
+CAN_degauss_ship_hulls:0 "Desmagnetización de Cascos de Barcos"
+CAN_degauss_ship_hulls_desc:0 "Empezaremos a desmagnetizar los cascos de nuestros barcos, reduciendo su firma magnética. Esto los protege de minas magnéticas y reduce el perfil electrónico de los barcos."
 
- CAN_degauss_ship_hulls:0 "Degauss Ship Hulls"
- CAN_degauss_ship_hulls_desc:0 "We will start to degauss our ship hulls, reducing their magnetic signature. This protects them from magnetic mines and reduces the ships’ electronic profile."
+#Ministers
 
- #Ministers
+r56_CAN_jack_bickell:0 "Jack Bickell"
+r56_CAN_william_daum_euler:0 "William Daum Euler"
+r56_CAN_thomas_crerar:0 "Thomas Crerar"
+r56_CAN_Arthur_Cardin:0 "Arthur Cardin"
+r56_CAN_adrien_arcand:0 "Adrien Arcand"
+r56_CAN_joseph_menard:0 "Joseph Menard"
+r56_CAN_fred_rose:0 "Fred Rose"
+r56_CAN_leslie_morris:0 "Leslie Morris"
+r56_CAN_sam_carr:0 "Sam Carr"
+r56_CAN_dorise_nielsen:0 "Dorise Nielsen"
+r56_CAN_j_b_salsberg:0 "J. B. Salsberg"
+r56_CAN_john_ross_taylor:0 "John Ross Taylor"
+r56_CAN_leonard_w_murray:0 "Leonard W. Murray"
 
- r56_CAN_jack_bickell:0 "Jack Bickell"
- r56_CAN_william_daum_euler:0 "William Daum Euler"
- r56_CAN_thomas_crerar:0 "Thomas Crerar"
- r56_CAN_Arthur_Cardin:0 "Arthur Cardin"
- r56_CAN_adrien_arcand:0 "Adrien Arcand"
- r56_CAN_joseph_menard:0 "Joseph Menard"
- r56_CAN_fred_rose:0 "Fred Rose"
- r56_CAN_leslie_morris:0 "Leslie Morris"
- r56_CAN_sam_carr:0 "Sam Carr"
- r56_CAN_dorise_nielsen:0 "Dorise Nielsen"
- r56_CAN_j_b_salsberg:0 "J. B. Salsberg"
- r56_CAN_john_ross_taylor:0 "John Ross Taylor"
- r56_CAN_leonard_w_murray:0 "Leonard W. Murray"
+#Research And Production
 
- #Research And Production
+r56_CAN_robert_leckie:0 "Robert Leckie"
+r56_CAN_gm_croil:0 "George Croil"
+r56_canadian_car_foundry:0 "Fundición de Coches Canadiense"
+r56_fairchild_aircraft_ltd:0 "Fairchild Aircraft Ltd."
+r56_john_inglis_company:0 "John Inglis and Company"
+r56_small_arms_limited:0 "Small Arms Ltd."
+r56_CAN_imperial_oil_idea:0 "Imperial Oil"
+r56_CAN_polymer_corporation:0 "Polymer Corporation"
+r56_CAN_pjdnb_idea:0 "Junta Permanente de Defensa Conjunta"
+r56_CAN_research_enterprises_ltd:0 "Research Enterprises Ltd."
+r56_CAN_secure_the_economy_idea:0 "Asegurar la Economía"
 
- r56_CAN_robert_leckie:0 "Robert Leckie"
- r56_CAN_gm_croil:0 "George Croil"
- r56_canadian_car_foundry:0 "Canadian Car and Foundry"
- r56_fairchild_aircraft_ltd:0 "Fairchild Aircraft Ltd."
- r56_john_inglis_company:0 "John Inglis and Company"
- r56_small_arms_limited:0 "Small Arms Ltd."
- r56_CAN_imperial_oil_idea:0 "Imperial Oil"
- r56_CAN_polymer_corporation:0 "Polymer Corporation"
- r56_CAN_pjdnb_idea:0 "Permanent Joint Board on Defense"
- r56_CAN_research_enterprises_ltd:0 "Research Enterprises Ltd."
- r56_CAN_secure_the_economy_idea:0 "Securing the Economy"
+#Military Staff
 
- #Military Staff
+#Focuses
+r56_CAN_modernize_industry:0 "Modernizar la Industria"
+r56_CAN_modernize_industry_desc:0 "Nuestra capacidad y métodos industriales han quedado rezagados; debemos ponernos al día."
 
- #Focuses
- r56_CAN_modernize_industry:0 "Modernize the Industry"
- r56_CAN_modernize_industry_desc:0 "Our industrial capacity and methods have fallen behind; we must catch up."
+r56_CAN_wheat_board:0 "Consejo del Trigo [CAN.GetAdjective]"
+r56_CAN_wheat_board_desc:0 "Establecer el Consejo del Trigo [CAN.GetAdjective] para fijar precios del trigo y la cebada de nuestros arduos agricultores estabilizará los precios y mejorará nuestra economía."
 
- r56_CAN_wheat_board:0 "[CAN.GetAdjective] Wheat Board"
- r56_CAN_wheat_board_desc:0 "Setting up the [CAN.GetAdjective] Wheat Board to set prices for wheat and barley from our hard-working farmers will stabilize prices and improve our economy."
+r56_CAN_depression_recovery:0 "Continuar la Recuperación de la Depresión"
+r56_CAN_depression_recovery_desc:0 "La Gran Depresión nos ha pasado factura; debemos seguir adaptando y modificando políticas para continuar el camino hacia la recuperación."
 
- r56_CAN_depression_recovery:0 "Continue the Depression Recovery"
- r56_CAN_depression_recovery_desc:0 "The Great Depression has taken its toll on us; we must continue adapting and modifying policies to continue the road to recovery."
+r56_CAN_national_housing_act:0 "Ley Nacional de Vivienda"
+r56_CAN_national_housing_act_desc:0 "Las secuelas de la Gran Depresión han dejado a muchos [CAN.GetAdjective]s sin hogar y desempleados. Aprobar programas y regulaciones para reparar y modernizar viviendas existentes y construir nuevas ayudará a los afectados a recuperar su estabilidad."
 
- r56_CAN_national_housing_act:0 "National Housing Act"
- r56_CAN_national_housing_act_desc:0 "The after-effects of the Great Depression have left many [CAN.GetAdjective]s homeless and unemployed. Passing programs and regulations on repairing and modernizing existing houses and constructing new homes will help those who are affected get back on their feet."
+r56_CAN_shutdown_relief_camps:0 "Cerrar los Campamentos de Socorro"
+r56_CAN_shutdown_relief_camps_desc:0 "Los campamentos de socorro para desempleados no han sido un éxito; debemos cerrarlos antes de que ocurran más disturbios."
 
- r56_CAN_shutdown_relief_camps:0 "Close the Relief Camps"
- r56_CAN_shutdown_relief_camps_desc:0 "The unemployment relief camps haven't been a success; we should shut them down before more riots occur."
+r56_CAN_dollar_a_year_men:0 "Hombres de un Dólar al Año"
+r56_CAN_dollar_a_year_men_desc:0 "Varios ejecutivos empresariales experimentados han ofrecido sus servicios al gobierno, trabajando por un simbólico dólar al año. Debemos ponerlos a trabajar en nuestro Departamento de Municiones y Suministros y en el Consejo de Precios y Comercio en Tiempo de Guerra, donde pueden aportar a la industria [CAN.GetAdjective] la experiencia necesaria para movilizar la economía y maximizar la producción."
 
- r56_CAN_dollar_a_year_men:0 "Dollar-a-Year Men"
- r56_CAN_dollar_a_year_men_desc:0 "Several experienced business executives have offered their services to the government, working for a symbolic dollar-a-year. We should put them to work in our Department of Munitions and Supply and in the Wartime Prices and Trade Board, where they can supply the [CAN.GetAdjective] industry with much-needed expertise in mobilizing the economy and maximizing production."
+r56_CAN_canadian_pacific_railways:0 "Ferrocarriles del Pacífico Canadiense"
+r56_CAN_canadian_pacific_railways_desc:0 "El CPR ha puesto sus ferrocarriles y transportes a disposición del esfuerzo bélico. Nuestras tropas y los suministros necesarios para nutrirlas cruzarán nuestro gran Dominio entre los mares y el continente sin demora."
 
- r56_CAN_canadian_pacific_railways:0 "Canadian Pacific Railways"
- r56_CAN_canadian_pacific_railways_desc:0 "The CPR has made available its railways and transports to the war effort. Our troops and the supplies needed to nourish them will cross our grand Dominion between the seas and the continent without delay."
+r56_CAN_national_steel_car:0 "National Steel Car"
+r56_CAN_national_steel_car_desc:0 "A pesar de que la Depresión afectó a la compañía, National Steel Car está lista con su experiencia para construir los vehículos que transportarán a nuestras tropas y equipo militar en los ferrocarriles ampliados."
 
- r56_CAN_national_steel_car:0 "National Steel Car"
- r56_CAN_national_steel_car_desc:0 "Despite the Depression taking its toll on the company, National Steel Car stands ready with its expertise and experience to build the vehicles that will carry our troops and army equipment on the expanded railways."
+r56_CAN_cbc_focus:0 "La CBC"
+r56_CAN_cbc_focus_desc:0 "La Canadian Broadcasting Corporation es la red nacional de radiodifusión, sirviendo como regulador de la radiodifusión en [CAN.GetNameDef]. Utilizarlos para difundir nuestros mensajes sobre políticas y programas nacionales aumentará la confianza pública en nuestro gobierno."
 
- r56_CAN_cbc_focus:0 "The CBC"
- r56_CAN_cbc_focus_desc:0 "The Canadian Broadcasting Corporation is the national radio broadcast network, serving as the regulator for radio broadcasting in [CAN.GetNameDef]. Using them to carry our messages of national policies and programs will increase public confidence in our government."
+r56_CAN_bank_of_canada:0 "Nacionalizar el Banco de Canadá"
+r56_CAN_bank_of_canada_desc:0 "La necesidad de una autoridad bancaria central se vuelve más vital después de la Gran Depresión, y al nacionalizarlo, podremos gestionar directamente las finanzas estatales y mejorar la economía."
 
- r56_CAN_bank_of_canada:0 "Nationalize the Bank of Canada"
- r56_CAN_bank_of_canada_desc:0 "The need for a central bank authority grows more vital after the Great Depression, and by nationalizing it, we can directly manage the state finances and improve the economy."
+r56_CAN_john_inglis_company:0 "John Inglis and Company"
+r56_CAN_john_inglis_company_desc:0 "Pasando por tiempos difíciles durante la Gran Depresión, John Inglis and Company ha sido integral para nuestra capacidad de producción nacional. Debemos dirigirlos a producir nuevas ametralladoras y artillería para armar a nuestras tropas."
 
- r56_CAN_john_inglis_company:0 "John Inglis and Company"
- r56_CAN_john_inglis_company_desc:0 "Falling into hard times during the Great Depression, John Inglis and Company has long been integral to our national production capability. We should direct them to produce new machine guns and artillery to arm our troops."
+r56_CAN_national_railway:0 "Ampliar los Ferrocarriles en Quebec"
+r56_CAN_national_railway_desc:0 "Los esfuerzos para mejorar la infraestructura y los ferrocarriles en Quebec pueden estimular un mayor crecimiento industrial."
 
- r56_CAN_national_railway:0 "Expand the Railways in Quebec"
- r56_CAN_national_railway_desc:0 "Efforts to improve the infrastructure and railways in Quebec can stimulate more industrial growth."
+r56_CAN_research_grants:0 "Subvenciones para la Investigación"
+r56_CAN_research_grants_desc:0 "Con nuestra industria y capacidades de producción enormemente ampliadas, es posible que más científicos e innovadores [CAN.GetAdjective] realicen más proyectos de I+D nacionales."
 
- r56_CAN_research_grants:0 "Research Grants"
- r56_CAN_research_grants_desc:0 "With our greatly expanded industry and production capabilities, it is now possible to have more [CAN.GetAdjective] scientists and innovators conduct more homegrown R&D projects."
+r56_CAN_debt_adjustment_act:0 "Ley de Ajuste de Deuda"
+r56_CAN_debt_adjustment_act_desc:0 "Una preocupante ola de insolvencias y deudas ha afectado a los agricultores [CAN.GetAdjective]. Es de interés de [CAN.GetNameDef] ayudar a esos agricultores, para que continúen cultivando esas tierras en el futuro."
 
- r56_CAN_debt_adjustment_act:0 "Debt Adjustment Act"
- r56_CAN_debt_adjustment_act_desc:0 "A worrying wave of insolvencies and debt has occurred among [CAN.GetAdjective] farmers. It is in the interest of [CAN.GetNameDef] to assist those farmers, to keep them cultivating those lands in the future."
+r56_CAN_alcan:0 "Compañía de Aluminio de Canadá"
+r56_CAN_alcan_desc:0 "El aluminio es liviano y a prueba de óxido. Al expandir nuestra minería y producción de aluminio, podemos alimentar constantemente nuestras fábricas y líneas de ensamblaje."
 
- r56_CAN_alcan:0 "Aluminium Company of Canada"
- r56_CAN_alcan_desc:0 "Aluminium is lightweight and rustproof. By expanding our mining and production of aluminum, we can constantly feed our factories and assembly lines."
+r56_CAN_imperial_oil_focus:0 "Expansión de la Refinería de Dartmouth"
+r56_CAN_imperial_oil_focus_desc:0 "Teníamos una refinería de petróleo operando en Dartmouth durante el conflicto anterior, suministrando nuestras necesidades de petróleo. Ampliar esta instalación es vital para proporcionar los inevitables cruces de convoyes a través del Mar del Atlántico Norte."
 
- r56_CAN_imperial_oil_focus:0 "Darthmouth Refinery Expansion"
- r56_CAN_imperial_oil_focus_desc:0 "We had an oil refinery operating at Dartmouth in the previous conflict, supplying our oil needs. Expanding this facility is vital in providing the inevitable convoy crossings across the North Atlantic Sea."
+r56_CAN_establish_the_polymer_corporation:0 "Establecer la Corporación de Polímeros"
+r56_CAN_establish_the_polymer_corporation_desc:0 "Si se corta nuestro acceso al caucho natural, debemos desarrollar nuestra capacidad para fabricar y refinar caucho sintético utilizado en todo, desde neumáticos hasta piezas de aviones."
 
- r56_CAN_establish_the_polymer_corporation:0 "Establish the Polymer Corporation"
- r56_CAN_establish_the_polymer_corporation_desc:0 "If our access to natural rubber is cut off, we must build up our capability to manufacture and refine synthetic rubber used in everything from tires to airplane parts."
+r56_CAN_uranium_mining:0 "Extracción de Uranio"
+r56_CAN_uranium_mining_desc:0 "Un mineral específico extraído dentro de [CAN.GetNameDef] contiene la clave para armas de increíble potencial destructivo. Tomaremos la iniciativa para explotar este recurso al máximo."
 
- r56_CAN_uranium_mining:0 "Uranium Mining"
- r56_CAN_uranium_mining_desc:0 "A specific ore mined within [CAN.GetNameDef] holds the key to weapons of incredible destructive potential. We will take the initiative to exploit this resource to its maximum potential."
+r56_CAN_resources_for_war_effort:0 "Recursos para el Esfuerzo Bélico"
+r56_CAN_resources_for_war_effort_desc:0 "Las continuas mejoras en los métodos de extracción de recursos nos permiten extraer de manera más eficiente."
 
- r56_CAN_resources_for_war_effort:0 "Resources for the War Effort"
- r56_CAN_resources_for_war_effort_desc:0 "Continuous improvements in resource extraction methods allow us to extract more efficiently."
+r56_CAN_enlist_the_unemployed:0 "Reclutar a los Desempleados"
+r56_CAN_enlist_the_unemployed_desc:0 "El tema del servicio militar sigue siendo un tema delicado entre los [CAN.GetAdjective]. Para equilibrar las necesidades de mano de obra de nuestras fuerzas armadas y evitar dividir [CAN.GetNameDef] en este tema, incentivaremos a los desempleados a enlistarse y daremos garantías de que no los enviaremos al extranjero."
 
- r56_CAN_enlist_the_unemployed:0 "Enlist the Unemployed"
- r56_CAN_enlist_the_unemployed_desc:0 "The issue of military service remains a touchy subject among [CAN.GetAdjective]s. To balance our armed forces' manpower needs and avoid splitting [CAN.GetNameDef] on this issue, we will incentivize the unemployed to enlist and give out assurances that we will not send them overseas."
+r56_CAN_war_economy:0 "Economía Enfocada en la Guerra"
+r56_CAN_war_economy_desc:0 "Nuestras industrias y sus fábricas se han recuperado de lo peor de la Gran Depresión. Es hora de cambiar su objetivo hacia la producción de suficientes armamentos para equiparnos a nosotros y a nuestros aliados con lo que puedan necesitar en el conflicto."
 
- r56_CAN_war_economy:0 "War-Focused Economy"
- r56_CAN_war_economy_desc:0 "Our industries and their factories have recovered from the worst of the Great Depression. It is time for us to shift their goal towards producing enough armaments to equip ourselves and our allies with whatever they might need in the conflict."
+r56_CAN_war_measures_act:0 "Reinvocar la Ley de Medidas de Guerra"
+r56_CAN_war_measures_act_desc:0 "La Ley de Medidas de Guerra describe las medidas de emergencia que podemos tomar en una declaración de guerra, invasión o insurrección."
 
- r56_CAN_war_measures_act:0 "Reinvoke the War Measures Act"
- r56_CAN_war_measures_act_desc:0 "The War Measures Act lines out the emergency measures that we can take in a declaration of war, invasion, or insurrection."
+r56_CAN_wartime_prices_and_trade_board:0 "Consejo de Precios y Comercio en Tiempo de Guerra"
+r56_CAN_wartime_prices_and_trade_board_desc:0 "El Consejo de Precios y Comercio en Tiempo de Guerra es la primera línea de defensa contra la inflación y el descontento social en [CAN.GetNameDef]. Para prevenir el acaparamiento y la especulación, se han introducido controles de precios para hacer que los bienes estén disponibles para la mayoría de los [CAN.GetAdjective]."
 
- r56_CAN_wartime_prices_and_trade_board:0 "Wartime Prices and Trade Board"
- r56_CAN_wartime_prices_and_trade_board_desc:0 "The Wartime Prices and Trade Board is the first line of defense against inflation and social unrest in [CAN.GetNameDef]. To prevent profiteering and hoarding, price controls have been introduced to make goods available to most [CAN.GetAdjective]s."
+r56_CAN_nrma:0 "Ley de Movilización de Recursos Nacionales"
+r56_CAN_nrma_desc:0 "Canadá es grande, con una población dispersa en todo el territorio. Debemos desarrollar un sistema para rastrear el estado de empleo y asegurarnos de poder localizar a cualquier persona elegible para el servicio en el extranjero."
 
- r56_CAN_nrma:0 "National Resources Mobilisation Act"
- r56_CAN_nrma_desc:0 "Canada is large, with a population scattered in pockets across the land. We should develop a system to track employment status and ensure that we can locate anyone eligible for service overseas."
+r56_CAN_conscription_crisis:0 "Conscripción Forzada"
+r56_CAN_conscription_crisis_desc:0 "Al igual que en 1917, nuestros ciudadanos franco-canadienses en Quebec están resistiendo la idea de un reclutamiento nacional para traer más hombres al ejército. No permitiremos que una minoría desafíe la voluntad de [CAN.GetNameDef]."
 
- r56_CAN_conscription_crisis:0 "Forced Conscription"
- r56_CAN_conscription_crisis_desc:0 "Just like in 1917, our French-Canadian citizens in Quebec are resisting the idea of a national draft to bring more men into the army. We will not stand by and let one minority defy the will of [CAN.GetNameDef]."
+r56_CAN_replace_men_in_the_industry:0 "Reemplazar a los Hombres en la Industria con Mujeres"
+r56_CAN_replace_men_in_the_industry_desc:0 "Mientras nuestros hombres son necesarios para servir al país en el extranjero, nuestra maquinaria industrial aún requiere una fuerza laboral para operar. Quizás sea ahora el momento para que las mujeres hagan su parte por el país fabricando los armamentos que esos hombres pronto utilizarán."
 
- r56_CAN_replace_men_in_the_industry:0 "Replace Men in the Industry with Women"
- r56_CAN_replace_men_in_the_industry_desc:0 "While our men are needed to serve the country overseas, our industrial machinery still requires a workforce to operate. Perhaps it is now the time for the women to do their part for the country by making the armaments that those men will soon use."
+r56_CAN_department_of_munitions_and_supply:0 "Departamento de Municiones y Suministros"
+r56_CAN_department_of_munitions_and_supply_desc:0 "La producción de armamentos y equipos es imperativa para el esfuerzo bélico. Pondremos los recursos nacionales de [CAN.GetNameDef] bajo C.D. Howe en el Departamento de Municiones y Suministros."
 
- r56_CAN_department_of_munitions_and_supply:0 "Department of Munitions and Supply"
- r56_CAN_department_of_munitions_and_supply_desc:0 "The production of armaments and equipment is imperative for the war effort. We will bring [CAN.GetNameDef]'s national resources under C.D. Howe in the Department of Munitions and Supply."
+r56_CAN_bits_and_pieces_program:0 "Programa de Piezas y Componentes"
+r56_CAN_bits_and_pieces_program_desc:0 "El Programa de Piezas y Componentes movilizará para el esfuerzo bélico varias pequeñas fábricas dedicadas a bienes de consumo menores. Incluso una humilde fábrica de bicicletas puede encontrar la capacidad para hacer una ametralladora."
 
- r56_CAN_bits_and_pieces_program:0 "Bits and Pieces Program"
- r56_CAN_bits_and_pieces_program_desc:0 "The Bits and Pieces Program will mobilize for the war effort several small factories that have been dedicated to minor consumer goods. Even the humble bicycle factory can find the capacity to make a machine gun."
+r56_CAN_nrc_expansion:0 "Ampliar el Consejo Nacional de Investigación"
+r56_CAN_nrc_expansion_desc:0 "El NRC ha demostrado su eficacia en mejorar la calidad de vida en Canadá. Con una historia de ciencia y avance, la necesidad de investigadores es más significativa que nunca. Es hora de respaldar con más fuerza al NRC para defender [CAN.GetNameDef]."
 
- r56_CAN_nrc_expansion:0 "Expand the National Research Council"
- r56_CAN_nrc_expansion_desc:0 "The NRC has proven its effectiveness in improving the quality of life in Canada. With a history of science and advancement, the need for researchers is more significant than ever. It is time to throw more weight behind the NRC to defend [CAN.GetNameDef]."
+r56_CAN_defence_of_canada_regulations:0 "Regulaciones de Defensa de Canadá"
+r56_CAN_defence_of_canada_regulations_desc:0 "Los derechos civiles deben ser restringidos para prevenir la subversión del esfuerzo bélico en tiempos de guerra. Esto significa restricciones a la prensa, grupos disidentes y derechos legales."
 
- r56_CAN_defence_of_canada_regulations:0 "Defence of Canada Regulations"
- r56_CAN_defence_of_canada_regulations_desc:0 "Civil rights need to be curtailed to prevent subversion of the war effort in times of war. This means restrictions on the press, dissident groups, and legal rights."
+r56_CAN_british_designs:0 "[Root.GetBritishDesignsName]"
+r56_CAN_british_designs_desc:0 "[Root.GetBritishDesignsDesc]"
+R56_CAN_ENG_KEY:0 "Diseños [ENG.GetAdjective]"
+R56_CAN_FREE_KEY:0 "Nuestros Diseños"
+R56_CAN_SOV_KEY:0 "Diseños [SOV.GetAdjective]"
+R56_CAN_USA_KEY:0 "Diseños [USA.GetAdjective]"
+R56_CAN_GER_KEY:0 "Diseños [GER.GetAdjective]"
+R56_CAN_ENG_DESC_KEY:0 "Deberíamos importar y usar diseños [ENG.GetAdjective] para nuestras armas de infantería y artillería."
+R56_CAN_FREE_DESC_KEY:0 "Deberíamos diseñar nuestras armas de infantería y artillería."
+R56_CAN_SOV_DESC_KEY:0 "Deberíamos importar y usar diseños [SOV.GetAdjective] para nuestras armas de infantería y artillería."
+R56_CAN_USA_DESC_KEY:0 "Deberíamos importar y usar diseños [USA.GetAdjective] para nuestras armas de infantería y artillería."
+R56_CAN_GER_DESC_KEY:0 "Deberíamos importar y usar diseños [GER.GetAdjective] para nuestras armas de infantería y artillería."
 
- r56_CAN_british_designs:0 "[Root.GetBritishDesignsName]"
- r56_CAN_british_designs_desc:0 "[Root.GetBritishDesignsDesc]"
- R56_CAN_ENG_KEY:0 "[ENG.GetAdjective] Designs"
- R56_CAN_FREE_KEY:0 "Our Designs"
- R56_CAN_SOV_KEY:0 "[SOV.GetAdjective] Designs"
- R56_CAN_USA_KEY:0 "[USA.GetAdjective] Designs"
- R56_CAN_GER_KEY:0 "[GER.GetAdjective] Designs"
- R56_CAN_ENG_DESC_KEY:0 "We should import and use [ENG.GetAdjective] designs for our infantry and artillery weapons."
- R56_CAN_FREE_DESC_KEY:0 "We should design our infantry and artillery weapons."
- R56_CAN_SOV_DESC_KEY:0 "We should import and use [SOV.GetAdjective] designs for our infantry and artillery weapons."
- R56_CAN_USA_DESC_KEY:0 "We should import and use [USA.GetAdjective] designs for our infantry and artillery weapons."
- R56_CAN_GER_DESC_KEY:0 "We should import and use [GER.GetAdjective] designs for our infantry and artillery weapons."
+r56_CAN_army_modernisation:0 "Modernización del Ejército"
+r56_CAN_army_modernisation_desc:0 "Durante demasiado tiempo seguros en nuestra casa a prueba de incendios, lejos de materiales inflamables, Canadá ha permitido que su ejército se arregle con equipo y entrenamiento anticuados. Debemos avanzar con la modernización antes de que sea demasiado tarde."
 
- r56_CAN_army_modernisation:0 "Army Modernization"
- r56_CAN_army_modernisation_desc:0 "Too long secure in our fireproof house, far from inflammable materials, Canada has let its army make do with antiquated equipment and training. We must move on with modernization before it is too late."
+r56_CAN_increase_budget:0 "Aumentar el Presupuesto Militar"
+r56_CAN_increase_budget_desc:0 "Hemos privado a nuestras fuerzas armadas de fondos para modernizar su equipo y realizar ejercicios durante demasiado tiempo. Con el conflicto inminente, es hora de prepararnos lo mejor posible."
 
- r56_CAN_increase_budget:0 "Increase the Military Budget"
- r56_CAN_increase_budget_desc:0 "We have starved our armed forces of funds to modernize their equipment and carry out exercises for too long. With conflict looming, it is time to prepare to the best of our means."
+r56_CAN_increase_budget_more:0 "Continuar con los Aumentos del Presupuesto Militar"
+r56_CAN_increase_budget_more_desc:0 "A medida que las tensiones siguen aumentando en todo el mundo, es una medida prudente seguir invirtiendo en la seguridad de [CAN.GetNameDef]."
 
- r56_CAN_increase_budget_more:0 "Continue the Military Budget Increases"
- r56_CAN_increase_budget_more_desc:0 "As tensions keep rising all across the globe, it is a prudent measure to keep on investing in the security of [CAN.GetNameDef]."
+r56_CAN_cmp_truck:0 "Camión CMP"
+r56_CAN_cmp_truck_desc:0 "[CAN.GetNameDef] tiene una considerable industria automotriz que puede producir grandes cantidades de vehículos motorizados que serán útiles para nuestras fuerzas armadas. Nuestro diseño de camión CMP es versátil y adecuado para muchos climas y terrenos."
 
- r56_CAN_cmp_truck:0 "CMP Truck"
- r56_CAN_cmp_truck_desc:0 "[CAN.GetNameDef] has a sizable automotive industry that can output massive quantities of motor vehicles that will be of use to our armed forces. Our CMP Truck design is versatile and suited to many climates and terrain."
+r56_CAN_valentine_tank:0 "El Tanque Valentine"
+r56_CAN_valentine_tank_desc:0 "Hemos obtenido una licencia para producir el Tanque Valentine, un tanque medio duradero de diseño [ENG.GetAdjective]."
 
- r56_CAN_valentine_tank:0 "The Valentine Tank"
- r56_CAN_valentine_tank_desc:0 "We have obtained a license to produce the Valentine Tank, a durable medium tank of [ENG.GetAdjective] design."
+r56_CAN_retool_angus_shops:0 "Reequipar los Talleres Angus del CPR"
+r56_CAN_retool_angus_shops_desc:0 "Los Talleres Angus eran conocidos por fabricar, reparar y vender vagones de ferrocarril para el CPR. Con un poco de inversión y reequipamiento, podemos usar sus instalaciones y experiencia para construir tanques, que nuestro ejército mecanizado moderno necesita urgentemente."
 
- r56_CAN_retool_angus_shops:0 "Retool the CPR Angus Shops"
- r56_CAN_retool_angus_shops_desc:0 "The Angus Shops were known to manufacture, repair, and sell railcars for the CPR. With a bit of investment and retooling, we can use their facilities and expertise to build tanks, which our modern mechanized army sorely needs."
+r56_CAN_canadian_armoured_corps:0 "[Root.GetArmouredCorpsName]"
+r56_CAN_canadian_armoured_corps_desc:0 "Nuestra industria automotriz ahora posee suficiente experiencia en la fabricación de vehículos blindados. Ahora podemos intentar con diseños autóctonos para equipar a nuestro Cuerpo Blindado."
+R56_CAN_ARMOURED_CORPS:0 "Cuerpo Blindado [CAN.GetAdjective]"
+R56_CAN_ARMOURED_CORPS_ROYAL:0 "Cuerpo Blindado Real [CAN.GetAdjective]"
 
- r56_CAN_canadian_armoured_corps:0 "[Root.GetArmouredCorpsName]"
- r56_CAN_canadian_armoured_corps_desc:0 "Our automotive industry now possesses enough experience in manufacturing armored vehicles. We can now try our hand on indigenous designs to equip our Armoured Corps."
- R56_CAN_ARMOURED_CORPS:0 "[CAN.GetAdjective] Armoured Corps"
- R56_CAN_ARMOURED_CORPS_ROYAL:0 "Royal [CAN.GetAdjective] Armoured Corps"
+r56_CAN_kangaroo:0 "El Canguro"
+r56_CAN_kangaroo_desc:0 "A pesar de la temible cantidad de poder de fuego que puede llevar un tanque, es vulnerable sin el apoyo de la infantería. Afortunadamente, es posible transportar a nuestras tropas con estos vehículos blindados rápidos para capturar objetivos mientras proporcionan apoyo mutuo a los tanques. Necesitamos la aprobación para comenzar a fabricar esos vehículos."
 
- r56_CAN_kangaroo:0 "The Kangaroo"
- r56_CAN_kangaroo_desc:0 "Despite the fearsome amount of firepower a tank may carry, it is vulnerable without infantry support. Fortunately, it is possible to transport our troops with these fast armored vehicles to capture objectives while providing mutual support to tanks. We need the approval to start making those vehicles."
+r56_CAN_the_ram:0 "El Ram"
+r56_CAN_the_ram_desc:0 "Hemos obtenido planos de diseño de nuestro vecino del sur para construir una variante local de un tanque confiable y razonablemente blindado."
 
- r56_CAN_the_ram:0 "The Ram"
- r56_CAN_the_ram_desc:0 "We have obtained design blueprints from our southern neighbor on building a local variant of a reliable and reasonably armored tank."
+r56_CAN_royal_canadian_artillery:0 "[Root.GetArtilleryCorpsName]"
+r56_CAN_royal_canadian_artillery_desc:0 "A pesar de la falta de cañones actualizados, debemos empezar a entrenar a nuestros artilleros para luchar en una guerra moderna, incluyendo tácticas para el uso de cañones antiaéreos y nuevos cañones de 25 libras."
+R56_CAN_ARTILLERY_CORPS:0 "Artillería [CAN.GetAdjective]"
+R56_CAN_ARTILLERY_CORPS_ROYAL:0 "Artillería Real [CAN.GetAdjective]"
 
- r56_CAN_royal_canadian_artillery:0 "[Root.GetArtilleryCorpsName]"
- r56_CAN_royal_canadian_artillery_desc:0 "Despite the lack of up-to-date cannon, we must start training our artillerymen to fight a modern war, including tactics on using anti-air guns and new 25 pounders."
- R56_CAN_ARTILLERY_CORPS:0 "[CAN.GetAdjective] Artillery"
- R56_CAN_ARTILLERY_CORPS_ROYAL:0 "Royal [CAN.GetAdjective] Artillery"
-
- r56_CAN_royal_canadian_corps_of_signals:0 "[Root.GetSignalCorpsName]"
- r56_CAN_royal_canadian_corps_of_signals_desc:0 "[Root.GetSignalCorpsDesc]"
- R56_CAN_SIGNAL_CORPS:0 "[CAN.GetAdjective] Corps of Signals"
- R56_CAN_SIGNAL_CORPS_ROYAL:0 "Royal [CAN.GetAdjective] Corps of Signals"
- R56_CAN_SIGNAL_CORPS_DESC:0 "The Canadian Corps of Signals was established in 1903, and they should prove even more helpful after the invention of the Walkie-Talkie."
- R56_CAN_SIGNAL_CORPS_ROYAL_DESC:0 "The Royal Canadian Corps of Signals was established in 1903, and they should prove even more helpful after the invention of the Walkie-Talkie."
+r56_CAN_royal_canadian_corps_of_signals:0 "[Root.GetSignalCorpsName]"
+r56_CAN_royal_canadian_corps_of_signals_desc:0 "[Root.GetSignalCorpsDesc]"
+R56_CAN_SIGNAL_CORPS:0 "Cuerpo de Señales [CAN.GetAdjective]"
+R56_CAN_SIGNAL_CORPS_ROYAL:0 "Cuerpo de Señales Real [CAN.GetAdjective]"
+R56_CAN_SIGNAL_CORPS_DESC:0 "El Cuerpo de Señales Canadiense se estableció en 1903, y deberían ser aún más útiles después de la invención del Walkie-Talkie."
+R56_CAN_SIGNAL_CORPS_ROYAL_DESC:0 "El Cuerpo de Señales Real Canadiense se estableció en 1903, y deberían ser aún más útiles después de la invención del Walkie-Talkie."
 
  r56_CAN_small_arms_limited:0 "Small Arms Ltd."
  r56_CAN_small_arms_limited_desc:0 "We have secured the funds and foreign-trained personnel skilled in manufacturing firearms. To supply our need for infantry weapons, the appropriately named company will have the land and the infrastructure to manufacture them."
