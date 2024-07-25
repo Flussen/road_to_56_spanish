@@ -10,7 +10,7 @@
  CAT_josep_irla:0 "Josep Irla"
  CAT_ludovit_benada:0 "Ludovit Benada"
 
- CAT_deploy_the_aragonese_fleet:0 "Deploy the Aragonese Fleet"
+ CAT_deploy_the_aragonese_fleet:0 "Despliegue de la Flota Aragonesa"
 
  CAT_miquel_badia:0 "Miquel Badia"
  CAT_antoni_sedo:0 "Antoni Sedo"
@@ -38,9 +38,9 @@
  CAT_fabrica_hidroavions_tarragona:0 "Fabrica Hidroavions Tarragona"
  CAT_commisio_dindustries_de_guerra:0 "Commisio Dindustries de Guerra"
 
- CAT_motorized_equipment_manufacturer:0 "Motorized Equipment Manufacturer"
- CAT_infantry_equipment_manufacturer:0 "Infantry Equipment Manufacturer"
- CAT_artillery_manufacturer:0 "Artillery Manufacturer"
+ CAT_motorized_equipment_manufacturer:0 "Fabricante de equipos motorizados"
+ CAT_infantry_equipment_manufacturer:0 "Fabricante de equipos de infantería"
+ CAT_artillery_manufacturer:0 "Fabricante de artillería"
 
  CAT_electroquimica_de_flix:0 "Electroquimica de Flix"
 
@@ -53,7 +53,7 @@
  CAT_carles_botet_i_vehi:0 "Carles Botet i Vehi"
  CAT_jaume_pahissa_i_bonoms:0 "Jaume Pahissa i Bonoms"
 
- CAT_fascist_demagogue:0 "Fascist Demagogue"
+ CAT_fascist_demagogue:0 "Demagogo fascista"
 
  CAT_guillermo_de_la_pena_cusi:0 "Guillermo de la Peña Cusi"
  CAT_jose_villalba_rubio:0 "José Villalba Rubio"
@@ -68,4 +68,4 @@
  CAT_infantry_equipment_3:0 "EMP-Coruña"
  CAT_infantry_equipment_3_short:0 "EMP-Coruña"
 
- CAT_assimilate_andorra:0 "Assimilate Andorra"
+ CAT_assimilate_andorra:0 "Asimilar Andorra"
