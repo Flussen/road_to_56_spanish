@@ -1,42 +1,41 @@
 ﻿l_spanish:
- r56_ecuadorian_focus:0 "Ecuadorian National Focus"
+r56_ecuadorian_focus:0 "Enfoque Nacional Ecuatoriano"
 
- #characters        -check the validity of characters later btw - Fantom
- ECU_luis_rodrigues:0 "Luis Rodríguez"
- ECU_octavio_ochoa:0 "Octavio A. Ochoa"
- ECU_rafael_moran_valverde:0 "Rafael Morán Valverde"
+#characters        -check the validity of characters later btw - Fantom
+ECU_luis_rodrigues:0 "Luis Rodríguez"
+ECU_octavio_ochoa:0 "Octavio A. Ochoa"
+ECU_rafael_moran_valverde:0 "Rafael Morán Valverde"
 
+#focus
+ECU_Alert_in_the_front:0 "Alerta en la Frontera"
+ECU_Alert_in_the_front_desc:0 "Las tensiones en la frontera han aumentado, y debemos estar preparados para cualquier eventualidad. Nuestro ejército debe estar en alerta máxima para defender nuestra soberanía."
 
- #focus
- ECU_Alert_in_the_front:0 "Alert at the Border"
- ECU_Alert_in_the_front_desc:0 ""
+ECU_desperate_mobilization:0 "Movilización Desesperada"
+ECU_desperate_mobilization_desc:0 "La situación es crítica. Debemos movilizar a toda la nación para defendernos de cualquier amenaza. Ningún esfuerzo será escatimado en la defensa de nuestra patria."
 
- ECU_desperate_mobilization:0 "Desperate Mobilization"
- ECU_desperate_mobilization_desc:0 ""
+ECU_gallos_plan:0 "El Plan de Gallo"
+ECU_gallos_plan_desc:0 "El General Gallo ha presentado un plan estratégico para mejorar nuestras defensas y asegurar nuestra victoria en cualquier conflicto. Implementar este plan es crucial para nuestra seguridad."
 
- ECU_gallos_plan:0 "Gallo's Plan"
- ECU_gallos_plan_desc:0 ""
+ECU_focus_on_defending_quito:0 "Enfocarse en la Defensa de Quito"
+ECU_focus_on_defending_quito_desc:0 "Quito, nuestra capital, es el corazón de nuestra nación. Debemos concentrar nuestros esfuerzos en defenderla a toda costa y asegurarnos de que esté bien protegida contra cualquier invasión."
 
- ECU_focus_on_defending_quito:0 "Focus on Defending Quito"
- ECU_focus_on_defending_quito_desc:0 ""
+ECU_industralize_the_amazon:0 "Industrializar la Amazonía"
+ECU_industralize_the_amazon_desc:0 "La región amazónica tiene un gran potencial económico. Industrializarla fortalecerá nuestra economía y proporcionará los recursos necesarios para sostener nuestras fuerzas armadas."
 
- ECU_industralize_the_amazon:0 "Industralize the Amazon"
- ECU_industralize_the_amazon_desc:0 ""
+ECU_our_true_borders:0 "Nuestras Verdaderas Fronteras"
+ECU_our_true_borders_desc:0 "Es hora de reclamar las tierras que legítimamente nos pertenecen. Debemos afirmar nuestras verdaderas fronteras y defenderlas contra cualquier agresión."
 
- ECU_our_true_borders:0 "Our True Borders"
- ECU_our_true_borders_desc:0 ""
+ECU_adquire_usa_planes:0 "Adquirir Aviones Americanos"
+ECU_adquire_usa_planes_desc:0 "Nuestra fuerza aérea necesita modernizarse. Adquirir aviones de los Estados Unidos nos dará una ventaja tecnológica y mejorará nuestra capacidad defensiva."
 
- ECU_adquire_usa_planes:0 "Acquire American Planes"
- ECU_adquire_usa_planes_desc:0 ""
+ECU_annex_the_north_of_Peru:0 "Anexar el Norte de Perú"
+ECU_annex_the_north_of_Peru_desc:0 "El norte de Perú es una región estratégica que debería formar parte de nuestro territorio. Debemos preparar un plan para anexionarlo y fortalecer nuestra posición en la región."
 
- ECU_annex_the_north_of_Peru:0 "Annex the North of Peru"
- ECU_annex_the_north_of_Peru_desc:0 ""
+ECU_mobilize_the_whole_country:0 "Movilizar a Todo el País"
+ECU_mobilize_the_whole_country_desc:0 "La amenaza es grande, y la movilización de toda la nación es esencial. Cada ciudadano debe estar preparado para contribuir a la defensa de nuestra patria."
 
- ECU_mobilize_the_whole_country:0 "Mobilize the Whole Country"
- ECU_mobilize_the_whole_country_desc:0 ""
+ECU_defense_of_quito:0 "Defensa de Quito"
+ECU_defense_of_quito_desc:0 "Quito es nuestro baluarte. La defensa de la capital es de suma importancia, y debemos asegurar su protección con todas nuestras fuerzas."
 
- ECU_defense_of_quito:0 "Defense of Quito"
- ECU_defense_of_quito_desc:0 ""
-
- ECU_plan_of_gallo:0 "Plan of Gallo"
- ECU_plan_of_gallo_desc:0 ""
+ECU_plan_of_gallo:0 "El Plan de Gallo"
+ECU_plan_of_gallo_desc:0 "El General Gallo ha desarrollado un plan detallado para asegurar la victoria. Este plan abarca estrategias de defensa y ofensiva que debemos seguir para proteger nuestra nación."
