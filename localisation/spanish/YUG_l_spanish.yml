@@ -2,6 +2,7 @@
 r56_YUG_little_entente:0 "Miembro de la Pequeña Entente"
 r56_YUG_if_we_go_to_war_with_HUN:0 "§RSi [HUN.GetNameDef] entra en guerra con un miembro de la Pequeña Entente, los otros miembros de la Pequeña Entente acudirán en nuestra ayuda.§!"
 r56_HUN_if_we_go_to_war:0 "\n§ROtros miembros de la Pequeña Entente acudirán en ayuda de nuestros enemigos.§!"
+r56_BUL_if_we_go_to_war:0 "\n§ROtros miembros del Pacto de los Balcanes vendrán a ayudar a nuestros enemigos.§!"
 YUG_charismatic_opportunist:0 "Oportunista Carismático"
 chemical_concern:0 "Preocupación Química"
 engine_factory:0 "Fabricante de Motores"
@@ -141,6 +142,16 @@ yugoslavia.25.b:0 "No podemos permitirnos librar otra guerra con los [HUN.GetAdj
 yugoslavia.26.t:0 "[FROM.GetNameDefCap] No Responde"
 yugoslavia.26.d:0 "Nos ha llegado la noticia de que nuestros aliados en [FROM.GetNameDefCap] se han negado a ayudarnos en nuestra guerra contra los [HUN.GetAdjective], a pesar de nuestros acuerdos con ellos. No son mejores que el enemigo, como dijo un sabio una vez, un amigo falso es peor que un enemigo verdadero..."
 yugoslavia.26.a:0 "Lo recordaremos..."
+
+yugoslavia.27.t:0 "El Pacto Balcánico Bajo Ataque"
+yugoslavia.27.d:0 "Nos ha llegado la noticia de que nuestros aliados en [FROM.GetNameDefCap] han sido atacados o invadidos por fuerzas [BUL.GetAdjective] hace solo unos días. Debido a nuestros acuerdos con el gobierno [FROM.GetAdjective], se espera que nos unamos a la guerra y ayudemos a nuestros aliados [FROM.GetAdjective]. Sin embargo, eso podría no ser lo mejor para nuestros intereses. Debemos decidir rápidamente, el tiempo se acaba."
+yugoslavia.27.a:0 "¡Los vencimos una vez, los venceremos de nuevo!"
+yugoslavia.27.b:0 "No podemos permitirnos librar otra guerra con los [BUL.GetAdjective]..."
+
+yugoslavia.28.t:0 "[FROM.GetNameDefCap] Se Retira"
+yugoslavia.28.d:0 "Nos ha llegado la noticia de que nuestros aliados en [FROM.GetNameDefCap] se han negado a ayudarnos en nuestra guerra contra los [BUL.GetAdjective], a pesar de nuestros acuerdos con ellos. No son mejores que el enemigo, como dijo un hombre sabio, un falso amigo es peor que un verdadero enemigo..."
+yugoslavia.28.a:0 "Lo recordaremos..."
+
 
 YUG_united_balkan_federation:0 "Federación Balcánica Unida"
 YUG_united_balkan_federation_DEF:0 "la Federación Balcánica Unida"
