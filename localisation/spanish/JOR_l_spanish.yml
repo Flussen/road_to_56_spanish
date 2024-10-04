@@ -1,1 +1,135 @@
 ﻿l_spanish:
+
+#FOCUSES - START
+
+ JOR_national_conference:0 "La Segunda Conferencia Nacional"
+ JOR_national_conference_desc:0 ""
+ JOR_ally_opposition:0 "Enfoque en la Amenaza Británica"
+ JOR_ally_opposition_desc:0 ""
+ JOR_appease_tribes:0 "Ley de Apaciguamiento de Tribus"
+ JOR_appease_tribes_desc:0 ""
+ JOR_rally_orthodox:0 "Reunir a la Población Ortodoxa"
+ JOR_rally_orthodox_desc:0 ""
+ JOR_remove_howitat:0 "Eliminar Dependencias Tribales"
+ JOR_remove_howitat_desc:0 ""
+ JOR_meet_arabs:0 "Solicitar Ayuda de Países Vecinos"
+ JOR_meet_arabs_desc:0 ""
+ JOR_revolt:0 "La Revuelta Transjordana"
+ JOR_revolt_desc:0 ""
+ JOR_circassion_integration:0 "Integración Completa de los Circasianos"
+ JOR_circassion_integration_desc:0 ""
+ JOR_salvage_ottoman_assets:0 "Recuperar Activos Otomanos"
+ JOR_salvage_ottoman_assets_desc:0 ""
+ JOR_political_banisakhr:0 "Concesiones Políticas a los Bani Sakhr"
+ JOR_circassion_integration_desc:0 ""
+ JOR_howitat_elitism:0 "Elitismo Howitat"
+ JOR_howitat_elitism_desc:0 ""
+ JOR_for_king:0 "Por el Rey"
+ JOR_for_king_desc:0 ""
+ JOR_for_country:0 "Por el País"
+ JOR_for_country_desc:0 ""
+ JOR_begin_treaty_discussions:0 "Iniciar Negociaciones de Tratado"
+ JOR_begin_treaty_discussions_desc:0 ""
+ JOR_operation_hashem:0 "Lucha por el Poder Post-Guerra"
+ JOR_operation_hashem_desc:0 "Nuestra guerra por la independencia ha terminado, y hemos logrado asegurar nuestra posición en el escenario mundial. Sin embargo, aunque el ejército y las tribus cooperaron durante la guerra, han comenzado nuevamente una lucha por el poder."
+ JOR_army_victory:0 "Majali Centraliza el Poder"
+ JOR_army_victory_desc:0 ""
+ JOR_utaybah_victory:0 "Revuelta de las Tribus"
+ JOR_utaybah_victory_desc:0 ""
+
+#IDEAS
+
+ JOR_1928_treaty_idea:0 "Tratado de 1928"
+ JOR_tribal_council:0 "El Consejo Tribal"
+ JOR_tribal_councils_modifier:0 "Situación del Consejo Tribal"
+ JOR_terrain_experts:0 "Expertos en Terreno" 
+ JOR_howitat_removed_idea:0 "Exclusión de Tribus del Ejército"
+ JOR_orthodox_rallying_idea:0 "Reunión de la Población Ortodoxa"
+ JOR_1928_treaty_idea1:0 "Tratado de 1928"
+
+ JOR_unsupported_war:0 "Guerra No Apoyada"
+ JOR_unsupported_war_desc:0 "Hemos tomado la iniciativa al atacar [ISR.GetNameDef], y es dudoso que [ROOT.OVERLORD.GetNameDef] apoye nuestro esfuerzo."
+ 
+#DECISIONS
+
+ JOR_tribes_desc:0 "Nuestra recientemente establecida estructura política incluye un monarca reinante y un consejo de representantes tribales que mantienen unido el país y unifican aún más a nuestros pueblos; sin embargo, esto dificulta cualquier esfuerzo del Emir por obtener apoyo político o fortalecer su dominio. Además, las tribus también siguen una forma de fuerte conservadurismo, ralentizando los proyectos de modernización de Jordania en el ejército, la industria o la política exterior, que han sido apoyados por el pueblo. Cualquier cambio en este sistema podría causar problemas en el futuro.\n\nHowitat: [JORGetHowitat]\nAl-Utaybah: [JORGetUtaybah]\nBani Sakhr: [JORGetBaniSakhr]\nBani Hamida: [JORGetBaniHamida]\n\n\n§WEl apoyo tribal total es: §Y[?JOR_tribal_support]%"
+ JOR_tribes:0 "Situación del Consejo Tribal"
+
+ JOR_tribe_aggressive_loc:0 "§RHostil §W"
+ JOR_tribe_supportive_loc:0 "§GApoyando §W"
+ JOR_tribe_neutral_loc:0 "§YNeutral §W"
+
+ JOR_tribal_support_red:0 "§R[?JOR_tribal_support]%§!"
+ JOR_tribal_support_orange:0 "§O[?JOR_tribal_support]%§!"
+ JOR_tribal_support_green:0 "§G[?JOR_tribal_support]%§!"
+ JOR_tribal_support_yellow:0 "§Y[?JOR_tribal_support]%§!"
+
+#EVENTS
+
+ jordan.1.t:0 "La Segunda Conferencia Nacional"
+ jordan.1.desc:0 "El Emir transjordano Abdullah ha salido hoy a dirigirse al sistema del consejo tribal establecido para apaciguar a las poblaciones beduinas y a las poderosas tribus que anteriormente gobernaban. Sin embargo, con la entrada de Transjordania en una nueva era donde ya no enfrenta amenazas de revueltas tribales o incursiones wahabitas, el Emir debe decidir qué tribu priorizar."
+ jordan.1.a:0 "Utaybah, los guerreros."
+ jordan.1.b:0 "Bani Sakhr, los leales."
+ jordan.1.c:0 "Howitat, la élite."
+ jordan.1.d:0 "¡El ejército debe estar en el medio, sin tribus que interfieran con él!"
+
+ jordan.2.t:0 "[JOR.GetNameDefCap] Solicita Envíos de Armas"
+ jordan.2.d:0 "Se han extendido rumores desde [JOR.GetNameDef] de que ciertos elementos en la nación se están preparando para derrocar al gobierno pro-[JOR.OVERLORD.GetAdjective]. Estos rebeldes han solicitado nuestro apoyo para armar sus fuerzas, y debemos decidir si vale la pena nuestro tiempo."
+ jordan.2.a:0 "Un aliado vital en la región."
+ jordan.2.b:0 "Rechazamos respetuosamente."
+
+ jordan.3.t:0 "[JOR.GetNameDefCap] Solicita Envíos de Armas"
+ jordan.3.d:0 "Se han extendido rumores desde [JOR.GetNameDef] de que ciertos elementos en la nación se están preparando para derrocar al gobierno pro-[JOR.OVERLORD.GetAdjective]. Estos rebeldes han solicitado nuestro apoyo para armar sus fuerzas, y debemos decidir si vale la pena nuestro tiempo."
+ jordan.3.a:0 "Un aliado vital en la región."
+ jordan.3.b:0 "Rechazamos respetuosamente."
+
+ jordan.4.t:0 "Envíos de Armas Iraquíes"
+ jordan.4.d:0 "Poco después de enviar varios mensajes codificados al gobierno iraquí, han accedido a enviarnos un envío de armas a través de Mafraq."
+ jordan.4.a:0 "Maravilloso"
+
+ jordan.5.t:0 "Envíos de Armas Saudíes"
+ jordan.5.d:0 "Poco después de enviar varios mensajes codificados al gobierno saudí, han accedido a enviarnos un envío de armas a través de Ma'an."
+ jordan.5.a:0 "Maravilloso"
+ 
+ jordan.6.t:0 "La Ley de Apaciguamiento"
+ jordan.6.d:0 "Después de una acalorada discusión entre el Emir Abdullah y su ministro, Su Majestad ha anunciado al público su apaciguamiento y apoyo adicional a los consejos tribales, ya que están alejándose lentamente de la obscuridad y dividiendo aún más el Emirato. [JOR.GetLeader] planea reformar el sistema y ha logrado fortalecer exitosamente las relaciones con la tribu Utaybah, eliminando la amenaza de otra Revuelta de Adwan."
+ jordan.6.a:0 "Otra amenaza resuelta."
+ 
+ jordan.7.t:0 "[JOR.GetNameDefCap] Solicita Renegociación del Tratado"
+ jordan.7.d:0 "Un enviado [JOR.GetAdjective] ha llegado a [GetCapital.GetCapitalVictoryPointName] para hablar con el Alto Comisionado sobre asuntos relacionados con el tratado de 1928 y sus restricciones sobre el ejército, la burocracia y la autonomía transjordana. [JOR.GetLeader] ha solicitado aflojar las restricciones sobre el emirato, y aunque esto aflojaría nuestro control sobre la región, podría valer la pena para asegurarlo como un aliado leal."
+ jordan.7.a:0 "No nos haría daño."
+ jordan.7.b:0 "¡Tontos! ¿Quiénes se creen que son?"
+ 
+ jordan.8.t:0 "Negativa Británica"
+ jordan.8.d:0 "[ENG.GetLeader] y el Alto Comisionado han rechazado aflojar el tratado de 1928, afirmando que ya consideran el tratado muy indulgente."
+ jordan.8.a:0 "¡No nos controlan!"
+ jordan.8.b:0 "No debemos provocar al oso."
+
+ jordan.9.t:0 "Renegociación del Tratado de 1928"
+ jordan.9.d:0 "Tras el viaje de nuestro enviado a Jerusalén, el Alto Comisionado Británico de Palestina ha accedido a aflojar las restricciones del tratado de 1928, ¡esto es un gran logro para el Emir, y el público está eufórico!"
+ jordan.9.a:0 "Nunca seremos esclavos."
+
+ jordan.10.t:0 "Lucha por el Poder Post-Guerra"
+ jordan.10.d:0 "Nuestra guerra por la independencia ha terminado, y hemos logrado asegurar nuestra posición en el escenario mundial. Sin embargo, aunque el ejército y las tribus cooperaron durante la guerra, han comenzado a pelear entre sí.\n\nA través de la nación, han estallado escaramuzas, pero a medida que el sol se ha puesto en el desierto, es obvio que..."
+ jordan.10.a:0 "El ejército ha logrado sofocar las revueltas."
+ jordan.10.b:0 "¡Las tribus han logrado sobrepasar al ejército!"
+
+
+ #TOOLTIPS
+
+JOR_revolt_guns_tt:0 "Recibiremos un extra de §Y500 Equipos de Infantería§! al estallar la revuelta."
+JOR_modify_tribal_councils_army_intro:0 "Modificar §YSituación del Consejo Tribal§! por"
+JOR_political_banisakhr_tt:0 "Aumentar §YApoyo Tribal §Wen §Y5% §W"
+JOR_remove_howitat_tt:0 "§YHowitat §Wse volverá §RHostil\n§W Disminuir §YApoyo Tribal §Wen §Y5% §W\n\n$JOR_modify_tribal_councils_army_intro$ \nAtaque de División: §R-5.00%§!"
+JOR_utaybah_war_tt:0 "Obtendremos §Y3 Divisiones de 12 Ancho §W al no haber guerra de revuelta\nAumentar §YApoyo Tribal §Wen §Y5%§W\n§YUtaybah §Wdetendrá las hostilidades\n\n$JOR_modify_tribal_councils_army_intro$ \nVelocidad de Investigación: §G+5.00%§!\nEstabilidad Semanal: §R-0.20%§! §W"
+JOR_banisakhr_war_tt:0 "Obtendremos §Y3 Divisiones de 10 Ancho §W al no haber guerra de revuelta\nAumentar §YApoyo Tribal §Wen §Y5%§W\n\n$JOR_modify_tribal_councils_army_intro$ \nGanancia de Poder Político: §G+0.35%§!"
+JOR_howitat_war_tt:0 "Obtendremos un §YGran Aflujo de Mano de Obra §W al no haber guerra de revuelta\nAumentar §YApoyo Tribal §Wen §Y5%§W\n§YHowitat §Wse volverá §GApoyador"
+JOR_antitribe_war_tt:0 "Obtendremos §Y3 Montañeses de 14 Ancho §W al no haber guerra de revuelta\nDisminuir §YApoyo Tribal §Wen §Y-10%\n§YHowitat §Wse volverá §RHostil\n\n§W$JOR_modify_tribal_councils_army_intro$ \nPoblación Reclutables: §Y-0.50%§! §W"
+JOR_appease_tribes_tt:0 "§YApoyo Tribal §Wen §Y5%§W\n$JOR_modify_tribal_councils_army_intro$ \nPoblación Reclutables: §G+1.00%§! §W"
+
+JOR_cant_call_allies:0 "§Y[ROOT.OVERLORD.GetNameDefCap] no se unirá a nuestra guerra contra [ISR.GetNameDef]§!"
+JOR_cant_call_allies_diplo:0 "§Y[FROM.GetNameDefCap] no se unirá a nuestra guerra contra [ISR.GetNameDef]§!"
+JOR_cant_call_allies_diplo_2:0 "§YNo se puede intervenir en la guerra de [FROM.GetNameDef] contra [ISR.GetNameDef]§!"
+
+JOR_army_won:0 "El ejército ha triunfado en la lucha por el poder post-guerra"
+JOR_utaybah_won:0 "Las tribus han triunfado en la lucha por el poder post-guerra"
