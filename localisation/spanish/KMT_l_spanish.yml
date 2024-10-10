@@ -42,764 +42,713 @@
  CHI_zhang_xueliang:0 "Zhang Xueliang"
  CHI_chan_chak:0 "Chan Chak"
 
- china_nationalist_focus:0 "Republic of China national focus"
- CHI_HK:0 "City of Hong Kong"
- CHI_HK_UK:0 "City of Hong Kong"
- CHI_MAC:0 "City of Macau"
- CHI_MAC_POR:0 "Governorate of Macau"
- CHI_become_china:0 "Become China"
+china_nationalist_focus:0 "Enfoque Nacional de la República de China"
+CHI_HK:0 "Ciudad de Hong Kong"
+CHI_HK_UK:0 "Ciudad de Hong Kong"
+CHI_MAC:0 "Ciudad de Macao"
+CHI_MAC_POR:0 "Gobernación de Macao"
+CHI_become_china:0 "Convertirse en China"
 
- warlords:0 "Warlord"
- autonomy_warlords:0 "Warlord"
+warlords:0 "Señor de la Guerra"
+autonomy_warlords:0 "Señor de la Guerra"
 
- CKS_regime:0 "Kuomintang"
- the_peoples_tutelage:0 "People's Tutelage"
- the_peoples_tutelage_desc:0 "The §YPeople's Tutelage§! is a phase in the development of China laid down by §WSun Yat-sen§!. In this phase, the §BKuomintang§! rules China as a §Ysingle-party state§!, developing the country and preparing her people for democracy."
- KMT_CPWDP:0 "CPWDP"
- KMT_CPWDP_long:0 "Chinese Peasants' and Workers' Democratic Party"
- PRC_kang_ri_jiu_wang:0 "Kang Ri Jiu Wang Yun Dong"
+CKS_regime:0 "Kuomintang"
+the_peoples_tutelage:0 "Tutela del Pueblo"
+the_peoples_tutelage_desc:0 "La §YTutela del Pueblo§! es una fase en el desarrollo de China delineada por §WSun Yat-sen§!. En esta fase, el §BKuomintang§! gobierna China como un §Yestado de partido único§!, desarrollando el país y preparando a su pueblo para la democracia."
+KMT_CPWDP:0 "PCPDC"
+KMT_CPWDP_long:0 "Partido Democrático de Campesinos y Obreros de China"
+PRC_kang_ri_jiu_wang:0 "Kang Ri Jiu Wang Yun Dong"
 
- ######################### DESIGNERS #######################
- KMT_chongqing_steel:0 "The 29th Arsenal"
- KMT_central_wireless:0 "Central Wireless Equipment Corporation"
- CHI_taiyuan_arsenal:0 "Taiyuan Arsenal"
- CHI_taiyuan_arsenal_desc:0 "Heavy Weaponry Producer from the Shanxi region of Central Plain."
- CHI_automobile_manufacture_company:0 "China Automobile Manufacture Company"
- camco_light:0 "CAMCO"
- KMT_ig_faben:0 "IG Farben"
- KMT_krupp:0 "Krupp"
- KMT_rheinmetall:0 "Rheinmetall"
- CHI_hanyang_arsenal:0 "Hanyang Arsenal"
- KMT_mauser:0 "Mauser"
- CHI_army_ordnance_department:0 "US Army Ordnance Department"
- CHI_hanyang_arsenal_tank:0 "Hanyang Arsenal"
- CHI_hanyang_arsenal_tank_organization:0 "Hanyang Arsenal"
- taiyuan_artillery:0 "Taiyuan Artilleries"
- hanyang_rifles:0 "Hanyang Rifles"
+######################### DISEÑADORES #######################
+KMT_chongqing_steel:0 "El 29º Arsenal"
+KMT_central_wireless:0 "Corporación Central de Equipos Inalámbricos"
+CHI_taiyuan_arsenal:0 "Arsenal de Taiyuan"
+CHI_taiyuan_arsenal_desc:0 "Productor de Armamento Pesado de la región de Shanxi, en la Llanura Central."
+CHI_automobile_manufacture_company:0 "Compañía de Manufactura Automotriz de China"
+camco_light:0 "CAMCO"
+KMT_ig_faben:0 "IG Farben"
+KMT_krupp:0 "Krupp"
+KMT_rheinmetall:0 "Rheinmetall"
+CHI_hanyang_arsenal:0 "Arsenal de Hanyang"
+KMT_mauser:0 "Mauser"
+CHI_army_ordnance_department:0 "Departamento de Armamento del Ejército de EE.UU."
+CHI_hanyang_arsenal_tank:0 "Arsenal de Hanyang"
+CHI_hanyang_arsenal_tank_organization:0 "Arsenal de Hanyang"
+taiyuan_artillery:0 "Artillería de Taiyuan"
+hanyang_rifles:0 "Rifles de Hanyang"
 
-GXC_generic_industrial_concern:0 "Guangxi Enterprise Corporation"
+GXC_generic_industrial_concern:0 "Corporación Empresarial de Guangxi"
 
- ######################### THEORISTS #########################
- KMT_chennault_air_chief:0 "Claire Lee Chennault"
- falkenhausen:0 "Alexander von Falkenhausen"
- KMT_zhu_de:0 "Zhu De"
+######################### TEORISTAS #########################
+KMT_chennault_air_chief:0 "Claire Lee Chennault"
+falkenhausen:0 "Alexander von Falkenhausen"
+KMT_zhu_de:0 "Zhu De"
 
+######## RASGOS ###########
+national_defence_expert:0 "Experto en Defensa Nacional"
+criminal_connexions:0 "Conexiones Criminales"
+minister_of_railways:0 "Ministro de Ferrocarriles"
+german_training:0 "Asesor Alemán"
+rommel_of_the_east:0 "El Rommel del Este"
+r56_the_big_rear:0 "La Gran Retaguardia"
+r56_the_rear:0 "La Retaguardia"
+r56_lure_them_in:0 "Atraerlos"
 
- ######## TRAITS ###########
- national_defence_expert:0 "National Defence Expert"
- criminal_connexions:0 "Criminal Connections"
- minister_of_railways:0 "Minister of Railways"
- german_training:0 "German Advisor"
- rommel_of_the_east:0 "Rommel of the East"
- r56_the_big_rear:0 "The Big Rear"
- r56_the_rear:0 "The Rear"
- r56_lure_them_in:0 "Lure them In"
+###################### DECISIONES ###########################
+CHI_improve_the_army_situation:0 "Mejorar la Situación del Ejército"
+CHI_improve_the_army_situation_desc:0 "El Ejército Revolucionario Nacional está en un estado lamentable debido a la corrupción rampante y la muy inadecuada capacitación de los soldados, lo que lo hace muy ineficaz.\n\nSi no queremos que China sea reducida a polvo, será necesario implementar reformas para hacer del ERN una fuerza real, entrenada y adecuadamente comandada."
+CHI_improve_the_NRA:0 "Mejorar el ERN"
+chi_improve_the_nra_decision:0 "§H100§!£experiencia_ejército"
+chi_improve_the_nra_decision_blocked:0 "§R100§!£experiencia_ejército"
 
- ###################### DECISIONS ###########################
- CHI_improve_the_army_situation:0 "Improve the Army's Situation"
- CHI_improve_the_army_situation_desc:0 "The National Revolutionary Army is in a sorry state due to the rampant corruption and the very inadequate training of soldiers, making it very ineffective.\n\nIf we do not want China to ground into dust, it will be necessary to implement reforms to make the NRA a real, trained, and adequately commanded force."
- CHI_improve_the_NRA:0 "Improve The NRA"
- chi_improve_the_nra_decision:0 "§H100§!£army_experience"
- chi_improve_the_nra_decision_blocked:0 "§R100§!£army_experience"
+CHI_war_of_resistance:0 "Guerra de Resistencia"
+CHI_war_of_resistance_desc:0 "La guerra nuevamente azota nuestra patria, y la Llanura Central ya no es segura para los ciudadanos comunes. La agresión [JAP.getAdjective] podría envolver a toda Asia Oriental si no detenemos a esos imperialistas belicistas y hambrientos de poder.\n\nSi estamos dispuestos a proteger a nuestra querida Zhongguo, debemos estar listos para hacer todo lo posible para asegurar su seguridad."
 
- CHI_war_of_resistance:0 "War of Resistance"
- CHI_war_of_resistance_desc:0 "War again rages in our homeland, and the Central Plain is no longer safe for the commoner. The [JAP.getAdjective] Aggression might engulf all of East Asia if we do not stop those warmongering and power-hungry imperialists!\n\nIf we are willing to protect the dear Zhongguo, we need to be ready to do everything possible to ensure its safety."
+CHI_Huayuankou_embankment_breach_incident:0 "Provocar la Rotura del Dique de Huayuankou"
+CHI_Huayuankou_embankment_breach_incident_desc:0 "El enemigo está muy cerca de Zhengzhou; tal vez podríamos abrir los diques en el Río Amarillo y usar la inundación para disuadir a nuestros enemigos."
 
- CHI_Huayuankou_embankment_breach_incident:0 "Stage Huayuankou Embankment Breach Incident"
- CHI_Huayuankou_embankment_breach_incident_desc:0 "Our enemy is now very close to Zhengzhou; maybe we could open up the dikes on the Yellow River and use the flood to deter our enemies."
+CHI_scorched_earth_policy_map:0 "Estos estados están disponibles actualmente para la política de §HTierra Quemada§!."
+CHI_scorched_earth_policy:0 "Tácticas de Tierra Quemada en [FROM.getName]"
+CHI_scorched_earth_policy_desc:0 "Los invasores avanzan ocupando nuestras ciudades y aldeas, forzando a nuestros ejércitos a retirarse para preservar su fuerza. Sin embargo, podemos ordenarles destruir la infraestructura local antes de abandonar [FROM.getName], dificultando el avance de nuestros enemigos."
 
- CHI_scorched_earth_policy_map:0 "These states are currently available for §HScorched Earth§! policy."
- CHI_scorched_earth_policy:0 "Scorched Earth Tactics in [FROM.getName]"
- CHI_scorched_earth_policy_desc:0 "The advancing invaders have occupied our cities and villages, forcing our armies to retreat to preserve their strength. However, we can order them to destroy local infrastructures before they leave [FROM.getName], thus hindering our enemies' progress."
+CHI_redirect_investments_for_burma_road:0 "Redirigir Inversiones para la Carretera de Birmania"
+CHI_redirect_investments_for_burma_road_desc:0 "Algunos expertos aconsejan que podríamos desviar algunos recursos para construir una serie de fortificaciones en la parte sur de Yunnan, lo que podría detener eficazmente a nuestros enemigos si deciden invadirnos desde el sur."
 
- CHI_redirect_investments_for_burma_road:0 "Redirect Investments for the Burma Road"
- CHI_redirect_investments_for_burma_road_desc:0 "Some experts advise that we could divert some resources to building a series of forts along the southern part of Yunnan, which could effectively hold off our enemies if they decide to invade us from the South."
+CHI_prioritize_external_threat:0 "Priorizar la Amenaza Externa"
+CHI_prioritize_external_threat_desc:0 "Los japoneses han lanzado una ofensiva mientras aún lidiamos con la amenaza interna. ¿Deberíamos bajar nuestras armas contra nuestros compatriotas chinos y apuntarlas a los invasores imperialistas?"
 
- CHI_prioritize_external_threat:0 "Prioritize External Threat"
- CHI_prioritize_external_threat_desc:0 "The Japanese have launched an offensive while we are still dealing with the internal threat! Should we put down our guns from our fellow Chinese and aim them at the imperialist invaders?"
+CHI_prepare_provisional_capital:0 "Preparar la Capital Provisional"
+CHI_prepare_provisional_capital_desc:0 "¡El enemigo avanza rápidamente hacia Nanjing! No podemos permitir que capturen a nuestra dirigencia. Debemos establecer una base para una capital provisional en lo profundo del interior del país para gobernar nuestra nación en estos tiempos difíciles; sin embargo, esto no será fácil."
 
- CHI_prepare_provisional_capital:0 "Prepare Provisional Capital"
- CHI_prepare_provisional_capital_desc:0 "The enemy is rapidly advancing on Nanjing! The enemy cannot capture our leadership. We must establish a basis for a provisional capital deep in the country's interior to govern our nation in these harsh times; this, however, would not be easy."
+CHI_join_united_front:0 "Unirse al Frente Unido"
+CHI_join_united_front_desc:0 "[JAP.getNameDefCap] ha hecho su jugada y ha decidido aniquilar a la nación china del mapa. Debemos apoyar al Frente Unido por todos los medios necesarios para asegurar la seguridad de la China Proper."
 
- CHI_join_united_front:0 "Join the United Front"
- CHI_join_united_front_desc:0 "[JAP.getNameDefCap] has made their move and decided to annihilate the Chinese nation from the face of the Earth. We should support the United Front by any means necessary to ensure the security of the China Proper!"
+CHI_strife_for_survival:0 "Luchar por la Supervivencia"
+CHI_strife_for_survival_desc:0 "Cada vez más de nuestros soldados y generales han comprendido que solo pueden ganar la guerra actual si se dedican completamente a ella; esto, en cierta medida, ha mejorado el rendimiento de nuestro ejército en el campo de batalla."
 
- CHI_strife_for_survival:0 "Strive for Survival!"
- CHI_strife_for_survival_desc:0 "More and more of our soldiers and generals have realized that they can only win the current war if they entirely devote themselves to it; this more or less has improved our army's performance on the field."
+CHI_most_desperate_hours:0 "¡Las Horas Más Desesperadas!"
+CHI_most_desperate_hours_desc:0 "¡Nuestra nación está al borde del colapso bajo el invasor! La supervivencia de la civilización [CHI.getAdjective] depende de nuestro valiente pueblo."
 
- CHI_most_desperate_hours:0 "The Most Desperate Hours!"
- CHI_most_desperate_hours_desc:0 "Our nation is on the brink of collapse under the invading enemy! The survival of [CHI.getAdjective] civilization depends on our brave people!"
+CHI_united_front_strategy:0 "Estrategia del Frente Unido"
+CHI_united_front_strategy_desc:0 "Como un gato, Japón avanzó y tomó Corea. Buscaban humillarnos con sus veintiuna demandas, ocuparon Manchuria y ahora avanzan nuevamente. No más; China luchará hasta el final por su libertad. En un discurso al pueblo, [Root.GetLeader] hará un llamado a todos los [Root.GetAdjective], para que permanezcan unidos o enfrenten una perdición segura en solitario."
 
- CHI_united_front_strategy:0 "United front Strategy"
- CHI_united_front_strategy_desc:0 "Like a cat, Japan advanced and took Korea. They sought to humiliate us with their twenty-one demands, they occupied Manchuria, and now they advance again. No more; China will fight to her last to be free. In a speech to the people, [Root.GetLeader] will appeal to all [Root.GetAdjective], that they stand together or face certain doom alone."
+CHI_unequal_treaties:0 "Los Tratados Desiguales"
+CHI_unequal_treaties_desc:0 "Uno de los últimos vestigios de la humillación de la dinastía Qing en el escenario mundial, los puertos de tratado representan los deseos de los imperialistas europeos y japoneses en la China Proper, buscando explotar y subyugar al pueblo [ROOT.getAdjective] en nuestro momento de debilidad. \n\nUsando la situación a nuestro favor, podemos acercarnos a aquellos que comparten nuestros valores y derrocar a los regímenes ilegítimos que poseen nuestras tierras legítimas."
 
- CHI_unequal_treaties:0 "The Unequal Treaties"
- CHI_unequal_treaties_desc:0 "One of the last remainders of Qing's humiliation on the world stage, treaty ports represent desires of European and Japanese imperialists in the China Proper, seeking to exploit and subjugate [ROOT.getAdjective] people in our time of weakness. \n\nUsing the situation to our advantage, we can pursue closer ties with those who seek similar values to us while overthrowing unlawful regimes who own our rightful lands!"
- CHI_dealing_with_trade_port_decision:0 "[FROM.getName]"
+CHI_dealing_with_trade_port_decision:0 "[FROM.getName]"
 
- CHI_success_chance_depends_on_stability_tt:0 "§HHigher stability§! ensures higher chances for the §Gsuccessful coup§!!"
- hk_returned_tp:0 "Returned Treaty Port"
+CHI_success_chance_depends_on_stability_tt:0 "§HMayor estabilidad§! garantiza mayores probabilidades de un §Ggolpe exitoso§!!"
+hk_returned_tp:0 "Puerto de Tratado Devuelto"
 
- CHI_liberation_of_asia:0 "Liberation of Asia"
- CHI_liberation_of_asia_desc:0 "Many nations of Southern and South-East Asia are currently struggling under the oppressive rule of the European colonialists.\nWhile we managed to preserve our independence and solidify the rule over the Central Plain, we have not forgotten the Struggle of our brothers and sisters in arms! To arms, brethren, for your liberation awaits!"
- CHI_liberate_country:0 "Liberate [FROM.getNameDef]"
- CHI_raises_three_miltiia_divisions_tt:0 "Raises three divisions of §Y5 militia§! battalions."
- CHI_raises_five_miltiia_divisions_tt:0 "Raises five divisions of §Y5 militia§! battalions."
- CHI_raises_ten_miltiia_divisions_tt:0 "Raises ten divisions of §Y5 militia§! battalions."
- CHI_liberation_of_asia_here_tt:0 "Liberation of these territories would be possible"
+CHI_liberation_of_asia:0 "Liberación de Asia"
+CHI_liberation_of_asia_desc:0 "Muchas naciones del sur y sureste de Asia están luchando actualmente bajo el yugo opresivo de los colonialistas europeos.\nAunque hemos logrado preservar nuestra independencia y solidificar nuestro dominio sobre la Llanura Central, no hemos olvidado la lucha de nuestros hermanos y hermanas en armas. ¡A las armas, camaradas, que vuestra liberación os aguarda!"
+CHI_liberate_country:0 "Liberar [FROM.getNameDef]"
+CHI_raises_three_miltiia_divisions_tt:0 "Levanta tres divisiones de §Y5 batallones de milicia§!."
+CHI_raises_five_miltiia_divisions_tt:0 "Levanta cinco divisiones de §Y5 batallones de milicia§!."
+CHI_raises_ten_miltiia_divisions_tt:0 "Levanta diez divisiones de §Y5 batallones de milicia§!."
+CHI_liberation_of_asia_here_tt:0 "La liberación de estos territorios sería posible"
 
- CHI_asia_decolonized:0 "Asia Decolonized"
- CHI_asia_decolonized_desc:0 "Our military and ideological victories have led to a precarious situation where we cannot reach the European and American mainlands. Yet, our enemies are also incapable of taking their colonies back.\nNow that we have finally fulfilled our goals of liberating Asia, what should the decision of [ROOT.getLeader] be? Shall we seek peace with those pesky colonizers?"
+CHI_asia_decolonized:0 "Asia Descolonizada"
+CHI_asia_decolonized_desc:0 "Nuestras victorias militares e ideológicas han llevado a una situación precaria en la que no podemos alcanzar los territorios principales europeos y estadounidenses. Sin embargo, nuestros enemigos tampoco son capaces de recuperar sus colonias.\nAhora que finalmente hemos cumplido nuestros objetivos de liberar Asia, ¿qué decisión tomará [ROOT.getLeader]? ¿Buscaremos la paz con esos colonizadores molestos?"
 
- CHI_expand_industrial_capabilities:0 "Expand Industrial Capabilities"
- CHI_expand_industrial_capabilities_desc:0 "Economic potential of vast lands in the China Proper has long been neglected by the governmental authorities. Recent technological and economic advances provide us with a unique opportunity to strengthen the industrial power of our nation and weaken the effects of the economic stagnation of recent years."
+CHI_expand_industrial_capabilities:0 "Expandir Capacidades Industriales"
+CHI_expand_industrial_capabilities_desc:0 "El potencial económico de las vastas tierras de la China Proper ha sido descuidado durante mucho tiempo por las autoridades gubernamentales. Los recientes avances tecnológicos y económicos nos brindan una oportunidad única para fortalecer el poder industrial de nuestra nación y mitigar los efectos de la reciente estancación económica."
 
- CHI_weapons_purchases_category:1 "Purchase [USA.GetAdjective] Weapons"
- CHI_weapons_purchases_category_desc:0 "With our industry still playing catch-up, looking abroad for modern weapons might be the only way to bring our armed forces up to modern standards."
- CHI_order_weapons_in_USA:0 "Order Small Arms"
- CHI_order_support_equipment_in_USA:0 "Order Support Equipment"
- CHI_order_artillery_in_USA:0 "Order Artillery"
- CHI_order_tanks_in_USA:0 "Order Tanks"
- CHI_order_fighters_in_USA:0 "Order Fighters"
- CHI_order_bombers_in_USA:0 "Order Bombers"
+CHI_weapons_purchases_category:1 "Comprar Armas [USA.GetAdjective]"
+CHI_weapons_purchases_category_desc:0 "Con nuestra industria aún tratando de ponerse al día, buscar armas modernas en el extranjero podría ser la única forma de modernizar nuestras fuerzas armadas."
+CHI_order_weapons_in_USA:0 "Ordenar Armamento Ligero"
+CHI_order_support_equipment_in_USA:0 "Ordenar Equipamiento de Apoyo"
+CHI_order_artillery_in_USA:0 "Ordenar Artillería"
+CHI_order_tanks_in_USA:0 "Ordenar Tanques"
+CHI_order_fighters_in_USA:0 "Ordenar Cazas"
+CHI_order_bombers_in_USA:0 "Ordenar Bombarderos"
+
 
  ############################ FLAGS #########################
- baihua_completed:0 "The Campaign has ended"
- CHI_warred_with_JAP:0 "The war with Japan has ended"
- PRC_civil_war_started:0 "The civil war with Communist China has broken out"
- PRC_refuse_yangtze_partisan:0 "Yangtze Partition rejected"
- jap_support_chi_pro_jap:0 "Japan supports us"
- jap_civil_war_sf:0 "Japanese Civil War has broken out"
- KMT_any_state_chi_core_jap_own_tt:0 "Any Chinese core is owned by Japan or Japan's puppet"
- KMT_pro_japanese:0 "Supported pro-Japanese faction in China"
- liangguang_incident:0 "Liangguang Incident is going on"
- jyut_generals_defected:0 "Defected To KMT"
- huhanwen_dead:0 "Hu Hanmin has passed away"
- chen_jitang_join_gxc:0 "Chen Jitang has joined us"
- yut_sumitted:0 "Yue Clique has submitted"
- xsm_sumitted:0 "Xi Bei San Ma has submitted"
- gxc_sumitted:0 "Guangxi Clique has submitted"
- yun_sumitted:0 "Yunnan has submitted"
- shx_sumitted:0 "Shanxi has submitted"
- kmt_cjt_flag:0 "Chen Jitang has joined our army"
- kmt_lzr_flag:0 "Li Zongren has joined our army"
- kmt_mbf_flag:0 "Ma Bufang has joined our army"
- kmt_yxs_flag:0 "Yan Xishan has joined our army"
- kmt_ly_flag:0 "Long Yun has joined our army"
- kmt_yhm_flag:0 "Yu Hanmou has joined our army"
- #KMT_cjt_tt:0 "Chen Jitang is the leader of Yue Clique"
- #KMT_yhm_tt:0 "Yu Hanmou is the leader of Yue Clique"
- KMT_zhu_de_joined:0 "Zhu De has joined us"
+baihua_completed:0 "La Campaña ha terminado"
+CHI_warred_with_JAP:0 "La guerra con Japón ha terminado"
+PRC_civil_war_started:0 "La guerra civil con China Comunista ha estallado"
+PRC_refuse_yangtze_partisan:0 "Partición del Yangtsé rechazada"
+jap_support_chi_pro_jap:0 "Japón nos apoya"
+jap_civil_war_sf:0 "La Guerra Civil Japonesa ha estallado"
+KMT_any_state_chi_core_jap_own_tt:0 "Cualquier núcleo chino es controlado por Japón o por un títere de Japón"
+KMT_pro_japanese:0 "Apoyó a la facción pro-japonesa en China"
+liangguang_incident:0 "El Incidente de Liangguang está en curso"
+jyut_generals_defected:0 "Desertaron al Kuomintang"
+huhanwen_dead:0 "Hu Hanmin ha fallecido"
+chen_jitang_join_gxc:0 "Chen Jitang se ha unido a nosotros"
+yut_sumitted:0 "La Facción Yue se ha rendido"
+xsm_sumitted:0 "Xi Bei San Ma se ha rendido"
+gxc_sumitted:0 "La Facción Guangxi se ha rendido"
+yun_sumitted:0 "Yunnan se ha rendido"
+shx_sumitted:0 "Shanxi se ha rendido"
+kmt_cjt_flag:0 "Chen Jitang se ha unido a nuestro ejército"
+kmt_lzr_flag:0 "Li Zongren se ha unido a nuestro ejército"
+kmt_mbf_flag:0 "Ma Bufang se ha unido a nuestro ejército"
+kmt_yxs_flag:0 "Yan Xishan se ha unido a nuestro ejército"
+kmt_ly_flag:0 "Long Yun se ha unido a nuestro ejército"
+kmt_yhm_flag:0 "Yu Hanmou se ha unido a nuestro ejército"
+#KMT_cjt_tt:0 "Chen Jitang es el líder de la Facción Yue"
+#KMT_yhm_tt:0 "Yu Hanmou es el líder de la Facción Yue"
+KMT_zhu_de_joined:0 "Zhu De se ha unido a nosotros"
 
- CHI_unite:0 "United Front was formed."
- CHI_no_national_front_flag:0 "China refused to negotiate during the Xi'an incident."
+CHI_unite:0 "El Frente Unido fue formado."
+CHI_no_national_front_flag:0 "China se negó a negociar durante el incidente de Xi'an."
 
- ########################## TOOLTIPS #######################3
- KMT_prep_tt:0 "Add 1 §YInfrastructure§! in all states neighboring PRC"
+########################## TOOLTIPS #######################
+KMT_prep_tt:0 "Añade 1 §YInfraestructura§! en todos los estados vecinos de la RPC."
 
- KMT_r56_big_rear_tt_1:0 "§WEvery§! §YFully Owned Core State§! §WWest of§! §Y[750.GETNAME]§! §Wand East of§! §Y[601.GETNAME]§!"
+KMT_r56_big_rear_tt_1:0 "§WTodos los§! §YNúcleos Totalmente Propios§! §Wal Oeste de§! §Y[750.GETNAME]§! §Yy al Este de§! §Y[601.GETNAME]§!."
 
- KMT_r56_the_rear_tt_2:0 "§WEvery§! §YFully Owned Core State§! §WEast of§! §Y[750.GETNAME]§!§W, West of§! §Y[600.GETNAME]§! §Wand South of§! §Y[607.GETNAME]§!"
+KMT_r56_the_rear_tt_2:0 "§WTodos los§! §YNúcleos Totalmente Propios§! §Wal Este de§! §Y[750.GETNAME]§!§Wy al Oeste de§! §Y[600.GETNAME]§! §Yy al Sur de§! §Y[607.GETNAME]§!."
 
- KMT_r56_lure_them_in_tt_1:0 "§WEvery§! §YFully Owned Core State§! §Wthat was Owned on 1 January 1936 that's East of§! §Y[620.GETNAME]§! §Wand South of§! §Y[608.GETNAME]§!"
+KMT_r56_lure_them_in_tt_1:0 "§WTodos los§! §YNúcleos Totalmente Propios§! §Wque eran Propios el 1 de enero de 1936, que están al Este de§! §Y[620.GETNAME]§! §Yy al Sur de§! §Y[608.GETNAME]§!."
 
- KMT_civil_war_tt:0 "If you decide to contact §Y[PRC.GetNameDef]§! during Xi'an Incident for a peace talks and they §Gaccept§! it, this focus will be §Rbypassed§!!"
+KMT_civil_war_tt:0 "Si decides contactar con §Y[PRC.GetNameDef]§! durante el incidente de Xi'an para unas negociaciones de paz y ellos §Gaceptan§!, este enfoque será §Romitido§!!."
 
- KMT_alone_or_peace_faction_tt:0 "is not in a faction, or is in a faction at peace with [CHI.GetNameDef]."
+KMT_alone_or_peace_faction_tt:0 "no está en una facción, o está en una facción en paz con [CHI.GetNameDef]."
 
- KMT_redraw_mcmahon_tt:0 "Either §Y[CHI.GetNameDef]§! or §Y[TIB.GetNameDef]§! is the owner of §YXikang§! and §YTibet§!."
+KMT_redraw_mcmahon_tt:0 "O §Y[CHI.GetNameDef]§! o §Y[TIB.GetNameDef]§! es el propietario de §YXikang§! y §YTíbet§!."
 
- KMT_redraw_mcmahon_cancel_tt:0 "neither §Y[CHI.GetNameDef]§! nor §Y[TIB.GetNameDef]§! is the owner of §YXikang§! and §YTibet§!."
+KMT_redraw_mcmahon_cancel_tt:0 "ni §Y[CHI.GetNameDef]§! ni §Y[TIB.GetNameDef]§! es el propietario de §YXikang§! y §YTíbet§!."
 
- KMT_north_plan_effect_tt:0 "Gain war goal against foreign owner of said states."
+KMT_north_plan_effect_tt:0 "Obtener objetivo de guerra contra el propietario extranjero de dichos estados."
 
- kmt_neutral_tp_mc:0 "§YMacau§! is not owned by China and the owner is at peace with China"
- kmt_neutral_tp_gzw:0 "§YGuangzhouwan§! is not owned by China and the owner is at peace with China"
- kmt_neutral_tp_hk:0 "§YHong Kong§! is not owned by China and the owner is at peace with China"
+kmt_neutral_tp_mc:0 "§YMacao§! no es propiedad de China y el propietario está en paz con China."
+kmt_neutral_tp_gzw:0 "§YGuangzhouwan§! no es propiedad de China y el propietario está en paz con China."
+kmt_neutral_tp_hk:0 "§YHong Kong§! no es propiedad de China y el propietario está en paz con China."
 
- kmt_demo_tp_mc:0 "§YPortugal§! owns §YMacau§!, does not have civil war and is at peace with China"
- kmt_demo_tp_gzw:0 "§YFrance§! owns §YGuangzhouwan§!, does not have civil war and is at peace with China"
- kmt_demo_tp_hk:0 "§YGreat Britain§! owns §YHong Kong§!, does not have civil war and is at peace with China"
+kmt_demo_tp_mc:0 "§YPortugal§! posee §YMacao§!, no está en guerra civil y está en paz con China."
+kmt_demo_tp_gzw:0 "§YFrancia§! posee §YGuangzhouwan§!, no está en guerra civil y está en paz con China."
+kmt_demo_tp_hk:0 "§YGran Bretaña§! posee §YHong Kong§!, no está en guerra civil y está en paz con China."
 
- kmt_scale_with_excav_tech:0 "The effect of this focus scales with §YExcavation Techs§!.\n"
+kmt_scale_with_excav_tech:0 "El efecto de este enfoque se ajusta con las §YTecnologías de Excavación§!.\n"
 
- kmt_mbf_go_lead_xsm:0 "Ma Bufang will now leave your army and lead the Ma's\n"
+kmt_mbf_go_lead_xsm:0 "Ma Bufang ahora dejará tu ejército y liderará a los Ma's\n"
 
- kmt_nw_insurgence_tt:0 "Either you, §YXi Bei San Ma§! or §YPRC§! controls §YGansu§!, §YNingxia§! and §YQinghai§!."
+kmt_nw_insurgence_tt:0 "O tú, §YXi Bei San Ma§! o §YRPC§! controlan §YGansu§!, §YNingxia§! y §YQinghai§!."
 
- kmt_yangtze_partition:0 "§RIf PRC agrees:§!\n  You will become the owner of China to the south of Yangtze, and PRC will take the part to the North of it."
+kmt_yangtze_partition:0 "§RSi la RPC acepta:§!\n  Te convertirás en el propietario de China al sur del Yangtsé, y la RPC tomará la parte al norte de él."
 
- kmt_taiwan_bastion_tt:0 "Add 12 §YCoastal Forts§! in §YTaiwan§!."
+kmt_taiwan_bastion_tt:0 "Añade 12 §YFortalezas Costeras§! en §YTaiwán§!."
 
- kmt_forts_in_shanghai_tt:0 "Add 3 §YLand Forts§! in §YShanghai§! and §YNanking§!.\n"
+kmt_forts_in_shanghai_tt:0 "Añade 3 §YFortalezas Terrestres§! en §YShanghái§! y §YNankín§!.\n"
 
- kmt_no_remove_warlord_army_tt:0 "National Spirit §YWarlord Armies§! will not be removed from now on."
+kmt_no_remove_warlord_army_tt:0 "El Espíritu Nacional §YEjércitos de Señores de la Guerra§! no será eliminado de ahora en adelante."
 
- KMT_jap_navy_indus_assist_tt:0 "Add §Y2 Naval Dockyards§! in two random owned controlled states.\n"
+KMT_jap_navy_indus_assist_tt:0 "Añade §Y2 Astilleros Navales§! en dos estados controlados al azar.\n"
 
- KMT_oust_colonisers_available_tt:0 "Any core state of :\n        §YVietnam§!\n        §YCambodia§!\n        §YLaos§!\n        §YMalaysia§!\n        §YIndonesia§!\n        §YIndia§!\n    Is not owned by their respective owner.\n    Or they are puppets of non-Asian nations."
- KMT_oust_the_colonizers_tt:0 "Gain war goal towards all colonizers in Asia.\n\n§YYou will have the choice to liberate each Asian nation stated above when you control their core state.§!"
+KMT_oust_colonisers_available_tt:0 "Cualquier estado núcleo de:\n        §YVietnam§!\n        §YCamboya§!\n        §YLaos§!\n        §YMalasia§!\n        §YIndonesia§!\n        §YIndia§!\n    No es propiedad de su propietario respectivo.\n    O son títeres de naciones no asiáticas."
 
- kmt_harsh_takover_oob_tt:0 "Assembles 3 infantry divisions of §Y8 infantry regiments§! in §YNanking§! and §Yevery controlled state adjusted§! to it."
- kmt_xsm_militia_rising_up_tt:0 "Raises 5 militia squadrons of §Y2 militia regiments§!.\n"
+KMT_oust_the_colonizers_tt:0 "Obtener objetivo de guerra contra todos los colonizadores en Asia.\n\n§YTendrás la opción de liberar cada nación asiática mencionada cuando controles su estado núcleo.§!"
 
- KMT_receive_lendlease_tt:0 "§YThe following effect will occur at a 30-day interval.§!\n\n"
+kmt_harsh_takover_oob_tt:0 "Reúne 3 divisiones de infantería de §Y8 regimientos de infantería§! en §YNankín§! y §Ycada estado controlado adyacente§! a él."
 
- kmt_no_incompetent_tt:0 "Does not have national spirit §YIncompetent Industry§!"
+kmt_xsm_militia_rising_up_tt:0 "Levanta 5 escuadrones de milicia de §Y2 regimientos de milicia§!.\n"
 
- kmt_no_incompetent_navy_tt:0 "Does not have national spirit §YIncompetent Naval Industry§!"
+KMT_receive_lendlease_tt:0 "§YEl siguiente efecto ocurrirá a intervalos de 30 días.§!\n\n"
 
- KMT_fortify_land_tt:0 "Add §Y16 Land Forts§! along the northern border.\n"
+kmt_no_incompetent_tt:0 "No tiene el espíritu nacional §YIndustria Incompetente§!"
 
- kmt_dtdc_tt:0 "Enables §HDare-To-Die Corps§!.\nAll Leg Infantry : \n    Hard Attack : §G+5%§!\n    Armor Piercing : §G+5%§!\n    Breakthrough : §G+5%§!"
+kmt_no_incompetent_navy_tt:0 "No tiene el espíritu nacional §YIndustria Naval Incompetente§!"
 
- KMT_lure_them_in_effect_tt:0 "§GWhen selected :§!\n"
+KMT_fortify_land_tt:0 "Añade §Y16 Fortalezas Terrestres§! a lo largo de la frontera norte.\n"
 
- KMT_prep_2_tt:0 "Add 1 §YInfrastructure§! and 1 §YAir Base§! in all states neighbouring PRC"
+kmt_dtdc_tt:0 "Habilita §HCuerpos de Atrevimiento§!.\nToda la Infantería Regular: \n    Ataque Duro: §G+5%§!\n    Penetración de Blindaje: §G+5%§!\n    Ruptura: §G+5%§!"
 
- KMT_enables_united_front_tt:0 "\n§GEnables United Front§!\n§RDisables Lianguang Incident and Xi'an Incident§!\n"
+KMT_lure_them_in_effect_tt:0 "§GCuando se seleccione:§!\n"
 
- KMT_no_united_front_unless_xian_incident_agreed_tt:0 "\n§RUnited Front will not be formed§!\n"
+KMT_prep_2_tt:0 "Añade 1 §YInfraestructura§! y 1 §YBase Aérea§! en todos los estados vecinos de la RPC."
 
- KMT_take_SEA_tt:0 "§YCreate war goals against owner of states in the Southeast Asia area.§!"
+KMT_enables_united_front_tt:0 "\n§GHabilita Frente Unido§!\n§RDesactiva el Incidente de Liangguang y el Incidente de Xi'an§!\n"
 
- KMT_take_pacific_tt:0 "§YCreate war goals against owner of states in the Pacific area.§!"
+KMT_no_united_front_unless_xian_incident_agreed_tt:0 "\n§RNo se formará el Frente Unido§!\n"
 
- ################################## OPINION MODIFIERS ##########################3
- KMT_SHX_refused:0 "Rejected offer"
- PRC_SHX_refused:0 "Rear protected"
- SHX_SHX_refused:0 "Diplomatic annexation attempted"
- no_collaboration_with_CHI_COM:0 "Striking the Communist Threat"
- chi_tib_diplomatic_focus:0 "Chinese-Tibetan Diplomacy Focus"
- CHI_join_britain_rejected:0 "Join faction rejected"
- false_document_trusted:0 "False document trusted"
- never_like_them_anyway:0 "Never like them anyway"
- recognition:0 "Recognition"
- tolerance:0 "Tolerance"
- wtever:0 "Magic!"
- SOV_CHI_join_comintern_reject:0 "Rejected China joining Comintern"
- KMT_commie_banned:0 "Communism Banned"
- boycott_comitern:0 "Boycott Comintern"
- gzw_kept:0 "Guangzhouwan Kept"
- hk_kept:0 "Hong Kong Kept"
- macau_kept:0 "Macau Kept"
- no_interv_in_tp:0 "Refused Intervention"
- jap_friendship_trade:0 "Japan Diplomacy Focus"
- jap_friendship:0 "Japan Diplomacy Focus"
- jap_no_return_terri:0 "Refused to Return Territories"
- still_border_dispute:0 "Border Dispute"
- sov_better_trade:0 "Would you be interested in a trade agreement with Sovetskiy Soyuz"
- aggresion:0 "Aggression"
- hanjian:0 "Hanjian"
- ohne_ehre:0 "OHNE EHRE!"
- flying_tigers:0 "Flying Tigers Volunteers"
- revisionist_pig:0 "Revisionist Pigs"
- war_against_communist_china:0 "War against communist China"
- liberator_of_korea:0 "Liberator of Korea"
- ignore_claim:0 "Ignored our claims on Indochina"
- sino_german_cooperation:0 "Sino-German Cooperation"
- more_sino_german_coop:0 "More Sino-German Cooperation"
- GER_CHI_join_germany_reject:0 "Rejected China joining Axis"
- KMT_closer_to_britain:0 "China Diplomatic Focus"
- KMT_trans_pacific_friendship:0 "China Diplomatic Focus"
- KMT_sino_japanes_friendship:0 "Sino-Japanese Friendship"
- pro_jap_traitor:0 "Pro-Japanese Traitor"
- KMT_doolittle_pilots_help_arrest:0 "Handed Over American Pilot"
- KMT_doolittle_pilots_given_to_JAP:0 "Handed Over Pilot to Japan"
- KMT_doolittle_pilots_help_JAP_reaction:0 "Help American Pilot"
- KMT_doolittle_pilots_detained_SOV:0 "Pilot Detained"
- KMT_doolittle_pilots_detained:0 "Pilot Detained"
- KMT_doolittle_pilots_help:0 "Helped Pilots"
- KMT_assist_in_war:0 "Doolittle Raid"
- KMT_discontent:0 "Discontent"
- KMT_disobedience:0 "Disobedience"
- KMT_xian_incident_sov_pos:0 "Xi'an Incident"
- KMT_xian_incident_sov_pos_trade:0 "Xi'an Incident"
- KMT_xian_incident_sov_neg:0 "Xi'an Incident"
- KMT_xian_incident_sov_neg_trade:0 "Xi'an Incident"
- KMT_closer_to_britain_ENG:0 "China Diplomatic Focus"
- CHI_KR_fd:0 "China Diplomatic Focus"
+KMT_take_SEA_tt:0 "§YCrea objetivos de guerra contra los propietarios de estados en el área del Sudeste Asiático.§!"
+
+KMT_take_pacific_tt:0 "§YCrea objetivos de guerra contra los propietarios de estados en el área del Pacífico.§!"
+
+################################ OPINIONES ##########################
+KMT_SHX_refused:0 "Oferta rechazada"
+PRC_SHX_refused:0 "Retaguardia protegida"
+SHX_SHX_refused:0 "Intento de anexión diplomática"
+no_collaboration_with_CHI_COM:0 "Golpeando la amenaza comunista"
+chi_tib_diplomatic_focus:0 "Enfoque Diplomático Chino-Tibetano"
+CHI_join_britain_rejected:0 "Rechazo de unión a la facción"
+false_document_trusted:0 "Documento falso confiado"
+never_like_them_anyway:0 "Nunca nos agradaron"
+recognition:0 "Reconocimiento"
+tolerance:0 "Tolerancia"
+wtever:0 "¡Magia!"
+SOV_CHI_join_comintern_reject:0 "Rechazo a China unirse al Komintern"
+KMT_commie_banned:0 "Comunismo Prohibido"
+boycott_comitern:0 "Boicot al Komintern"
+gzw_kept:0 "Guangzhouwan Mantenido"
+hk_kept:0 "Hong Kong Mantenido"
+macau_kept:0 "Macao Mantenido"
+no_interv_in_tp:0 "Rechazó la intervención"
+jap_friendship_trade:0 "Enfoque Diplomático Japonés"
+jap_friendship:0 "Enfoque Diplomático Japonés"
+jap_no_return_terri:0 "Se negó a devolver los territorios"
+still_border_dispute:0 "Disputa Fronteriza Persistente"
+sov_better_trade:0 "¿Estaría interesado en un acuerdo comercial con el Sovetskiy Soyuz?"
+aggresion:0 "Agresión"
+hanjian:0 "Hanjian"
+ohne_ehre:0 "¡SIN HONOR!"
+flying_tigers:0 "Voluntarios de los Tigres Voladores"
+revisionist_pig:0 "Cerdos Revisionistas"
+war_against_communist_china:0 "Guerra contra la China Comunista"
+liberator_of_korea:0 "Libertador de Corea"
+ignore_claim:0 "Ignoró nuestras reclamaciones sobre Indochina"
+sino_german_cooperation:0 "Cooperación Sino-Germana"
+more_sino_german_coop:0 "Más Cooperación Sino-Germana"
+GER_CHI_join_germany_reject:0 "Rechazo a China unirse al Eje"
+KMT_closer_to_britain:0 "Enfoque Diplomático Chino"
+KMT_trans_pacific_friendship:0 "Enfoque Diplomático Chino"
+KMT_sino_japanes_friendship:0 "Amistad Sino-Japonesa"
+pro_jap_traitor:0 "Traidor Pro-Japonés"
+KMT_doolittle_pilots_help_arrest:0 "Entregó al Piloto Americano"
+KMT_doolittle_pilots_given_to_JAP:0 "Entregó al Piloto a Japón"
+KMT_doolittle_pilots_help_JAP_reaction:0 "Ayudó al Piloto Americano"
+KMT_doolittle_pilots_detained_SOV:0 "Piloto Detenido"
+KMT_doolittle_pilots_detained:0 "Piloto Detenido"
+KMT_doolittle_pilots_help:0 "Ayudó a los Pilotos"
+KMT_assist_in_war:0 "Incursión Doolittle"
+KMT_discontent:0 "Descontento"
+KMT_disobedience:0 "Desobediencia"
+KMT_xian_incident_sov_pos:0 "Incidente de Xi'an"
+KMT_xian_incident_sov_pos_trade:0 "Incidente de Xi'an"
+KMT_xian_incident_sov_neg:0 "Incidente de Xi'an"
+KMT_xian_incident_sov_neg_trade:0 "Incidente de Xi'an"
+KMT_closer_to_britain_ENG:0 "Enfoque Diplomático Chino"
+CHI_KR_fd:0 "Enfoque Diplomático Chino"
 
 #################################### IDEAS #################################
- KMT_into_fascism:0 "The New Life Movement"
- KMT_into_fascism_desc:0 "A government-led civic movement to counter communist propaganda across the country."
+KMT_into_fascism:0 "El Movimiento de la Nueva Vida"
+KMT_into_fascism_desc:0 "Un movimiento cívico liderado por el gobierno para contrarrestar la propaganda comunista en todo el país."
 
- kmt_military_youth:0 "Military Youth"
- kmt_military_youth_desc:0 "Young people are encouraged to form nationalist organizations and paramilitary groups."
+kmt_military_youth:0 "Juventud Militar"
+kmt_military_youth_desc:0 "Se alienta a los jóvenes a formar organizaciones nacionalistas y grupos paramilitares."
 
- KMT_communism_banned:0 "New White Terror"
- KMT_communism_banned_desc:0 "We will eradicate any communist thought within the mind of the people."
+KMT_communism_banned:0 "Nuevo Terror Blanco"
+KMT_communism_banned_desc:0 "Erradicaremos cualquier pensamiento comunista de la mente del pueblo."
 
- KMT_powerful_blueshirts:0 "Powerful Blueshirts"
- KMT_powerful_blueshirts_desc:0 "The BIS is an intelligence agency under the Blueshirts, which has played an essential role in assisting the current regime's rise to power. Now that the current ruler has granted them more control, no one can escape from their grasp."
+KMT_powerful_blueshirts:0 "Camisas Azules Poderosas"
+KMT_powerful_blueshirts_desc:0 "El BIS es una agencia de inteligencia bajo las Camisas Azules, que ha jugado un papel esencial en el ascenso al poder del régimen actual. Ahora que el gobernante les ha otorgado más control, nadie puede escapar de su alcance."
 
- KMT_empire_plan:0 "The Empire Plan"
- KMT_empire_plan_desc:0 "We will rebuild the Glory of China out of the ashes of our enemies!"
+KMT_empire_plan:0 "El Plan Imperial"
+KMT_empire_plan_desc:0 "¡Reconstruiremos la Gloria de China sobre las cenizas de nuestros enemigos!"
 
- KMT_framed_mongolia:0 "Untrustworthy Outsider"
- KMT_framed_mongolia_desc:0 "Our former faction leader has trusted some documents of unknown origin, and we are now on our own. The outrageous citizens have formed an expulsive force towards outsiders."
+KMT_framed_mongolia:0 "Forastero Desconfiable"
+KMT_framed_mongolia_desc:0 "Nuestro antiguo líder de facción ha confiado en unos documentos de origen desconocido, y ahora estamos solos. Los ciudadanos indignados han formado una fuerza expulsiva contra los forasteros."
 
- KMT_infiltrated_mongol:0 "Closed Foreign Policy"
- KMT_infiltrated_mongol_desc:0 "We shall fight for ourselves; we can't rely on anyone else!"
+KMT_infiltrated_mongol:0 "Política Exterior Cerrada"
+KMT_infiltrated_mongol_desc:0 "¡Lucharemos por nuestra cuenta; no podemos depender de nadie más!"
 
- KMT_militarism:0 "National Military Indoctrination"
- KMT_militarism_desc:0 "Obey the orders and fight the dehumanized enemy for the glory of the state - this is your only purpose, soldier!"
+KMT_militarism:0 "Doctrina Militar Nacional"
+KMT_militarism_desc:0 "Obedece las órdenes y lucha contra el enemigo deshumanizado por la gloria del estado, ¡esta es tu única misión, soldado!"
 
- KMT_war_propaganda_idea:0 "War Propaganda"
- KMT_war_propaganda_idea_desc:0 "The enemy shall fear our might and valor!"
+KMT_war_propaganda_idea:0 "Propaganda de Guerra"
+KMT_war_propaganda_idea_desc:0 "¡El enemigo temerá nuestro poder y valor!"
 
- KMT_war_propaganda_idea_2:0 "War Propaganda"
- KMT_war_propaganda_idea_2_desc:0 "The enemy shall fear our strength and courage!"
+KMT_war_propaganda_idea_2:0 "Propaganda de Guerra"
+KMT_war_propaganda_idea_2_desc:0 "¡El enemigo temerá nuestra fuerza y coraje!"
 
- KMT_military_first_idea:0 "Military First"
- KMT_military_first_idea_desc:0 "Everything for our soldiers, our defenders, our saviors. Everything for the front!"
+KMT_military_first_idea:0 "Primero los Militares"
+KMT_military_first_idea_desc:0 "Todo para nuestros soldados, nuestros defensores, nuestros salvadores. ¡Todo para el frente!"
 
- KMT_war_fanaticism_idea:0 "War Fanaticism"
- KMT_war_fanaticism_idea_desc:0 "[CHI.GetLeader] ... [CHI.GetNameDef] ... live ten thousand years ... live ten thousand ten thousand years! "
+KMT_war_fanaticism_idea:0 "Fanatismo Bélico"
+KMT_war_fanaticism_idea_desc:0 "[CHI.GetLeader] ... [CHI.GetNameDef] ... ¡viva diez mil años ... viva diez mil, diez mil años!"
 
- KMT_jap_military_advisors:0 "Japanese Military Advisors"
- KMT_jap_military_advisors_desc:0 "Our generals have much to learn from our new [JAP.GetAdjective] allies.\n\n§YAllows Banzai Charge§!"
+KMT_jap_military_advisors:0 "Asesores Militares Japoneses"
+KMT_jap_military_advisors_desc:0 "Nuestros generales tienen mucho que aprender de nuestros nuevos aliados [JAP.GetAdjective].\n\n§YPermite la Carga Banzai§!"
 
- KMT_into_democracy:0 "The Principle Of Mínquán"
- KMT_into_democracy_desc:0 "Only democracy, as Sun Yat-sen taught it, will save [CHI.GetNameDef] from collapse."
+KMT_into_democracy:0 "El Principio de Mínquán"
+KMT_into_democracy_desc:0 "Solo la democracia, tal como la enseñó Sun Yat-sen, salvará a [CHI.GetNameDef] del colapso."
 
- KMT_parliament:0 "Rural Reconstruction Movement"
- KMT_parliament_desc:0 "The health standards and living conditions are gradually improving under the guidance of the current government."
+KMT_parliament:0 "Movimiento de Reconstrucción Rural"
+KMT_parliament_desc:0 "Los estándares de salud y las condiciones de vida están mejorando gradualmente bajo la guía del gobierno actual."
 
- KMT_universal_sufferage_ns:0 "The Three Principles of the People"
- KMT_universal_sufferage_ns_desc:0 "Nationalism, democracy, and livelihood for the people!"
+KMT_universal_sufferage_ns:0 "Los Tres Principios del Pueblo"
+KMT_universal_sufferage_ns_desc:0 "¡Nacionalismo, democracia y sustento para el pueblo!"
 
- KMT_people_knowledge:0 "Education Of Citizenship"
- KMT_people_knowledge_desc:0 "We should root out illiteracy as fast as possible."
+KMT_people_knowledge:0 "Educación Cívica"
+KMT_people_knowledge_desc:0 "Debemos erradicar el analfabetismo lo más rápido posible."
 
- KMT_westernization_ns:0 "Westernization"
- KMT_westernization_ns_desc:0 "Cultural and technological exchange with the West benefits our country greatly."
+KMT_westernization_ns:0 "Occidentalización"
+KMT_westernization_ns_desc:0 "El intercambio cultural y tecnológico con Occidente beneficia enormemente a nuestro país."
 
- KMT_firm_belief:0 "Firm Belief"
- KMT_firm_belief_desc:0 "The unique basis of [Root.GetAdjective] democracy can never be bent nor broken."
+KMT_firm_belief:0 "Creencia Firme"
+KMT_firm_belief_desc:0 "La base única de la democracia [Root.GetAdjective] nunca puede ser doblada ni rota."
 
- KMT_stay_non_aligned:0 "The People's Tutelage"
- KMT_stay_non_aligned_desc:0 "The [CHI.GetRulingParty] will lead the state and instruct people on how to build a genuinely democratic state."
+KMT_stay_non_aligned:0 "Tutela del Pueblo"
+KMT_stay_non_aligned_desc:0 "El [CHI.GetRulingParty] guiará al estado y enseñará al pueblo cómo construir un estado verdaderamente democrático."
 
- KMT_central_power:0 "Centralized Power"
- KMT_central_power_desc:0 "If all power had been consolidated in one place and not dispersed across the country, the Chinese Civil War might have never occurred."
+KMT_central_power:0 "Poder Centralizado"
+KMT_central_power_desc:0 "Si todo el poder se hubiera consolidado en un solo lugar y no se hubiera dispersado por todo el país, la Guerra Civil China podría no haber ocurrido."
 
- KMT_despotism:0 "Despotism"
- KMT_despotism_desc:0 "[CHI.GetLeader] has all the power needed to rule and guide [CHI.GetNameDef] to her designated glory."
+KMT_despotism:0 "Despotismo"
+KMT_despotism_desc:0 "[CHI.GetLeader] tiene todo el poder necesario para gobernar y guiar a [CHI.GetNameDef] hacia su gloria designada."
 
- KMT_propaganda:0 "National Defense Propaganda"
- KMT_propaganda_desc:0 "With the Japanese threatening our existence, all Chinese people must unite against them."
+KMT_propaganda:0 "Propaganda de Defensa Nacional"
+KMT_propaganda_desc:0 "Con los japoneses amenazando nuestra existencia, todos los chinos deben unirse contra ellos."
 
- KMT_propaganda_busted:0 "National Defense Propaganda Discredited"
- KMT_propaganda_busted_desc:0 "Our people feel lied to. Some soldiers refused to fight, saying that they joined the army to defend China, not to launch a war of aggression against fellow Chinese."
+KMT_propaganda_busted:0 "Propaganda de Defensa Nacional Desacreditada"
+KMT_propaganda_busted_desc:0 "Nuestro pueblo se siente engañado. Algunos soldados se han negado a luchar, diciendo que se unieron al ejército para defender China, no para lanzar una guerra de agresión contra otros chinos."
 
- taiwan_returned:0 "Taiwan Returned"
- taiwan_returned_desc:0 "We have enraged many nationalistic politicians and officers by returning Taiwan to the Chinese. Our populace demands answers and sees us as traitors."
+taiwan_returned:0 "Taiwán Devuelto"
+taiwan_returned_desc:0 "Hemos enfurecido a muchos políticos y oficiales nacionalistas al devolver Taiwán a los chinos. Nuestra población exige respuestas y nos ve como traidores."
 
- KMT_united_front:0 "United Front"
- KMT_united_front_desc:0 "The Second United Front will defend the Chinese people from the invading forces of [JAP.GetNameDef].\n\n§RIf you are one of the warlords, you will be automatically annexed by [CHI.GetNameDef] or [PRC.GetNameDef] when you capitulate.§!"
+KMT_united_front:0 "Frente Unido"
+KMT_united_front_desc:0 "El Segundo Frente Unido defenderá al pueblo chino de las fuerzas invasoras de [JAP.GetNameDef].\n\n§RSi eres uno de los señores de la guerra, serás anexado automáticamente por [CHI.GetNameDef] o [PRC.GetNameDef] cuando capitules.§!"
 
- KMT_rear:0 "Big Rear Plan"
- KMT_rear_desc:0 "Our industry is in a safe place, and [JAP.GetAdjective] invaders will never reach it!\n\n§RThis National Spirit will expire once the war with Japan is over.§!"
+KMT_rear:0 "Plan de la Gran Retaguardia"
+KMT_rear_desc:0 "Nuestra industria está en un lugar seguro, ¡y los invasores [JAP.GetAdjective] nunca la alcanzarán!\n\n§REste Espíritu Nacional expirará una vez que la guerra con Japón haya terminado.§!"
 
- KMT_lure_them_in:0 "Lure-Them-In Strategy"
- KMT_lure_them_in_desc:0 "Lure them in, separate the enemy from their source of strength!\n\n§RThis National Spirit will expire once the war with Japan is over.§!"
+KMT_lure_them_in:0 "Estrategia de Atracción"
+KMT_lure_them_in_desc:0 "¡Atraerlos, separar al enemigo de su fuente de fuerza!\n\n§REste Espíritu Nacional expirará una vez que la guerra con Japón haya terminado.§!"
 
- KMT_lure_them_in_1:0 "Lure-Them-In Strategy"
+KMT_lure_them_in_1:0 "Estrategia de Atracción"
 
- kmt_dare_to_die_corps_idea:0 "Dare-To-Die Corps"
- kmt_dare_to_die_corps_idea_desc:0 "Our brave soldiers are ready to sacrifice their lives for the security of our country!"
+kmt_dare_to_die_corps_idea:0 "Cuerpos de Atrevimiento"
+kmt_dare_to_die_corps_idea_desc:0 "¡Nuestros valientes soldados están listos para sacrificar sus vidas por la seguridad de nuestro país!"
 
- kmt_national_treasure_ransacked:0 "Loss Of National Treasures"
+kmt_national_treasure_ransacked:0 "Pérdida de Tesoros Nacionales"
 
- kmt_defend_the_treasures:0 "Defend The National Treasures!"
+kmt_defend_the_treasures:0 "¡Defender los Tesoros Nacionales!"
 
- kmt_planning_the_civil_war:0 "Planning The Civil War"
- kmt_planning_the_civil_war_desc:0 "[PRC.getNameDefCap] does not want anyone to benefit from the upcoming civil war between the Chinese; this is a Chinese matter."
+kmt_planning_the_civil_war:0 "Planeando la Guerra Civil"
+kmt_planning_the_civil_war_desc:0 "[PRC.getNameDefCap] no quiere que nadie se beneficie de la próxima guerra civil entre los chinos; este es un asunto chino."
 
- KMT_chinese_matter:0 "Chinese Matter"
+KMT_chinese_matter:0 "Asunto Chino"
+KMT_harsh_takeover:0 "Toma Dura"
+KMT_harsh_takeover_desc:0 "La guerra ha dejado la industria de nuestro país en ruinas, la ciencia en desorden y al pueblo cansado. Estamos expuestos a la influencia extranjera como nunca antes."
+KMT_jinyuanquan_inflation:0 "Hiperinflación"
+KMT_jinyuanquan_inflation_desc:0 "¡Nuestro método de imprimir más Yuanes de Oro para pagar a los comunistas sin oro adicional como respaldo ha causado una grave inflación en nuestra economía! Los ciudadanos descontentos y los soldados ahora desertan hacia los comunistas."
+KMT_corrupted_kmt:0 "Voluntad Fortalecida"
+KMT_corrupted_kmt_desc:0 "¡Los funcionarios corruptos de nuestro enemigo han fortalecido la voluntad de nuestros camaradas para derribar su estructura podrida!"
+KMT_aid_to_xsm:0 "Ayuda desde China"
+KMT_aid_to_xsm_desc:0 "¡En nuestra lucha contra la amenaza comunista, estamos unidos!"
+KMT_retreat_to_taiwan_idea:0 "¡Retirarse a Taiwán!"
+KMT_warlord_cliques_pre_war:0 "Facciones de Señores de la Guerra"
+KMT_warlord_cliques_pre_war_desc:0 "Varias facciones de señores de la guerra dispersas por toda China han debilitado al gobierno central."
+KMT_warlord_cliques_war:0 "Ejércitos de Señores de la Guerra"
+KMT_warlord_cliques_war_desc:0 "Aunque los ejércitos de los señores de la guerra se han integrado en los nuestros, solo son leales a su amo."
+KMT_effective_integration:0 "Integración Eficiente"
+KMT_effective_integration_desc:0 "La integración rápida y eficiente de las fuerzas de los señores de la guerra nos da más control sobre el ejército y decisiones más rápidas."
+KMT_focus_on_own_army:0 "Enfocarse en el Ejército Central"
+KMT_focus_on_own_army_desc:0 "Las fuerzas de los señores de la guerra están demasiado mal equipadas e indisciplinadas; deberíamos confiar más en nuestro Ejército Central que en el suyo, para no malgastar fondos esenciales."
+KMT_sino_german_joint_research:0 "Investigación Militar Conjunta Sino-Germana"
+KMT_science_funding:0 "Academia Sinica"
+KMT_science_funding_desc:0 "El primer instituto de investigación patrocinado por el gobierno, responsable directamente ante el Yuan Ejecutivo."
+public_iliteracy:0 "Analfabetismo Público"
+public_iliteracy_desc:0 "Después de años de agitación y guerra civil, el sistema educativo chino está hecho pedazos."
+KMT_national_institute_ns:0 "Asilo para Judíos"
+KMT_national_institute_ns_desc:0 "Muchos refugiados judíos ayudan a nuestra industria e investigación como muestra de gratitud por su rescate."
+incompetent_industry_real:0 "Industria Incompetente"
+incompetent_industry_real_desc:0 "La joven e inexperta industria de [ROOT.getAdjective] no está preparada para la tormenta que se avecina.\n\n§YUsa decisiones para mejorar las capacidades industriales de la nación.§!"
+incompetent_industry_real_navy:0 "Industria Naval Incompetente"
+incompetent_industry_real_navy_desc:0 "[ROOT.GetNameDefCap] siempre ha sido una potencia terrestre. Una marina de aguas azules sigue siendo solo un sueño.\n\n§YUsa decisiones para mejorar las capacidades industriales de la nación.§!"
+KMT_weak_army:0 "Ejército Incompetente"
+KMT_weak_army_desc:0 "El ERN se compone de soldados mal entrenados y comandantes incompetentes.\n\n§YUsa decisiones para abordar la falta de organización del ERN§!"
+KMT_chennault:0 "Asesor de Aviación Estadounidense"
+KMT_chennault_desc:0 "Con el aviador retirado de la USAAC, Claire Lee Chennault, como nuestro asesor de aviación, nuestra fuerza aérea se desempeñará mejor en el campo."
+KMT_the_flying_tigers_idea:0 "Los Tigres Voladores"
+KMT_the_flying_tigers_idea_desc:0 "Los pilotos [USA.GetAdjective] asisten a nuestra causa y luchan codo a codo con nuestros pilotos."
+KMT_sichuan_famine_no_aid:0 "Hambruna en Sichuan"
+KMT_sichuan_famine_no_aid_desc:0 "El pueblo está perdiendo la confianza en el gobierno debido a su ignorancia hacia sus problemas."
+KMT_sichuan_famine_aid:0 "Luchando contra la Hambruna"
+KMT_sichuan_famine_aid_desc:0 "Los fondos reubicados para combatir el hambre han mejorado la imagen del gobierno."
+KMT_corrupted_government:0 "Economía Corrupta"
+KMT_continue_the_national_revolution:0 "Continuar la Revolución Nacional"
+KMT_fight_for_survival:0 "Luchar por la Supervivencia"
+KMT_sino_german_joint_research_ger_adv:0 "Investigación Militar Conjunta Sino-Germana"
+KMT_aggresion:0 "Agresión"
+navy_air_est:0 "Establecimiento Aéreo Naval"
+cg_warlords:0 "Es Señor de la Guerra"
+KMT_student_soldiers:0 "Conscripción Forzada"
+KMT_treasure_abroad_idea:0 "Artefactos Enviados al Extranjero"
+KMT_wai_chingkuo:0 "Chiang Ching-kuo"
 
- KMT_harsh_takeover:0 "Harsh Takeover"
- KMT_harsh_takeover_desc:0 "The war has left our country's industry in ruins, science in disarray, and people tired. We are exposed to foreign influence as we were never before."
-
- KMT_jinyuanquan_inflation:0 "Hyperinflation"
- KMT_jinyuanquan_inflation_desc:0 "Our method of printing more Gold Yuan to pay the communists without additional gold as backing has caused severe inflation in our economy! And the discontent citizens and soldiers are now deserting to the communists!"
-
- KMT_corrupted_kmt:0 "Strengthened Will"
- KMT_corrupted_kmt_desc:0 "The corrupted officials of our enemy have strengthened our comrades' will to bring down their rotten structure!"
-
- KMT_aid_to_xsm:0 "Aid From China"
- KMT_aid_to_xsm_desc:0 "In our fight against the communist menace, we are united!"
-
- KMT_retreat_to_taiwan_idea:0 "Retreat to Taiwan!"
-
- KMT_warlord_cliques_pre_war:0 "Warlord Cliques"
- KMT_warlord_cliques_pre_war_desc:0 "Several warlord cliques scattered throughout China have weakened the central government."
-
- KMT_warlord_cliques_war:0 "Warlord Armies"
- KMT_warlord_cliques_war_desc:0 "Although the warlords' armies have integrated into ours, they are only loyal to their master."
-
- KMT_effective_integration:0 "Efficient Integration"
- KMT_effective_integration_desc:0 "The smooth and efficient integration of the warlord's forces gives us more control over the military and swifter decision-making."
-
- KMT_focus_on_own_army:0 "Focus on the Central Army"
- KMT_focus_on_own_army_desc:0 "The warlords' forces are too under-equipped and undisciplined; we should rely more on our Central Army than theirs, so we do not waste essential funds."
-
- KMT_sino_german_joint_research:0 "Sino-German Joint Military Research"
-
- KMT_science_funding:0 "Academia Sinica"
- KMT_science_funding_desc:0 "The first government-sponsored research institute responsible directly to Executive Yuan."
-
- public_iliteracy:0 "Public Illiteracy"
- public_iliteracy_desc:0 "After years of turmoil and civil war, the Chinese education system lies in tatters."
-
- KMT_national_institute_ns:0 "Asylum for Jews"
- KMT_national_institute_ns_desc:0 "Many Jewish refugees aid our industry and research as a token of gratitude for their rescue."
-
- incompetent_industry_real:0 "Incompetent Industry"
- incompetent_industry_real_desc:0 "[ROOT.getAdjective] young and inexperienced industry is unprepared for the coming storm.\n\n§YUse decisions to improve the industrial capabilities of the nation.§!"
-
- incompetent_industry_real_navy:0 "Incompetent Naval Industry"
- incompetent_industry_real_navy_desc:0 "[ROOT.GetNameDefCap] has always been a land power. A Blue-Water navy remains but a pipe dream.\n\n§YUse decisions to improve the industrial capabilities of the nation.§!"
-
- KMT_weak_army:0 "Incompetent Army"
- KMT_weak_army_desc:0 "The NRA comprises under-trained soldiers and incompetent commanders.\n\n§YUse decisions to address the lack of organization of the NRA§!"
-
- KMT_chennault:0 "US Aviation Advisor"
- KMT_chennault_desc:0 "With the retired USAAC aviator Claire Lee Chennault as our aviation advisor, our air force will perform better in the field."
-
- KMT_the_flying_tigers_idea:0 "The Flying Tigers"
- KMT_the_flying_tigers_idea_desc:0 "[USA.GetAdjective] pilots assist our cause and fight shoulder to shoulder with our pilots."
-
- KMT_sichuan_famine_no_aid:0 "Famine in Sichuan"
- KMT_sichuan_famine_no_aid_desc:0 "The people are losing trust in the government due to its ignorance of their problems."
-
- KMT_sichuan_famine_aid:0 "Battling Famine"
- KMT_sichuan_famine_aid_desc:0 "Relocated funds to battle hunger have improved the image of the government."
-
- KMT_corrupted_government:0 "Corrupted Economy"
-
- KMT_continue_the_national_revolution:0 "Continue The National Revolution"
-
- KMT_fight_for_survival:0 "Fight For Survival"
-
- KMT_sino_german_joint_research_ger_adv:0 "Sino-German Joint Military Research"
-
- KMT_aggresion:0 "Aggression"
-
- navy_air_est:0 "Naval Air Establishment"
-
- cg_warlords:0 "Is Warlord"
-
- KMT_student_soldiers:0 "Force Conscription"
-
- KMT_treasure_abroad_idea:0 "Artefacts Sent Abroad"
-
- KMT_wai_chingkuo:0 "Chiang Ching-kuo"
 
  #Fix base game bug idea, WTT Warlord tree without DoD or TfV
- CHI_technological_cooperation_idea:0 "Technological Cooperation"
- CHI_technological_cooperation_idea_desc:0 "We have much to learn from our brothers in arms."
+CHI_technological_cooperation_idea:0 "Cooperación Tecnológica"
+CHI_technological_cooperation_idea_desc:0 "Tenemos mucho que aprender de nuestros hermanos de armas."
 
- ############################ FOCUSES ##################################
- KMT_internal_stability:0 "Prioritize Internal Stability"
- KMT_internal_stability_desc:0 "While the Japanese are a disease of the skin, the Communist Bandits are a disease of the heart. To save China, we must first purge her of all traitors."
+############################ ENFOQUES ##################################
+KMT_internal_stability:0 "Priorizar la Estabilidad Interna"
+KMT_internal_stability_desc:0 "Mientras que los japoneses son una enfermedad de la piel, los bandidos comunistas son una enfermedad del corazón. Para salvar a China, debemos primero purgarla de todos los traidores."
 
- KMT_SHX_offer:0 "The Shanxi Offer"
- KMT_SHX_offer_desc:0 "Yan's fiefdom denies us military access. If we strong-arm him into submission, we can surround the communists and crush them once and for all."
+KMT_SHX_offer:0 "La Oferta de Shanxi"
+KMT_SHX_offer_desc:0 "El feudo de Yan nos niega el acceso militar. Si lo forzamos a someterse, podemos rodear a los comunistas y aplastarlos de una vez por todas."
 
- KMT_preparation:0 "Anti-Communist Construction"
- KMT_preparation_desc:0 "After their near-destruction during the Long March, the Communist Bandits hide in the Shaanxi region. We must attack before they can recover!"
+KMT_preparation:0 "Construcción Anti-Comunista"
+KMT_preparation_desc:0 "Después de su casi destrucción durante la Larga Marcha, los bandidos comunistas se esconden en la región de Shaanxi. ¡Debemos atacar antes de que puedan recuperarse!"
 
- KMT_strike_PRC:0 "Strike at the Communist Bandits"
- KMT_strike_PRC_desc:0 "The bandits are still recovering from the Long March. We must strike when they are weak!"
+KMT_strike_PRC:0 "Atacar a los Bandidos Comunistas"
+KMT_strike_PRC_desc:0 "Los bandidos aún se están recuperando de la Larga Marcha. ¡Debemos atacar mientras están débiles!"
 
- KMT_warlord:0 "Unify China"
- KMT_warlord_desc:0 "Now that we have destroyed the Communist Bandits, it is time for the warlords to meet the sword. They have been robbing the people for too long. We must complete the National Revolution!"
+KMT_warlord:0 "Unificar China"
+KMT_warlord_desc:0 "Ahora que hemos destruido a los bandidos comunistas, es hora de que los señores de la guerra enfrenten la espada. Han estado robando al pueblo por demasiado tiempo. ¡Debemos completar la Revolución Nacional!"
 
- KMT_deal_with_SIK:0 "Sinkiang Issue"
- KMT_deal_with_SIK_desc:0 "Sinkiang is an inalienable part of China; the local governor there has proven to be a separatist. We request their swift and immediate submission; if this ultimatum doesn't work, our military should be enough for them to surrender."
+KMT_deal_with_SIK:0 "Asunto de Sinkiang"
+KMT_deal_with_SIK_desc:0 "Sinkiang es una parte inalienable de China; el gobernador local ha demostrado ser un separatista. Solicitamos su rápida y inmediata sumisión; si este ultimátum no funciona, nuestro ejército será suficiente para que se rindan."
 
- KMT_external_defense:0 "Prioritize External Threat"
- KMT_external_defense_desc:0 "Although the communists are a dire threat, Japan can snuff out the entire Chinese nation. They will not be content with Manchuria. Someday they will try to take the rest of China as well. We must do everything possible to prepare for the storm."
+KMT_external_defense:0 "Priorizar la Amenaza Externa"
+KMT_external_defense_desc:0 "Aunque los comunistas son una amenaza grave, Japón puede extinguir a toda la nación china. No se contentarán con Manchuria. Algún día intentarán tomar el resto de China. Debemos hacer todo lo posible para prepararnos para la tormenta."
 
- KMT_fortify_land:0 "Build the Sun Yat-sen Line"
- KMT_fortify_land_desc:0 "With the Japanese probing the area around Beijing, their intentions become clear. We must fortify our borders. We will not give them an inch of sacred Chinese soil!"
+KMT_fortify_land:0 "Construir la Línea Sun Yat-sen"
+KMT_fortify_land_desc:0 "Con los japoneses sondeando el área alrededor de Pekín, sus intenciones se vuelven claras. Debemos fortificar nuestras fronteras. ¡No cederemos ni una pulgada de suelo sagrado chino!"
 
- KMT_fortify_coast:0 "Central Fortifications"
- KMT_fortify_coast_desc:0 "Given Japanese control of the seas, they will undoubtedly launch coastal invasions in the case of war. We must prepare while we can. We will not give up the Paris of the Orient without a fight!"
+KMT_fortify_coast:0 "Fortificaciones Centrales"
+KMT_fortify_coast_desc:0 "Dado el control japonés de los mares, sin duda lanzarán invasiones costeras en caso de guerra. Debemos prepararnos mientras podamos. ¡No cederemos el París de Oriente sin luchar!"
 
- KMT_national_def_propaganda:0 "National Defense Propaganda"
- KMT_national_def_propaganda_desc:0 "To defend ourselves from the Japanese threat, we must unify the Chinese people. While we hate both the Communist Bandits and the Warlords, every man, woman, and child must be willing to fight and die together in China's defense."
+KMT_national_def_propaganda:0 "Propaganda de Defensa Nacional"
+KMT_national_def_propaganda_desc:0 "Para defendernos de la amenaza japonesa, debemos unificar al pueblo chino. Aunque odiamos tanto a los bandidos comunistas como a los señores de la guerra, cada hombre, mujer y niño debe estar dispuesto a luchar y morir juntos en defensa de China."
 
- KMT_tibet_march:0 "Demand Tibet"
- KMT_tibet_march_desc:0 "Tibet is essential to China's defense and future expansion. However, the region has been independent of Chinese rule since the 1911 Revolution. We must fix this error."
+KMT_tibet_march:0 "Demandar Tíbet"
+KMT_tibet_march_desc:0 "El Tíbet es esencial para la defensa de China y su futura expansión. Sin embargo, la región ha sido independiente del dominio chino desde la Revolución de 1911. Debemos corregir este error."
 
- KMT_tibet_friend:0 "Befriend Tibet"
- KMT_tibet_friend_desc:0 "Tibet is essential for China's defense and future expansion. However, Tibet gained independence following the 1911 Revolution. We must ally with the Dalai Lama and secure our flanks."
+KMT_tibet_friend:0 "Hacer Amistad con el Tíbet"
+KMT_tibet_friend_desc:0 "El Tíbet es esencial para la defensa de China y su futura expansión. Sin embargo, el Tíbet obtuvo su independencia tras la Revolución de 1911. Debemos aliarnos con el Dalai Lama y asegurar nuestros flancos."
 
- KMT_redraw_mcmahon:0 "Redraw McMahon Line"
- KMT_redraw_mcmahon_desc:0 "Tibet agreed to the shameful Simla Accord, which redrew their border with India. We must make sure that this line is redrawn in our favor."
+KMT_redraw_mcmahon:0 "Redibujar la Línea McMahon"
+KMT_redraw_mcmahon_desc:0 "El Tíbet aceptó el vergonzoso Acuerdo de Simla, que redibujó su frontera con India. Debemos asegurarnos de que esta línea sea redibujada a nuestro favor."
+
+KMT_industrial_effort:0 "Invertir en la Industria"
+KMT_industrial_effort_desc:0 "La industria china siempre ha estado rezagada respecto a la de Occidente y Japón. Para mantener nuestra independencia, debemos aumentar nuestra producción industrial. También podemos permitir que empresas extranjeras inviertan en nuestra industria."
+
+KMT_armament_effort:0 "Refundar el Arsenal de Jiangnan"
+KMT_armament_effort_desc:0 "El Arsenal de Jiangnan proporcionó al Imperio Qing equipos modernos. Deberíamos usar su nombre para un complejo industrial-militar que pueda servir como núcleo de nuestra creciente industria armamentística."
+KMT_gain_control_of_the_sea:0 "Expandir la Armada"
+KMT_gain_control_of_the_sea_desc:0 "Hace tiempo que hemos perdido nuestra superioridad naval, habiendo sido derrotados en la Batalla del Río Yalu. Con la marina japonesa amenazando nuestro comercio, debemos intentar defender a nuestros mercantes en alta mar."
+KMT_the_big_rear_concept:0 "El Plan de la Gran Retaguardia"
+KMT_the_big_rear_concept_desc:0 "Con la guerra furiosa en el este de China, nuestro oeste permanece relativamente seguro. Debemos intentar desarrollar estas áreas atrasadas para que puedan contribuir a la lucha de China."
+KMT_increase_funding_of_german_weaponary:0 "Adoptar Equipamiento de Estilo Alemán"
+KMT_increase_funding_of_german_weaponary_desc:0 "Aunque contamos con el apoyo de asesores alemanes como Von Falkenhausen y algunos equipos alemanes importados, nuestros modelos producidos localmente son de pésima calidad. Usar equipos alemanes como plantillas en nuestro proceso de fabricación puede aumentar nuestra calidad ocho veces."
+KMT_lure_them_in_strategy:0 "Estrategia de Atracción"
+KMT_lure_them_in_strategy_desc:0 "Con el vasto territorio de nuestra nación y su terreno accidentado, podemos permitirnos retirarnos y atraer a los invasores a nuestros campos de batalla elegidos. ¡Que los imperialistas intenten perseguirnos! ¡Encontrarán emboscadas en cada rincón y trampas explosivas en cada paso!"
+KMT_air_base_expansion:0 "Expansión de Bases Aéreas"
+KMT_air_base_expansion_desc:0 "Necesitamos bases aéreas para que nuestros aviones puedan despegar y aterrizar; de lo contrario, solo serán una exhibición en el almacén."
+KMT_national_resources_commission:0 "Comisión Nacional de Recursos"
+KMT_national_resources_commission_desc:0 "La Comisión Nacional de Recursos (CNR) es un instituto responsable de prospectar y excavar recursos en China. Establecerla mejorará significativamente nuestro esfuerzo en la obtención de recursos naturales."
+KMT_national_defense_council:0 "Consejo de Defensa Nacional"
+KMT_national_defense_council_desc:0 "Con los japoneses y los bandidos comunistas dañando nuestra nación, debemos encontrar una forma de organizar nuestra defensa contra ellos. También deberíamos intentar importar equipos modernos del extranjero."
+KMT_revive_jiangnan_shipyard:0 "Expandir el Grupo de Astilleros Jiangnan"
+KMT_revive_jiangnan_shipyard_desc:0 "Deberíamos expandir la capacidad del Arsenal de Jiangnan para construir barcos; esto nos proporcionará una mejor marina para enfrentar futuras amenazas."
+KMT_revive_hanyang_armory:0 "Revitalizar el Arsenal de Hanyang"
+KMT_revive_hanyang_armory_desc:0 "El Arsenal de Hanyang fue uno de los arsenales más críticos y exitosos durante el Movimiento de Auto-Fortalecimiento iniciado por funcionarios Qing. Podemos revitalizarlo para producir equipos de calidad para nuestro ejército."
+KMT_air_effort:0 "Reorganizar la ROCAF"
+KMT_air_effort_desc:0 "Siempre hemos descuidado nuestra fuerza aérea. Si queremos hacer un esfuerzo para combatir en el aire, esta rama debe recibir una reforma seria."
+KMT_air_reform:0 "Los Tigres Voladores"
+KMT_air_reform_desc:0 "Al darse cuenta de la justicia de nuestra causa, un grupo de pilotos estadounidenses se ha ofrecido para unirse en masa a nuestra fuerza aérea. Debemos usar a estos hombres bien entrenados como el núcleo de una nueva y revitalizada fuerza aérea."
+KMT_study_foreign_ship:0 "Estudiar el Diseño de Barcos Extranjeros"
+KMT_study_foreign_ship_desc:0 "Estamos rezagados respecto a otras naciones en el diseño de barcos. Para construir una marina de primera clase algún día, debemos aprender qué hace que sus barcos sean superiores."
+
+
+KMT_demand_taiwan:0 "Demandar Taiwán"
+KMT_demand_taiwan_desc:0 "El pueblo de Taiwán debe ser liberado de su actual gobernante y devuelto a nosotros. Larga ha sido la división, la nación debe unirse."
+
+KMT_taiwan_fleet_hub:0 "Centro de la Flota en Taiwán"
+KMT_taiwan_fleet_hub_desc:0 "Los extranjeros dejaron una gran cantidad de infraestructura en Taiwán. Deberíamos expandir esta base para convertir toda la isla en una base naval y un centro de manufactura."
+
+KMT_pacific_fleet:0 "Romper la Primera Cadena de Islas"
+KMT_pacific_fleet_desc:0 "Si China quiere alcanzar su pleno potencial, no debemos contentarnos con esta parte del Pacífico. Debemos construir una flota capaz de navegar más allá de Taiwán y Japón."
+
+KMT_sea_fleet:0 "Dibujar la Línea de Nueve Guiones"
+KMT_sea_fleet_desc:0 "El Mar de China Meridional contiene muchas rutas comerciales esenciales. Si reclamamos este paso, podremos avanzar hacia dominar el sudeste asiático. Sin embargo, debemos tener una flota capaz de respaldar nuestras reclamaciones y llevar todo comercio hostil a una tumba acuática."
+
+KMT_naval_equipment:0 "Equipamiento Naval"
+KMT_naval_equipment_desc:0 "Una marina moderna necesita equipamiento moderno."
+
+KMT_pacific_expansion:0 "Romper la Segunda Cadena de Islas"
+KMT_pacific_expansion_desc:0 "Ahora que tenemos una flota capaz de llevar la lucha más allá de Japón, debemos construir una flota que haga sentir la ira de China a cualquier nación del Pacífico. Haremos que Zheng He se sienta orgulloso."
+
+KMT_sea_expansion:0 "Hacer Cumplir la Línea de Nueve Guiones"
+KMT_sea_expansion_desc:0 "Parece que declarar nuestras reclamaciones en el Mar de China Meridional no fue suficiente. Debemos continuar con la expansión de nuestra marina, para que los imperialistas vean la justicia de nuestra causa por la fuerza."
+
+KMT_modernize_army:0 "Modernizar el Ejército"
+KMT_modernize_army_desc:0 "El espíritu y la habilidad no son suficientes para ganar una guerra. También necesitamos equipamiento actualizado."
+
+KMT_north_plan:0 "Recuperar Manchuria"
+KMT_north_plan_desc:0 "Dongbei, llamada Manchuria por los occidentales, cayó en manos de los japoneses y sus títeres hace solo unos años. ¡Debemos recuperarla!"
+
+KMT_pioneering_the_north_east:0 "Fundar la Agencia de Desarrollo del Noreste"
+KMT_pioneering_the_north_east_desc:0 "Aunque los japoneses desarrollaron partes de Manchuria, vastas extensiones de tierra permanecen intactas. Debemos comenzar un esfuerzo amplio para llevar estas tierras, antaño bárbaras, al mundo moderno."
+
+KMT_science_effort:0 "Academia Sinica"
+KMT_science_effort_desc:0 "Fundada en 1928, la Academia Sinica supervisa y coordina la investigación científica, social y humanística en todos los institutos y universidades patrocinados por el estado de la República de China. A diferencia de otros institutos de investigación patrocinados por el gobierno, la Academia Sinica es directamente responsable ante el presidente."
+
+KMT_extra_research_slot:0 "Expandir la Universidad de Pekín"
+KMT_extra_research_slot_desc:0 "La Universidad de Pekín es una institución de clase mundial. Deberíamos otorgarle más fondos y proporcionar becas a jóvenes talentosos para producir una generación de científicos y líderes capacitados."
+
+KMT_national_institute:0 "Asilo para Judíos"
+KMT_national_institute_desc:0 "Muchos judíos han comenzado a asentarse en Shanghái tras la persecución y muerte en Europa. Deberíamos abrir nuestras fronteras a todos los refugiados judíos para, a su vez, beneficiarnos de su experiencia. Ya, ingenieros judíos nos han traído diseños de armas polacos y alemanes. ¿Qué más pueden hacer por sus nuevos protectores?"
+
+KMT_military_science:0 "Ciencia Militar"
+KMT_military_science_desc:0 "La ciencia civil y la ciencia militar son ambas críticas para la fortaleza de una nación. Financiar razonablemente las ciencias hará a nuestro ejército más formidable."
+
+KMT_ballistic_weapon:0 "El Sistema de Cohetes Guandi"
+KMT_ballistic_weapon_desc:0 "Ha llegado el amanecer de los cohetes en la guerra. Debemos adoptar este nuevo sistema de armas si queremos que nuestros ejércitos sobrevivan en el campo de batalla moderno. ¡Que nuestros enemigos sientan la furia del dios de la guerra!"
+
+KMT_electronics_research:0 "Nacionalizar la Compañía de Electrónica"
+KMT_electronics_research_desc:0 "Aunque la electricidad aún no llega al campo, nuestros científicos ya están ocupados produciendo productos electrónicos autóctonos para los mercados de Shanghái y Hong Kong. Deberíamos tomar el control de Ch'eng-kung y usarlo para la investigación estatal."
+
+KMT_extra_research_slot_2:0 "Educación para la Nación"
+KMT_extra_research_slot_2_desc:0 "No basta con permitir que solo aquellos lo suficientemente ricos como para pagar una educación universitaria entren en los centros de enseñanza. Debemos nacionalizar todas las universidades de China y basar la entrada en el mérito, no en la riqueza."
 
- KMT_industrial_effort:0 "Invest in Industry"
- KMT_industrial_effort_desc:0 "Chinese industry has always been behind that of the West and Japan. To maintain our independence, we must increase our industrial output. We can also allow foreign firms to invest in our industry."
+KMT_bold_hypothesis:0 "Ciencia Valiente"
+KMT_bold_hypothesis_desc:0 "Nuestros científicos han tenido un complejo de inferioridad, creyendo que nunca superarán a Occidente, no importa lo que hagan. Necesitamos iniciar un programa de propaganda para restaurar la moral de nuestros científicos."
 
- KMT_armament_effort:0 "Refound the Jiangnan Arsenal"
- KMT_armament_effort_desc:0 "The Jiangnan Arsenal provided the Qing Dynasty with up-to-date equipment. We should borrow the name for a military-industrial complex that can serve as a nucleus for our growing arms industry."
+KMT_nuclear_physics:0 "Física Nuclear"
+KMT_nuclear_physics_desc:0 "Si las teorías de Einstein son correctas, dividir el átomo podría producir un arma de poder incalculable. Deberíamos investigar más esta posibilidad."
+KMT_jet:0 "El Motor a Reacción Tianlong"
+KMT_jet_desc:0 "El desarrollo de la tecnología de reactores nos llevaría a la supremacía en los cielos. Los días del soldado chino expuesto a ataques desde arriba finalmente terminarían. Nuestra fuerza se alzaría como el dragón en vuelo."
+KMT_fighter_focus:0 "Enfoque en Cazas"
+KMT_fighter_focus_desc:0 "La superioridad aérea es nuestra primera preocupación en el combate aéreo, y los cazas son los encargados de lograrla."
+KMT_bomber_focus:0 "Enfoque en Bombarderos"
+KMT_bomber_focus_desc:0 "Destruir las líneas de suministro y fábricas de nuestro enemigo es la mejor opción en la guerra aérea. Por lo tanto, deberíamos centrarnos en los bombarderos."
+KMT_cas_effort:0 "Esfuerzo de Apoyo Aéreo Cercano"
+KMT_cas_effort_desc:0 "El apoyo aéreo cercano es muy beneficioso para el avance de nuestro ejército en tierra. Estos aviones de apoyo aéreo cercano ganarán la guerra para nosotros."
+KMT_nav_effort:0 "Esfuerzo Naval"
+KMT_nav_effort_desc:0 "Los bombarderos navales sobresalen en la destrucción de barcos y puertos enemigos; son una parte inalienable de la guerra naval."
+KMT_political_effort:0 "Reforma Nacional"
+KMT_political_effort_desc:0 "Los plebeyos tienen poco amor por nuestro gobierno; debemos comenzar a erradicar la corrupción si queremos sobrevivir."
+KMT_government_reform:0 "Repensar la República"
+KMT_government_reform_desc:0 "Nuestro actual tipo de gobierno es indeseable; debemos buscar otro camino."
+KMT_strengthen_the_republic:0 "Fortalecer la República"
+KMT_strengthen_the_republic_desc:0 "Nuestros ciudadanos están contentos con la República. Debemos mantener nuestras raíces firmemente en los pensamientos de Sun Yat-sen para aumentar su confianza."
+KMT_democratic_republic:0 "Terminar con la Tutela del Pueblo"
+KMT_democratic_republic_desc:0 "Nuestros ciudadanos ya están listos para la democracia. Por la voluntad de Sun Yat-sen, terminaremos con la era de gobierno de partido único y realizaremos elecciones tan pronto como podamos organizarlas adecuadamente."
+KMT_unitary_semi_presidential_republic:0 "Continuar con la Tutela del Pueblo"
+KMT_unitary_semi_presidential_republic_desc:0 "Aunque hemos hecho un progreso significativo, el pueblo aún no está listo para la democracia. Debemos continuar bajo la guía del Kuomintang."
+KMT_promote_nationalism:0 "Reavivar el Movimiento de la Nueva Vida"
+KMT_promote_nationalism_desc:0 "Nuestra nación ha sido durante mucho tiempo objeto de burla por su debilidad e incapacidad. Debemos continuar con nuestros esfuerzos anteriores para crear una ciudadanía nacionalista y hacer grande a China nuevamente."
+KMT_centralizing_power:0 "Centralización del Poder"
+KMT_centralizing_power_desc:0 "La fase de Tutela del Pueblo nos permite centralizar lentamente todo el poder, tanto local como regional, en manos del gobierno central. No repetiremos los errores de 1912 y 1916. No puede haber federalismo en una China unida."
+KMT_into_despotism:0 "Declarar Ley Marcial"
+KMT_into_despotism_desc:0 "Por decreto de Chiang, China no seguirá la democracia, el fascismo ni el comunismo. China seguirá al Kuomintang mientras guiamos al Reino Medio hacia el futuro. Nuestros enemigos llaman a esto despotismo. Nosotros lo llamamos progreso."
+KMT_social_experiment:0 "Expandir el Laboratorio Estatal"
+KMT_social_experiment_desc:0 "Para avanzar la capacidad tecnológica de nuestra nación, debemos expandir nuestro laboratorio estatal y contratar más científicos."
+KMT_voting_rights:0 "Una Nueva Constitución"
+KMT_voting_rights_desc:0 "La constitución actual es insuficiente para prevenir la tiranía y la corrupción. Para hacer la transición completa a una república democrática, debemos redactar una nueva constitución. Debemos implementar el derecho al voto, el derecho a la libertad y un sistema de frenos y contrapesos. China debe convertirse en una nación de leyes y no una nación de hombres."
+KMT_implement_parliamentary_system:0 "Movimiento de Reconstrucción Rural"
+KMT_implement_parliamentary_system_desc:0 "Los comunistas tienen su base de poder en el campesinado insatisfecho. Para que la democracia sobreviva en China, debemos destruir la base de apoyo de los comunistas mejorando la vida de los campesinos. Debemos dividir las propiedades de los terratenientes, introducir nuevas técnicas agrícolas, construir escuelas y proporcionar atención médica; es hora de que China comience a cuidar de su pueblo."
+KMT_universal_sufferage:0 "Los Tres Principios del Pueblo"
+KMT_universal_sufferage_desc:0 "El pensamiento central de Sun Yat-sen son los tres principios del pueblo: democracia, nacionalismo y bienestar del pueblo. Aunque en el pasado solo logramos el nacionalismo, ahora marchamos hacia la realización final del sueño de Sun."
 
- KMT_gain_control_of_the_sea:0 "Expand the Navy"
- KMT_gain_control_of_the_sea_desc:0 "We have long lost our naval superiority, having been broken at the Battle of the Yalu River. With the Japanese navy menacing our trade, we must try to defend our merchantmen on the high seas."
 
- KMT_the_big_rear_concept:0 "The Big Rear Plan"
- KMT_the_big_rear_concept_desc:0 "With the war raging in China's east, our west remains comparatively safe. We must try to develop these backwater areas so that they can contribute to China's fight as well."
+KMT_european_friend:0 "Unirse a los Aliados"
+KMT_european_friend_desc:0 "La democracia está mucho más establecida en Occidente que en China. Debemos unirnos al bloque de las democracias occidentales para aprender de su ejemplo y fortalecer la coalición de pueblos libres."
 
- KMT_increase_funding_of_german_weaponary:0 "Adopt German-Style Equipment"
- KMT_increase_funding_of_german_weaponary_desc:0 "Although we have support from German advisers such as Von Falkenhausen and some imported German equipment, our locally produced models are of horrible quality. Using German equipment as templates in our manufacturing process can increase our quality eightfold!"
+KMT_alone_in_the_east:0 "La Primera Democracia en Asia"
+KMT_alone_in_the_east_desc:0 "Las democracias occidentales están envueltas en el caos. Unirnos a ellas en este momento destruiría nuestra nueva y frágil república. Debemos mantenernos solos en Asia como una luz de libertad en el Este."
 
- KMT_lure_them_in_strategy:0 "Lure-Them-In Strategy"
- KMT_lure_them_in_strategy_desc:0 "With our nation's vast territory and rough terrain, we can afford to retreat and lure invaders into our chosen battlefields. Let the imperialists try and chase us! They shall encounter an ambush at every corner and a booby-trap with every step!"
+KMT_knowledge_of_the_citizens:0 "Educar para la Ciudadanía"
+KMT_knowledge_of_the_citizens_desc:0 "En el pasado, la educación no estaba disponible para muchas personas. Expanderemos el sistema escolar nacional con un plan de estudios que busque crear ciudadanos, no súbditos."
 
- KMT_air_base_expansion:0 "Airbase Expansion"
- KMT_air_base_expansion_desc:0 "We need airbases for our aircraft to take off and land; otherwise, they will just be a bunch of exhibits in the warehouse."
+KMT_westernization:0 "Occidentalización"
+KMT_westernization_desc:0 "El conocimiento del mundo occidental está más allá de nuestra imaginación; adoptar su conocimiento requerirá toda una campaña."
 
- KMT_national_resources_commission:0 "National Resources Commission"
- KMT_national_resources_commission_desc:0 "The National Resources Commission (NRC) is an institute responsible for prospecting and excavating resources in China. Establishing it will significantly enhance our effort in getting natural resources."
+KMT_fascism_focus:0 "El Poder de las Camisas Azules"
+KMT_fascism_focus_desc:0 "La fuerza mostrada por el Reich Alemán es muy intrigante. Nuestra nación debe seguir su camino hacia la gloria. Debemos apoyar a aquellos que han demostrado gran pasión por nuestro país."
 
- KMT_national_defense_council:0 "National Defense Council"
- KMT_national_defense_council_desc:0 "With the Japanese and the communist bandits harming our nation, we must find a way to organize our defense against them. We should also try importing up-to-date equipment abroad."
+KMT_militarism_focus:0 "Doctrina Militar Nacional"
+KMT_militarism_focus_desc:0 "La gente dice: 'No uses buen hierro para hacer clavos, no uses buenos hombres para hacer soldados.' Tal desprecio por el ejército no será tolerado. Debemos aumentar el prestigio de las fuerzas armadas ante los ojos del pueblo."
 
- KMT_revive_jiangnan_shipyard:0 "Expand the Jiangnan Shipyard Group"
- KMT_revive_jiangnan_shipyard_desc:0 "We should expand Jiangnan Arsenal's capability of building ships; this will give us a better navy to face future threats."
+KMT_ban_communism:0 "Reinvigorar el Terror Blanco"
+KMT_ban_communism_desc:0 "No podemos arriesgarnos a que células comunistas infiltren el territorio bajo nuestro control para lanzar una insurrección. Debemos renovar las purgas civiles y militares para asegurar que no quede rastro de comunismo en nuestro dominio."
 
- KMT_revive_hanyang_armory:0 "Revive the Hanyang Arsenal"
- KMT_revive_hanyang_armory_desc:0 "The Hanyang Arsenal was one of the most critical and successful armories during the Self-Strengthening Movement started by Qing officials. We can revitalize it to produce up-to-par equipment for our army."
+KMT_planning_our_empire:0 "Reconstruir el Imperio"
+KMT_planning_our_empire_desc:0 "China ha sido la nación más poderosa sobre la faz de la Tierra durante la mayor parte de la historia civilizada. Debemos recuperar nuestro lugar bajo el sol."
 
- KMT_air_effort:0 "Reorganize the ROCAF"
- KMT_air_effort_desc:0 "We have always neglected our air force. If we want to be able to make an effort to fight in the air, the branch must receive serious reform."
+KMT_isolation_tactic:0 "Tácticas de Aislamiento Anti-Soviéticas"
+KMT_isolation_tactic_desc:0 "Con el Komintern expandiéndose en Asia Central, la Amenaza Roja nos rodea lentamente. Debemos sembrar la desconfianza en su sistema de alianzas para restablecer las antiguas fronteras."
 
- KMT_air_reform:0 "The Flying Tigers"
- KMT_air_reform_desc:0 "Realizing the justice of our cause, a group of American pilots has volunteered to join our air force en masse. We should use these well-trained men as the elite core of a new and revitalized air force."
+KMT_war_propaganda:0 "Propaganda de Guerra"
+KMT_war_propaganda_desc:0 "Lavar el cerebro de nuestro pueblo con los beneficios de la guerra y la victoria es una excelente manera de unir a nuestra gente y crear un ejército fuerte."
 
- KMT_study_foreign_ship:0 "Study Foreign Ship Design"
- KMT_study_foreign_ship_desc:0 "We lag behind other nations in ship design. To build a first-rate navy someday, we must learn what makes their ships superior."
+KMT_military_first:0 "Primero los Militares"
+KMT_military_first_desc:0 "'Informar' a nuestro pueblo sobre los beneficios de la guerra y la expansión asegurará nuestra capacidad para abatir monstruos en el extranjero."
 
- KMT_demand_taiwan:0 "Demand Taiwan"
- KMT_demand_taiwan_desc:0 "The people of Taiwan must be liberated from their current ruler and returned to us. Long divided, the nation must unite."
+KMT_war_fanaticism:0 "Fanatismo Bélico"
+KMT_war_fanaticism_desc:0 "No basta con luchar y morir. Debemos luchar y ganar a toda costa. ¡Que nuestra sangre haga de China el centro del mundo una vez más! ¡ZHONGGUO WANSUI!"
 
- KMT_taiwan_fleet_hub:0 "Taiwan Fleet Hub"
- KMT_taiwan_fleet_hub_desc:0 "The foreigners left behind an extensive amount of infrastructure in Taiwan. We should expand on this base to turn the entire island into one naval base and manufacturing center."
+KMT_claim_territory:0 "Reclamaciones del Sistema Tributario"
+KMT_claim_territory_desc:0 "Hemos perdido tanto nuestra tierra como nuestros tributarios ante los imperialistas. Dado que los tributarios se convertirían formalmente en vasallos del trono, podríamos hacer reclamaciones en muchos lugares de Asia Oriental."
 
- KMT_pacific_fleet:0 "Break the First Island Chain"
- KMT_pacific_fleet_desc:0 "If China is to achieve its full potential, we must not content ourselves to this side of the Pacific. We must build a fleet capable of sailing past Taiwan and Japan."
+KMT_demand_soviet_puppets:0 "Demandar la Estepa Central y Sinkiang"
+KMT_demand_soviet_puppets_desc:0 "Las disputas territoriales no tienen que terminar en guerras sangrientas; los métodos diplomáticos son opciones viables si están dispuestos a comprometerse."
 
- KMT_sea_fleet:0 "Draw the Nine-Dash Line"
- KMT_sea_fleet_desc:0 "The South China Sea contains many essential trade routes. If we claim this passageway, then we can move towards dominating Southeast Asia. However, we must have a fleet capable of backing up our claims and bringing all hostile trade to a watery grave."
+KMT_demand_indochina:0 "Demandar Indochina"
+KMT_demand_indochina_desc:0 "Las disputas territoriales no tienen que terminar en guerras sangrientas; los métodos diplomáticos son opciones viables si están dispuestos a comprometerse."
 
- KMT_naval_equipment:0 "Naval Equipment"
- KMT_naval_equipment_desc:0 "A modern navy needs modern equipment."
+KMT_special_force_training:0 "SACO"
+KMT_special_force_training_desc:0 "La Organización Cooperativa Sino-Estadounidense tiene como objetivo proporcionar apoyo de inteligencia a nuestro ejército y entrenar fuerzas de operaciones especiales."
 
- KMT_pacific_expansion:0 "Break the Second Island Chain"
- KMT_pacific_expansion_desc:0 "Now that we have a fleet capable of carrying the fight past Japan, we must now build a fleet that can make any nation in the Pacific feel China's wrath. We shall make Zheng He proud."
+KMT_improve_burma_road:0 "Mejorar la Carretera de Birmania"
+KMT_improve_burma_road_desc:0 "Aunque los británicos construyeron la Carretera de Birmania para ayudar en la guerra contra los japoneses, la carretera en sí no es muy eficiente; deberíamos mejorarla."
 
- KMT_sea_expansion:0 "Enforce the Nine-Dash Line"
- KMT_sea_expansion_desc:0 "It appears that stating our claims to the South China Sea was not enough. We must continue the expansion of our navy, so we can make the Imperialists see the justice of our cause by force!"
+KMT_trade_port_neutral:0 "Revocar los Tratados Desiguales"
+KMT_trade_port_neutral_desc:0 "Con los numerosos tratados desiguales firmados por la incompetente dinastía Qing con las naciones occidentales, algunas de nuestras tierras aún están en manos injustas. ¡Debemos unir a nuestro pueblo bajo una sola bandera!"
 
- KMT_modernize_army:0 "Modernize Army"
- KMT_modernize_army_desc:0 "Spirit and skill are not enough to win a war. We also need up-to-date equipment."
+KMT_trade_port_demo:0 "Puertos Comerciales a Cambio de Asistencia"
+KMT_trade_port_demo_desc:0 "Con las naciones occidentales y la nuestra practicando la democracia, debemos ayudarnos mutuamente en sus horas de necesidad. Sin embargo, dicha asistencia tendrá un precio por la humillación que nos infligieron cuando éramos débiles."
 
- KMT_north_plan:0 "Retake Manchuria"
- KMT_north_plan_desc:0 "Dongbei, called Manchuria by the Westerners, fell to the Japanese and their puppets only a few years ago. We must take it back!"
+KMT_trade_port_fascism:0 "Los Puertos Chinos"
+KMT_trade_port_fascism_desc:0 "La cesión de puertos comerciales en los tratados desiguales es lo más humillante para los chinos, ya que los occidentales restringen nuestro comercio y dividen nuestras tierras. ¡Debemos recuperar esas tierras y hacer grande a China nuevamente!"
 
- KMT_pioneering_the_north_east:0 "Found the Northeast Development Agency"
- KMT_pioneering_the_north_east_desc:0 "Although the Japanese developed parts of Manchuria, vast tracts of land remain untouched. We should begin an extensive effort to bring these once barbaric lands into the modern world."
+KMT_industrialization_NW:0 "Industrialización Local: Noroeste"
+KMT_industrialization_NW_desc:0 "La región del Noroeste puede parecer una tierra árida; por ahora. Pronto se convertirá en una de las áreas más industrializadas."
 
- KMT_science_effort:0 "Academia Sinica"
- KMT_science_effort_desc:0 "Founded in 1928, the Academia Sinica oversees and coordinates scientific, social science, and humanistic research in all Republic of China's state-sponsored research institutes and universities. Unlike other government-sponsored research institutes, the Academia Sinica is directly responsible to the president."
+KMT_excavation_NW:0 "Excavación en el Noroeste"
+KMT_excavation_NW_desc:0 "Debemos prospectar más recursos en nuestra tierra para ser independientes de los recursos importados."
 
- KMT_extra_research_slot:0 "Expand Peking University"
- KMT_extra_research_slot_desc:0 "Peking University is a world-class institution. We should give it more funding and provide scholarships to talented youths to produce a generation of skilled scientists and leaders."
+KMT_industrialization_S:0 "Industrialización Local: Sur"
+KMT_industrialization_S_desc:0 "El sur puede ser una de las áreas más industrializadas, pero se puede mejorar mucho más."
 
- KMT_national_institute:0 "Asylum for Jews"
- KMT_national_institute_desc:0 "Many Jews have begun to settle in Shanghai after persecution and death in Europe. We should open our borders to all Jewish refugees so we may, in turn, profit from their expertise. Already, Jewish engineers have brought us Polish and German arms designs. What else can they do for their new protectors?"
+KMT_excavation_S:0 "Plantación de Caucho"
+KMT_excavation_S_desc:0 "El clima en el sur es muy adecuado para las plantaciones de caucho; debemos aprovecharlo."
 
- KMT_military_science:0 "Military Science"
- KMT_military_science_desc:0 "Civilian science and military science are both critical to a nation's strength. Reasonable funding to the sciences will make our army more formidable."
+KMT_excavation_NE:0 "Prospección del Noreste"
+KMT_excavation_NE_desc:0 "Los japoneses dejaron numerosas herramientas en el área; podemos usarlas para descubrir nuevos recursos en la zona."
 
- KMT_ballistic_weapon:0 "The Guandi Rocket System"
- KMT_ballistic_weapon_desc:0 "The dawn of rockets in warfare has arrived. We must adopt this new weapon system if our armies are to survive on the modern battlefield. Let our enemies feel the rage of the god of war!"
+KMT_ledo_road:0 "Carretera de Ledo"
+KMT_ledo_road_desc:0 "Los invasores han cortado la Carretera de Birmania; debemos construir otra carretera desde la India para suministros."
 
- KMT_electronics_research:0 "Nationalize Electronics Company"
- KMT_electronics_research_desc:0 "While electricity has yet to reach the countryside, our scientists are already busy at work producing indigenous electronic products for the Shanghai and Hong Kong markets. We should take control of Ch'eng-kung and use it for state research."
+KMT_dare_to_die_corps:0 "Cuerpos de Atrevimiento"
+KMT_dare_to_die_corps_desc:0 "Si queremos ganar la guerra contra los invasores, nuestro pueblo debe ser lo suficientemente valiente como para no temer a la muerte, deben estar dispuestos a hacer lo que sea necesario para defender nuestra nación."
 
- KMT_extra_research_slot_2:0 "Education for the Nation"
- KMT_extra_research_slot_2_desc:0 "It is not enough to only allow those wealthy enough to afford a university education to enter the halls of learning. We must nationalize all of China's universities and base entrance on merit and not wealth."
+KMT_reuse_captured_weaponary:0 "Reutilizar el Armamento Capturado"
+KMT_reuse_captured_weaponary_desc:0 "Para mantener una guerra de desgaste a largo plazo, es vital que usemos el equipo capturado durante la batalla en todo su potencial para mantener la fuerza de nuestros ejércitos."
 
- KMT_bold_hypothesis:0 "Brave Science"
- KMT_bold_hypothesis_desc:0 "Our scientists have had an inferiority complex, believing that they will never surpass the West no matter what they do. We need to start a propaganda program to restore our scientists' morale."
+KMT_cbis:0 "Expandir el CBIS"
+KMT_cbis_desc:0 "El Buró Central de Investigación y Estadística es la unidad de inteligencia del Kuomintang. Recientemente lo hemos reorganizado, y debemos expandir sus operaciones para asegurarnos de que los elementos disruptivos chinos internos no pongan en peligro el régimen."
 
- KMT_nuclear_physics:0 "Nuclear Physics"
- KMT_nuclear_physics_desc:0 "If the theories of Einstein are correct, then splitting the atom could produce a weapon of untold power. We should further research this possibility."
+KMT_zhonghua_minzu:0 "Zhonghua Minzu"
+KMT_zhonghua_minzu_desc:0 "Nuestro principio de 'Cinco razas bajo una unión' representa a los han y a todas las minorías de China. Todos ellos son descendientes del mismo pueblo fundador de China. Juntos, podemos restaurar la grandeza de nuestra nación y honrar a nuestros antepasados."
 
- KMT_jet:0 "The Tianlong Jet Engine"
- KMT_jet_desc:0 "The development of jet technology would lead to our supremacy in the skies. The days of the Chinese foot soldier being open to attack from above would finally be over. Our strength would rise like the dragon in flight."
+KMT_cement_control_on_the_economy:0 "Consolidar el Control de la Economía"
+KMT_cement_control_on_the_economy_desc:0 "Podemos oponernos a los comunistas, pero eso no significa que nos dobleguemos ante los capitalistas. Debemos asegurarnos de que la economía y aquellos que la manejan sean leales al gobierno del Kuomintang, enfocándonos principalmente en empresas estatales."
 
- KMT_fighter_focus:0 "Fighter Focus"
- KMT_fighter_focus_desc:0 "Air superiority is our first concern in aerial combat, and fighters are the ones that do the job."
+KMT_georgist_tax_reform:0 "Reforma Tributaria Georgista"
+KMT_georgist_tax_reform_desc:0 "El georgismo sirve como base de gran parte de la teoría económica de Sun Yat-sen. Uno de sus aspectos principales es la creación de un impuesto sobre la tierra poseída, que él veía como 'el único medio de mantener al gobierno de una manera infinitamente justa, razonable y equitativamente distribuida, y sobre la cual fundaremos nuestro nuevo sistema.'"
 
- KMT_bomber_focus:0 "Bomber Focus"
- KMT_bomber_focus_desc:0 "Destroying supply lines and factories of our enemy is the best option in aerial warfare. Hence we should stick to the bomber."
+KMT_monetary_reform:0 "Reforma Monetaria"
+KMT_monetary_reform_desc:0 "La hiperinflación está destruyendo nuestra economía. Necesitamos controlar la situación de inmediato."
 
- KMT_cas_effort:0 "CAS Effort"
- KMT_cas_effort_desc:0 "Close air support is highly beneficial to our army's advance on the ground. These CAS fighters will win the war for us."
+KMT_preemptive_preparation:0 "Prepararse para la Guerra Civil"
+KMT_preemptive_preparation_desc:0 "La necesidad de prepararse para los comunistas surge, ya que ellos también podrían estarse preparando para nosotros."
 
- KMT_nav_effort:0 "NAV Effort"
- KMT_nav_effort_desc:0 "Naval bombers excel in destroying enemy ships and ports; they are an inalienable part of naval warfare."
+KMT_warlord_after_civil_war:0 "Unificar China"
+KMT_warlord_after_civil_war_desc:0 "Ahora que hemos destruido a los bandidos comunistas, es hora de que los señores de la guerra enfrenten la espada."
 
- KMT_political_effort:0 "National Reform"
- KMT_political_effort_desc:0 "The commoners have little love for our government; we must begin rooting out corruption if we are to survive."
+KMT_the_yangtze_partition:0 "Ofrecer la Partición del Yangtsé"
+KMT_the_yangtze_partition_desc:0 "La guerra no está a nuestro favor, y la estamos perdiendo gravemente. Con la incapacidad de los [PRC.getAdjective] para cruzar nuestras líneas defensivas a lo largo del río Yangtsé, podemos apelar a una solución diplomática para esta problemática guerra civil si estamos dispuestos a sobrevivir y dar un respiro a nuestras tropas exhaustas."
 
- KMT_government_reform:0 "Rethink the Republic"
- KMT_government_reform_desc:0 "Our current type of government is undesirable; we must seek another path."
+KMT_taiwan_bastion:0 "Bastión de Taiwán"
+KMT_taiwan_bastion_desc:0 "Existe la posibilidad de que perdamos esta guerra. Para prepararnos ante esta eventualidad, debemos convertir Taiwán en un bastión nacional donde podamos esperar y prepararnos para recuperar el continente."
 
- KMT_strengthen_the_republic:0 "Strengthen the Republic"
- KMT_strengthen_the_republic_desc:0 "Our citizens are content with the Republic. We must keep our roots firmly in Sun Yat-sen's thoughts to enhance their trust."
-
- KMT_democratic_republic:0 "End the People's Tutelage"
- KMT_democratic_republic_desc:0 "Our citizens are now ready for democracy. By Sun Yat-sen's will, we shall end the era of single-party rule and hold elections as soon as we can adequately organize them."
-
- KMT_unitary_semi_presidential_republic:0 "Continue the People's Tutelage"
- KMT_unitary_semi_presidential_republic_desc:0 "Although we have made significant progress, the people are still not ready for democracy. We must continue to have KMT guidance."
-
- KMT_promote_nationalism:0 "Revive the New Life Movement"
- KMT_promote_nationalism_desc:0 "Our nation has long been teased for its weakness and inability. We should continue our earlier efforts to create a nationalistic citizenry to make China great again."
-
- KMT_centralizing_power:0 "Centralizing Power"
- KMT_centralizing_power_desc:0 "The People's Tutelage phase is slowly allowing us to centralize all power, both local and regional, in the hands of the central government. We shall not repeat the mistakes of 1912 and 1916. There can be no federalism in a united China."
-
- KMT_into_despotism:0 "Declare Martial Law"
- KMT_into_despotism_desc:0 "By the decree of Chiang, China will not follow democracy, fascism, or communism. China shall follow the KMT as we lead the middle kingdom into the future. Our enemies call this despotism. We call it progress."
-
- KMT_social_experiment:0 "Expand State Laboratory"
- KMT_social_experiment_desc:0 "To advance our nation's technological capacity, we must expand our state laboratory and hire more scientists."
-
- KMT_voting_rights:0 "A New Constitution"
- KMT_voting_rights_desc:0 "The current constitution is insufficient to prevent tyranny and corruption. To fully transition to a democratic republic, we must write a new constitution. We must put into place the right to vote, the right to liberty, and checks & balances. China must become a nation of laws and not a nation of men."
-
- KMT_implement_parliamentary_system:0 "Rural Reconstruction Movement"
- KMT_implement_parliamentary_system_desc:0 "The communists have their power base in the dissatisfied peasantry. For democracy to survive in China, we must destroy the communists' base of support by improving the lives of the peasants. We must break up the landlords' estates, introduce new agricultural techniques, build schools, and provide medical care; it is time that China begins taking care of its people."
-
- KMT_universal_sufferage:0 "The Three Principles of the People"
- KMT_universal_sufferage_desc:0 "Central to Sun Yat-sen's thought is the three principles of the people: democracy, nationalism, and the people's welfare. While we only achieved nationalism in the past, we now march towards ultimately achieving Sun's dream."
-
- KMT_european_friend:0 "Join the Allies"
- KMT_european_friend_desc:0 "Democracy is much more established in the West than in China. We should join the bloc of Western democracies to learn from their example and make the coalition of free peoples stronger."
-
- KMT_alone_in_the_east:0 "The First Democracy in Asia"
- KMT_alone_in_the_east_desc: "The Western democracies are embroiled in chaos. Joining them at the moment would destroy our new and fragile republic. We must stand alone in Asia as a light of liberty in the East."
-
- KMT_knowledge_of_the_citizens:0 "Educating to Citizenship"
- KMT_knowledge_of_the_citizens_desc:0 "In the past, education was not available for many people. We will expand the national school system with a curriculum that seeks to create citizens, not subjects."
-
- KMT_westernization:0 "Westernization"
- KMT_westernization_desc:0 "The western world's knowledge is beyond our imagination; adopting their knowledge would require a whole campaign."
-
- KMT_fascism_focus:0 "Power to the Blueshirts"
- KMT_fascism_focus_desc:0 "The strength shown by the German Reich is very intriguing. Our nation must follow its path to glory. We must support those who have demonstrated great passion for our country."
-
- KMT_militarism_focus:0 "National Military Indoctrination"
- KMT_militarism_focus_desc:0 "People say, 'Do not use good iron to make nails, do not use good men to make soldiers.' Such disdain for the military will not do. We must increase the standing of the services in the people's eyes."
- KMT_ban_communism:0 "Reinvigorate the White Terror"
- KMT_ban_communism_desc:0 "We cannot risk communist cells infiltrating the territory under our control to launch an insurrection. We must renew the civil and military purges to ensure no trace of communism in our domain."
-
- KMT_planning_our_empire:0 "Rebuild the Empire"
- KMT_planning_our_empire_desc:0 "China has been the most powerful nation on the face of the Earth for the majority of civilized history. We must retake our place in the sun."
-
- KMT_isolation_tactic:0 "Anti-Soviet Isolation Tactics"
- KMT_isolation_tactic_desc:0 "With the Comintern spreading into Central Asia, the Red Menace slowly surrounds us. We must sow distrust in their alliance system to reestablish the old borders."
-
- KMT_war_propaganda:0 "War Propaganda"
- KMT_war_propaganda_desc:0 "Brainwashing our people with the benefit of war and victory is a great way to unite our people and create a strong military."
-
- KMT_military_first:0 "Military First"
- KMT_military_first_desc:0 "'Informing' our people of the benefits of war and expansion will ensure our ability to slay monsters abroad."
-
- KMT_war_fanaticism:0 "War Fanaticism"
- KMT_war_fanaticism_desc:0 "It is not enough to fight and die. We must fight and win at all costs. Let our blood make China the center of the world once more! ZHONGGUO WANSUI!"
-
- KMT_claim_territory:0 "The Tribute System Claims"
- KMT_claim_territory_desc:0 "We have lost both our land and our tributaries to the Imperialists. Given that tributaries would formally become vassals to the throne, we could make claims on many places in East Asia."
-
- KMT_demand_soviet_puppets:0 "Demand Central Steppe and Sinkiang"
- KMT_demand_soviet_puppets_desc:0 "Territorial disputes do not have to end in bloody wars; diplomatic methods are viable options if they are willing to compromise."
-
- KMT_demand_indochina:0 "Demand Indochina"
- KMT_demand_indochina_desc:0 "Territorial disputes do not have to end in bloody wars; diplomatic methods are viable options if they are willing to compromise."
-
- KMT_special_force_training:0 "SACO"
- KMT_special_force_training_desc:0 "The Sino-American Cooperative Organization aims to provide intelligence support to our army and train special operations forces."
-
- KMT_improve_burma_road:0 "Improve the Burma Road"
- KMT_improve_burma_road_desc:0 "Although the British built the Burma Road to help the war against the Japanese, the road itself is not that efficient; we should improve it."
-
- KMT_trade_port_neutral:0 "Overturn the Unequal Treaties"
- KMT_trade_port_neutral_desc:0 "With the numerous unequal treaties signed by the incompetent Qing Dynasty with the western nations, some of our lands are still in unjust hands. We must unite our people under one banner!"
-
- KMT_trade_port_demo:0 "Trade Ports for Assistance"
- KMT_trade_port_demo_desc:0 "With the western nations and ours practicing democracy, we must aid each other when they are in the hours of need. However, such assistance shall come with a price for the humiliation they cast upon us when we were weak."
-
- KMT_trade_port_fascism:0 "The Chinese Ports"
- KMT_trade_port_fascism_desc:0 "The secession of trade ports in the unequal treaties is most humiliating to the Chinese, as the westerners constrain our trade and divide our lands. We must retake those lands and make China great again!"
-
- KMT_industrialization_NW:0 "Local Industrialization: North West"
- KMT_industrialization_NW_desc:0 "The North West region might look like a barren land; for now. Soon it will become one of the most industrialized areas."
-
- KMT_excavation_NW:0 "North West Excavation"
- KMT_excavation_NW_desc:0 "We must prospect for more resources in our land to become independent from imported resources."
-
- KMT_industrialization_S:0 "Local Industrialization: South"
- KMT_industrialization_S_desc:0 "The South may be one of the most industrialized areas, but it can be much more improved."
-
- KMT_excavation_S:0 "Rubber Plantation"
- KMT_excavation_S_desc:0 "The climate in the south is very suitable for rubber plantations; we should make good use of this."
-
- KMT_excavation_NE:0 "North East Prospection"
- KMT_excavation_NE_desc:0 "The Japanese left numerous tools in the area; we can use them to discover new resources in the area."
-
- KMT_ledo_road:0 "Ledo Road"
- KMT_ledo_road_desc:0 "Invaders have cut off the Burma Road; we must construct another road from India for supplies."
-
- KMT_dare_to_die_corps:0 "Dare-To-Die Corps"
- KMT_dare_to_die_corps_desc:0 "If we are to win the war against the invaders, our people must be brave enough not to fear death, they must be willing to do whatever it takes to defend our nation."
-
- KMT_reuse_captured_weaponary:0 "Reuse Captured Weaponary"
- KMT_reuse_captured_weaponary_desc:0 "To maintain a long-term war of attrition it is vital we use the equipment we capture during battle to it's fullest advantage in order to maintain our armies strength."
-
- KMT_cbis:0 "Expand the CBIS"
- KMT_cbis_desc:0 "The Central Bureau of Investigation and Statistics is the intelligence unit of the Kuomintang. We have recently reorganized it, and we should seek to expand its operations to ensure that internal Chinese disruptive elements do not endanger the regime."
-
- KMT_zhonghua_minzu:0 "Zhonghua Minzu"
- KMT_zhonghua_minzu_desc:0 "Our principle of "Five races under one union" represents Hans and all the minorities of China. They are all descendants of the same founding people of China. Together, we can restore the greatness of our nation and honor our ancestors."
-
- KMT_cement_control_on_the_economy:0 "Cement Control of the Economy"
- KMT_cement_control_on_the_economy_desc:0 "We may oppose the communists, but that does not mean we bend our knees to the capitalists. We must ensure that the economy and those who run it are loyal to the Kuomintang government by focusing mainly on state-owned enterprises."
-
- KMT_georgist_tax_reform:0 "Georgist Tax Reform"
- KMT_georgist_tax_reform_desc:0 "Georgism serves as the basis of much of Sun Yat-sen's economic theory. One of his main aspects is creating a tax on held land, which he saw as \"the only means of supporting the government is an infinitely just, reasonable, and equitably distributed tax, and on which we shall found our new system.\""
-
- KMT_monetary_reform:0 "Monetary Reform"
- KMT_monetary_reform_desc:0 "Hyperinflation is wrecking our economy. We need to bring the situation under control immediately."
-
- KMT_preemptive_preparation:0 "Prepare for the Civil War"
- KMT_preemptive_preparation_desc:0 "The need to prepare for the communists arises, as they might also be preparing for us."
-
- KMT_warlord_after_civil_war:0 "Unify China"
- KMT_warlord_after_civil_war_desc:0 "Now that we have destroyed the Communist Bandits, it is time for the warlords to meet the sword."
-
- KMT_the_yangtze_partition:0 "Offer the Yangtze Partition"
- KMT_the_yangtze_partition_desc:0 "The war is not going in our favor, and we are losing it heavily. With the [PRC.getAdjective] inability to cross our defensive lines across the Yangtze river, we can appeal for a diplomatic solution for this troublesome Civil War if we are willing to survive and spare our exhausted troops."
-
- KMT_taiwan_bastion:0 "Taiwan Bastion"
- KMT_taiwan_bastion_desc:0 "There is a chance that we might lose this war. To prepare for the eventuality, we must turn Taiwan into a national bastion where we can wait and prepare to retake the Mainland."
 
  KMT_placate_former_puppet_government:0 "Collaborate with Collaborators"
  KMT_placate_former_puppet_government_desc:0 "The former Japanese puppets are all traitors, and everyone knows it. But, with the Japanese gone, they can serve new masters."
