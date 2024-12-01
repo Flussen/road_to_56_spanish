@@ -1,5 +1,8 @@
 ﻿l_spanish:
 
+ #Shortcut
+ GER_kill_hitler_shortcut:0 "$GER_kill_hitler$"
+
 #Characters
  GER_bernhard_rogge:0 "Bernhard Rogge"
  GER_heinrich_brandler:0 "Heinrich Brandler"
@@ -1290,3 +1293,102 @@ r56.ger.47.a:0 "Es un activo valioso en la lucha contra el Fascismo."
 r56.ger.48.t:0 "Ernst Thälmann Realinea el Partido"
 r56.ger.48.desc:0 "¡La Revolución ha triunfado! Alemania es ahora un estado socialista con Ernst Thälmann como su líder. Muchas personas han muerto pero todo valió la pena.\n\nAhora Ernst Thälmann ha convocado una reunión extraordinaria de la dirección del partido, queriendo un cambio de alineación. ¡Moscú ya no dirá al KPD qué hacer! Como tal, Ernst Thälmann ha instado a la dirección a abandonar las ideas que Stalin trajo al comunismo y centrarse en las enseñanzas de Lenin en su lugar."
 r56.ger.48.a:0 "Se abre un nuevo camino para [ROOT.GetNonIdeologyName]."
+
+### ---->>  Nuevas lineas añadidas
+
+ r56.ger.49.t:0 "[GER.GetAdjectiveCap] Los comunistas eligen a Thälmann"
+r56.ger.49.desc:0 "Acaban de llegar noticias desde [GER.GetNonIdeologyName], después de 2 días de debate, el comité de liderazgo del KPD ha elegido un nuevo líder: Ernst Thälmann. Un veterano del KPD, Thälmann ha sido un amigo cercano del Comintern y el candidato preferido de [SOV.GetNameDef].\n\nSin embargo, para la sorpresa de [SOV.GetLeader], 4 horas después, Ernst Thälmann anunció la retirada del KPD del Comintern, lo que sorprendió a muchos, incluido su propio partido.\n\n\"¡La revolución en [GER.GetNonIdeologyName] no será controlada por potencias extranjeras! ¡Nosotros los alemanes podemos y decidiremos nuestro propio futuro, nuestra propia sociedad socialista!\" - Ernst Thälmann en su discurso"
+r56.ger.49.a:0 "Un desarrollo interesante."
+r56.ger.49.b:0 "¡Han traicionado la Revolución!"
+
+r56.ger.50.t:0 "[GER.GetAdjectiveCap] Los comunistas eligen a Brandler"
+r56.ger.50.desc:0 "La lucha por el liderazgo en [GER.GetNonIdeologyName] ha terminado. El nuevo presidente del KPD y, por lo tanto, el más alto cargo en [GER.GetNonIdeologyName], es Heinrich Brandler, uno de los cofundadores del partido. Regresando a este título después de más de una década en el exilio, Brandler es un conocido opositor al Comintern, siendo el fundador de la Oposición Internacional de Derecha, una organización opositora al Comintern.\n\nBrandler también ha firmado una nueva constitución para [GER.GetNonIdeologyName], que tiene como objetivo fomentar la propiedad pública y eliminar las diferencias de clase, y cambiar el nombre de la nación a [GER.GetNameDef]. Moscú ha estado callado hasta ahora, pero se espera que el nuevo líder [GER.GetAdjectiveCap] sea denunciado."
+r56.ger.50.a:0 "Un desarrollo interesante."
+r56.ger.50.b:0 "¡Han traicionado la Revolución!"
+
+r56.ger.51.t:0 "La formación del Cominform"
+r56.ger.51.desc:0 "Hoy, las delegaciones soviéticas y [GER.GetAdjectiveCap] han firmado los papeles para disolver el Comintern y reemplazarlo por el Cominform, con [GER.GetNonIdeologyName] como miembro. Los dos países han tenido malas relaciones, las cuales cambiaron con la victoria comunista en la Guerra Civil.\n\nPara [GER.GetNonIdeologyName], esto consolidará la posición de Ernst Thälmann como Secretario General, habiendo tenido estrechos lazos con sus compañeros ideológicos en Moscú. [SOV.GetNameDefCap] por su parte ganará considerable influencia sobre [GER.GetNonIdeologyName]. Aunque los países son iguales en papel, muchos expertos sospechan de la intervención soviética en la política [GER.GetAdjectiveCap]."
+r56.ger.51.a:0 "Un desarrollo interesante, pero esperado."
+r56.ger.51.b:0 "Otro paso en la dirección equivocada."
+
+r56.ger.52.t:0 "[SOV.GetNameDefCap] Acepta nuestra propuesta"
+r56.ger.52.desc:0 "Hemos presentado una propuesta de alianza a [SOV.GetNameDef]. Esta incluiría cooperación diplomática, económica y militar. ¡Ahora, [SOV.GetNameDef] ha aceptado nuestra oferta!\n\nComo parte del acuerdo, el Comintern fue disuelto y reemplazado por el Cominform para manejar mejor el poder combinado de nuestras economías y ejércitos."
+r56.ger.52.a:0 "¡Nuestra alianza será gloriosa!"
+
+r56.ger.53.t:0 "[GER.GetNonIdeologyName] Propone una alianza"
+r56.ger.53.desc:0 "La oficina de exteriores [GER.GetAdjectiveCap] ha presentado una interesante propuesta. Quieren formar una alianza entre nuestros dos países. Ernst Thälmann, líder del KPD, ha sido cómplice del Comintern durante mucho tiempo.\nEste es un gran esfuerzo diplomático, económico y militar. Como tal, [GER.GetNameDef] ha propuesto la reforma del Comintern en el Cominform para desarrollar nuevos protocolos para una alianza fructífera."
+r56.ger.53.a:0 "Unifiquemos nuestros esfuerzos."
+r56.ger.53.b:0 "¡Son falsos comunistas!"
+
+r56.ger.54.t:0 "[GER.GetNameDefCap] Pide un ejercicio militar conjunto"
+r56.ger.54.desc:0 "Siendo miembro de [THIS.GetFactionName], [GER.GetNameDef] ha solicitado un ejercicio militar conjunto. Combinar nuestros esfuerzos seguramente ayudará a ambos ejércitos a coordinarse mejor y desarrollar nuevas tácticas y doctrinas.\n\nSin embargo, esto sería costoso para nosotros y estaríamos en una grave desventaja si llegáramos a la guerra."
+r56.ger.54.a:0 "Un ejercicio como este merece asignar tropas."
+r56.ger.54.b:0 "No podemos permitirnos mover tropas fuera de las fronteras."
+
+r56.ger.55.t:0 "Nuestro ejercicio militar conjunto fue aceptado"
+r56.ger.55.desc:0 "Nuestra solicitud para un ejercicio militar conjunto fue aceptada. Varias de nuestras divisiones ya están en camino hacia un lugar no revelado donde se llevarán a cabo estos ejercicios militares. Esperamos obtener un mayor entendimiento del terreno de la región y continuar con el trabajo para obtener ventaja sobre nuestros enemigos."
+r56.ger.55.a:0 "Buena suerte a nuestras tropas."
+
+r56.ger.56.t:0 "Nuestro ejercicio militar conjunto fue rechazado"
+r56.ger.56.desc:0 "Nuestra solicitud para un ejercicio militar conjunto fue rechazada. No obtendremos la experiencia que anticipábamos y tendremos que trabajar en nuestra preparación militar por nuestra cuenta. Tal vez sea lo mejor, ya que un ejercicio militar de este tipo habría reubicado muchos recursos de un frente potencial."
+r56.ger.56.a:0 "Es triste, pero no podemos obligarlos."
+
+cominform:0 "Cominform"
+cominform_denied:0 "Alianza rechazada"
+cominform_tt:0 "Reemplaza el §HComintern§! con el §HCominform§! y agrega a §H[GER.GetName]§! a la facción."
+ger_cominform_tt:0 "Reemplaza el §HComintern§! con el §HCominform§! y agrega a §Hnosotros§! a la facción."
+
+GER_nva_idea_brandler:0 "Volkswehr"
+GER_nva_idea_soviet:0 "Nationale Volksarmee"
+GER_nva_idea_thalmann:0 "Volksarmee"
+GER_establish_NVA_idea_desc:0 "La [GetNVAIdeaName] es el orgulloso ejército revolucionario de [ROOT.GetNameDef] defendiendo la Revolución, los Trabajadores y los Campesinos."
+GER_establish_nva_brandler:0 "Establecer el VW"
+GER_establish_nva_soviet:0 "Establecer la NVA"
+GER_establish_nva_thalmann:0 "Establecer la VA"
+
+GER_nva_joint_military_exercise_idea:0 "Ejercicio militar conjunto en curso"
+GER_nva_joint_military_exercise_idea_desc:0 "Los ejercicios militares son comunes hoy en día. [ROOT.GetNameDefCap] está actualmente en un ejercicio conjunto con un aliado."
+
+GER_NVA_category:0 "La [GetNVAIdeaName]"
+GER_NVA_category_desc:0 "La [GetNVAIdeaName] fue establecida después de nuestra victoria en la guerra civil y está protegiendo este país, su gente y los intereses del proletariado. Es el faro del mundo socialista en Europa del este y central. Si queremos que la revolución sea protegida o incluso expandida, tendremos que manejar la [GetNVAIdeaName] con gran cuidado pero también con prioridad."
+GER_nva_institute_equal_service:0 "Instituir servicio igualitario"
+GER_nva_institute_equal_service_desc:0 "La Revolución ha tenido éxito y debe involucrar a cada alemán por igual. Por lo tanto, no podemos continuar con la prohibición de que las mujeres sirvan en el ejército."
+GER_nva_military_exercise:0 "Ordenar un ejercicio militar"
+GER_nva_military_exercise_desc:0 "Aunque tenemos un ejército de pie fuerte, aún queda por ver si es efectivo en el campo. Debemos comenzar un ejercicio militar a gran escala para determinar nuestra preparación militar."
+GER_nva_military_exercise_modifier_tt:0 "Costo de poder político diario: §R+0.25§!\nGanancia de poder de mando diario: §R-0.50§!\nDesgaste: §R+4.00%§!\nTiempo de entrenamiento: §G-15.00%§!\nGanancia de experiencia del ejército: §G+20.0%§!\nGanancia de experiencia aérea: §G+10.0%§!\nGanancia de experiencia naval: §G+5.0%§!"
+GER_nva_joint_military_exercise_idea_modifier_tt:0 "Costo de poder político: §R0.25§!\nGanancia de poder de mando: §R-0.50§!\nDesgaste: §R+4.00%§!\nGanancia de experiencia del ejército: §G25.0%§!\nGanancia de experiencia aérea: §G25.0%§!"
+GER_nva_joint_military_exercise:0 "Proponer un ejercicio conjunto"
+GER_nva_joint_military_exercise_desc:0 "Tenemos aliados capaces con los que podemos entrenar nuestras tácticas y optimizar nuestra cooperación en el campo de batalla."
+
+GER_otto_wels:0 "Otto Wels"
+GER_hans_vogel:0 "Hans Vogel"
+GER_election_comission:0 "Comisión Electoral"
+
+r56.ger.60.t:0 "¡Día de elecciones!"
+r56.ger.60.desc:0 "Un país democrático necesita sus elecciones para funcionar, hoy se celebrarán estas elecciones y el ganador liderará el gobierno y por lo tanto obtendrá el cargo de presidente.\n\nHay dos partidos principales que tienen una oportunidad de ganar las elecciones. El partido más popular por mucho es el SPD, que ha tenido una considerable influencia en la política [ROOT.GetAdjectiveCap] durante la mayor parte de su existencia. Representan puntos de vista socialdemócratas, favoreciendo a las clases bajas de trabajadores mediante el fortalecimiento de los sindicatos y el establecimiento de un sistema social.\nSu principal competidor es Zentrum, el partido algo más antiguo y centrista de los dos. Sus principales votantes son católicos del sur de Alemania. El partido es más conservador en sus políticas culturales y económicas, pero no rehúye aumentar los beneficios para los trabajadores.\n\nAhora, todos los votos han sido contados y los resultados son los siguientes:"
+r56.ger.60.a:0 "¡Zentrum gana de manera decisiva!"
+r56.ger.60.b:0 "¡SPD gana de manera decisiva!"
+r56.ger.60.c:0 "¡Zentrum gana por poco y forma una coalición!"
+r56.ger.60.d:0 "¡SPD gana por poco y forma una coalición!"
+r56.ger.60.e:0 "¡El gobierno actual obtiene otros 4 años sin oposición!"
+
+r56.ger.61.t:0 "Otto Wels muere a los 66 años"
+r56.ger.61.desc:0 "Otto Wels, uno de los últimos bastiones en caer ante el fascismo, finalmente ha fallecido a los 66 años. Ha sido el presidente del SPD durante 20 años y gobernando el país desde la caída del fascismo en la guerra civil.\n\nNo se puede exagerar la importancia de esta personalidad en la política [ROOT.GetAdjectiveCap]. Habrá pocas personas que puedan estar a la altura de su legado. Su sucesor, Hans Vogel, liderará el país a partir de ahora. Esperemos que tenga una presidencia que esté a la altura de la de Wels.\n\nOtto Wels será enterrado en los próximos días mientras el país sigue lamentando su pérdida. Su lápida llevará inscrita una cita de su último discurso en 1933, antes de que se aprobara la ley habilitante:"
+r56.ger.61.a:0 "\"¡Pueden quitarnos nuestra libertad y nuestra vida, pero nunca podrán quitar nuestra dignidad!\""
+
+r56.ger.63.t:0 "Hans Vogel muere a los 58 años"
+r56.ger.63.desc:0 "El presidente está muerto. Falleció pacíficamente mientras dormía a los 58 años. Aunque relativamente joven, ha tenido una vida plena, dedicada a Alemania y su prosperidad.\n\nHa estado políticamente activo en los sindicatos desde joven y ha sido un pilar de la política alemana durante varias décadas. Se convirtió en copresidente del SPD, junto con Otto Wels y Arthur Crispien en 1931. Después de la muerte de Wels en 1939, se convirtió en presidente, llevando a Alemania hacia un futuro brillante.\n\nSu sucesor, Kurt Schumacher, se convertirá oficialmente en presidente en los próximos días, mientras el ex presidente es enterrado en un cementerio de Berlín."
+r56.ger.63.a:0 "¡Descanse en paz! Schumacher será un digno sucesor."
+
+GER_zentrum:0 "Zentrum"
+GER_zentrum_coalition:0 "Zentrum - SPD"
+GER_spd:0 "SPD"
+GER_spd_coalition:0 "SPD - Zentrum"
+GER_zentrum_long:0 "Deutsche Zentrumspartei"
+GER_zentrum_coalition_long:0 "Deutsche Zentrumspartei - Sozialdemokratische Partei Deutschlands"
+GER_spd_long:0 "Sozialdemokratische Partei Deutschlands"
+GER_spd_coalition_long:0 "Sozialdemokratische Partei Deutschlands - Deutsche Zentrumspartei"
+GER_neutral_gov:0 "Übergangspartei"
+GER_neutral_gov_long:0 "Übergangspartei"
+
+gov_count_middle:0 "\n§RElegir el mismo gobierno nuevamente desestabilizará nuestra democracia!§!"
