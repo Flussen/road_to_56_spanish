@@ -1,13 +1,13 @@
 ﻿l_spanish:
 #Project tags 
 
-sp_tag_rdf:0 "Búsqueda de radiofrecuencias"
+sp_tag_rdf:0 "Radiogoniometría"
 sp_tag_r56_infantry:0 "Infantería"
 
 #Projects and Related techs
 #RDF
-sp_air_rdf:0 "Redirección de radiofrecuencia de alta intensidad"
-sp_air_rdf_desc:0 "La redirección de radiofrecuencia de alta intensidad utiliza las ondas de rf para ubicar la fuente de radios por medio de la triangulación en segundos. Construir una versión en miniatura de estos dispositivos ayudará a localizar equipamiento enemigo de gran densidad en el campo, como cruceros o aeronaves grandes. Nos permitirá obtener mayores ganancias de la redirección sin tener que fiarnos de enormes equipos estacionarios."
+sp_air_rdf:0 "Radiogoniometría de alta intensidad"
+sp_air_rdf_desc:0 "La radiogoniometría de alta intensidad utiliza las ondas de rf para ubicar la fuente de radios por medio de la triangulación en segundos. Construir una versión en miniatura de estos dispositivos ayudará a localizar equipamiento enemigo de gran densidad en el campo, como cruceros o aeronaves grandes. Nos permitirá obtener mayores ganancias de la redirección sin tener que fiarnos de enormes equipos estacionarios."
 #Only tags that fielded this IRL so only tags with flavor text for it. 
 ENG_sp_air_rdf:0 "RRF Watson-Watt" 
 USA_sp_air_rdf:0 "BTDF de alta frecuencia" 
