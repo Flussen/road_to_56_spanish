@@ -3,26 +3,26 @@
 l_spanish:
 
  ###---> Meep <><> <><> <><>
- r56_local_text_patreon_group: "Collapse Me"
+ r56_local_text_patreon_group: "Colapsame"
 
  ###---> Patreon Tooltips <><> <><> <><>
- r56_tooltip_patreon_credits: "Shows the credits for our Patreon and special thanks to those that have contributed."
- r56_tooltip_patreon_easteregg: "Activates the Easter Egg event chain, unlocking all hidden content. For lazy people that can't do it the hard way."
- r56_tooltip_patreon_turnedoff: "This will disable the Extras menu, since you asked so nicely."
- r56_tooltip_patreon_leaders: "Places all of our Patreon Generals and Country Leaders for use by anyone."
+ r56_tooltip_patreon_credits: "Muestra los créditos para nuestros Patreons y unos agradecimientos a aquellos que han contribuido."
+ r56_tooltip_patreon_easteregg: "Activa la cadena de eventos Easter Egg, la cual desbloquea todo el contenido oculto. Para esos vaguetes que no quieren esforzarse."
+ r56_tooltip_patreon_turnedoff: "Esto desactivará el menú de extras, ya que lo habéis pedido por favor."
+ r56_tooltip_patreon_leaders: "Permite el uso de todos nuestros generales y líderes de Patreon a todo el mundo."
 
  ###---> Patreon Events <><> <><> <><>
- r56.event.patreon.01.title: "The List of Soldiers"
- r56.event.patreon.01.description: "These fine people have contributed to our endeavors and must be thanked! \n\n CTomic, James Michael Smith, TastesLikeWall, John Stinde, Emily Zimmerman-Kościuszko, VisualVx, Spencer, Logan Calkins, Jystr, Max Putinsev, Wei, PacifistWargamer! \n\n Thank you so much. You're the best, and we'd die without your sweet love."
- r56.event.01.default: "Very nice!"
- r56.event.01.alternate: "Okay, but never show this again."
+ r56.event.patreon.01.title: "La lista de los soldados"
+ r56.event.patreon.01.description: "¡Estos caballeros han contribuido a nuestras tareas y merecen ser recompensados! \n\n CTomic, James Michael Smith, TastesLikeWall, John Stinde, Emily Zimmerman-Kościuszko, VisualVx, Spencer, Logan Calkins, Jystr, Max Putinsev, Wei, PacifistWargamer! \n\n Muchísimas gracias. Sois los mejores, y moriríamos sin vuestro dulce amor."
+ r56.event.01.default: "¡Genial!"
+ r56.event.01.alternate: "Bien, pero no me vuelvas a mostrar esto."
 
  #---> Patreon Decisions <><> <><> <><>
  r56_decision_category_patreon: "Road to 56 Extras"
- r56_decision_category_patreon_desc: "Contains some additional options and other whacky goodies!"
- r56_decision_patreon_credits: "Contributors"
- r56_decision_patreon_easteregg: "Nekrowombaticon Activation"
- r56_decision_patreon_turnedoff: "I Banish Thee!"
- r56_decision_patreon_leaders: "Create Patreon Generals and Leaders"
+ r56_decision_category_patreon_desc: "¡Contiene opciones adicionales y otras baratijas!"
+ r56_decision_patreon_credits: "Contribuyentes"
+ r56_decision_patreon_easteregg: "Activación del Nekrowombaticon"
+ r56_decision_patreon_turnedoff: "¡Yo te destierro!"
+ r56_decision_patreon_leaders: "Crea a los generales y líderes de Patreon"
 
 #####-----> End of File <><> <><> <><> <><> <><>
