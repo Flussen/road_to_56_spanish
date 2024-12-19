@@ -1,0 +1,187 @@
+﻿l_spanish:
+
+ #this file is kinda small rn, but keeping it seperate will make expansion of cold war content easier please keep seperate - marijn211
+
+#General occupation decisions
+  discuss_the_german_issue: "Discutir la Ocupación Alemana"
+  discuss_the_austrian_issue: "Discutir la Ocupación Austriaca"
+  withdraw_occupation_of_iran_decision: "Retirar Tropas del Territorio Iraní"
+  SOV_demand_iranian_oil_rights: "Exigir los Derechos del Petróleo Iraní"
+  occupation_of_iran_decision: "Acuerdo de Ocupación de [PER.GetAdjective] Terminada"
+  SOV_withdraw_from_puppets_in_iran: "Retirarse de los Títeres de [PER.GetAdjective] en Irán"
+  close_the_austrian_issue: "Cerrar Categoría de Austria"
+  close_the_german_issue: "Cerrar Categoría de Alemania"
+  dismantle_german_war_industry: "Desmantelar la Industria de Guerra en [FROM.GetName]"
+  merge_occupation_zones_germany: "Fusionar la Zona de Ocupación con [FROM.GetName]"
+  prepare_formation_of_german_state_in_control_zone: "Proponer un Estado Alemán en nuestra zona de ocupación"
+  r56_shared_zone_action_required_tt: "\n§YEl país objetivo y/o cualquier socio de ocupación debe aprobar esta acción para que surta efecto§!"
+  r56_shared_zone_effect_tt: "§RLa nación con la mayor industria en la zona de ocupación se convertirá en el señor feudal de cualquier futuro Estado Alemán que formemos juntos§!"
+  r56_yalta_prepared_german_state: "Formación Aprobada de un Estado Alemán"
+  r56_not_in_yalta_group_tt: "No ha fusionado la zona de ocupación"
+  r56_merged_with_roots_occupation_zone_tt: "Fusionó la zona de ocupación con [ROOT.GetNameDef]"
+  r56_yalta_propose_neutral_austria: "Proponer Austria Neutral"
+  r56_yalta_neutral_austria_forming: "Formación del Estado Neutro Austriaco"
+  r56_yalta_propose_neutral_germany: "Proponer Alemania Neutral"
+  r56_yalta_neutral_germany_forming: "Formación del Estado Neutro Alemán"
+  approve_form_german_state_in_control_zone: "Finalizar la Formación de un Estado [GER.GetAdjective]"
+
+ #Flags:
+ TO_joined_brussels_treaty: "Unido a la OTAN"
+
+ #Countries
+  ZR_SOV_communism_subject: "Gobierno del Pueblo de Azerbaiyán"
+  KUR_SOV_communism_subject: "República de Mahabad"
+  KUR_SOV_communism_subject_DEF: "la República de Mahabad"
+ #Multi
+ CW_occupation_negotations: "Negociaciones de Ocupación"
+  CW_german_fate_decided: "Destino de Alemania Decidido"
+
+  # Ideas
+  constitutionally_neutral: "Constitucionalmente Neutral"
+  constitutionally_neutral_desc: "Los antiguos ocupantes de [ROOT.GetNameDef] decidieron que la única manera de restaurar [ROOT.GetNameDef] era con la garantía de que no se alinearían con ningún bando en el futuro cercano."
+
+  # Events
+  cold_war.2.t: "¡Asesinato del Rey Yahya!"
+  cold_war.2.d: "Ha llegado la terrible noticia a la capital del asesinato del rey Yahya. El líder, notoriamente recluso, fue emboscado durante un corto viaje y asesinado por miembros del clan Al-Waziri, el líder de este clan ahora ha reclamado el trono y parece no tener oposición para tomar la capital, sin embargo, el heredero aparente del rey Yahya ha huido y podría regresar con apoyo armado pronto."
+  cold_war.2.a: "Preocupante"
+
+  cold_war.3.t: "El Clan Yahya Recupera el Trono"
+  cold_war.3.d: "Después de un breve período de dominio del clan Al-Waziri, el hijo del asesinado rey Yahya ha recuperado el trono tras haber reunido rápidamente a las tribus del norte de Yemen para su ayuda. Tras un breve sitio a [Capital.GetCapitalVictoryPointName], [GetLeader] fue capturado y está a punto de ser ejecutado."
+  cold_war.3.a: "¿Terminará la inestabilidad?"
+
+  cold_war.4.t: "[USA.GetNonIdeologyName] Ofrece Ayuda"
+  cold_war.4.d: "Después de que el presidente [FROM.GetLeader] firmara la Ley de Asistencia Exterior de [GetYear], hemos recibido propuestas de préstamos y subsidios de [FROM.GetAdjective] para nuestra nación."
+  cold_war.4.a: "Un verdadero aliado"
+  cold_war.4.b: "¡Solo otro esquema para influencia!"
+
+  cold_war.6.t: "Ministros Renuncian en Oposición"
+  cold_war.6.d: "Doce ministros no comunistas han solicitado ser relevados de sus cargos en protesta por la toma casi total de la policía por el KSC. Gottwald ha anunciado planes para una huelga general y han comenzado a ocurrir manifestaciones masivas por parte de fuerzas comunistas, exigiendo que se instale un gobierno comunista en lugar de los ministros que renuncian."
+  cold_war.6.a: "Deberíamos aceptar las renuncias."
+  cold_war.6.b: "¡Movilicemos al ejército!"
+
+  cold_war.9.t: "[592.owner.GetName] exige [728.GetName] por las posesiones Indochinas"
+  cold_war.9.d: "Nuestro aliado contra Japón y el levantamiento vietnamita en Indochina, [CHI.GetNameDef], ha llegado con una propuesta, nos devolverán el norte de Indochina, pero solo si cedemos nuestro puerto tratado de [728.GetName], que acaba de ser liberado de los remanentes japoneses."
+  cold_war.9.a: "Está bien"
+  cold_war.9.b: "¡Nunca!"
+
+  cold_war.23.t: "[FROM.GetAdjective]s presionan por un Pacto Militar"
+  cold_war.23.d: "Después de usar a los comunistas finlandeses para lanzar protestas y difundir rumores de vínculos secretos con Occidente, [FROM.GetNameDef] se acerca a nosotros para formalizar nuestras relaciones post-guerra. Específicamente, buscan asegurar que no serán atacados a través de territorio finlandés, estableciendo que Finlandia protegerá a [FROM.GetNameDef] si es atacado, mientras que ellos protegerán a [ROOT.GetNameDef] si alguna vez está bajo amenaza."
+  cold_war.23.a: "Una situación en la que todos ganan."
+  cold_war.23.b: "No necesitamos su protección."
+
+  cold_war.31.t: "Muerte de George Patton"
+  cold_war.31.d: "Después de resultar gravemente herido en un accidente de coche, el general George S. Patton ha muerto. Patton había estado sirviendo hasta hace poco como comandante interino de las fuerzas en Europa, pero fue relevado de otros mandos después de hacer comentarios hostiles sobre [SOV.GetNameDef] y negarse a cooperar en la desnazificación de Alemania."
+  cold_war.31.a: "Hemos perdido a un buen general"
+
+  cold_war.37.t: "¿Austria como Estado Neutral?"
+  cold_war.37.d: "Las diferencias ideológicas entre los diferentes partidos ocupantes en Austria hacen que todos los bandos estén nerviosos de reformar un estado austriaco que se alinee con solo un bando. La solución obvia es formar una Austria constitucionalmente neutral, sin embargo, su gobierno aún está en debate."
+  cold_war.37.a: "Deben celebrarse elecciones"
+  cold_war.37.b: "Un consejo con los partidos democrático y comunista servirá"
+
+  cold_war.38.t: "[FROM.GetName] propone una Austria Neutral"
+  cold_war.38.a: "Parece la mejor opción"
+  cold_war.38.b: "Completamente inaceptable"
+  cold_war.38.d: "[FROM.GetNameDefCap] ha propuesto terminar con la ocupación de Austria y establecer un estado constitucionalmente neutral, con elecciones democráticas. Depende de nosotros y de las otras potencias ocupantes decidir si estas concesiones son suficientes para considerar el fin de la ocupación."
+  cold_war.38.d2: "[FROM.GetNameDefCap] ha propuesto terminar con la ocupación de Austria y establecer un estado constitucionalmente neutral, con un consejo de líderes de partidos comunistas y democráticos decidiendo las políticas. Depende de nosotros y de las otras potencias ocupantes decidir si estas concesiones son suficientes para considerar el fin de la ocupación."
+
+  cold_war.39.t: "¿Alemania como Estado Neutral?"
+  cold_war.39.d: "Las diferencias ideológicas entre los diferentes partidos ocupantes en Alemania y el temor a una Alemania fuerte hacen que todos los bandos estén nerviosos de reformar un estado alemán que se alinee con solo un bando. La solución obvia es formar una Alemania constitucionalmente neutral, sin embargo, su gobierno aún está en debate."
+
+  cold_war.40.t: "[FROM.GetName] propone una Alemania Neutral"
+  cold_war.40.d: "[FROM.GetNameDefCap] ha propuesto terminar con la ocupación de Alemania y establecer un estado constitucionalmente neutral, con elecciones democráticas. Depende de nosotros y de las otras potencias ocupantes decidir si estas concesiones son suficientes para considerar el fin de la ocupación."
+  cold_war.40.d2: "[FROM.GetNameDefCap] ha propuesto terminar con la ocupación de Alemania y establecer un estado constitucionalmente neutral, con un consejo de líderes de partidos comunistas y democráticos decidiendo las políticas. Depende de nosotros y de las otras potencias ocupantes decidir si estas concesiones son suficientes para considerar el fin de la ocupación."
+
+  cold_war.41.t: "[FROM.GetName] propone la fusión de las zonas de ocupación"
+  cold_war.41.d: "[FROM.GetNameDefCap] se ha acercado a nosotros con una propuesta para abrir las fronteras entre nuestras zonas de ocupación en Alemania."
+  cold_war.41.a: "Mejor para nosotros y para el pueblo alemán"
+  cold_war.41.b: "No se les puede confiar"
+
+  cold_war.43.t: "El destino de Checoslovaquia"
+  cold_war.43.d: "Después de haber liberado gran parte de Europa del Este, ahora nos corresponde decidir el gobierno de [CZE.GetNameDef], aunque podríamos instalar un régimen títere estable, uno democrático probablemente ganaría más favor internacional."
+  cold_war.43.a: "Ellos tendrán... algo de libertad"
+  cold_war.43.b: "Son una amenaza demasiado grande"
+
+  cold_war.44.t: "[FROM.GetName] solicita tanques"
+  cold_war.44.d: ""
+  cold_war.44.a: "Nos interesa fortalecerlos"
+  cold_war.44.b: "Si estos caen en las manos equivocadas..."
+
+
+  cold_war.45.t: "Italia solicita paquete de ayuda"
+  cold_war.45.d: "Funcionarios del partido comunista de [ITA.GetNameDef] han llegado con una propuesta única: para mejorar su popularidad y evitar depender de [USA.GetNameDef], solicitan que les proporcionemos una alternativa a la ayuda que han recibido de otras naciones europeas."
+  cold_war.45.a: "Esto podría atraerlos a nuestra esfera"
+  cold_war.45.b: "No hay esperanza para el comunismo en [ITA.GetNonIdeologyName]"
+
+  cold_war.46.t: "¿Una guerra civil en Italia?"
+  cold_war.46.d: ""
+  cold_war.46.a: "Una oportunidad increíble para expandir el comunismo"
+  cold_war.46.b: "Esto dañaría demasiado nuestra reputación internacional"
+
+  cold_war.47.t1: "[FROM.GetName] proporciona apoyo para la guerra civil"
+  cold_war.47.t2: "[FROM.GetName] se niega a apoyar la guerra civil"
+  cold_war.47.d1: "Para sorpresa de nuestra delegación, [SOV.GetLeader] ha hablado a favor de nuestros planes revolucionarios, con [SOV.GetNameDef] listo para apoyarnos materialmente."
+  cold_war.47.d2: "Nuestra delegación a [SOV.GetNameDef] ha regresado con noticias: [SOV.GetLeader] no desea que ocurra una revolución italiana. Ya sea por temor a la intervención extranjera, una posible derrota, o por miedo a una escalada en el escenario mundial, se desconoce, pero ahora depende de nosotros continuar nuestros planes de revolución."
+  cold_war.47.a: "Es hora de la revolución"
+  cold_war.47.b: "Sigamos el camino italiano hacia el socialismo"
+
+  cold_war.48.t: "¿Un trato con [YUG.GetNameDef]?"
+  cold_war.48.d: "El partido comunista de [ITA.GetAdjective] ha sido único al mantener reclamaciones territoriales incluso después de la guerra, en este caso sobre territorio de [YUG.GetAdjective]. Abandonar estas reclamaciones parece ser la moneda de cambio perfecta para obtener algo de apoyo de nuestros vecinos, que poseen una gran variedad de armas capturadas."
+  cold_war.48.a: "Debemos fomentar buenas relaciones."
+  cold_war.48.b: "¡Este es nuestro territorio legítimo!"
+ 
+
+#ITA
+ #focus
+  ITA_sanction_mafia_killings: "Usar la Mafia Contra los Comunistas"
+  ITA_request_soviet_aid_alternative: "Solicitar Alternativa de la Ayuda Marshall"
+  ITA_request_civil_war_support: "¿Apoyo para una Guerra Civil?"
+
+ #modifier
+  mafia_domination: "Presencia Dominante de la Mafia"
+
+ #ideas
+  SOV_financing_ITA_support: "Financing Support for [ITA.GetName]"
+  SOV_marshall_plan_alternative_aid_idea: "[SOV.GetAdjective] Economic Support"
+
+ #tooltip
+  ITA_monarchy_path_unlock_by_referendum_tt: "§YEste enfoque puede desbloquearse dependiendo del resultado del referéndum monárquico.§!"
+
+#USA
+
+ #ideas
+  USA_marshall_plan_aid_idea: "Apoyo Económico [USA.GetAdjective]"
+#CZE
+ #focus
+  CZKE_finish_the_tvp_project: "Terminar el Proyecto TVP"
+  CZKE_finish_the_tvp_project_desc: "El proyecto TVP es un ambicioso programa de desarrollo de tanques cuyo objetivo es combinar los mejores aspectos de los diseños [GER.GetAdjective], [ENG.GetAdjective], [SOV.GetAdjective] y [ROOT.GetAdjective]."
+  CZKE_acquire_soviet_tanks: "Adquirir Tanques [SOV.GetAdjective]"
+  CZKE_acquire_soviet_tanks_desc: "Nuestra estrecha alineación con [SOV.GetNameDef] significa que no debemos perder el tiempo probando nuevos diseños de tanques, cuando nuestro aliado ya está produciendo en masa sus propios diseños de vanguardia."
+  CZKE_continue_producing_german_designs: "Seguir Produciendo Diseños Alemanes"
+  CZKE_handle_the_communist_power_grab: "La Crisis del Poder Comunista"
+  CZKE_five_year_plan: "El Plan Quinquenal"
+  CZKE_currency_reform: "Reforma Monetaria"
+  CZKE_collectivize_key_industries: "Nacionalizar Industrias Clave"
+  CZKE_suppress_the_church: "Suprimir la Iglesia"
+  CZKE_collectivize_farms: "Colectivizar las Granjas"
+ #ideas
+  CZE_inflation: "Inflación Problemática"
+ #flag
+  CZE_started_five_year_plan: "¡Completado §YEl Plan Quinquenal§!"
+  CZE_revolted_against_soviets: "Se Rebeló contra [SOV.GetNameDef]"
+ #tooltip
+  CW_czechoslovak_autonomy_postyalta: "Se otorgó a [CZE.GetNonIdeologyName] una autonomía limitada"
+
+#SOV
+ #Decisions
+  CW_soviet_occupations: "Territorios Ocupados"
+  CW_soviet_occupations_desc: "[GetNameDefCap] actualmente controla tierras que no tiene la intención de conservar, pero cómo las cedemos todavía depende de nosotros, lo que nos da algunas oportunidades estratégicas."
+  SOV_release_AZE_puppet: "Establecer un gobierno Azerbaiyano en Irán"
+  SOV_release_AZE_puppet_desc: "Para legitimar nuestro control de las tierras iraníes y presionar por los derechos sobre el petróleo, podemos apoyar encubiertamente el establecimiento de un gobierno "independiente" de Azerbaiyán en tierras iraníes."
+  SOV_release_KUR_puppet: "Establecer un Estado Kurdo en Irán"
+
+ #Flags
+  FIN_moscow_armistice_signed: "El Armisticio de Moscú fue firmado entre [FIN.GetNonIdeologyName] y [SOV.GetNameDef]"
+
+ #focus
+  SOV_pressure_finnish_government: "Presionar al Gobierno [FIN.GetAdjective]"
+  SOV_pressure_finnish_government_desc: "Los comunistas finlandeses son demasiado débiles para derrocar al gobierno [FIN.GetAdjective], pero al armarlos, lanzar protestas y difundir rumores anti-gubernamentales, podemos dejar claro que nuestra influencia sobre ellos debe ser respetada."
