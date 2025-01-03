@@ -4,6 +4,7 @@
 
  RULE_HISTORICAL_LIE_AI_DESC:0 "Liechtenstein se mantendrá democrático y neutral. Tratará de establecer rutas comerciales de oro y amistades cercanas con Suiza."
  LIE_AI_BEHAVIOR:0 "@LIE Liechtenstein"
+
  #ideas
 
  LIE_liechtenstein_red_cross_idea:0 "La Cruz Roja [ROOT.GetNonIdeologyName]"
@@ -69,7 +70,9 @@
  LIE_abwehr_contacts_desc:0 ""
  LIE_seek_german_guarantees:0 "Buscar pactos de no agresión [GER.GetAdjective]"
  LIE_seek_german_guarantees_desc:0 ""
- LIE_increase_swiss_cooperation:0 "Elevar la cooperación  [SWI.GetAdjective]"
+ LIE_purchase_german_equipment:0 "Adquirir equipamiento [GER.GetAdjective]"
+ LIE_purchase_german_equipment_desc:0 ""
+ LIE_increase_swiss_cooperation:0 "Incrementar la cooperación  [SWI.GetAdjective]"
  LIE_increase_swiss_cooperation_desc:0 "Tanto nosotros como [SWI.GetNameDef] estamos buscando lo mismo, la neutralidad y la prosperidad, somos hermanos tanto en la paz, como en la guerra. Y como tal, los hermanos deben mantenerse unidos y cooperar para trabajarse un futuro, sin importar el precio."
  LIE_SWI_cooperation:0 "La cooperación [LIE.GetAdjective]-[SWI.GetAdjective] se ha iniciado"
  LIE_seek_allied_support:0 "Buscar apoyo de los Aliados"
@@ -344,6 +347,10 @@
  LIE_the_big_guns_desc:0 ""
  LIE_liechtenstein_naval_academy:0 "Academia Naval de [ROOT.GetAdjective]"
  LIE_liechtenstein_naval_academy_desc:0 ""
+ LIE_aircraft_experiments:0 "Experimentos con aeronaves"
+ LIE_aircraft_experiments_desc:0 ""
+ LIE_the_mighty_balzers:0 "Los poderosos Balzianos"
+ LIE_the_mighty_balzers_desc:0 ""
 
  #decisons & dynamic modifiers
 
@@ -401,6 +408,10 @@
 
  LIE_foreign_recruitment_category:0 "Reclutamiento extranjero"
  LIE_foreign_recruitment_in_place:0 "Reclutamiento extranjero en [FROM.GetNameDef]"
+ 
+ form_russia_category: "Crear Rusia"
+ form_russia:0 "Crear Rusia"
+ reclaim_the_kuban_region:0 "Reclamar la región de Kubán"
 
  #events
 
@@ -519,8 +530,10 @@
  liechtenstein.26.b:0 "No estamos interesados."
 
  liechtenstein.27.t:0 "[FROM.GetNameDefCap] acepta el acuerdo comercial"
+ liechtenstein.27.a:0 "Estupendo."
 
  liechtenstein.28.t:0 "[FROM.GetNameDefCap] rechaza el acuerdo comercial"
+ liechtenstein.28.a:0 "No te puedes fiar de un comunista."
 
  liechtenstein.29.t:0 "Golpe de estado de los rusos blancos"
  liechtenstein.29.d:0 "Desde el final de la guerra civil rusa en 1923, [ROOT.GetNeutralParty] ha ofrecido una política generosa a los oficiales rusos blancos que buscan el exilio. Sin embargo, con la reciente inestabilidad provocada por el establecimiento del consejo de regencia, los rusos, junto con otros numerosos exiliados militantes, han lanzado un golpe contra el consejo de regencia y lo han declarado disuelto con el líder del golpe, Boris Smyslovsky, que se declaró el Zar de [ROOT.GetNonIdeologyName].\n\nBoris ha abogado por rectificar la "débil mano" que el anterior gobierno habia mostrado, y ha declarado a [ROOT.GetNonIdeologyName] como el paraiso para los antiguos rusos blancos que abogan por la lucha contra el comunismo."
