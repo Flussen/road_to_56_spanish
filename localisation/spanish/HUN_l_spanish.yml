@@ -45,7 +45,6 @@ HUN_idea_support_armament_manufacturers:0 "Coordinación de Fabricantes de Armam
 
 HUN_acquire_skoda_naval_artillery_experience:0 "Adquirir Experiencia en Artillería Naval de Skoda"
 HUN_acquire_skoda_naval_artillery_experience_desc:0 "Skoda diseñó los cañones de la Armada Austro-Húngara; es hora de aprovechar esa experiencia una vez más."
-
 HUN_experiment_with_torpedoes:0 "Experimentar con Torpedos"
 HUN_experiment_with_torpedoes_desc:0 "Debemos ponernos al día con otras naciones en cuanto a nuestros modelos de torpedos para atacar en silencio."
 
@@ -65,7 +64,6 @@ HUN_miklos_horthy:0 "Miklós Horthy"
 horthy_died:0 "Horthy ha muerto"
 HUN_carrier:0 "Investigación de Portaaviones"
 HUN_carrier_desc:0 "Las Aeronaves Navales son el próximo salto en la guerra naval."
-
 mavag_tank:0 "MÁVAG"
 mw_tank:0 "Manfred Weiss"
 digep:0 "Digep"
@@ -79,10 +77,9 @@ HUN_generic_naval_aircraft_manufacturer:0 "AVIS"
 HUN_ikarus:0 "Fábrica de Vehículos y Carrocerías Uhri Brothers"
 
 HUN_amphibious_tank_equipment_1:0 "Straussler V–4"
-
+ #
 formed_austria_hungary:0 "Ha Formado Austria-Hungría"
 SZK_become_hungary:0 "Convertirse en Hungría"
-
 
 
  #kinda easter egg
@@ -105,9 +102,10 @@ HUN_ally_bulgaria_desc:0 "[BUL.GetNameDefCap] debe ser apoyado y ser nuestro ali
 HUN_ally_austria:0 "Aliarse con [AUS.GetNameDef]"
 HUN_ally_austria_desc:0 "[AUS.GetNameDefCap] debe ser apoyado y ser nuestro aliado en nuestra lucha por la liberación de los trabajadores del mundo."
 
-HUN_revolt_of_the_arrow_crosses:0 "Revuelta de las Cruces Flechadas"
+
+HUN_revolt_of_the_arrow_crosses:0 "La rebelión de las cruces flechadas"
 HUN_revolt_of_the_arrow_crosses_desc:0 "El llamado regente ha traicionado a la madre patria y a su ejército durante años al mantener el poder para sí mismo mientras era complaciente con los opresores extranjeros." # es "madre patria" (anyaföld) en húngaro, no "padre patria"
-HUN_favor_the_army:0 "Favorecer al Ejército"
+HUN_favor_the_army:0 "Favorecer al ejército"
 HUN_favor_the_army_desc:0 "Debemos favorecer al ejército para devolver a Hungría sus fronteras históricas. Por lo tanto, debemos hacer todo lo posible para favorecer los intereses de los oficiales y sanar la división causada por el desplazamiento de Horthy el Traidor."
 HUN_foreign_aeronautical_assistance:0 "Asistencia Aeronáutica Extranjera"
 HUN_foreign_aeronautical_assistance_desc:0 "Nuestros aliados pueden ayudarnos a producir más aeronaves."
@@ -149,7 +147,6 @@ HUN_balkan_pact_preparation:0 "Preparativos Militares de [HUN.getfactionname]"
 
 HUN_claim_south_tyrol:0 "Reclamar el Tirol del Sur"
 
-
 r56_hungary_6.desc:0 "Unirse a Carlos Bernadotte"
 r56_hungary_6.a:0 "¡Hacia la victoria!"
 r56_hungary_6.b:0 "Dur dur, la muerte es mejor."
@@ -165,6 +162,8 @@ r56_hungary_coastline.3.t:0 "[ITA.GetName] Rechaza Nuestra Solicitud"
 r56_hungary_coastline.3.d:0 "El [ITA.GetName] ha rechazado nuestra demanda, sabiendo perfectamente cuál es la alternativa."
 r56_hungary_coastline.3.a:0 "Entonces es la guerra."
 
-r56_hungary_7.t:0 "[ITA.GetLeader] Invita a [YUG.GetNameDef] a la [HUN.getfactionname]"
+r56_hungary_7.t:0 "[ITA.GetLeader] invita a [YUG.GetNameDef] a la [HUN.getfactionname]"
 r56_hungary_7.desc:0 "Con su tradicional bravura diplomática, [ITA.GetLeader] decidió actuar por su cuenta e invitar a [YUG.GetLeader] a firmar un tratado de alianza, vinculándolos a la [HUN.getfactionname]. Aunque es agradable tener nuevos aliados, esto podría obstaculizar la reforma de la Hungría histórica."
 r56_hungary_7.a:0 "Supongo que es mejor que estar rodeado de enemigos."
+
+ ROM_agrarian_reform:0 "Agrarian Reform" #used only in DLC HUN tree despite idea name
