@@ -1,4 +1,5 @@
 ﻿l_spanish:
+#KEEP LEGACY LOCAL! YOU DONT KNOW WHERE IT MIGHT SHOW UP YOU SIMPLE MINDED APE!
 
  #Shortcut
  GER_kill_hitler_shortcut:0 "$GER_kill_hitler$"
@@ -6,6 +7,7 @@
 #Characters
  GER_bernhard_rogge:0 "Bernhard Rogge"
  GER_heinrich_brandler:0 "Heinrich Brandler"
+ GER_helmuth_walter:0 "Helmuth Walter"
  
 #Company/MIO
  GER_deutsche_forschungsanstalt_fur_segelflug:0 "DFS"
@@ -18,7 +20,7 @@
  GER_mio_trait_mg34:0 "Ametralladoras Mg 34"
 
 #Focuses
-GER_begin_depression_recovery:0 "Comenzar la Recuperación de la Depresión"
+GER_begin_depression_recovery:0 "Comenzar la recuperación de la depresión"
 GER_begin_depression_recovery_desc:0 "El tratamiento de la gran depresión por parte de la República de Weimar empeoró aún más la economía. Debemos comenzar a reparar este daño hecho por los enemigos de [GER.GetNameDef]."
 GER_begin_reinhardt:0 "Iniciar el Programa Reinhardt"
 GER_begin_reinhardt_desc:0 "El primer paso hacia la recuperación económica es fomentar el crecimiento empresarial. Utilizar incentivos indirectos, como reducciones de impuestos, aumentará el desarrollo industrial privado."
@@ -28,15 +30,15 @@ GER_privatize_reichsbahn:0 "Privatizar la Reichsbahn"
 GER_privatize_reichsbahn_desc:0 "El primer paso para recuperar nuestra infraestructura será revitalizar el sistema ferroviario mediante la privatización."
 GER_privatize_stahlwerke:0 "Privatizar la Vereinigte Stahlwerke"
 GER_privatize_stahlwerke_desc:0 "Para aumentar el poder de nuestro ejército a los estándares previos a Versalles, necesitamos hacer nuestras acerías más eficientes."
-GER_synth_oil_research:0 "Investigar Petróleo Sintético"
+GER_synth_oil_research:0 "Investigar los petróleos sintéticos"
 GER_synth_oil_research_desc:0 "Debido a que [GER.GetNameDef] tiene pocas fuentes naturales de petróleo o caucho, debemos depender de la fabricación de petróleo sintético para reforzar nuestras reservas de estos recursos preciados."
-GER_oil_refinery_development:0 "Construir Refinerías de Petróleo"
+GER_oil_refinery_development:0 "Construir refinerías de petróleo"
 GER_oil_refinery_development_desc:0 "Dado que nuestra investigación y tecnología de petróleo sintético han mejorado, podemos construir refinerías más avanzadas."
 GER_establish_peenmunde:0 "Establecer el Laboratorio Peenemünde"
 GER_establish_peenmunde_desc:0 "Establecer un nuevo laboratorio central llevará nuestro conocimiento científico y nuestra investigación a nuevas alturas."
 GER_establish_SS:0 "Establecer las SS"
 GER_establish_SS_desc:0 "La única manera de proteger el liderazgo de [GER.GetNameDef] de amenazas externas es mediante una guardia de élite. Esta guardia, las SS, mantendrá el gobierno operando sin problemas y lidiará con aquellos que puedan querer dañarlo."
-GER_aux_police_SS:0 "Usar las SS como Policía Auxiliar"
+GER_aux_police_SS:0 "Utilizar a las SS como policía auxiliar"
 GER_aux_police_SS_desc:0 "El papel de las SS puede expandirse naturalmente a la esfera civil, tanto en la Gran Alemania como en los territorios ocupados. Con suerte, podrán enfrentar las amenazas de partisanos y terroristas que atacan a las tropas de la Wehrmacht."
 GER_elite_soldiers_SS:0 "Usar las SS en la Línea del Frente"
 GER_elite_soldiers_SS_desc:0 "El entrenamiento y la enseñanza únicos de los soldados de las SS los hacen mucho mejores que las unidades estándar en roles que requieren más dedicación y lealtad a la Vaterland."
@@ -82,8 +84,7 @@ GER_plan_sealion:0 "Prepararse para la Operación León Marino"
 GER_plan_sealion_desc:0 "[ENG.GetNameDefCap] ha demostrado ser una espina en nuestro costado durante mucho tiempo. La única manera de eliminar esta espina es cruzar el Canal de la Mancha y eliminarla por la fuerza."
 GER_landing_craft:0 "Investigar Embarcaciones de Desembarco"
 GER_landing_craft_desc:0 "La única forma en que podemos lanzar una invasión naval significativa con éxito será con nuevas embarcaciones de desembarco."
-GER_air_superiority_english_channel:0 "Dominar los Cielos"
-
+GER_air_superiority_english_channel:0 "Dominar los cielos"
 GER_air_superiority_english_channel_desc:0 "La única manera de proteger la patria y proporcionar un apoyo terrestre abrumador es con una fuerte supremacía aérea."
 GER_train_paratroopers:0 "Entrenar Fallschirmjägers"
 GER_train_paratroopers_desc:0 "Las divisiones Fallschirmjäger, nuestras divisiones de infantería aerotransportada, serán la única manera de invadir y capturar objetivos detrás de las líneas enemigas o inaccesibles por tierra."
@@ -107,6 +108,8 @@ GER_schwerepunkt_tactics:0 "Tácticas de Schwerpunkt"
 GER_schwerepunkt_tactics_desc:0 "Tener puntos específicos de concentración para nuestras fuerzas móviles, como divisiones blindadas y motorizadas, asegurará que podamos romper incluso las líneas defensivas más formidables."
 GER_soviet_friend:0 "Amistad con [SOV.GetNameDef]"
 GER_soviet_friend_desc:0 "Hacer amistad con [SOV.GetNameDef] será fundamental para asegurar nuestro flanco oriental; una vez que [POL.GetNameDef] esté fuera del camino, nuestro Este estará seguro, permitiéndonos concentrarnos en otras partes de la campaña."
+ GER_unholy_alliance_tt_1:0 "Esto destruirá el §H[ROOT.GetFactionName]§! y creará el §HEje de Berlin-Moscú§!"
+ GER_unholy_alliance_tt_2:0 "Esto formará el §HEje de Berlin-Moscú§!"
 GER_poland_friend_r56:0 "Amistad con [POL.GetNameDef]"
 GER_poland_friend_r56_desc:0 "Mucha gente en nuestro gobierno ve a [POL.getNameDef] como un enemigo directo y un oponente ideológico del estado [GER.getAdjective] actual. Con las tensiones en aumento en todo el mundo, tal vez sería por el bien mayor enterrar el hacha y abrazar el futuro próspero juntos. Bajo las circunstancias adecuadas, por supuesto."
 GER_war_with_poland:0 "Guerra con [POL.GetNameDef]"
@@ -123,19 +126,13 @@ GER_counter_sloped_armor:0 "Contrarrestar Blindaje Inclinado"
 GER_counter_sloped_armor_desc:0 "El blindaje inclinado y otros avances han vuelto casi obsoletas las armas antitanque más simples, como los rifles; necesitaremos armas antitanque más fuertes para derrotar a los tanques más nuevos."
 GER_seige_fortified_towns:0 "Sitio de Ciudades Fortificadas"
 GER_seige_fortified_towns_desc:0 "Los [SOV.GetAdjective]s han reforzado las defensas de varias de sus ciudades, como Leningrado y Moscú. Para tomar estas ciudades, debemos rodearlas y bombardearlas con la mayor potencia de fuego posible."
-GER_counter_anti_tank:0 "Estrategia de Cañones de Asalto"
-
- 
+GER_counter_anti_tank:0 "Estrategias con cañones de asalto"
 GER_counter_anti_tank_desc:0 "Nuestra artillería ordinaria es un objetivo principal para el bombardeo del enemigo. Al hacer nuestra artillería móvil, blindada y tal vez incluso con rondas más grandes, podemos maniobrar literalmente y figurativamente los cañones enemigos."
 GER_encirclement_doctrine_desc:0 "Los [SOV.GetAdjective]s tienen varios millones de hombres más a su disposición que nosotros; para contrarrestar esto, debemos rodear y aplastar a sus ejércitos sin dejarles luchar."
 GER_train_marines:0 "Entrenar Seebataillone"
 GER_train_marines_desc:0 "Los Seebataillone nos darán una ventaja en las invasiones navales, proporcionándonos tropas especializadas en desembarcar en las costas de nuestros enemigos."
 GER_invade_switzerland:0 "Operación Tannenbaum"
 GER_invade_switzerland_desc:0 "Los [SWI.GetAdjective]s están estrechamente relacionados con los alemanes, hasta el punto de que muchos de sus habitantes hablan nuestro idioma. Debemos reunir a nuestro pueblo y garantizar una mayor protección para ellos."
-GER_germanize_switzerland:0 "Germanizar Suiza"
-GER_germanize_switzerland_desc:0 "Suiza será totalmente incorporada a nuestro país para que nuestro pueblo pueda vivir vidas seguras y pacíficas."
-GER_germanize_benelux:0 "Germanizar el Benelux"
-GER_germanize_benelux_desc:0 "Los países del Benelux han tenido durante mucho tiempo vínculos culturales estrechos con Alemania; ahora que estamos bajo la misma bandera, podemos convertirnos en el mismo pueblo."
 GER_the_blitz:0 "El Blitz"
 GER_the_blitz_desc:0 "La mejor manera de disminuir la moral del pueblo [ENG.GetAdjective] es reducir sus ciudades a cenizas y escombros; nuevas inversiones en bombarderos avanzarán nuestra capacidad para hacer esto."
 GER_turkey_friend:0 "Amistad con [TUR.GetNameDef]"
@@ -198,8 +195,6 @@ GER_increase_influence_over_benelux:0 "Incrementar la Influencia sobre el Benelu
 GER_increase_influence_over_benelux_desc:0 ""
 GER_old_nemensis:0 "Nuestro Viejo Némesis"
 GER_old_nemensis_desc:0 ""
-
-
 GER_end_british_imperial_hegemony:0 "Terminar con la Hegemonía Imperial [ENG.GetAdjective]"
 GER_end_british_imperial_hegemony_desc:0 ""
 GER_focus_on_fascist_threat:0 "Enfocarse en la Amenaza Fascista"
@@ -236,28 +231,9 @@ GER_total_war:0 "Guerra Total"
 GER_total_war_desc:0 "¿Queréis una guerra total? Si es necesario, ¿queréis una guerra más total y radical que cualquier cosa que podamos imaginar?"
 GER_case_anton:0 "Caso Anton"
 GER_case_anton_desc:0 "El Caso Anton, el plan para la invasión e incorporación de nuestro títere francés en [GER.GetNameDef], debería ponerse en acción para asegurar el resto de Francia."
-GER_lebensraum:0 "Expandir el Lebensraum"
-GER_lebensraum_desc:0 "Lebensraum, o espacio vital, es vital para [GER.GetNameDef]; debemos asegurar que nuestra nación sea económicamente independiente de otros para prevenir un evento como el bloqueo británico durante la Gran Guerra."
-GER_germanize_netherlands:0 "Germanizar los Países Bajos"
-GER_germanize_netherlands_desc:0 "Los Países Bajos siempre han sido el hogar de un pueblo claramente germánico, pero ahora es el momento de unirnos bajo la misma bandera."
-GER_germanize_belgium:0 "Germanizar Bélgica"
-GER_germanize_belgium_desc:0 "Bélgica siempre ha sido el hogar de un pueblo claramente germánico, pero ahora es el momento de unirnos bajo la misma bandera."
-GER_germanize_luxembourg:0 "Germanizar Luxemburgo"
-GER_germanize_luxembourg_desc:0 "Luxemburgo siempre ha sido el hogar de un pueblo claramente germánico, pero ahora es el momento de unirnos bajo la misma bandera."
-GER_germanize_lithuania:0 "Germanizar Lituania"
-GER_germanize_lithuania_desc:0 "Los eslavos de Europa del Este siempre han interferido con los intereses de Alemania; es hora de que abordemos estos problemas y expandamos nuestro Lebensraum."
-GER_germanize_estonia:0 "Germanizar Estonia"
-GER_germanize_estonia_desc:0 "Los eslavos de Europa del Este siempre han interferido con los intereses de Alemania; es hora de que abordemos estos problemas y expandamos nuestro Lebensraum."
-GER_germanize_latvia:0 "Germanizar Letonia"
-GER_germanize_latvia_desc:0 "Los eslavos de Europa del Este siempre han interferido con los intereses de Alemania; es hora de que abordemos estos problemas y expandamos nuestro Lebensraum."
-GER_generalplan_ost_I:0 "Generalplan Ost I"
-
-
-GER_generalplan_ost_I_desc:0 "Los eslavos de Europa del Este siempre han interferido con los intereses de Alemania; es hora de que abordemos estos problemas y expandamos nuestro Lebensraum."
-GER_generalplan_ost_II:0 "Generalplan Ost II"
-GER_generalplan_ost_II_desc:0 "Los eslavos de Europa del Este siempre han interferido con los intereses de Alemania; es hora de que abordemos estos problemas y expandamos nuestro Lebensraum."
 GER_appoint_economic_positions:0 "Asignar Cargos Económicos"
 GER_appoint_economic_positions_desc:0 "La única forma de que [GER.GetNameDef] se recupere completamente de la Gran Depresión es asegurarnos de tener una economía unificada. Podemos facilitar esto nombrando a un presidente para el Reichsbank y a un Ministro de Economía."
+ GER_appoint_economic_positions_tooltip:0 "Tendrás una decisión para nombrar a uno de los siguientes Consejeros:"
 GER_two_side_economics:0 "Economía de Dos Lados"
 GER_two_side_economics_desc:0 "Hay dos grupos en el gobierno [GER.GetAdjective] que luchan por el poder. Por un lado, los tecnócratas creen que colocar especialistas en lugares de poder y priorizar la industria sobre el ejército llevará a la economía más exitosa. Por otro lado, los autarcas buscan una [GER.GetName] completamente autosuficiente y militarmente poderosa."
 GER_support_technocrats_I:0 "Apoyar a los Tecnócratas"
@@ -270,7 +246,7 @@ GER_support_autarks_I:0 "Apoyar a los Autarcas"
 GER_support_autarks_I_desc:0 "Si queremos tener una [GER.GetName] económicamente poderosa, debemos apoyar a los autarcas."
 GER_support_autarks_II:0 "Dar Asientos a los Autarcas en el Gobierno"
 GER_support_autarks_II_desc:0 "Dar asientos en el gobierno a los autarcas les permitirá avanzar más efectivamente sus políticas."
-GER_jet_research:0 "Financiar Investigación de Reactores"
+GER_jet_research:0 "Financiar investigación de reactores"
 GER_jet_research_desc:0 "El motor a reacción nos llevará a una nueva era de guerra, permitiéndonos bombardear a nuestros enemigos con precisión sorprendente y dominar los cielos sobre [GER.GetNameDef], o eso dicen nuestros científicos."
 GER_volksgemeinschaft:0 "Apoyar la Volksgemeinschaft"
 GER_volksgemeinschaft_desc:0 "La Volksgemeinschaft, o 'comunidad del pueblo', ayudará a unificar y empoderar a los pueblos germánicos de Europa y del mundo."
@@ -295,8 +271,6 @@ GER_contact_ludendorff:0 "Contactar a Ludendorff"
 GER_contact_ludendorff_desc:0 "Erich Ludendorff, el devotamente conservador general de intendencia durante la Gran Guerra, sigue siendo un héroe de guerra popular en la mente del pueblo [ROOT.GetAdjective]. Aunque se sabe que apoyó fuertemente al NSDAP al principio, se ha distanciado del partido en los últimos años. Tenerlo de nuestro lado aumentará significativamente nuestra legitimidad."
 GER_ludendorff_will_join:0 "§YErich Ludendorff§! se unirá a nuestro lado como §YMariscal de Campo§! una vez que comience la §RGuerra Civil§!."
 GER_a_new_reich:0 "Derrocar a los Nazis"
-
-
 GER_a_new_reich_desc:0 "Tras unir a los monárquicos y otros partidos pro-Kaiser, finalmente es hora de tomar el poder en Alemania y restaurar el Kaiserreich a su antigua gloria."
 GER_consolidate_new_reich:0 "Consolidar el Kaiserreich"
 GER_consolidate_new_reich_desc:0 "Hemos tomado el Reichstag y tenemos un gobierno provisional con nuestro nuevo Kaiser a la cabeza. Ahora debemos solidificar y consolidar Alemania en el Cuarto Reich."
@@ -350,9 +324,6 @@ GER_enigma_desc:0 "Continuar la investigación en los métodos de cifrado Enigma
 GER_volkssturm:0 "Formar el Volkssturm"
 GER_volkssturm_desc:0 "Aunque la guerra está comenzando a volverse en nuestra contra, todavía tenemos una oportunidad de luchar si, como [GER.GetAdjective]s, nos unimos y enfrentamos al invasor de frente. Este es el componente final de nuestra guerra total, y con el Volkssturm, ¡[GER.GetNameDef] nunca será derrotado!"
 GER_iraq_friend:0 "Hacer Amistad con [IRQ.GetNameDef]"
-
-
-
  GER_iraq_friend_desc:0 "[IRQ.GetNameDefCap] posee una posición estratégica ventajosa en el Medio Oriente y un gran reservorio de recursos necesarios para la maquinaria de guerra [GER.GetAdjective]; hacer amistad con su país puede resultar una decisión sabia que no nos obligará a redirigir nuestras fuerzas militares a otro frente."
  GER_iraq_war:0 "Invadir [IRQ.GetNameDef]"
  GER_iraq_war_desc:0 "[IRQ.GetNameDefCap] posee una posición estratégica ventajosa en el Medio Oriente y un gran reservorio de recursos necesarios para la maquinaria de guerra [GER.GetAdjective]; invadir su país nos permitirá mantener esta posición crítica y aprovechar al máximo sus recursos."
@@ -410,8 +381,6 @@ GER_iraq_friend:0 "Hacer Amistad con [IRQ.GetNameDef]"
  GER_emergency_naval_program:0 "Programa Naval de Emergencia"
  GER_emergency_naval_program_desc:0 "La guerra ha llegado a Alemania y lo que esperábamos que nos protegiera no es suficiente. Debemos abandonar el acuerdo y, aunque no podemos construir una gran flota de superficie, una de submarinos tendrá que ser suficiente."
  GER_the_o_class:0 "La Clase O"
-
-
  GER_the_o_class_desc:0 "Si bien el Bismarck y el Tirpitz serán las joyas de nuestra flota atlántica, necesitan ser acompañados por naves capaces. La Clase O ha sido diseñada para complementarlos y juntos formarán el núcleo de nuestra marina."
  GER_abandon_plan_z:0 "Abandonar el Plan Z"
  GER_abandon_plan_z_desc:0 "Dadas las circunstancias actuales, no podemos permitirnos mantener el Plan Z, los barcos son demasiado costosos y llevan demasiado tiempo construirlos para lo que intentamos lograr. Al enfocarnos en una flota submarina, aún podremos dominar el Atlántico."
@@ -464,9 +433,6 @@ GER_iraq_friend:0 "Hacer Amistad con [IRQ.GetNameDef]"
  GER_civilian_infrastructure_idea:0 "Desarrollo de Infraestructura Civil"
  GER_establish_bundeswehr_idea:0 "Establecimiento de la Bundeswehr"
  GER_defense_and_deterence_idea:0 "Defensa y Disuasión [GER.GetAdjective]"
- GER_lebensraum_idea:0 "Expansión del Lebensraum"
- GER_generalplan_ost_I_idea:0 "Resistencia al Generalplan Ost"
- GER_generalplan_ost_II_idea:0 "Resistencia Partisana al Generalplan Ost"
  hjalmar_schacht_idea:0 "Hjalmar Schacht"
  walther_funk_idea:0 "Walther Funk"
  volksgemeinschaft_idea:0 "Volksgemeinschaft"
@@ -474,7 +440,7 @@ GER_iraq_friend:0 "Hacer Amistad con [IRQ.GetNameDef]"
  volkswagen_idea:0 "Volkswagen"
  goeringworks_idea:0 "Reichswerke Hermann Göring"
  united_steel_idea:0 "Vereinigte Stahlwerke AG"
- political_disagreement_idea:0 "Economía Bipolar"
+ political_disagreement_idea:0 "Economía dual"
  technocrat_support_I_idea:0 "Apoyo Tecnócrata"
  technocrat_support_II_idea:0 "Gobierno Tecnócrata"
  autark_support_I_idea:0 "Apoyo Autárquico"
@@ -482,8 +448,6 @@ GER_iraq_friend:0 "Hacer Amistad con [IRQ.GetNameDef]"
  persecute_scientists:0 "Persecución de Científicos Judíos"
  war_of_annihilation:0 "Guerra de Aniquilación"
  GER_rally_the_monarchists_idea:0 "Reunir a los Monárquicos"
- GER_unstable_government:0 "Gobierno Inestable"
- GER_fourth_reich:0 "El Cuarto Reich"
  GER_imperial_restoration:0 "Restauración Imperial"
  GER_imperial_army_idea:0 "Deutsches Heer"
  GER_landwehr_idea:0 "Influencia de la Landwehr"
@@ -494,8 +458,6 @@ GER_iraq_friend:0 "Hacer Amistad con [IRQ.GetNameDef]"
  GER_wilhelm_ii_idea:0 "Guillermo II"
  GER_wilhelm_iii_idea:0 "Guillermo III"
  GER_frederick_iv_idea:0 "Federico IV"
-
- 
 GER_new_german_constitution:0 "Una Nueva Constitución [GER.GetAdjective]"
 GER_prioritize_infrastructure_idea:0 "Priorización de Infraestructura"
 GER_prioritize_civilian_industry_idea:0 "Priorización de Industrias Civiles"
@@ -521,7 +483,27 @@ GER_wolfpack_tactics_idea:0 "Tácticas de Manada de Lobos"
 GER_plan_z_idea:0 "Plan Z"
 r56_ger_naval_treaty:0 "Tratado Naval [ENG.GetAdjective]-[GER.GetAdjective]"
 r56_ger_naval_treaty_desc:0 "Las recientes conversaciones con [ENG.GetNameDef] han aflojado en gran medida las restricciones navales impuestas por el Tratado de Versalles, permitiéndonos aumentar significativamente nuestra capacidad naval. Sin embargo, aún existen restricciones sobre nuestra producción naval y permanecerán hasta que tomemos la medida de liberar completamente nuestra marina del tratado."
+ r56_GER_four_year_plan:0 "El plan cuatrienal"
+ r56_GER_four_year_plan_upgrade:0 "El plan cuatrienal perpetuo"
+ r56_GER_four_year_plan_desc:0 "§WIniciando una§! §Rguerra ofensiva§! §Wcon una§! §Ygran potencia§! §Reliminará§! §Weste§! §Yespiritu nacional§!\n"
+ GER_coerce_the_technocrats:0 "Coaccionar a los tecnócratas"
+ r56_GER_four_year_plan_upgrade_tt:0 "§YEl espiritu nacional $r56_GER_four_year_plan$§! se hará permanente y no se eliminará si §Riniciamos una guerra ofensiva§!§W.§!"
+ GER_coerce_the_technocrats_desc:0 "Muchos empresarios y sus socios, la llamada clase tecnócrata, odian hacer negocios e investigar bajo nuestro gobierno actual. Esta potencial quinta columna debe ser destruida antes de que tenga la oportunidad de destruirnos desde dentro. La clase tecnócrata se plegará a nuestra voluntad y ayudará a nuestros esfuerzos por desarrollar nuestro país. De una forma u otra."
+ r56_GER_coerce_the_technocrats_idea:0 "Tecnócratas coaccionados"
+ r56_GER_coerce_the_technocrats_idea_desc:0 "La clase empresarial y tecnócrata se plegará a nuestra voluntad. No les daremos opción."
+ GER_coerce_the_technocrats_tt:0 "Cuando el enfoque §Y$GER_institute_price_controls$§! sea §Ycompletado:§!"
+ r56_GER_economic_uncertainty:0 "Incertidumbre económica"
+ r56_GER_economic_uncertainty_desc:0 "Los industriales están preocupados por las decisiones económicas que debe tomar el Gobierno. La decisión de mantener o descartar el régimen de los bonos MEFO en favor de otro régimen de crecimiento aliviaría estas ansiedades del mercado sobre nuestra economía a escala nacional e internacional."
+ 
+ 
+
+ GER_enigma_machine0:0 "Máquina Enigma"
+ GER_enigma_machine1:0 "Máquina Enigma mejorada"
+ GER_enigma_machine2:0 "Máquina Enigma de 5 rotores"
+ GER_enigma_machine3:0 "Máquina Enigma de 8 rotores"
+
 GER_establishing_the_reichskommissar:0 "Estableciendo el Reichskommissar"
+
 GER_eastern_campaign:0 "Campaña del Este"
 GER_eastern_campaign_desc:0 "Las campañas de propaganda financiadas por el Estado han asegurado incluso a los opositores más acérrimos de la guerra en el Este que las condiciones de victoria se dictarán en términos [GER.getAdjective] y ninguna negociación obstaculizará los logros de la Wehrmacht. \n\n§HEste Espíritu Nacional se eliminará si las bajas [SOV.getAdjective] infligidas a [GER.getAdjective] alcanzan un umbral de 4 millones o cualquier estado central [SOV.getAdjective] poseído tiene más del 50% de cumplimiento.§!"
 
@@ -536,50 +518,26 @@ erwache.1.f:0 "Walter Ulbricht."
 erwache.1.g:0 "Franz Jacob."
 erwache.1.h:0 "Carl Friedrich Goerdeler."
 erwache.1.i:0 "Paul Lejeune-Jung."
-
-erwache.2.t:0 "El Problema de las Acerías"
-erwache.2.d:0 "A medida que el ejército [GER.GetAdjective] crece, debemos asegurarnos de tener una fuente segura y estable de acero. Nuestro principal productor de acero actual, Vereinigte Stahlwerke AG, ha sido un valioso aliado en el ascenso del NSDAP al poder y es un empleador significativo de trabajadores [GER.GetAdjective]. Pero, las Stahlwerke no han estado produciendo tanto acero como podrían; nacionalizar la empresa nos permitiría aumentar la producción incluso donde no sea rentable."
-erwache.2.a:0 "Debemos intervenir."
-erwache.2.b:0 "Vereinigte Stahlwerke AG."
-
-erwache.4.t:0 "La Caída de los Nazis"
-erwache.4.d:0 "Tras el rápido ascenso de los monárquicos y otros partidos pro-Kaiser, el NSDAP no ha encontrado más alternativas que entregar el control del gobierno [GER.GetAdjective]. Esta histórica decisión se declara oficialmente en el Reichstag [GER.GetAdjective], pero aún se desconoce quién reinará como el Kaiser del nuevo Cuarto Reich. Podemos llamar a Guillermo Segundo, el gobernante del Segundo Reich durante la Gran Guerra, o al Príncipe Guillermo Tercero, hijo de Guillermo Segundo y un hombre muy capaz de ocupar esta histórica posición."
-erwache.4.a:0 "Guillermo II nos liderará."
-erwache.4.b:0 "El Príncipe Guillermo III nos liderará."
-
 erwache.5.t:0 "La Guerra Civil [GER.GetAdjective]"
-erwache.5.d:0 "Los monárquicos lideraron un golpe exitoso contra el NSDAP, asaltando el Reichstag y tomando el control del gobierno. El ex canciller Adolf Hitler yace muerto en las cenizas del Reichstag incendiado, dejando a Heinrich Himmler como el nuevo jefe de gobierno en Múnich. Himmler y los leales nazis restantes han comenzado una guerra civil contra nuestro nuevo gobierno imperial, y debemos luchar para reunificar Alemania. ¿Quién nos liderará en nuestro camino hacia el Cuarto Reich unificado: el ex Kaiser Guillermo II o su hijo, el Príncipe Guillermo III?"
-erwache.5.a:0 "Guillermo II nos liderará."
-erwache.5.b:0 "El Príncipe Guillermo III nos liderará."
-
-erwache.7.t:0 "¡[GER.GetNameDefCap] Ofrece Paz!"
+erwache.7.t:0 "¡[GER.GetNameDefCap] ofrece la paz!"
 erwache.7.d:0 "[SOV.GetNameDefCap] ha recibido una propuesta de tratado para poner fin a la guerra [GER.GetAdjective]-[SOV.GetAdjective] en el Este. El tratado incluye términos para ceder varios territorios occidentales ocupados por [SOV.GetAdjective] a los [GER.GetAdjective] a cambio de la paz. Estos términos son similares al tratado de Brest-Litovsk, que puso fin al conflicto germano-soviético durante la Gran Guerra."
 erwache.7.a:0 "¡Rechazar los términos!"
 erwache.7.b:0 "Aceptar los términos."
 
 r56_GER_first_vienna_award_tt:0 "§RDependiendo de su elección, el Primer Premio de Viena se activará si [HUN.GetNameDef] no posee [664.getName] y [996.getName].§!"
 r56_GER_first_vienna_award_II_tt:0 "§REsta elección activará el Primer Premio de Viena inmediatamente si [HUN.GetNameDef] no posee [664.getName] y [996.getName].§!"
-
-erwache_news.1.t:0 "¡España Rechaza las Demandas [GER.GetAdjective]!"
-erwache_news.1.d:0 "España ha rechazado oficialmente la demanda [GER.GetAdjective] de una 'ocupación defensiva' del país. España ha entrado ahora en guerra contra Alemania, movilizando sus fuerzas militares hacia la frontera."
-erwache_news.1.a:0 "¡Lucharemos!"
-erwache_news.1.b:0 "Que así sea."
-erwache_news.1.c:0 "Otra víctima de la expansión de [GER.GetNameDef]."
-
 erwache_news.2.t:0 "[SOV.GetnameDefCap] Rechaza la Paz con [GER.GetnameDef]!"
 erwache_news.2.d:0 "\n[SOV.GetNameDefCap] ha rechazado un tratado propuesto para poner fin a la guerra [GER.GetAdjective]-[SOV.GetAdjective] en el Este. El tratado incluía términos para ceder varios territorios occidentales ocupados por [SOV.GetADjective] a los [GER.GetADjective] a cambio de la paz. Estos términos son similares al tratado de Brest-Litovsk, que puso fin al conflicto germano-soviético durante la Primera Guerra Mundial."
 erwache_news.2.a:0 "Entonces tendremos que anexar las tierras [SOV.GetAdjective] por la fuerza."
 erwache_news.2.b:0 "¡Lucharemos por cada pulgada!"
 erwache_news.2.c:0 "Interesante."
-
 stubborn:0 "Terco"
-restoring_monarchist:0 "El Viejo Kaiser"
-new_monarchist:0 "Un Nuevo Kaiser"
+restoring_monarchist:0 "El viejo Kaiser"
+new_monarchist:0 "Un nuevo Kaiser"
 
 GER_blohm_und_voss_aviation:0 "Blohm & Voss"
 GER_deschimag:0 "Deschimag"
 GER_vereinigte_stahlwerke:0 "Vereinigte Stahlwerke"
-
 
  #Spicyedits
  GER_poland_war:0 "Guerra con Polonia"
@@ -627,7 +585,6 @@ GER_vereinigte_stahlwerke:0 "Vereinigte Stahlwerke"
  r56_GER_anti_comitern_pact_days_tt:0 "Días actuales son: [?r56_GER_anti_comitern_pact:days|Y0]"
 
 
-
 GER_a_world_in_flames:0 "Un Mundo en Llamas"
 GER_a_world_in_flames_desc:0 "Con nuestros enemigos acercándose, debemos negarnos a capitular. Podemos ser derrotados y destruidos. Sin embargo, si lo somos, arrastraremos a nuestros enemigos y al mundo con nosotros. Un mundo en llamas."
 GER_a_world_in_flames_2_tt:0 "Añade hasta §G5§! §YFortalezas Terrestres§! a lo largo del río Oder en provincias controladas en los estados."
@@ -636,12 +593,19 @@ GER_a_world_in_flames_4_tt:0 "Añade hasta §G5§! §YFortalezas Terrestres§! e
 GER_a_world_in_flames_5_tt:0 "\n   Levanta §Y4 Divisiones del Volkssturm§!.\n"
 r56_a_world_in_flames_idea:0 "Mundo en Llamas"
 
+
 #State Modifiers Flak Tower
 r56_GER_flak_towers:0 "Torres Antiaéreas"
 GER_flak_towers_desc:0 "Con los bombardeos aéreos de nuestra patria convirtiéndose en una realidad de la guerra, ahora debemos construir enormes torres antiaéreas para luchar contra las campañas de bombardeo que apuntan a nuestra industria."
 r56_GER_front_line_cities_modifier:0 "Ciudades de Primera Línea"
+r56_GER_kdf_wagen_scheme:0 "Plan del Kdf-Wagen"
+ r56_GER_kdf_wagen_scheme_desc:0 "Si utilizamos un plan de ahorros para que la gente adquiera sus propios coches. Podremos usar los fondos ahorrados en ayudar a la mejora de la industria pesada. Tenemos un margen de uso muy limitado si queremos obtener beneficios, claro."
 
-#The Heer#
+ #Techs 
+ GER_assault_guns:0 "Cañones de asalto"
+ GER_assault_guns_desc:0 ""
+
+#The Heer# no longer in use
 GER_develop_the_heer_r56_modifier:0 "El Heer"
 GER_modify_the_the_heer:0 "Modificar §YEl Heer§! por"
 GER_mobile_warfare_tt:0 "$GER_modify_the_the_heer$ \nVelocidad de Planificación: §G+5%§!\n§YEntrenamiento de Apoyo Aéreo Cercano§!: ganancia de experiencia: §G+5%§!\n§YEntrenamiento de Tanques Ligeros§!: ganancia de experiencia: §G+5%§!\n\n"
@@ -671,11 +635,10 @@ GER_modify_mefo_bills_modifier:0 "Modificar §Y$GER_mefo_bills_modifier$§! por"
 GER_mefo_bills_increase_pp_cost_effect_tt:0 "$GER_modify_mefo_bills_modifier$ \n$MODIFIER_POLITICAL_POWER_COST$: §R-0.15§!\n\n"
 GER_mefo_bills_decrease_pp_cost_effect_tt:0 "$GER_modify_mefo_bills_modifier$ \n$MODIFIER_POLITICAL_POWER_COST$: §G+0.15§!\n\n"
 
-
  #Vanilla overides
  #GER_reichskommissariats:0 "Establish Reichskommissariats"
  #GER_reichskommissariats_cat:0 "With the land we control growing, administrating it all from Berlin is becoming a costly affair material-wise and for the law enforcement on the ground trying to keep order. #Creating smaller administrative units to handle some of our newly acquired lands and convincing collaborators to work keeping order in their new 'State' could be the only sustainable way forward.\n\nEach [ROOT.#GetFlag]§YReichskommissariats§! or [D10.GetFlag]§YProectorate§! we establish will grant us §G3§! off-map §YSMilitary Factory.§! They will also attempt to battle the resistance in the states they oversee for #us. Though outsourcing the battle against Resistance to [ROOT.GetFlag]§YReichskommissariats§! could lead to more uprisings and resistance growth over time."
-
+ GER_mefo_bills_category_desc:0 "Para financiar nuestra creciente industria militar, y para mantenerlo en secreto a ojos británicos y franceses, nos hemos visto obligados a utilizar una entidad de balance a la que dirigir los pagos en forma de pagarés. Si no utilizamos nuestras conexiones políticas para ampliar las fechas de vencimiento de estos pagarés, nos veremos obligados a reembolsarlos y dejaremos de recibir sus beneficios.: [?GER_monthly_consumer_goods_increase|%Y1] de fábricas de bienes de consumo\n"
 
  #GER_reichskommissariats_desc:0 "To improve use of local resources, industry, and manpower, we should look into establishing quasi-autonomous subject governments in our conquered areas."
 GER_reichskommissariat_moskowien:0 "Reichskommissariat Moskowien"
@@ -711,7 +674,9 @@ GER_total_war_tt:0 "$GER_modify_the_desperate_measures$ \nCosto de Leyes Económ
 GER_front_line_cities_2_tt:0 "$GER_modify_the_desperate_measures$ \nVelocidad de construcción de §YFortificaciones Terrestres§!: §G+5%§!\n\n"
 GER_a_world_in_flames_tt:0 "$GER_modify_the_desperate_measures$ \nDefensa de la División en territorio central: §G+5%§!\n\n"
 
-r56_rdf_bonus:0 "Bono de Investigación de Radiogoniometría"
+
+
+ r56_rdf_bonus:0 "Bono de Investigación de Radiogoniometría"
 
 GER_protektorat_bohmen_mahren: "Protectorado de Bohemia y Moravia"
 
@@ -739,6 +704,9 @@ GER_venezuela_friend_desc:0 "Los [VEN.GetADjective]s ya han mostrado simpatía p
 #Country flags
 GER_denounced_the_agreement:0 " Ha denunciado el acuerdo"
 GER_adhered_to_the_agreement:0 " Ha adherido al acuerdo"
+
+ #Global flags 
+ r56_GER_anschluss_mean_message_was_sent_out:0 "Alemania nos ha enviado el Anschluss"
 
 #Events to kill Hitler (Successful)
 r56.kill_hitler.1.t:0 "Hitler Muerto por una Explosión"
@@ -794,7 +762,6 @@ r56.kill_hitler.9.a:0 "¡Espera, ese es el equivocado!"
 r56.kill_hitler.9.b:0 "¡Nein! Mein Führer..."
 
 
-
 GER_REUNITED_democratic:0 "República Federal de Alemania"
 GER_REUNITED_fascism:0 "Reich Alemán"
 GER_REUNITED_neutrality:0 "Imperio Alemán"
@@ -831,7 +798,6 @@ r56.ger.2.desc:0 "Nuestra patria parecía perdida, y a través de todas nuestras
 r56.ger.2.a:0 "¡La victoria final está más cerca que nunca!"
 r56_GER_endsieg_2_tt:0 "§RDisolverá§! unidades de §YVolkssturm§! y §YErsatzheer§!"
 
-
 #non-endsieg events
 r56.ger.4.t:0 "La Muerte de Guillermo III"
 r56.ger.4.desc:0 "El Kaiser Guillermo III ha fallecido de vejez. El trono ha pasado a su hijo Guillermo IV, quien deja la mayoría de sus responsabilidades a los políticos."
@@ -862,6 +828,7 @@ r56.ger.10.a:0 "Unidos, somos fuertes."
 r56.ger.11.t:0 "[FRA.GetNameDefCap] Rechaza Nuestra Propuesta"
 r56.ger.11.d:0 "[FRA.GetNameDefCap] ha rechazado indignamente nuestra oferta de dejar de lado nuestras diferencias; las relaciones hostiles con ellos continuarán incluso con la amenaza fascista en Europa."
 r56.ger.11.a:0 "¡Necios arrogantes!"
+
 
 r56.ger.15.t:0 "Primer Premio de Viena"
 r56.ger.15.d:0 "Los húngaros fueron uno de los pueblos que más sufrieron después de la Gran Guerra. En la desintegración del Imperio Austrohúngaro, muchos húngaros quedaron varados en tierras extranjeras, aunque sus ancestros habían vivido allí durante siglos. Podríamos mejorar significativamente nuestras relaciones con [HUN.GetNameDef] otorgándoles algunos territorios de [CZE.GetNameDef]."
@@ -922,6 +889,7 @@ ger.renegotiate_versailles.2.a: "Paz en nuestro tiempo."
 ger.renegotiate_versailles.3.t:0 "[FROM.GetNameDefCap] se niega a renegociar el Tratado de Versalles"
 ger.renegotiate_versailles.3.d:0 "[FROM.GetNameDefCap] ha rechazado nuestra oferta de renegociar el Tratado de Versalles con nosotros, citando que no tienen interés en renegociar un tratado antiguo. Aunque esto puede ser una buena noticia en retrospectiva, plantea preguntas sobre cuáles son los verdaderos motivos detrás de la decisión de [FROM.GetNameDef]."
 ger.renegotiate_versailles.3.a:0 "¿Una bendición o una maldición?"
+
 
 ger_abided_by_versailles:0 "Cumplido con Versalles"
 
@@ -1034,9 +1002,6 @@ GER_cooperate_with_nordics:0 "Cooperar con los Nórdicos"
 GER_cooperate_with_nordics_desc:0 "Desde el declive de los imperios en el norte y la independencia de Finlandia, estas naciones han permanecido tradicionalmente neutrales, pero con los [GetRussiansDemonym] en su puerta librando guerras agresivas, no pueden negarse a contribuir a la seguridad europea."
 GER_anti_soviet_war:0 "Luchar contra los [GetRussiansDemonym]"
 GER_anti_soviet_war_desc:0 "Solo [Root.GetNameDef] puede salvar a Europa de la tiranía [SOV.GetAdjective]."
-
-
-
  #Monarchism
 GER_mon_peaceful:0 "Aliados Más Confiables"
 GER_mon_peaceful_desc:0 "Aunque somos fuertes, no podemos enfrentarnos al mundo... otra vez. Al buscar socios menos agresivos, podríamos expandir nuestro reich sin involucrarnos en una guerra de dos frentes nuevamente."
@@ -1054,7 +1019,6 @@ GER_mon_anti_commie_france:0 "Unidos Contra el Comunismo Francés"
 GER_mon_anti_commie_france_desc:0 "Con Francia, uno de los imperios más poderosos del mundo, desmoronándose, los británicos podrían estar dispuestos a ayudarnos antes de que la situación se agrave y los sentimientos comunistas se extiendan a su imperio."
 GER_restore_the_central_powers:0 "Restaurar las Potencias Centrales"
 GER_restore_the_central_powers_desc:0 "Humillados por su pérdida de territorio, nuestros antiguos aliados deberían estar más que dispuestos a unirse a nuestra alianza si les damos la oportunidad de restaurar su grandeza."
-
 #Tooltips (mostly monarchist)
 poland_special_dominion_tt:0 "Ofreceremos protección a Polonia a cambio de nuestros territorios anteriores e influencia política, convirtiéndolos en un tipo especial de dominio."
 intervene_soviet_civil_war_tt:0 "Hay un lado no comunista y antistalinista en la guerra civil que puede ser aliado."
@@ -1065,7 +1029,6 @@ GER_central_powers_tt:0 "§YCualquier nación históricamente aliada y no alinea
 GER_middle_east_diplo_tt:0 "Estas decisiones nos permitirán influir en los países §Ydel Medio Oriente§! y su política, eventualmente haciendo que se unan a nuestra facción."
 GER_will_strengthen_right_opposition:0 "§RFortalecerá a la Oposición de Derecha§!"
 GER_heinrich_brandler_will_lead_country_tt:0 "Si §YHeinrich Brandler§! está empleado como §YAsesor§! puede convertirse en el §YLíder del País§!"
-
 #Decisions
 GER_remilitarize_rhineland:0 "Remilitarizar Renania"
 not_too_much_soviet_influence_tt: "Menos de 4 puntos de influencia soviética"
@@ -1125,7 +1088,6 @@ r56.ger.23.a:0 "Eso está resuelto."
 r56.ger.23.t2:0 "Polonia Rechaza el Acuerdo"
 r56.ger.23.d2:0 "El gobierno polaco ha dejado claro que no intercambiará territorio con Alemania, oficialmente debido a la minoría polaca, pero más probablemente debido a su importancia estratégica naval o su industria."
 r56.ger.23.b:0 "Veremos sobre eso."
-
 
 r56.ger.24.t:0 "Alemania Ofrece Lituania a Cambio de Territorios Dominados por Alemanes"
 r56.ger.24.d:0 "El gobierno de Alemania, habiendo establecido posesión de territorio en Lituania, ofrece un intercambio donde recibiríamos la mayor parte de Lituania a cambio de los territorios mayormente pro-alemanes de Katowice y Gdynia. Este movimiento nos haría perder un importante puerto naval y recursos metálicos, pero ganaríamos la industria lituana o lo que queda de ella, además de permitirnos reclamar la herencia de Polonia-Lituania."
@@ -1197,13 +1159,16 @@ ger_brest_litovsk.1.d:0 "[SOV.GetNameDefCap] ha recibido una propuesta de tratad
 ger_brest_litovsk.1.a:0 "¡Rechazar los términos!"
 ger_brest_litovsk.1.b:0 "Aceptar los términos."
 
-#BOP & decisions
-GER_monarchist_power_balance:0 "Equilibrio de Poder del Kaiser-OH"
-GER_army_side:0 "Oberste Heeresleitung"
-GER_low_army_influence:0 "Influencia Militar Mínima"
-GER_emerging_army_influence:0 "Influencia Militar Emergente"
-GER_high_army_influence:0 "Influencia Militar Fuerte"
-GER_total_army_influence:0 "Dictadura Militar"
+
+ #BOP & decisions
+
+ GER_monarchist_power_balance:0 "Equilibrio de Poder del Kaiser-OH"
+ GER_army_side:0 "Oberste Heeresleitung"
+ GER_low_army_influence:0 "Influencia Militar Mínima"
+ GER_emerging_army_influence:0 "Influencia Militar Emergente"
+ GER_high_army_influence:0 "Influencia Militar Fuerte"
+ GER_total_army_influence:0 "Dictadura Militar"
+ GER_balance_range:0 "Influencia balanceada"
 GER_wilhelm_ii_side:0 "Casa de Hohenzollern"
 GER_low_kaiser_control:0 "Control Mínimo del Kaiser"
 GER_medium_kaiser_control:0 "Control Medio del Kaiser"
@@ -1222,6 +1187,12 @@ GER_monarchist_bop_prioritize_military_industry:0 "Priorizando la Industria Mili
 GER_monarchist_bop_prioritize_civilian_industry:0 "Priorizando la Industria Civil"
 GER_bop_nationalistic_military_parade:0 "Desfile Militar Nacionalista"
 GER_bop_rally_in_honour_of_the_kaiser:0 "Mitin en Honor del Kaiser"
+
+ GER_strong_arm_the_industrialists:0 "Mano dura a los industriales"
+ GER_strong_arm_the_industrialists_desc:0 "Podemos 'sugerir' a los industriales que contraigan préstamos en forma de bonos MEFO en lugar de pedir préstamos al Reichsbank. De este modo podemos ocultar cuánto dinero está prestando el Reichsbank para invertir en la industria pesada y, al mismo tiempo, ganar influencia política sobre los industriales de nuestro país. Asumir estos préstamos privados como bonos MEFO entraña el riesgo de canibalizar nuestra economía, pero tales temores son infundados, ¿verdad?"
+ GER_rally_the_technocrats:0 "Reunir a los tecnócratas"
+ GER_rally_the_technocrats_desc:0 "Conseguir que los tecnócratas nos apoyen es clave para nuestros futuros esfuerzos bélicos."
+ r56_GER_rally_the_technocrats_idea:0 "Reunir a los tecnócratas"
 
 #Threats
 GER_core_south_tyrol_threat:0 "Reclamó el Tirol del Sur"
@@ -1242,7 +1213,6 @@ GER_pressure_LIT_desc: "[LIT.GetNameDefCap] ha desarrollado una gran dependencia
 GER_HOL_free_influence_tt: "Proporciona 15 puntos de influencia comercial §YPuerta a Europa§! sobre [HOL.GetNameDef]."
 
 RULE_ALLOW_RELEASE_NATIONS_NOT_GER_KINGDOMS_TOOLTIP:0 "No se permite liberar reinos alemanes en este momento."
-
 # German Kingdoms shared
 
 GERK_revitalize_old_traditions:0 "Revitalizar las Antiguas Tradiciones [ROOT.GetAdjective]"
@@ -1259,6 +1229,8 @@ GER_zollverein_faction:0 "Zollverein"
 WGR_establish_a_provisional_capital:0 "Establecer una Capital Provisional"
 WGR_establish_a_provisional_capital_desc:0 "Para poner en marcha nuestro gobierno, es necesario que establezcamos una capital provisional fuera de Berlín hasta que encontremos las circunstancias adecuadas para trasladarla allí. De todas maneras, no debemos dar la impresión de que este movimiento es permanente de ninguna manera, de lo contrario será una gran señal de debilidad para nosotros."
 
+
+
 # Some on_action events by Fantom
 
 r56_on_action_event.1.t:0 "[GER.GetNameDefCap] cambia sus directivas políticas!"
@@ -1266,7 +1238,8 @@ r56_on_action_event.1.d:0 "Los cambios en el panorama político de [GER.GetNameD
 r56_on_action_event.1.a:0 "Renunciaremos a nuestra postura hacia ellos."
 r56_on_action_event.1.b:0 "¡El cambio de régimen no significa nada si los corazones de las personas están corruptos!"
 
-wtt_germany.80.t:0 "[GER.GetNameDefCap] Demanda Jutlandia del Sur"
+
+wtt_germany.80.t:0 "[GER.GetNameDefCap] exige Jutlandia del Sur"
 wtt_germany.80.desc:0 "El gobierno alemán ha emitido un ultimátum exigiendo el retorno de Jutlandia del Sur. Esta tierra se perdió para Alemania en la década de 1860 y fue devuelta en el Tratado de Versalles. Muchos daneses étnicos que viven en la tierra no estarán contentos de ser entregados."
 wtt_germany.80.a:0 "Para proteger nuestra nación, debemos cumplir."
 wtt_germany.80.b:0 "No abandonaremos nuestro suelo soberano."
@@ -1279,8 +1252,10 @@ wtt_germany.82.t:0 "[FROM.GetNameDefCap] Rechaza nuestro Ultimátum"
 wtt_germany.82.d:0 "[FROM.GetNameDefCap] ha dejado en claro que no devolverán el Schleswig Septentrional, y cualquier acto para recuperarlo sería un acto de guerra."
 wtt_germany.82.a:0 "Entonces es la guerra."
 
-# Communist events by flor
-r56.ger.46.t:0 "El Partido convoca a una Elección de Liderazgo"
+
+ # communist expansion by flor
+ # events
+r56.ger.46.t:0 "El Partido convoca elecciones a la dirección"
 r56.ger.46.desc:0 "Heinrich Brandler ha sido invaluable en la Guerra Civil, liderando grandes partes de la resistencia contra los Fascistas. ¡Ha demostrado que todavía es un líder nato! Ahora ha comenzado una campaña, tratando de convertirse en el nuevo presidente del KPD. Ya ha ganado un gran seguimiento dentro del partido.\n\nLa Revolución ha triunfado en [ROOT.GetNonIdeologyName]. Ahora, muchos miembros del KPD han comenzado a cuestionar la autoridad de Moscú. El actual presidente del KPD, Ernst Thälmann, es un stalinista acérrimo y ha sido durante mucho tiempo el líder del ala izquierda del partido. Tiene el apoyo de Moscú y la influencia política para mantenerse en el cargo. En oposición al ala izquierda, Heinrich Brandler está haciendo un posible regreso a la presidencia, representando al ala derecha del KPD. Lo que le falta en influencia, lo compensa con experiencia, habiendo sido presidente de 1920 a 1923. Además, Moscú ha anunciado que Ernst Thälmann es su ganador favorito. Siendo la cuna del comunismo, [ROOT.GetNonIdeologyName] es de gran interés para [SOV.GetNameDef]. Si intervinieran, podrían forzar un resultado que les beneficie..."
 r56.ger.46.a:0 "¡Heinrich Brandler triunfa en su esfuerzo!"
 r56.ger.46.b:0 "Thälmann mantiene su posición."
@@ -1293,8 +1268,6 @@ r56.ger.47.a:0 "Es un activo valioso en la lucha contra el Fascismo."
 r56.ger.48.t:0 "Ernst Thälmann Realinea el Partido"
 r56.ger.48.desc:0 "¡La Revolución ha triunfado! Alemania es ahora un estado socialista con Ernst Thälmann como su líder. Muchas personas han muerto pero todo valió la pena.\n\nAhora Ernst Thälmann ha convocado una reunión extraordinaria de la dirección del partido, queriendo un cambio de alineación. ¡Moscú ya no dirá al KPD qué hacer! Como tal, Ernst Thälmann ha instado a la dirección a abandonar las ideas que Stalin trajo al comunismo y centrarse en las enseñanzas de Lenin en su lugar."
 r56.ger.48.a:0 "Se abre un nuevo camino para [ROOT.GetNonIdeologyName]."
-
-### ---->>  Nuevas lineas añadidas
 
  r56.ger.49.t:0 "[GER.GetAdjectiveCap] Los comunistas eligen a Thälmann"
 r56.ger.49.desc:0 "Acaban de llegar noticias desde [GER.GetNonIdeologyName], después de 2 días de debate, el comité de liderazgo del KPD ha elegido un nuevo líder: Ernst Thälmann. Un veterano del KPD, Thälmann ha sido un amigo cercano del Comintern y el candidato preferido de [SOV.GetNameDef].\n\nSin embargo, para la sorpresa de [SOV.GetLeader], 4 horas después, Ernst Thälmann anunció la retirada del KPD del Comintern, lo que sorprendió a muchos, incluido su propio partido.\n\n\"¡La revolución en [GER.GetNonIdeologyName] no será controlada por potencias extranjeras! ¡Nosotros los alemanes podemos y decidiremos nuestro propio futuro, nuestra propia sociedad socialista!\" - Ernst Thälmann en su discurso"
@@ -1333,11 +1306,13 @@ r56.ger.56.t:0 "Nuestro ejercicio militar conjunto fue rechazado"
 r56.ger.56.desc:0 "Nuestra solicitud para un ejercicio militar conjunto fue rechazada. No obtendremos la experiencia que anticipábamos y tendremos que trabajar en nuestra preparación militar por nuestra cuenta. Tal vez sea lo mejor, ya que un ejercicio militar de este tipo habría reubicado muchos recursos de un frente potencial."
 r56.ger.56.a:0 "Es triste, pero no podemos obligarlos."
 
+  # cominform stuff
 cominform:0 "Cominform"
 cominform_denied:0 "Alianza rechazada"
 cominform_tt:0 "Reemplaza el §HComintern§! con el §HCominform§! y agrega a §H[GER.GetName]§! a la facción."
 ger_cominform_tt:0 "Reemplaza el §HComintern§! con el §HCominform§! y agrega a §Hnosotros§! a la facción."
 
+ # ideas & focuses
 GER_nva_idea_brandler:0 "Volkswehr"
 GER_nva_idea_soviet:0 "Nationale Volksarmee"
 GER_nva_idea_thalmann:0 "Volksarmee"
@@ -1349,6 +1324,7 @@ GER_establish_nva_thalmann:0 "Establecer la VA"
 GER_nva_joint_military_exercise_idea:0 "Ejercicio militar conjunto en curso"
 GER_nva_joint_military_exercise_idea_desc:0 "Los ejercicios militares son comunes hoy en día. [ROOT.GetNameDefCap] está actualmente en un ejercicio conjunto con un aliado."
 
+ # NVA decisions
 GER_NVA_category:0 "La [GetNVAIdeaName]"
 GER_NVA_category_desc:0 "La [GetNVAIdeaName] fue establecida después de nuestra victoria en la guerra civil y está protegiendo este país, su gente y los intereses del proletariado. Es el faro del mundo socialista en Europa del este y central. Si queremos que la revolución sea protegida o incluso expandida, tendremos que manejar la [GetNVAIdeaName] con gran cuidado pero también con prioridad."
 GER_nva_institute_equal_service:0 "Instituir servicio igualitario"
@@ -1360,16 +1336,19 @@ GER_nva_joint_military_exercise_idea_modifier_tt:0 "Costo de poder político: §
 GER_nva_joint_military_exercise:0 "Proponer un ejercicio conjunto"
 GER_nva_joint_military_exercise_desc:0 "Tenemos aliados capaces con los que podemos entrenar nuestras tácticas y optimizar nuestra cooperación en el campo de batalla."
 
+ # democratic expansion by flor
+ # leaders
 GER_otto_wels:0 "Otto Wels"
 GER_hans_vogel:0 "Hans Vogel"
 GER_election_comission:0 "Comisión Electoral"
 
-r56.ger.60.t:0 "¡Día de elecciones!"
+ # events
+r56.ger.60.t:0 "¡Jornada electoral!"
 r56.ger.60.desc:0 "Un país democrático necesita sus elecciones para funcionar, hoy se celebrarán estas elecciones y el ganador liderará el gobierno y por lo tanto obtendrá el cargo de presidente.\n\nHay dos partidos principales que tienen una oportunidad de ganar las elecciones. El partido más popular por mucho es el SPD, que ha tenido una considerable influencia en la política [ROOT.GetAdjectiveCap] durante la mayor parte de su existencia. Representan puntos de vista socialdemócratas, favoreciendo a las clases bajas de trabajadores mediante el fortalecimiento de los sindicatos y el establecimiento de un sistema social.\nSu principal competidor es Zentrum, el partido algo más antiguo y centrista de los dos. Sus principales votantes son católicos del sur de Alemania. El partido es más conservador en sus políticas culturales y económicas, pero no rehúye aumentar los beneficios para los trabajadores.\n\nAhora, todos los votos han sido contados y los resultados son los siguientes:"
 r56.ger.60.a:0 "¡Zentrum gana de manera decisiva!"
-r56.ger.60.b:0 "¡SPD gana de manera decisiva!"
+r56.ger.60.b:0 "¡El SPD gana de manera decisiva!"
 r56.ger.60.c:0 "¡Zentrum gana por poco y forma una coalición!"
-r56.ger.60.d:0 "¡SPD gana por poco y forma una coalición!"
+r56.ger.60.d:0 "¡El SPD gana por poco y forma una coalición!"
 r56.ger.60.e:0 "¡El gobierno actual obtiene otros 4 años sin oposición!"
 
 r56.ger.61.t:0 "Otto Wels muere a los 66 años"
@@ -1380,6 +1359,7 @@ r56.ger.63.t:0 "Hans Vogel muere a los 58 años"
 r56.ger.63.desc:0 "El presidente está muerto. Falleció pacíficamente mientras dormía a los 58 años. Aunque relativamente joven, ha tenido una vida plena, dedicada a Alemania y su prosperidad.\n\nHa estado políticamente activo en los sindicatos desde joven y ha sido un pilar de la política alemana durante varias décadas. Se convirtió en copresidente del SPD, junto con Otto Wels y Arthur Crispien en 1931. Después de la muerte de Wels en 1939, se convirtió en presidente, llevando a Alemania hacia un futuro brillante.\n\nSu sucesor, Kurt Schumacher, se convertirá oficialmente en presidente en los próximos días, mientras el ex presidente es enterrado en un cementerio de Berlín."
 r56.ger.63.a:0 "¡Descanse en paz! Schumacher será un digno sucesor."
 
+ # party names
 GER_zentrum:0 "Zentrum"
 GER_zentrum_coalition:0 "Zentrum - SPD"
 GER_spd:0 "SPD"
@@ -1391,4 +1371,5 @@ GER_spd_coalition_long:0 "Sozialdemokratische Partei Deutschlands - Deutsche Zen
 GER_neutral_gov:0 "Übergangspartei"
 GER_neutral_gov_long:0 "Übergangspartei"
 
+ # tooltips
 gov_count_middle:0 "\n§RElegir el mismo gobierno nuevamente desestabilizará nuestra democracia!§!"
