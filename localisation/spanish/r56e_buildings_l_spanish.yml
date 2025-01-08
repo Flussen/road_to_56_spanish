@@ -1,0 +1,26 @@
+﻿#####---------------------------------------------------------------------> Mod by Sig "GreatExperiment" Altre
+
+#--> Buildings
+
+l_spanish:
+
+
+ aluminum_mill:0 "Fábrica de Aluminio"
+ aluminum_mill_plural:0 "Fábricas de Aluminio"
+ aluminum_mill_desc:0 "Este edificio proporciona nuevos recursos al estado"
+ aluminum_mill_amount:0 "$VALUE|Y0=$"
+ aluminum_mill_resource:0 "£resources_strip|$FRAME$" 
+ steel_mill:0 "Fábrica de Acero"
+ steel_mill_plural:0 "Fábricas de Acero"
+ steel_mill_desc:0 "Este edificio proporciona nuevos recursos al estado"
+ steel_mill_amount:0 "$VALUE|Y0=$"
+ steel_mill_resource:0 "£resources_strip|$FRAME$" 
+ rubber_refinery:0 "Refinería de Caucho"
+ rubber_refinery_plural:0 "Refinerías de Caucho"
+ rubber_refinery_desc:0 "Este edificio proporciona nuevos recursos al estado"
+ rubber_refinery_amount:0 "$VALUE|Y0=$"
+ rubber_refinery_resource:0 "£resources_strip|$FRAME$" 
+
+ construction_speed_open_tt:0 "§YToggle Construction Time Modifier Display§!"
+ 
+#####---------------------------------------------------------------------> End

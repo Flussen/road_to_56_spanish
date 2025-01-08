@@ -123,11 +123,12 @@ operation_infiltrate_armed_forces_navy_risk:0 "Riesgo de Infiltración en la Mar
 operation_infiltrate_armed_forces_airforce_risk:0 "Riesgo de Infiltración en la Fuerza Aérea"
 operation_targeted_sabotage_industry_risk:0 "Riesgo de Sabotaje Industrial"
 linguist_trait_chance_factor:0 "Probabilidad de reclutar un Operativo con el rasgo §HLingüista§!"
-upgrade_linguistic_training:0 "Entrenamiento Lingüístico"
+upgrade_linguistic_training:0 "Formación lingüística"
 linguistic_training_enabled_tt:0 "Probabilidad de reclutar un Operativo con el rasgo §YLingüista§!: §G+100%§!\nProbabilidad de que un Operativo con el rasgo §YLingüista§! adquiera nuevas nacionalidades al completar una misión §G+50%§!\nEl Operativo con el rasgo §YLingüista§! comenzará con una nacionalidad aleatoria de un país principal, un país vecino o un país en guerra contigo."
 
+
 idea_resistance_network_operative_1:0 "Apoyo Operativo de Resistencia"
-resistance_60:0 "Redes de Inteligencia Subterráneas"
+resistance_60:0 "Redes clandestinas de inteligencia"
 resistance_60_effect_tooltip:0 "[FROM.GetNameWithFlag], gana §G+1§! §YOperativo§! si existe."
 
 EFFECT_CREATE_INTELLIGENCE_AGENCY:0 "Crear una §YAgencia de Inteligencia§!."
