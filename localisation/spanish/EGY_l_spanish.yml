@@ -814,12 +814,12 @@ egypt.14.d:0 "En proceso"
 egypt.14.a:0 "Una traición inesperada."
 
 egypt.15.t:0 "La conferencia termina a favor de [EGY.getNameDef]"
-egypt.15.d:0 "Con el fin de la conferencia, es evidente que [EGY.GetNameDef] ha logrado una clara ventaja sobre [ENG.GetNameDef]. Ahora es evidente que su derecho a la autodeterminación y la expulsión completa de la influencia [ENG.GetAdjective] en favor de la plena independencia [EGY.GetAdjective] es una realidad y que ahora pueden tomar este curso de acción si así lo desean.\n\nA pesar de esto, el futuro de [EGY.GetNameDef] sigue siendo incierto."
-egypt.15.a:0 "La conferencia ha concluido."
+egypt.15.d:0 "Con la conferencia llegando a su fin, está claro que [EGY.GetNameDef] ha ganado la partida a [ENG.GetNameDef]. Ahora es evidente que su derecho a la autodeterminación y la expulsión de la influencia de [ENG.GetNameDef] en favor de la plena independencia de [EGY.GetNameDef] es una realidad y que ahora es un proceso que pueden tomar como curso de acción si así lo desean."
 
 egypt.16.t:0 "La conferencia termina a favor de [ENG.getNameDef]"
-egypt.16.d:0 "Con el fin de la conferencia, es evidente que [ENG.GetNameDef] ha ganado la clara ventaja sobre [EGY.GetNameDef]. Está claro que los [EGY.GetAdjective] están destinados a seguir siendo subordinados a los [ENG.GetAdjective] y que su idea de independencia no es más que una formalidad para fortalecer las relaciones globales y apaciguar al pueblo. Los intereses [ENG.GetAdjective] en [EGY.GetNameDef] han sido ahora reforzados con mano de hierro.\n\nSin embargo, con este desarrollo, la agitación dentro de la nación podría aumentar debido al sentimiento anti-[ENG.GetAdjective]. Solo el tiempo dirá cuál será el futuro de la nación."
-egypt.16.a:0 "La conferencia ha concluido."
+egypt.16.d:0 "Con la conferencia llegando a su fin, está claro que [ENG.GetNameDef] se ha impuesto a [EGY.GetNameDef]. Ahora es evidente que los [EGY.GetAdjective]s están destinados a permanecer subordinados a los [ENG.GetAdjective] y que su idea de independencia es una mera formalidad para reforzar las relaciones globales y apaciguar a la gente. Los intereses de [ENG.GetAdjective] en [EGY.GetNameDef] se han reforzado ahora con un férreo control. Sin embargo, con este desarrollo podría aumentar el malestar dentro de la nación debido al sentimiento anti-[ENG.GetAdjective], sólo el tiempo dirá cuál es el futuro de la nación.
+
+Traducción realizada con la versión gratuita del traductor DeepL.com"
 
 egypt.17.t:0 "La conferencia termina de manera inconclusa"
 egypt.17.d:0 "Debido a circunstancias imprevistas, la conferencia no ha podido continuar o no se ha establecido una ventaja clara. No está claro cómo procederán las cosas, pero ambas partes pueden intentar capitalizar estos desarrollos."
