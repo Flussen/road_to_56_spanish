@@ -87,6 +87,7 @@ has_government_democratic_socialism_tt:0 "El líder actual del país tiene la id
 not_has_government_anarchism_tt:0 "El líder actual del país no tiene la ideología §HAnarquismo§! o §HComunismo Anarquista§!"
 has_government_anarchism_tt:0 "El líder actual del país tiene la ideología §HAnarquismo§! o §HComunismo Anarquista§!"
 individual_rights_trigger_tt:0 "El líder actual del país tiene la ideología §HSocialismo Democrático§!, §HAnarquismo§! o §HComunismo Anarquista§!"
+r56_tooltip_is_independent_or_has_fascist_overlord:0 "Debe ser totalmente independiente o NO tener un §Señor fascista§."
 
 
 #Events
