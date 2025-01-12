@@ -1,14 +1,15 @@
 ﻿l_spanish:
 
-MON_GATHERING_STORM_DESC:0 "On the crossroads of the worlds Mongolia has found its resting place since the 1911 proclamation of independence from the Qing Empire. The Soviet aid turned the country into the People's Republic which has undergone huge governmental and economic changes in the recent years. \n\nBut with the new threat rising in the East, the Chinese Civil War lasting to the South and decaying relationship with USSR, the country might become a new frontier if the power balance tilts to the wrong side..."
+MON_GATHERING_STORM_DESC:0 "En el cruce de los mundos, Mongolia ha encontrado su lugar de reposo desde la proclamación de independencia en 1911 del Imperio Qing. La ayuda soviética transformó al país en la República Popular, la cual ha experimentado enormes cambios gubernamentales y económicos en los últimos años. \n\nPero con la nueva amenaza al alza en el Este, la Guerra Civil China que persiste en el Sur y las relaciones deterioradas con la URSS, el país podría convertirse en una nueva frontera si el equilibrio de poder se inclina hacia el lado equivocado..."
 
-MONGOL_UNIFIED_claim_greater_mongolia:0 "Claim Greater Mongolia"
-MONGOL_UNIFIED_claim_greater_mongolia_desc:0 "We must try to reunite Mongol lands under one banner!"
-MONGOL_UNIFIED_stimulate_mongol_traditions:0 "Stimulate Mongol Traditions"
-MONGOL_UNIFIED_stimulate_mongol_traditions_desc:0 "We are all Mongols!"
+MONGOL_UNIFIED_claim_greater_mongolia:0 "Reclamar la Gran Mongolia"  
+MONGOL_UNIFIED_claim_greater_mongolia_desc:0 "¡Debemos intentar reunir las tierras mongolas bajo una sola bandera!"  
+MONGOL_UNIFIED_stimulate_mongol_traditions:0 "Estimular las Tradiciones Mongolas"  
+MONGOL_UNIFIED_stimulate_mongol_traditions_desc:0 "¡Todos somos mongoles!"  
 
-integration_mongolian_lands_category:0 "Integration of Mongol Lands"
-integration_mongolian_lands_category_desc:0 "The control of lands inhabited by mongol populations offer us the opportunity to expand our administration to these regions and integrate them to our state."
+integration_mongolian_lands_category:0 "Integración de las Tierras Mongolas"  
+integration_mongolian_lands_category_desc:0 "El control de las tierras habitadas por poblaciones mongolas nos ofrece la oportunidad de expandir nuestra administración a estas regiones e integrarlas a nuestro estado."
+
 #MON_decision_integrate_tuva:0 "Integrate Tuva"
 #MON_decision_integrate_mongolia:0 "Integrate Mongolia"
 #MON_decision_integrate_south_chahar:0 "Integrate South Chahar"
@@ -19,12 +20,12 @@ integration_mongolian_lands_category_desc:0 "The control of lands inhabited by m
 #MON_decision_integrate_buryatia:0 "Integrate Buryatia"
 #MON_decision_integrate_irkutsk:0 "Integrate Irkutsk"
 
-MON_decision_integrate_mongol_state:0 "Integrate [FROM.GetName]"
+MON_decision_integrate_mongol_state:0 "Integrar a [FROM.GetName]"
 
-MON_reform_the_cavalry:0 "Reform the Cavalry"
+MON_reform_the_cavalry:0 "Reformar la Caballería"
 
-MON_go_on_pilgrimage_to_the_burkhan_khaldun:0 "Go on Pilgrimage to the Burkhan Khaldun"
-MON_go_on_pilgrimage_to_the_burkhan_khaldun_desc:0 "Holiest mountain in Mongolia, the Burkhan Khaldun may also be the resting place of Genghis Khan and his successors. A place of great importance for any Mongol willing to dominate everything under the sky."
+MON_go_on_pilgrimage_to_the_burkhan_khaldun:0 "Hacer Peregrinaje al Burkhan Khaldun"  
+MON_go_on_pilgrimage_to_the_burkhan_khaldun_desc:0 "La montaña más sagrada de Mongolia, el Burkhan Khaldun, puede ser también el lugar de descanso de Genghis Khan y sus sucesores. Un lugar de gran importancia para cualquier mongol dispuesto a dominar todo lo que está bajo el cielo."
 
 #mongol.7.t:0 "Dancing Shadows"
 #mongol.7.d:0 "Since the massive political reshuffles that have occurred in [SOV.GetNameDef]. Many officials within the [SOV.GetName] fear that #[Root.GetName] may be protecting enemies of [SOV.GetLeader]’s regime. They request that possible enemies of [SOV.GetNameDef] be extradited. #Furthermore [SOV.GetLeader] has targeted [Root.GetLeader] as someone who has protected enemies of [SOV.GetNameDef] and wants his swift trial #and execution."
@@ -37,26 +38,26 @@ TAN_lapshyn_oyun:0 "Lapshyn Oyun"
 TAN_seren_kuzhuget:0 "Seren Kuzhuget"
 
 
-GEN_tuva_annex_ussr:0 "Soviet What?"
-GEN_tuva_annex_ussr_desc:0 "CongratulationS! You found the secret focus suggested by someone on the rt56 discord. He thought that his plea was ignored but against all odds, his call was heard. A gracious Waffle listened his prayer and made his vow a reality under a moonless sky. Have fun enjoying your easy Tuvan world conquest."
+GEN_tuva_annex_ussr:0 "¿Soviético qué?"  
+GEN_tuva_annex_ussr_desc:0 "¡Felicidades! Encontraste el enfoque secreto sugerido por alguien en el Discord de rt56. Pensó que su solicitud fue ignorada, pero contra todo pronóstico, su llamada fue escuchada. Un generoso Waffle escuchó su oración e hizo realidad su promesa bajo un cielo sin luna. Diviértete disfrutando de tu fácil conquista mundial de Tuvá."
 
-EFFECT_CHANGE_LAW_r56i_gender_social:0 "Changes the Legal Status of Woman to:"
-EFFECT_CHANGE_LAW_r56i_social_order:0 "Changes the Social Order to:"
-EFFECT_CHANGE_LAW_r56i_leadership:0 "Changes the Leadership Law to:"
-EFFECT_CHANGE_LAW_r56i_war:0 "Changes the Wartime Law to:"
+EFFECT_CHANGE_LAW_r56i_gender_social:0 "Cambia el Estatus Legal de la Mujer a:"  
+EFFECT_CHANGE_LAW_r56i_social_order:0 "Cambia el Orden Social a:"  
+EFFECT_CHANGE_LAW_r56i_leadership:0 "Cambia la Ley de Liderazgo a:"  
+EFFECT_CHANGE_LAW_r56i_war:0 "Cambia la Ley de Guerra a:"
 
 
 ########################################### MONGOLIAN FOCUS TREE by Fantom ##############################################
-Mongolia_focus:0 "Mongolian National Focus"
+Mongolia_focus:0 "Enfoque Nacional Mongol"
 
-if_they_accept_alt_tt:0 "\n§HEffects if they accept (Alternative):§!"
+if_they_accept_alt_tt:0 "\n§HEfectos si aceptan (Alternativo):§!"
 ####### Working with/against neighbors ########
-MON_on_the_crossroads_of_the_world_category:0 "On the Crossroad of the Worlds"
-MON_on_the_crossroads_of_the_world_category_desc:0 "Strategic location of our country combined with arising tensions in Eastern and Southern-East Asia allow us to pursue various favours of the surrounding powers in another Great Game.\n§HShould a country has more than §R90§! £influence_icon upon us, they might be able to §Rsubjugate§! us!§!\n\n §H [SOV.GetNameWithFlag] influence:§! [?MON.sov_influence_in_mon|+0] £influence_icon \n\n §H [JAP.GetNameWithFlag] influence:§! [?MON.jap_influence_in_mon|+0] £influence_icon \n\n §H [CHI.GetNameWithFlag] influence:§! [?MON.chi_influence_in_mon|+0] £influence_icon \n\n §H [PRC.GetNameWithFlag] influence:§! [?MON.prc_influence_in_mon|+0] £influence_icon \n\n"
-sov_influence_showcase:0 "[SOV.GetNameDefCap] has [?MON.sov_influence_in_mon|+0] §HInfluence Points§!\n"
-jap_influence_showcase:0 "[JAP.GetNameDefCap] has [?MON.jap_influence_in_mon|+0] §HInfluence Points§!\n"
-chi_influence_showcase:0 "[CHI.GetNameDefCap] has [?MON.chi_influence_in_mon|+0] §HInfluence Points§!\n"
-prc_influence_showcase:0 "[PRC.GetNameDefCap] has [?MON.prc_influence_in_mon|+0] §HInfluence Points§!\n"
+MON_on_the_crossroads_of_the_world_category:0 "En el Cruce de los Mundos"
+MON_on_the_crossroads_of_the_world_category_desc:0 "La ubicación estratégica de nuestro país, combinada con las tensiones crecientes en el este y sureste de Asia, nos permite buscar diversos favores de las potencias circundantes en otro Gran Juego.\n§HSi un país tiene más de §R90§! £icono_influencia sobre nosotros, ¡podrían ser capaces de §Rsubyugarnos§! ¡§!\n\n §H [SOV.GetNameWithFlag] influencia:§! [?MON.sov_influence_in_mon|+0] £icono_influencia \n\n §H [JAP.GetNameWithFlag] influencia:§! [?MON.jap_influence_in_mon|+0] £icono_influencia \n\n §H [CHI.GetNameWithFlag] influencia:§! [?MON.chi_influence_in_mon|+0] £icono_influencia \n\n §H [PRC.GetNameWithFlag] influencia:§! [?MON.prc_influence_in_mon|+0] £icono_influencia \n\n"
+sov_influence_showcase:0 "[SOV.GetNameDefCap] tiene [?MON.sov_influence_in_mon|+0] §HPuntos de Influencia§!\n"
+jap_influence_showcase:0 "[JAP.GetNameDefCap] tiene [?MON.jap_influence_in_mon|+0] §HPuntos de Influencia§!\n"
+chi_influence_showcase:0 "[CHI.GetNameDefCap] tiene [?MON.chi_influence_in_mon|+0] §HPuntos de Influencia§!\n"
+prc_influence_showcase:0 "[PRC.GetNameDefCap] tiene [?MON.prc_influence_in_mon|+0] §HPuntos de Influencia§!\n"
 
 sov_influence_in_mon_icon_value:0 "[?MON.sov_influence_in_mon|0H]"
 jap_influence_in_mon_icon_value:0 "[?MON.jap_influence_in_mon|0H]"
@@ -67,45 +68,44 @@ MON_sov_tt:0 "§H[SOV.GetNameWithFlag]:§!\n"
 MON_jap_tt:0 "§H[JAP.GetNameWithFlag]:§!\n"
 MON_chi_tt:0 "§H[CHI.GetNameWithFlag]:§!\n"
 MON_prc_tt:0 "§H[PRC.GetNameWithFlag]:§!\n"
-MON_low_influence_increase_tt:0 "   §G+§![?MON_low_influence_increase|+0] £influence_icon §HInfluence Points§!\n"
-MON_medium_influence_increase_tt:0 "   §G+§![?MON_medium_influence_increase|+0] £influence_icon §HInfluence Points§!\n"
-MON_high_influence_increase_tt:0 "   §G+§![?MON_high_influence_increase|+0] £influence_icon §HInfluence Points§!\n"
+MON_low_influence_increase_tt:0 "   §G+§![?MON_low_influence_increase|+0] £icono_influencia §HPuntos de Influencia§!\n"
+MON_medium_influence_increase_tt:0 "   §G+§![?MON_medium_influence_increase|+0] £icono_influencia §HPuntos de Influencia§!\n"
+MON_high_influence_increase_tt:0 "   §G+§![?MON_high_influence_increase|+0] £icono_influencia §HPuntos de Influencia§!\n"
 
-MON_low_influence_decrease_tt:0 "   §R§![?MON_low_influence_decrease|+0] £influence_icon §HInfluence Points§!\n"
-MON_medium_influence_decrease_tt:0 "   §R§![?MON_medium_influence_decrease|+0] £influence_icon §HInfluence Points§!\n"
-MON_high_influence_decrease_tt:0 "   §R§![?MON_high_influence_decrease|+0] £influence_icon §HInfluence Points§!\n"
+MON_low_influence_decrease_tt:0 "   §R§![?MON_low_influence_decrease|+0] £icono_influencia §HPuntos de Influencia§!\n"
+MON_medium_influence_decrease_tt:0 "   §R§![?MON_medium_influence_decrease|+0] £icono_influencia §HPuntos de Influencia§!\n"
+MON_high_influence_decrease_tt:0 "   §R§![?MON_high_influence_decrease|+0] £icono_influencia §HPuntos de Influencia§!\n"
 
-MON_study_foreign_machinery:0 "Study Foreign Machinery"
-MON_study_foreign_electronics:0 "Acquire Electronics"
-MON_manipulate_FROM_representatives:0 "Manipulate [FROM.getAdjective] Representatives"
-MON_solidify_ties_with_from_politicians:0 "Approach [FROM.getNameDef]"
-MON_promote_an_independent_diplomatic_stance:0 "Promote an Independent Diplomatic Stance"
+MON_study_foreign_machinery:0 "Estudiar Maquinaria Extranjera"
+MON_study_foreign_electronics:0 "Adquirir Electrónica"
+MON_manipulate_FROM_representatives:0 "Manipular Representantes de [FROM.getAdjective]"
+MON_solidify_ties_with_from_politicians:0 "Acercarse a los Políticos de [FROM.getNameDef]"
+MON_promote_an_independent_diplomatic_stance:0 "Promover una Postura Diplomática Independiente"
 
-MON_sov_influence_more_10_tt:0 "§H[SOV.GetFlag] [SOV.getAdjective]§! £influence_icon Influence is higher than §H10§!"
-MON_sov_influence_more_20_tt:0 "§H[SOV.GetFlag] [SOV.getAdjective]§! £influence_icon Influence is higher than §H20§!"
-MON_sov_influence_more_40_tt:0 "§H[SOV.GetFlag] [SOV.getAdjective]§! £influence_icon Influence is higher than §H40§!"
+MON_sov_influence_more_10_tt:0 "§H[SOV.GetFlag] [SOV.getAdjective]§! £icono_influencia La influencia es mayor que §H10§!"
+MON_sov_influence_more_20_tt:0 "§H[SOV.GetFlag] [SOV.getAdjective]§! £icono_influencia La influencia es mayor que §H20§!"
+MON_sov_influence_more_40_tt:0 "§H[SOV.GetFlag] [SOV.getAdjective]§! £icono_influencia La influencia es mayor que §H40§!"
 
-MON_sov_influence_less_85_tt:0 "§H[SOV.GetFlag] [SOV.getAdjective]§! £influence_icon Influence is less than §H85§!"
-MON_jap_influence_less_85_tt:0 "§H[JAP.GetFlag] [JAP.getAdjective]§! £influence_icon Influence is less than §H85§!"
-MON_chi_influence_less_85_tt:0 "§H[CHI.GetFlag] [CHI.getAdjective]§! £influence_icon Influence is less than §H85§!"
-MON_prc_influence_less_85_tt:0 "§H[PRC.GetFlag] [PRC.getAdjective]§! £influence_icon Influence is less than §H85§!"
+MON_sov_influence_less_85_tt:0 "§H[SOV.GetFlag] [SOV.getAdjective]§! £icono_influencia La influencia es menor que §H85§!"
+MON_jap_influence_less_85_tt:0 "§H[JAP.GetFlag] [JAP.getAdjective]§! £icono_influencia La influencia es menor que §H85§!"
+MON_chi_influence_less_85_tt:0 "§H[CHI.GetFlag] [CHI.getAdjective]§! £icono_influencia La influencia es menor que §H85§!"
+MON_prc_influence_less_85_tt:0 "§H[PRC.GetFlag] [PRC.getAdjective]§! £icono_influencia La influencia es menor que §H85§!"
 
-MON_sov_influence_more_30_tt:0 "§H[SOV.GetFlag] [SOV.getAdjective]§! £influence_icon Influence is higher than §H30§!"
-MON_jap_influence_more_30_tt:0 "§H[JAP.GetFlag] [JAP.getAdjective]§! £influence_icon Influence is higher than §H30§!"
-MON_chi_influence_more_30_tt:0 "§H[CHI.GetFlag] [CHI.getAdjective]§! £influence_icon Influence is higher than §H30§!"
-MON_prc_influence_more_30_tt:0 "§H[PRC.GetFlag] [PRC.getAdjective]§! £influence_icon Influence is higher than §H30§!"
+MON_sov_influence_more_30_tt:0 "§H[SOV.GetFlag] [SOV.getAdjective]§! £icono_influencia La influencia es mayor que §H30§!"
+MON_jap_influence_more_30_tt:0 "§H[JAP.GetFlag] [JAP.getAdjective]§! £icono_influencia La influencia es mayor que §H30§!"
+MON_chi_influence_more_30_tt:0 "§H[CHI.GetFlag] [CHI.getAdjective]§! £icono_influencia La influencia es mayor que §H30§!"
+MON_prc_influence_more_30_tt:0 "§H[PRC.GetFlag] [PRC.getAdjective]§! £icono_influencia La influencia es mayor que §H30§!"
 
-MON_sov_influence_less_50_tt:0 "§H[SOV.GetFlag] [SOV.getAdjective]§! £influence_icon Influence is lower than §H50§!"
-MON_jap_influence_less_50_tt:0 "§H[JAP.GetFlag] [JAP.getAdjective]§! £influence_icon Influence is lower than §H50§!"
-MON_chi_influence_less_50_tt:0 "§H[CHI.GetFlag] [CHI.getAdjective]§! £influence_icon Influence is lower than §H50§!"
+MON_sov_influence_less_50_tt:0 "§H[SOV.GetFlag] [SOV.getAdjective]§! £icono_influencia La influencia es menor que §H50§!"
+MON_jap_influence_less_50_tt:0 "§H[JAP.GetFlag] [JAP.getAdjective]§! £icono_influencia La influencia es menor que §H50§!"
+MON_chi_influence_less_50_tt:0 "§H[CHI.GetFlag] [CHI.getAdjective]§! £icono_influencia La influencia es menor que §H50§!"
 
-MON_sov_influence_more_50_tt:0 "§H[SOV.GetFlag] [SOV.getAdjective]§! £influence_icon Influence is higher than §H50§!"
-MON_jap_influence_more_50_tt:0 "§H[JAP.GetFlag] [JAP.getAdjective]§! £influence_icon Influence is higher than §H50§!"
-MON_chi_influence_more_50_tt:0 "§H[CHI.GetFlag] [CHI.getAdjective]§! £influence_icon Influence is higher than §H50§!"
+MON_sov_influence_more_50_tt:0 "§H[SOV.GetFlag] [SOV.getAdjective]§! £icono_influencia La influencia es mayor que §H50§!"
+MON_jap_influence_more_50_tt:0 "§H[JAP.GetFlag] [JAP.getAdjective]§! £icono_influencia La influencia es mayor que §H50§!"
+MON_chi_influence_more_50_tt:0 "§H[CHI.GetFlag] [CHI.getAdjective]§! £icono_influencia La influencia es mayor que §H50§!"
 
-MON_any_influence_more_50_tt:0 "£influence_icon Influence of either §H[SOV.GetFlag] [SOV.getAdjective]s§!, §H[JAP.GetFlag] [JAP.getAdjective]§! or §H[CHI.GetFlag] [CHI.getAdjective]§! is higher than §H50§!"
-MON_any_influence_more_50_outcome_tt:0 "Every country with £influence_icon Influence higher than §H50§! will §Gguarantee§! us. \nIf they additionally have an §Yopinion§! of §Yus§! greater than §G80§! at the end of the conference, we will be able to request Greater Mongolian territories from them."
-
+MON_any_influence_more_50_tt:0 "£icono_influencia La influencia de cualquiera de §H[SOV.GetFlag] [SOV.getAdjective]s§!, §H[JAP.GetFlag] [JAP.getAdjective]§! o §H[CHI.GetFlag] [CHI.getAdjective]§! es mayor que §H50§!"
+MON_any_influence_more_50_outcome_tt:0 "Cualquier país con £icono_influencia influencia mayor que §H50§! nos §Ggarantizará§!. \nSi además tienen una §Yopinión§! de §Ynosotros§! mayor que §G80§! al final de la conferencia, podremos solicitarles territorios de la Gran Mongolia."
 
 MON_pursuing_ties_with_one_scw_side:0 "Pursuing Ties with one of the sides of [SOV.getAdjective] Civil War"
 MON_support_the_sov_leader_loyalists:0 "Support [FROM.getLeader] Loyalists"
@@ -117,7 +117,7 @@ MON_picked_a_side_in_soviet_civil_war:0 "Picked a side in the [SOV.getAdjective]
 MON_supports_our_cause:0 "Mongolia supports our cause"
 
 MON_expand_the_recruitment_campaign:0 "Expand the Recruitment Campaign"
-MON_expand_the_recruitment_campaign_desc:0 "Considering the border guards recent report, it becomes obvious that our borders are constantly being violated by the foreign intruders. We shall reinforce the borders, expand the length of service and conscript more volunteers to join the border patrols if we are to protect Mongolia from outer dangers!""
+MON_expand_the_recruitment_campaign_desc:0 "Considering the border guards recent report, it becomes obvious that our borders are constantly being violated by the foreign intruders. We shall reinforce the borders, expand the length of service and conscript more volunteers to join the border patrols if we are to protect Mongolia from outer dangers!"
 
 #opinions#
 MON_forced_aid:0 "Enforced Aid"
@@ -134,26 +134,19 @@ MON_supporting_self_determination:0 "Supporting Self-Determination"
 
 #######Mongolian Navy decisions#############
 MON_mongolian_naval_effort_category:0 "[ROOT.getAdjective] Naval Effort"
-MON_mongolian_naval_effort_category_desc:0 "For centuries we were roaming the lands of our ancestors in the search for fame and glory, but as the time change and the world grows larger, we must consider the possibility of gaining new ways of transportation, trade and warfare."
-MON_lease_foreign_dockyards_decision:0 "Lease Foreign Dockyards"
-MON_force_the_dockyard_construction:0 "Force the Dockyard Construction"
+MON_mongolian_naval_effort_category_desc:0 "Durante siglos, estuvimos recorriendo las tierras de nuestros ancestros en busca de fama y gloria, pero a medida que el tiempo cambia y el mundo crece más grande, debemos considerar la posibilidad de obtener nuevas formas de transporte, comercio y guerra."
+MON_lease_foreign_dockyards_decision:0 "Arrendar Astilleros Extranjeros"
+MON_force_the_dockyard_construction:0 "Forzar la Construcción de Astilleros"
+
 
 #ships transfer from "naval integration"
-MON_transfer_subjects_battleship:0 "Seize Subjects §HBattleship§!"
-MON_transfer_subjects_carrier:0 "Utilize Puppets §HCarrier§!"
-MON_transfer_subjects_two_heavy_cruisers:0 "Incorporate §HTwo Heavy Cruisers§!"
-MON_transfer_subjects_three_light_cruisers:0 "Transfer §HThree Light Cruisers§! to us"
+MON_transfer_subjects_battleship:0 "Tomar el Acorazado de los Sujetos §H"
+MON_transfer_subjects_carrier:0 "Utilizar el Portaviones de los Títeres §H"
+MON_transfer_subjects_two_heavy_cruisers:0 "Incorporar §HTwo Heavy Cruisers§!"
+MON_transfer_subjects_three_light_cruisers:0 "Transferir §HThree Light Cruisers§! to us"
 MON_transfer_subjects_five_destroyers:0 "Take Ownership of §HFive Destroyers§!"
 MON_transfer_subjects_ten_submarines:0 "Acquire §HTen§! Marionettes §HSubmarines§!"
 
-MON_gains_one_battleship_from_our_subject_tt:0 "Gains §Hone battleship§!"
-MON_gains_one_carrier_from_our_subject_tt:0 "Gains §Hone carrier§!"
-MON_gains_two_heavy_cruisers_from_our_subject_tt:0 "Gains §Htwo heavy cruisers§!"
-MON_gains_three_light_cruisers_from_our_subject_tt:0 "Gains §Hthree light cruisers§!"
-MON_gains_five_destroyers_from_our_subject_tt:0 "Gains §Hfive destroyers§!"
-MON_gains_ten_submarines_from_our_subject_tt:0 "Gains §Hten submarines§!"
-
-MON_sent_part_of_fleet_to_overlord:0 "Transferred part of the fleet to overlord"
 
 
 
@@ -167,612 +160,616 @@ MON_sent_part_of_fleet_to_overlord:0 "Transferred part of the fleet to overlord"
 
 ########## 1935 Defense Policy Negotiations #############
 
-MON_1935_state_visit_to_moscow_category:0 "1935 State Visit to Moscow"
-MON_1935_state_visit_to_moscow_category_desc:0 "Increased activities of [JAP.GetAdjective] imperialists and their militaristic puppets have raised awareness of the current country's governmental elite in face of Peljidiin Genden. Accompanied by country's Minister of War, Gelegdorjiin Demid, he travelled in December 1935 to Moscow to discuss the possibility of [SOV.getAdjective] military and industrial assistance due to the unsettled Eastern border of our vast nation. \nTalks are expected to be conducted soon, and the question arises, what particular matters shall be discussed there?"
+MON_1935_state_visit_to_moscow_category:0 "Visita de Estado a Moscú en 1935"
+MON_1935_state_visit_to_moscow_category_desc:0 "Las crecientes actividades de los imperialistas [JAP.GetAdjective] y sus títeres militaristas han incrementado la conciencia de la élite gubernamental del país frente a Peljidiin Genden. Acompañado por el Ministro de Guerra del país, Gelegdorjiin Demid, viajó en diciembre de 1935 a Moscú para discutir la posibilidad de asistencia militar e industrial [SOV.getAdjective] debido a la inestable frontera oriental de nuestra vasta nación. \nSe espera que las conversaciones se realicen pronto, y surge la pregunta, ¿qué asuntos particulares se discutirán allí?"
 
-MON_external_policy_negotiations:0 "External Policies Negotiations"
-MON_discuss_the_defence_of_mongolian_state:0 "Discuss the Defense of [MON.getAdjective] state"
-MON_propose_mutual_assistance_treaty:0 "Propose Mutual Assistance Treaty"
-MON_suggest_mongolian_self_reliance:0 "Suggest [MON.getAdjective] Self-Reliance"
-MON_threat_stalin_with_japan:0 "Threaten Stalin with Japan"
+MON_external_policy_negotiations:0 "Negociaciones de Políticas Externas"
+MON_discuss_the_defence_of_mongolian_state:0 "Discutir la Defensa del Estado [MON.getAdjective]"
+MON_propose_mutual_assistance_treaty:0 "Proponer Tratado de Asistencia Mutua"
+MON_suggest_mongolian_self_reliance:0 "Sugerir la Autosuficiencia [MON.getAdjective]"
+MON_threat_stalin_with_japan:0 "Amenazar a Stalin con Japón"
 
 #rescuing Genden#
-MON_trial_of_genden:0 "Trial of Genden"
-MON_exploit_nkvd_system:0 "Exploit NKVD System"
-MON_exploited_nkvd:0 "Exploited NKVD System"
-MON_allows_to_derail_the_valuable_train:0 "Unlocks decisions to "Readjust" the train or caravan route according to our plan."
+MON_trial_of_genden:0 "Juicio de Genden"
+MON_exploit_nkvd_system:0 "Explotar el Sistema NKVD"
+MON_exploited_nkvd:0 "Sistema NKVD Explotado"
+MON_allows_to_derail_the_valuable_train:0 "Desbloquea decisiones para 'Reajustar' la ruta del tren o caravana según nuestro plan."
 
-MON_steal_railway_plan_moscow:0 "Steal Railway Plans in Moscow"
+MON_steal_railway_plan_moscow:0 "Robar los Planes del Ferrocarril en Moscú"
 
-MON_genden_route_kiev:0 "Gendens Train goes through Kiev"
-MON_genden_route_kharkov:0 "Gendens Train is expected to pass Kharkov"
-MON_genden_route_rostov:0 "Genden will be transferred via train through Rostov"
+MON_genden_route_kiev:0 "El tren de Genden pasa por Kiev"
+MON_genden_route_kharkov:0 "Se espera que el tren de Genden pase por Kharkov"
+MON_genden_route_rostov:0 "Genden será transferido por tren a través de Rostov"
 
-MON_genden_rescue_route_kiev:0 "Kiev was secured in an operation"
-MON_genden_rescue_route_kharkov:0 "Kharkov was secured in an inconvenient "operation""
-MON_genden_rescue_route_rostov:0 "Train was derailed in Rostov"
+MON_genden_rescue_route_kiev:0 "Kiev fue asegurado en una operación"
+MON_genden_rescue_route_kharkov:0 "Kharkov fue asegurado en una 'operación' inconveniente"
+MON_genden_rescue_route_rostov:0 "El tren fue descarrilado en Rostov"
 
-MON_path_of_gendens_train:0 "Path of Gendens Train"
+MON_path_of_gendens_train:0 "Ruta del Tren de Genden"
 
-MON_nationalist_strike_in_kiev:0 "Nationalist Strike in Kiev"
-MON_bribe_opportunistic_officials_in_kharkov:0 "Bribe Opportunistic Officials in Kharkov"
-MON_cossac_raid_in_rostov:0 "Cossac Raid in Rostov"
+MON_nationalist_strike_in_kiev:0 "Huelga Nacionalista en Kiev"
+MON_bribe_opportunistic_officials_in_kharkov:0 "Sobornar a Funcionarios Oportunistas en Kharkov"
+MON_cossac_raid_in_rostov:0 "Raza Cosaca en Rostov"
 
-MON_infiltrate_bryansk_railway_station:0 "Infiltrate Bryansk Railway Station"
-MON_infiltrate_moscow_railway_station:0 "Infiltrate Moscow Railway Station"
-MON_infiltrate_gorki_railway_station:0 "Infiltrate Gorki Railway Station"
-MON_infiltrate_kazan_railway_station:0 "Infiltrate Kazan Railway Station"
-MON_infiltrate_izhevsk_railway_station:0 "Infiltrate Izhevsk Railway Station"
-MON_infiltrate_sverdlovsk_railway_station:0 "Infiltrate Sverdlovsk Railway Station"
-MON_infiltrate_tyumen_railway_station:0 "Infiltrate Tyumen Railway Station"
-MON_infiltrate_omsk_railway_station:0 "Infiltrate Omsk Railway Station"
-MON_infiltrate_novosibirsk_railway_station:0 "Infiltrate Novosibirsk Railway Station"
-MON_infiltrate_kemerovo_railway_station:0 "Infiltrate Kemerovo Railway Station"
-MON_infiltrate_krasnoyarsk_railway_station:0 "Infiltrate Krasnoyarsk Railway Station"
-MON_infiltrate_irkutsk_railway_station:0 "Infiltrate Irkutsk Railway Station"
+MON_infiltrate_bryansk_railway_station:0 "Infiltrar la Estación de Ferrocarril de Bryansk"
+MON_infiltrate_moscow_railway_station:0 "Infiltrar la Estación de Ferrocarril de Moscú"
+MON_infiltrate_gorki_railway_station:0 "Infiltrar la Estación de Ferrocarril de Gorki"
+MON_infiltrate_kazan_railway_station:0 "Infiltrar la Estación de Ferrocarril de Kazán"
+MON_infiltrate_izhevsk_railway_station:0 "Infiltrar la Estación de Ferrocarril de Izhevsk"
+MON_infiltrate_sverdlovsk_railway_station:0 "Infiltrar la Estación de Ferrocarril de Sverdlovsk"
+MON_infiltrate_tyumen_railway_station:0 "Infiltrar la Estación de Ferrocarril de Tyumen"
+MON_infiltrate_omsk_railway_station:0 "Infiltrar la Estación de Ferrocarril de Omsk"
+MON_infiltrate_novosibirsk_railway_station:0 "Infiltrar la Estación de Ferrocarril de Novosibirsk"
+MON_infiltrate_kemerovo_railway_station:0 "Infiltrar la Estación de Ferrocarril de Kemerovo"
+MON_infiltrate_krasnoyarsk_railway_station:0 "Infiltrar la Estación de Ferrocarril de Krasnoyarsk"
+MON_infiltrate_irkutsk_railway_station:0 "Infiltrar la Estación de Ferrocarril de Irkutsk"
 
-MON_propose_reschedule_in_voronezh:0 "Propose Reschedule in Voronezh"
-MON_propose_reschedule_in_lipetsk:0 "Propose Reschedule in Lipetsk"
-MON_propose_reschedule_in_tambov:0 "Propose Reschedule in Tambov"
-MON_propose_reschedule_in_penza:0 "Propose Reschedule in Penza"
-MON_propose_reschedule_in_kuibyshev:0 "Propose Reschedule in Kuibyshev"
-MON_propose_reschedule_in_ufa:0 "Propose Reschedule in Ufa"
-MON_propose_reschedule_in_chelyabinsk:0 "Propose Reschedule in Chelyabinsk"
-MON_propose_reschedule_in_omsk:0 "Propose Reschedule in Omsk"
-MON_propose_reschedule_in_novosibirsk:0 "Propose Reschedule in Novosibirsk"
-MON_propose_reschedule_in_kemerovo:0 "Propose Reschedule in Kemerovo"
-MON_propose_reschedule_in_krasnoyarsk:0 "Propose Reschedule in Krasnoyarsk"
-MON_propose_reschedule_in_irkutsk:0 "Propose Reschedule in Irkutsk"
+MON_propose_reschedule_in_voronezh:0 "Proponer Reprogramar en Vorónezh"
+MON_propose_reschedule_in_lipetsk:0 "Proponer Reprogramar en Lipetsk"
+MON_propose_reschedule_in_tambov:0 "Proponer Reprogramar en Tambov"
+MON_propose_reschedule_in_penza:0 "Proponer Reprogramar en Penza"
+MON_propose_reschedule_in_kuibyshev:0 "Proponer Reprogramar en Kuibyshev"
+MON_propose_reschedule_in_ufa:0 "Proponer Reprogramar en Ufa"
+MON_propose_reschedule_in_chelyabinsk:0 "Proponer Reprogramar en Cheliábinsk"
+MON_propose_reschedule_in_omsk:0 "Proponer Reprogramar en Omsk"
+MON_propose_reschedule_in_novosibirsk:0 "Proponer Reprogramar en Novosibirsk"
+MON_propose_reschedule_in_kemerovo:0 "Proponer Reprogramar en Kemerovo"
+MON_propose_reschedule_in_krasnoyarsk:0 "Proponer Reprogramar en Krasnoyarsk"
+MON_propose_reschedule_in_irkutsk:0 "Proponer Reprogramar en Irkutsk"
 
-MON_buy_safe_passage_in_chechnya:0 "Buy Safe Passage in Chechnya"
-MON_buy_safe_passage_in_makhachkala:0 "Buy Safe Passage in Makhachkala"
-MON_buy_safe_passage_in_azerbaijan:0 "Buy Safe Passage in Azerbaijan"
-MON_buy_safe_passage_in_turkmenistan:0 "Buy Safe Passage in Turkmenistan"
-MON_buy_safe_passage_in_bukhara:0 "Buy Safe Passage in Bukhara"
-MON_buy_safe_passage_in_tashkent:0 "Buy Safe Passage in Tashkent"
-MON_buy_safe_passage_in_pamir:0 "Buy Safe Passage in Pamir"
-MON_buy_safe_passage_in_alma_ata:0 "Buy Safe Passage in Alma-Ata"
-MON_buy_safe_passage_in_ayaguz:0 "Buy Safe Passage in Ayaguz"
-MON_buy_safe_passage_in_semipalatinsk:0 "Buy Safe Passage in Semipalatinsk"
-MON_buy_safe_passage_in_gorno_altaysk:0 "Buy Safe Passage in Gorno-Altaysk"
+MON_buy_safe_passage_in_chechnya:0 "Comprar Paso Seguro en Chechenia"
+MON_buy_safe_passage_in_makhachkala:0 "Comprar Paso Seguro en Makhachkala"
+MON_buy_safe_passage_in_azerbaijan:0 "Comprar Paso Seguro en Azerbaiyán"
+MON_buy_safe_passage_in_turkmenistan:0 "Comprar Paso Seguro en Turkmenistán"
+MON_buy_safe_passage_in_bukhara:0 "Comprar Paso Seguro en Bujará"
+MON_buy_safe_passage_in_tashkent:0 "Comprar Paso Seguro en Taskent"
+MON_buy_safe_passage_in_pamir:0 "Comprar Paso Seguro en Pamir"
+MON_buy_safe_passage_in_alma_ata:0 "Comprar Paso Seguro en Alma-Ata"
+MON_buy_safe_passage_in_ayaguz:0 "Comprar Paso Seguro en Ayaguz"
+MON_buy_safe_passage_in_semipalatinsk:0 "Comprar Paso Seguro en Semipalatinsk"
+MON_buy_safe_passage_in_gorno_altaysk:0 "Comprar Paso Seguro en Gorno-Altaysk"
 
-MON_genden_save_here_rostov_route:0 "Genden Route is Safe"
-MON_genden_save_here_kharkov_route:0 "Genden Route is Safe"
-MON_genden_save_here:0 "Genden Route is Safe"
+MON_genden_save_here_rostov_route:0 "La Ruta de Genden está Segura"
+MON_genden_save_here_kharkov_route:0 "La Ruta de Genden está Segura"
+MON_genden_save_here:0 "La Ruta de Genden está Segura"
 
-MON_genden_rescued:0 "Genden was rescued"
+MON_genden_rescued:0 "Genden fue rescatado"
 
 #Army decisions#
-MON_stance_of_mongolian_army:0 "Stance of [ROOT.getAdjective] Army"
+MON_stance_of_mongolian_army:0 "Postura del Ejército [ROOT.getAdjective]"
 
-MON_unlocks_decision_to_perform_military_exercises:0 "Unlocks on-map §HDecisions§! to perform military maneuvers granting §HArmy Experience§!."
+MON_unlocks_decision_to_perform_military_exercises:0 "Desbloquea decisiones en el mapa para realizar maniobras militares, otorgando §HExperiencia de Ejército§!."
 
-MON_already_doing_military_maneuvers:0 "Already performing military exercises elsewhere."
+MON_already_doing_military_maneuvers:0 "Ya se están realizando maniobras militares en otro lugar."
 
-MON_army_maneuvers_completed_2:0 "Military maneuvers were organized at least §Htwice§!."
-MON_army_maneuvers_completed_3:0 "Military maneuvers were organized at least §Hthree times§!."
+MON_army_maneuvers_completed_2:0 "Las maniobras militares se organizaron al menos §Hdos§! veces."
+MON_army_maneuvers_completed_3:0 "Las maniobras militares se organizaron al menos §Htres§! veces."
 
-MON_organize_military_maneuvers:0 "Military Maneuvers in [FROM.getName]"
+MON_organize_military_maneuvers:0 "Organizar Maniobras Militares en [FROM.getName]"
 
-MON_draw_battleplan_against_FROM:0 "Draw Potential Battleplans"
-MON_execute_battleplan_against_FROM:0 "Execute Battleplans against [FROM.getName]"
-MON_promote_hamza_zaysanov_to_general:0 "Promote Hamza Zaysanov to general"
-MON_acquire_tank_designs:0 "Acquire Tank Designs"
+MON_draw_battleplan_against_FROM:0 "Dibujar Planes de Batalla Potenciales"
+MON_execute_battleplan_against_FROM:0 "Ejecutar Planes de Batalla contra [FROM.getName]"
+MON_promote_hamza_zaysanov_to_general:0 "Promover a Hamza Zaysanov a General"
+MON_acquire_tank_designs:0 "Adquirir Diseños de Tanques"
 
-MON_obtain_plane_schematics:0 "Obtain Airplane Schematics"
+MON_obtain_plane_schematics:0 "Obtener Planos de Aviones"
 
-MON_foreign_takeover:0 "[FROM.getAdjective] Takeover"
+MON_foreign_takeover:0 "Toma de [FROM.getAdjective]"
 
-MON_prepare_invasion_of_sov_insurgents:0 "Prepare Invasion against [FROM.getAdjective] Insurgents"
-MON_prepare_invasion_of_sov_insurgents_tt:0 "Unlocks §HDecisions§! to §HPrepare Invasion against Insurgents§! in Soviet Civil War"
-MON_will_join_the_war_against_ussr_tt:0 "§RWe will join the Soviet Civil War on the side of the rebels against both [SOV.getAdjective] authorities!§!"
-MON_invite_all_independent_anti_sovet_tt:0 "§HAll Anti-[SOV.getAdjective] rebels will be invited into the faction!§!"
+MON_prepare_invasion_of_sov_insurgents:0 "Preparar Invasión contra los Insurgentes [FROM.getAdjective]"
+MON_prepare_invasion_of_sov_insurgents_tt:0 "Desbloquea §HDecisiones§! para §HPreparar Invasión contra los Insurgentes§! en la Guerra Civil Soviética"
+MON_will_join_the_war_against_ussr_tt:0 "§R¡Nos uniremos a la Guerra Civil Soviética del lado de los rebeldes contra las autoridades [SOV.getAdjective]!§!"
+MON_invite_all_independent_anti_sovet_tt:0 "§H¡Todos los rebeldes Anti-[SOV.getAdjective] serán invitados a unirse a la facción!§!"
 
-MON_obtain_new_weapon_designs:0 "Obtain New Weapon Designs"
 
-MON_study_foreign_artillery_plans:0 "Study Foreign Artillery Blueprints"
+MON_obtain_new_weapon_designs:0 "Obtener Nuevos Diseños de Armas"
+
+MON_study_foreign_artillery_plans:0 "Estudiar Planos de Artillería Extranjeros"
 
 #Mongolbank game#
-MON_strengthen_mongolbank_category:0 "Strengthen Mongolbank"
-MON_strengthen_mongolbank_category_desc:0 "Created in 1931 in a tight cooperation with the USSR, Mongolbank is a central body which encompasses the whole of the finances of [MON.getNameDef]. \n\nStrengthening its position on the international market is a matter upper importance if we wish to prevent any sort of economic stagnation."
+MON_strengthen_mongolbank_category:0 "Fortalecer Mongolbank"
+MON_strengthen_mongolbank_category_desc:0 "Creado en 1931 en una estrecha cooperación con la URSS, Mongolbank es un organismo central que abarca todas las finanzas de [MON.getNameDef]. \n\nFortalecer su posición en el mercado internacional es una cuestión de suma importancia si deseamos prevenir cualquier tipo de estancamiento económico."
 
-MON_increase_production_quotas:0 "Increase Production Quotas"
+MON_increase_production_quotas:0 "Aumentar las Cuotas de Producción"
 
-MON_reduce_scientists_funding:0 "Reduce Scientists Funding"
+MON_reduce_scientists_funding:0 "Reducir la Financiación a los Científicos"
 
-MON_appropriate_civilian_goods:0 "Appropriate Civilian Goods"
+MON_appropriate_civilian_goods:0 "Apropiar Bienes Civiles"
 
-MON_decrease_army_funding:0 "Decrease Army Funding"
+MON_decrease_army_funding:0 "Disminuir la Financiación al Ejército"
 
-MON_buy_currency_abroad:0 "Buy Currency Abroad"
+MON_buy_currency_abroad:0 "Comprar Moneda en el Extranjero"
 
 #Border Clashes Fun(hopefully)#
-MON_raids_operations_category:0 "Raids into Enemy Territory"
-MON_raids_operations_category_desc:0 "Our current governmental policies dictate a firm stance against the enemies of the people in face of corrupt [CHI.getAdjective] officials and [JAP.getAdjective] imperialists. Long and sparsely defended borders of our nation allow us to infiltrate a few disputed areas and seize some valuable assets. \n\n§HSmall raids§! can be planned §Honly if our state§! neighboring the enemy has §Gat least 1 division§! in it, while §Hbig raids§! require §Gat least 3 divisions§! to be initiated!"
+MON_raids_operations_category:0 "Incursiones en Territorio Enemigo"
+MON_raids_operations_category_desc:0 "Nuestras actuales políticas gubernamentales dictan una postura firme contra los enemigos del pueblo frente a los oficiales corruptos [CHI.getAdjective] y los imperialistas [JAP.getAdjective]. Las largas y escasamente defendidas fronteras de nuestra nación nos permiten infiltrar algunas áreas en disputa y apoderarnos de algunos recursos valiosos. \n\n§HLas pequeñas incursiones§! solo pueden ser planificadas §Hsi nuestro estado§! vecino del enemigo tiene §Gal menos 1 división§! en él, mientras que §Hlas grandes incursiones§! requieren §Gal menos 3 divisiones§! para ser iniciadas."
 
-MON_commit_small_raid:0 "Commit a small raid on §H[From.GetAdjective]§! territory"
-MON_border_clashes_small_raid_75:0 "Cannot commit a small raid against §H[From.GetName]§! for §H75§! days.\n"
-MON_border_clashes_small_raid_warning:0 "§GSmall raid (20-width) will begin!§!"
-MON_small_raid_cancelled:0 "Small Raid Development"
+MON_commit_small_raid:0 "Realizar una pequeña incursión en el territorio de §H[From.GetAdjective]§!"
+MON_border_clashes_small_raid_75:0 "No se puede realizar una pequeña incursión contra §H[From.GetName]§! durante §H75§! días.\n"
+MON_border_clashes_small_raid_warning:0 "§G¡Comenzará una pequeña incursión (ancho 20)!§!"
+MON_small_raid_cancelled:0 "Desarrollo de Incursión Pequeña Cancelado"
 
-MON_commit_big_raid:0 "Big raid on §H[From.GetAdjective]§! lands"
-MON_border_clashes_big_raid_150:0 "Cannot commit a big raid against §H[From.GetName]§! for §H150§! days.\n"
-MON_border_clashes_big_raid_warning:0 "§GBig raid (60-width) will begin!§!"
-MON_big_raid_cancelled:0 "Big Raid Progress"
+MON_commit_big_raid:0 "Gran incursión en las tierras de §H[From.GetAdjective]§!"
+MON_border_clashes_big_raid_150:0 "No se puede realizar una gran incursión contra §H[From.GetName]§! durante §H150§! días.\n"
+MON_border_clashes_big_raid_warning:0 "§G¡Comenzará una gran incursión (ancho 60)!§!"
+MON_big_raid_cancelled:0 "Progreso de Gran Incursión Cancelado"
 
-at_least_three_divisions_in_state:0 "At least §H3§! divisions in the State"
+at_least_three_divisions_in_state:0 "Al menos §H3§! divisiones en el Estado"
 
-MON_khalkin_gol:0 "Khalkin Gol Maneuvers"
-MON_khalkin_gol_soviets_invited:0 "Invited [SOV.getAdjective] to assist in Khalkin Gol "maneuvers""
-MON_request_soviet_infantry:0 "Request [SOV.getAdjective] Infantry Reinforcements"
-MON_request_soviet_tanks:0 "Request [SOV.getAdjective] Tanks Support"
+MON_khalkin_gol:0 "Maniobras de Khalkin Gol"
+MON_khalkin_gol_soviets_invited:0 "Invitar a los [SOV.getAdjective] a asistir a las 'maniobras' de Khalkin Gol"
+MON_request_soviet_infantry:0 "Solicitar Refuerzos de Infantería [SOV.getAdjective]"
+MON_request_soviet_tanks:0 "Solicitar Apoyo de Tanques [SOV.getAdjective]"
 
-MON_khalkin_gol_warning_DEFENDER:0 "[MON.getAdjective] Maneuvers at Khalkin Gol"
+MON_khalkin_gol_warning_DEFENDER:0 "Maniobras [MON.getAdjective] en Khalkin Gol"
 
-MON_border_conflict_escalation_warning_JAP:0 "Escalation: Window of Opportunity"
+MON_border_conflict_escalation_warning_JAP:0 "Escalada: Ventana de Oportunidad"
 
-MON_khalkin_gol_forgotten:0 "Maneuvers Abandoned"
+MON_khalkin_gol_forgotten:0 "Maniobras Abandonadas"
 
-MON_escalate_incident_to_border_conflict_with_JAP:0 "Expand Area of Maneuvers"
+MON_escalate_incident_to_border_conflict_with_JAP:0 "Expandir Área de Maniobras"
 
-MON_border_conflict_time_until_cancelled:0 "Ongoing Khalkin Gol Conflict"
+MON_border_conflict_time_until_cancelled:0 "Conflicto en Khalkin Gol en curso"
 
-MON_border_conflict_escalate_conflict:0 "Further Reinforce the Conflict"
+MON_border_conflict_escalate_conflict:0 "Reforzar el Conflicto"
 
-MON_khalkin_gol_escalate_to_war:0 "Declare War!"
+MON_khalkin_gol_escalate_to_war:0 "¡Declarar la Guerra!"
 
 #Greater Mongolia decisions#
-MON_greater_mongolia:0 "Fate of Greater Mongolia"
+MON_greater_mongolia:0 "Destino de la Gran Mongolia"
 
-MON_southern_border_realignment:0 "[From.getAdjective] Border Realignment"
+MON_southern_border_realignment:0 "Realineación de la Frontera del Sur de [From.getAdjective]"
 
-MON_border_clashes_seize_land_180:0 "Cannot commit an operation against §H[From.GetName]§! for §H180§! days.\n"
-MON_border_clashes_warning_seize:0 "§GBorder conflict will begin!§!"
-MON_border_realignment_cancelled:0 "Operational Advancements"
+MON_border_clashes_seize_land_180:0 "No se puede realizar una operación contra §H[From.GetName]§! durante §H180§! días.\n"
+MON_border_clashes_warning_seize:0 "§G¡Comenzará el conflicto fronterizo!§!"
+MON_border_realignment_cancelled:0 "Avances Operacionales"
 
-MON_unify_greater_mongolia:0 "Unify Greater Mongolia"
-MON_incorporate_buryatia:0 "Incorporate Buryatia"
-MON_integrate_kalmykia:0 "Integrate Kalmykia"
-MON_stimulate_oirat_minority_in_altai:0 "Stimulate Oirat Minority in [654.GetName]"
-MON_stimulate_oirat_minority_in_haixi:0 "Stimulate Oirat Minority in [755.GetName]"
-MON_stimulate_oirat_minority_in_urumqi:0 "Stimulate Oirat Minority in [617.GetName]"
+MON_unify_greater_mongolia:0 "Unificar la Gran Mongolia"
+MON_incorporate_buryatia:0 "Incorporar Buriatia y Chita"
+MON_integrate_kalmykia:0 "Integrar Kalmykia"
+MON_stimulate_oirat_minority_in_altai:0 "Estimular la Minoría Oirat en [654.GetName]"
+MON_stimulate_oirat_minority_in_haixi:0 "Estimular la Minoría Oirat en [755.GetName]"
+MON_stimulate_oirat_minority_in_urumqi:0 "Estimular la Minoría Oirat en [617.GetName]"
 
-form_greater_mongolia_flag:0 "Greater Mongolia was formed"
+form_greater_mongolia_flag:0 "§HLa Gran Mongolia§! ha sido formada."
 
 ##############Ulaanbataar Conference #############
-MON_abandoned_ulaabaatar_conference_flag:0 "Ulaanbaatar Conference was a failure"
+MON_abandoned_ulaabaatar_conference_flag:0 "La Conferencia de Ulaanbaatar fue un fracaso"
 
-MON_ulaabaatar_conference_ongoing:0 "Ulaanbaatar Conference"
-MON_ul_conference_on_the_way:0 "Ongoing Conference"
+MON_ulaabaatar_conference_ongoing:0 "Conferencia de Ulaanbaatar"
+MON_ul_conference_on_the_way:0 "Conferencia en curso"
 
-MON_secure_soviet_support_ul_conference:0 "Secure [SOV.getAdjective] Support"
-MON_secure_japanese_secure_ul_conference:0 "Secure [JAP.getAdjective] Support"
-MON_appeal_to_chinese_recognition_ul_conference:0 "Appeal to [CHI.getAdjective] Recognition"
+MON_secure_soviet_support_ul_conference:0 "Asegurar el Apoyo [SOV.getAdjective]"
+MON_secure_japanese_secure_ul_conference:0 "Asegurar el Apoyo [JAP.getAdjective]"
+MON_appeal_to_chinese_recognition_ul_conference:0 "Apelar al Reconocimiento [CHI.getAdjective]"
 
-MON_attending_ulaanbaatar_conference:0 "Attending the Conference in Ulaanbaatar"
+MON_attending_ulaanbaatar_conference:0 "Asistiendo a la Conferencia en Ulaanbaatar"
 
-MON_prc_alliance_for_recognition:0 "Alliance for Mutual Recognition"
+MON_prc_alliance_for_recognition:0 "Alianza para el Reconocimiento Mutuo"
 
-MON_request_dzungaria:0 "Request Dzungaria"
-MON_request_dabancheng:0 "Request Dabancheng"
-MON_request_jiuquan:0 "Request Jiuquan"
-MON_request_ningxia:0 "Request Ningxia"
-MON_request_ordos:0 "Request Ordos"
-MON_request_suiyuan:0 "Request Suiyan"
-MON_request_north_chahar:0 "Request North Chahar"
-MON_request_south_chahar:0 "Request South Chahar"
-MON_request_north_xingan:0 "Request North Xingan"
-MON_request_chita:0 "Request Chita"
-MON_request_ulan_ude:0 "Request Ulan Ude"
-MON_request_bodaybo:0 "Request Bodaybo"
-MON_request_irkutsk:0 "Request Irkutsk"
-MON_request_tannu_tuva:0 "Request Tannu Tuva"
+MON_request_dzungaria:0 "Solicitar Dzungaria"
+MON_request_dabancheng:0 "Solicitar Dabancheng"
+MON_request_jiuquan:0 "Solicitar Jiuquan"
+MON_request_ningxia:0 "Solicitar Ningxia"
+MON_request_ordos:0 "Solicitar Ordos"
+MON_request_suiyuan:0 "Solicitar Suiyan"
+MON_request_north_chahar:0 "Solicitar Chahar del Norte"
+MON_request_south_chahar:0 "Solicitar Chahar del Sur"
+MON_request_north_xingan:0 "Solicitar Xingan del Norte"
+MON_request_chita:0 "Solicitar Chita"
+MON_request_ulan_ude:0 "Solicitar Ulan Ude"
+MON_request_bodaybo:0 "Solicitar Bodaybo"
+MON_request_irkutsk:0 "Solicitar Irkutsk"
+MON_request_tannu_tuva:0 "Solicitar Tannu Tuva"
 
-MON_supported_during_ul_conference:0 "Supported Mongolia as a result of the Conference"
-MON_non_compliance_will_result_into_war_tt:0 "Non-compliance will lead to war with other signatures of Ulaanbaatar Protocols."
+MON_supported_during_ul_conference:0 "Apoyó a Mongolia como resultado de la Conferencia"
+MON_non_compliance_will_result_into_war_tt:0 "El incumplimiento llevará a la guerra con otros firmantes de los Protocolos de Ulaanbaatar."
 
-MON_state_request_in_progress:0 "State Transfer Request in Progress"
+MON_state_request_in_progress:0 "Solicitud de Transferencia Estatal en Progreso"
 
 #Thinking out of bound - puppeting different nations as a puppet!
-MON_a_puppet_republic:0 "A Puppet Republic"
-MON_begin_communist_infiltration:0 "Begin Communist Infiltration"
-MON_promote_communist_ideas:0 "Promote Communist Ideas"
-MON_destabilize_neighbour:0 "Destabilize the Interior"
-MON_launch_an_uprising:0 "Launch Communist Uprising"
-MON_assist_communist_uprising:0 "Assist the Uprising"
-MON_send_civil_militia:0 "Send Civil Militia"
-MON_secure_the_newborn_regime:0 "Secure Newborn Communist Regime"
+MON_a_puppet_republic:0 "Una República Títere"
+MON_begin_communist_infiltration:0 "Comenzar la Infiltración Comunista"
+MON_promote_communist_ideas:0 "Promover Ideas Comunistas"
+MON_destabilize_neighbour:0 "Desestabilizar al Vecino"
+MON_launch_an_uprising:0 "Lanzar un Levantamiento Comunista"
+MON_assist_communist_uprising:0 "Asistir al Levantamiento"
+MON_send_civil_militia:0 "Enviar Milicia Civil"
+MON_secure_the_newborn_regime:0 "Asegurar el Nuevo Régimen Comunista"
 
 #Support the Red Army
-MON_support_the_red_army:0 "Support the Red Army"
-MON_provide_industrial_assistance:0 "Provide Our Assistance"
-MON_form_revolutionary_tank_division:0 "Form Revolutionary Tank Division"
-MON_arat_air_squadron:0 "Form Arat Air Squadron"
-MON_suggest_industry_relocation:0 "Suggest Industry Relocation"
+MON_support_the_red_army:0 "Apoyar al Ejército Rojo"
+MON_provide_industrial_assistance:0 "Proveer Nuestra Asistencia"
+MON_form_revolutionary_tank_division:0 "Formar una División de Tanques Revolucionarios"
+MON_arat_air_squadron:0 "Formar Escuadrón Aéreo Arat"
+MON_suggest_industry_relocation:0 "Sugerir la Reubicación de la Industria"
 
 
 #ANTI-SOVIET PATH - SOVIET AWARENESS
-sov_awareness_showcase:0 "[SOV.GetNameDefCap] has [?MON.sov_awareness|+0] §HAwareness§!\n"
+sov_awareness_showcase:0 "[SOV.GetNameDefCap] tiene [?MON.sov_awareness|+0] §HAwareness§!\n"
 sov_awareness_mon_icon_value:0 "[?MON.sov_awareness|0H]"
 
+
 #A THOUSAND YEARS RIVALRY - getting claims removed
-MON_thousand_year_rivalry:0 "A Thousand Year Rivalry"
-MON_thousand_year_rivalry_desc:0 "With Asian nations entering modern age and our democratic leanings, we can pursue reconciliation policies, ensure mutually beneficial cooperation and perhaps even collaborate diplomatically and militarily with various powers around us."
-MON_thousand_year_rivalry_decisions_tt:0 "Unlocks §Hdecisions§! to §Hrebuke foreign claims on us§! at the cost of political power, weaponry or industry."
+MON_thousand_year_rivalry:0 "Una Rivalidad de Mil Años"
+MON_thousand_year_rivalry_desc:0 "Con las naciones asiáticas entrando en la era moderna y nuestra inclinación democrática, podemos seguir políticas de reconciliación, asegurar una cooperación mutuamente beneficiosa y tal vez incluso colaborar diplomática y militarmente con diversas potencias a nuestro alrededor."
+MON_thousand_year_rivalry_decisions_tt:0 "Desbloquea §Hdecisiones§! para §Hreprender reclamaciones extranjeras sobre nosotros§! a costa de poder político, armamento o industria."
 
-MON_reinforce_the_issue_of_FROM:0 "Reinforce the Issue of [FROM.getName]"
-MON_already_reinforcing_the_territorial_issue_flag:0 "Already Reinforcing the Territorial Issue"
+MON_reinforce_the_issue_of_FROM:0 "Reforzar el Asunto de [FROM.getName]"
+MON_already_reinforcing_the_territorial_issue_flag:0 "Ya Reforzando el Asunto Territorial"
 
-MON_provide_political_support:0 "Provide Political Support"
-MON_provide_weaponry:0 "Provide Weaponry"
-MON_relocate_civilian_facility:0 "Relocate Civilian Facility"
-MON_relocate_arms_factory:0 "Relocate Arms Factory"
+MON_provide_political_support:0 "Proveer Apoyo Político"
+MON_provide_weaponry:0 "Proveer Armamento"
+MON_relocate_civilian_facility:0 "Reubicar Instalación Civil"
+MON_relocate_arms_factory:0 "Reubicar Fábrica de Armamentos"
 
-MON_revoke_tianxia_ties:0 "Revoke Tianxia Ties" #decision to join Chinese faction
-MON_revoke_tianxia_ties_tt:0 "If §Yany Chinese nation§! is a §Yfaction leader§! and has democratic or neutrality government, we will be able to §Ypursue alliance with them§!:"
+MON_revoke_tianxia_ties:0 "Revocar los Vínculos Tianxia" #decision to join Chinese faction
+MON_revoke_tianxia_ties_tt:0 "Si §Ycualquier nación china§! es un §Ylíder de facción§! y tiene un gobierno democrático o neutralidad, podremos §Ybuscar una alianza con ellos§!."
 
-MON_appeal_for_foreign_protection:0 "Appeal For Foreign Protection"
-MON_negotiating_claims_over_this_state:0 "Negotiating Claims Over This Area"
+MON_appeal_for_foreign_protection:0 "Apelar por Protección Extranjera"
+MON_negotiating_claims_over_this_state:0 "Negociando Reclamaciones sobre Esta Área"
 
 #Battle for Tuva to get them into your sphere
 MON_mon_influence_in_tuva_value:0 "[?MON.mon_battle_for_tuva_uriankai_influence|0H]"
 MON_sov_influence_in_tuva_value:0 "[?MON.sov_battle_for_tuva_uriankai_influence|0H]"
 MON_tan_influence_in_tuva_value:0 "[?MON.tan_battle_for_tuva_uriankai_influence|0H]"
-MON_mon_battle_for_tuva_uriankai_influence_tt:0 "[MON.GetNameDefCap] has [?MON.mon_battle_for_tuva_uriankai_influence|+0] §HInfluence Points§!\n"
-MON_sov_battle_for_tuva_uriankai_influence_tt:0 "[SOV.GetNameDefCap] has [?MON.sov_battle_for_tuva_uriankai_influence|+0] §HInfluence Points§!\n"
-MON_tan_battle_for_tuva_uriankai_influence_tt:0 "[TAN.GetNameDefCap] has [?MON.tan_battle_for_tuva_uriankai_influence|+0] §HInfluence Points§!\n"
+MON_mon_battle_for_tuva_uriankai_influence_tt:0 "[MON.GetNameDefCap] tiene [?MON.mon_battle_for_tuva_uriankai_influence|+0] §HPuntos de Influencia§!\n"
+MON_sov_battle_for_tuva_uriankai_influence_tt:0 "[SOV.GetNameDefCap] tiene [?MON.sov_battle_for_tuva_uriankai_influence|+0] §HPuntos de Influencia§!\n"
+MON_tan_battle_for_tuva_uriankai_influence_tt:0 "[TAN.GetNameDefCap] tiene [?MON.tan_battle_for_tuva_uriankai_influence|+0] §HPuntos de Influencia§!\n"
 
 MON_mon_influence_flag_and_adj_tooltip:0 "[MON.getFlag] [MON.getNameDefCap]:"
 MON_sov_influence_flag_and_adj_tooltip:0 "[SOV.getFlag] [SOV.getNameDefCap]:"
 MON_tan_influence_flag_and_adj_tooltip:0 "[TAN.getFlag] [TAN.getNameDefCap]:"
 
-MON_add_5_influence_tt:0 "Add §G5§! §YInfluence§!"
-MON_add_10_influence_tt:0 "Add §G10§! §YInfluence§!"
-MON_add_15_influence_tt:0 "Add §G15§! §YInfluence§!"
-MON_add_20_influence_tt:0 "Add §G20§! §YInfluence§!"
-MON_add_25_influence_tt:0 "Add §G25§! §YInfluence§!"
+MON_add_5_influence_tt:0 "Añadir §G5§! §YInfluencia§!"
+MON_add_10_influence_tt:0 "Añadir §G10§! §YInfluencia§!"
+MON_add_15_influence_tt:0 "Añadir §G15§! §YInfluencia§!"
+MON_add_20_influence_tt:0 "Añadir §G20§! §YInfluencia§!"
+MON_add_25_influence_tt:0 "Añadir §G25§! §YInfluencia§!"
 
-MON_remove_10_influence_tt:0 "Remove §R10§! §YInfluence§!"
-MON_remove_15_influence_tt:0 "Remove §R15§! §YInfluence§!"
-MON_remove_20_influence_tt:0 "Remove §R20§! §YInfluence§!"
-MON_remove_25_influence_tt:0 "Remove §R25§! §YInfluence§!"
+MON_remove_10_influence_tt:0 "Eliminar §R10§! §YInfluencia§!"
+MON_remove_15_influence_tt:0 "Eliminar §R15§! §YInfluencia§!"
+MON_remove_20_influence_tt:0 "Eliminar §R20§! §YInfluencia§!"
+MON_remove_25_influence_tt:0 "Eliminar §R25§! §YInfluencia§!"
 
-MON_the_fate_of_tuva:0 "The Fate of Tuva"
-MON_invest_into_tuva:0 "Invest into Tuva"
-MON_support_tuvan_economy:0 "Support [TAN.getAdjective] Economy"
-MON_bribe_tuvan_officials:0 "Bribe [TAN.getAdjective] Officials"
-MON_secret_agitation:0 "Secret Agitation"
-MON_launch_a_big_demonstration:0 "Launch a Big Demonstration"
-MON_organize_a_political_assassination_in_tuva:0 "Organize a Political Assassination"
-MON_support_local_politicians:0 "Support Local Politicians"
+MON_the_fate_of_tuva:0 "El Destino de Tuva"
+MON_invest_into_tuva:0 "Invertir en Tuva"
+MON_support_tuvan_economy:0 "Apoyar la Economía [TAN.getAdjective]"
+MON_bribe_tuvan_officials:0 "Sobornar a los Funcionarios [TAN.getAdjective]"
+MON_secret_agitation:0 "Agitación Secreta"
+MON_launch_a_big_demonstration:0 "Lanzar una Gran Manifestación"
+MON_organize_a_political_assassination_in_tuva:0 "Organizar un Asesinato Político"
+MON_support_local_politicians:0 "Apoyar a los Políticos Locales"
 
-MON_investments_into_tuva:0 "Investments into Tuva"
-MON_foreign_investments_to_tuva:0 "Foreign Investments"
+MON_investments_into_tuva:0 "Inversiones en Tuva"
+MON_foreign_investments_to_tuva:0 "Inversiones Extranjeras en Tuva"
 
-MON_mon_dominance_in_tuva:0 "Under current circumstances the following will happen:\n"
-MON_sov_dominance_in_tuva:0 "Under current circumstances the following will happen:\n"
-MON_tuv_dominance_in_tuva:0 "Under current circumstances the following will happen:\n§YTuva will retain her Independence!§!"
+MON_mon_dominance_in_tuva:0 "Bajo las circunstancias actuales, sucederá lo siguiente:\n"
+MON_sov_dominance_in_tuva:0 "Bajo las circunstancias actuales, sucederá lo siguiente:\n"
+MON_tuv_dominance_in_tuva:0 "Bajo las circunstancias actuales, sucederá lo siguiente:\n§Y¡Tuva mantendrá su independencia!§!"
 
 #Confrontations with warlords
-MON_plan_to_attack_warlord:0 "Plan to Attack [FROM.getNameDef]"
-MON_plan_to_attack_warlord_tt:0 "Unlocks decisions to establish spheres of influence and §Yclaim lands§! on territories of different warlords, §Yissue a singular demand§! allowing for §Gpeaceful transfer of lands§! or §Rjoint invasion with our allies§!."
-MON_invite_from_country_to_attack_warlord:0 "Invite [FROM.getNameDef] to the Coalition against the Warlord State"
-MON_claim_the_warlord:0 "Claim [FROM.getName]"
-MON_claim_the_warlord_desc:0 "Division of spheres of influence is not a simple matter and the finalized agreement with our allies allowed each participating country to claim a state of their wish up to §Ythree times§!. The strongest claimant of the state shall receive it upon the acceptance of the ultimatum by the other side."
-MON_present_an_ultimatum:0 "Present an Ultimatum"
+MON_plan_to_attack_warlord:0 "Plan para Atacar a [FROM.getNameDef]"
+MON_plan_to_attack_warlord_tt:0 "Desbloquea decisiones para establecer esferas de influencia y §Yreclamar tierras§! en los territorios de diferentes señores de la guerra, §Yhacer una demanda singular§! permitiendo la §Gtransferencia pacífica de tierras§! o §Runa invasión conjunta con nuestros aliados§!."
+MON_invite_from_country_to_attack_warlord:0 "Invitar a [FROM.getNameDef] a la Coalición contra el Estado de los Señores de la Guerra"
+MON_claim_the_warlord:0 "Reclamar [FROM.getName]"
+MON_claim_the_warlord_desc:0 "La división de esferas de influencia no es un asunto simple y el acuerdo finalizado con nuestros aliados permitió que cada país participante reclamara un estado de su elección hasta §Ytres veces§!. El reclamante más fuerte del estado lo recibirá al aceptar el ultimátum de la otra parte."
+MON_present_an_ultimatum:0 "Presentar un Ultimátum"
 
 #associated flags
-MON_has_picked_a_warlord_to_attack:0 "Is §Hpreparing§! an attack against the warlord."
-MON_already_claiming_a_state:0 "Already claiming a state"
-MON_state_fully_claimed_by_someone_already:0 "Is fully claimed by someone"
-MON_joined_mongolia_to_secure_one_of_the_warlords:0 "Joined Mongolia to secure one of the warlords"
+MON_has_picked_a_warlord_to_attack:0 "Está §Hpreparando§! un ataque contra el señor de la guerra."
+MON_already_claiming_a_state:0 "Ya reclamando un estado"
+MON_state_fully_claimed_by_someone_already:0 "Está completamente reclamado por alguien más"
+MON_joined_mongolia_to_secure_one_of_the_warlords:0 "Mongolia se unió para asegurar uno de los señores de la guerra"
 
 #The New Khanate - decisions regarding the Restoration of Bogd Khanate
-MON_the_new_khanate:0 "The New Khanate"
+MON_the_new_khanate:0 "El Nuevo Kanato"
 #searching for a new khans reincarnation
-MON_restore_the_image_of_the_monarchy:0 "Restore the Image of the Monarchy"
-MON_area_to_search_for_khan_reincarnation:0 "Region to Search"
-MON_search_state_for_bogd_khan_reincarnation:0 "Search in [FROM.getName]"
+MON_restore_the_image_of_the_monarchy:0 "Restaurar la Imagen de la Monarquía"
+MON_area_to_search_for_khan_reincarnation:0 "Región para Buscar"
+MON_search_state_for_bogd_khan_reincarnation:0 "Buscar en [FROM.getName]"
 
-MON_abandoned_khan_search:0 "Abandoned the new Khan search"
-MON_search_for_khan_in_progress:0 "Search for the Khan in Progress"
+MON_abandoned_khan_search:0 "Se Abandonó la Búsqueda del Nuevo Khan"
+MON_search_for_khan_in_progress:0 "Búsqueda del Khan en Progreso"
 #Bogd Khanate parties
 MON_bogd_khanate_party_long:0 "Bogd Khaany Dagaldagchid"
 MON_bogd_khanate_party:0 "Dagaldagchid"
 
 
-GEN_30_days_tt:0 "Decision will become available again in §Y30§! days."
-GEN_60_days_tt:0 "Decision will become available again in §Y60§! days."
-GEN_90_days_tt:0 "Decision will become available again in §Y90§! days."
-GEN_120_days_tt:0 "Decision will become available again in §Y120§! days."
-GEN_150_days_tt:0 "Decision will become available again in §Y150§! days."
-GEN_180_days_tt:0 "Decision will become available again in §Y180§! days."
-GEN_210_days_tt:0 "Decision will become available again in §Y210§! days."
-GEN_270_days_tt:0 "Decision will become available again in §Y270§! days."
-GEN_365_days_tt:0 "Decision will become available again in §Y365§! days."
+GEN_30_days_tt:0 "La decisión estará disponible nuevamente en §Y30§! días."
+GEN_60_days_tt:0 "La decisión estará disponible nuevamente en §Y60§! días."
+GEN_90_days_tt:0 "La decisión estará disponible nuevamente en §Y90§! días."
+GEN_120_days_tt:0 "La decisión estará disponible nuevamente en §Y120§! días."
+GEN_150_days_tt:0 "La decisión estará disponible nuevamente en §Y150§! días."
+GEN_180_days_tt:0 "La decisión estará disponible nuevamente en §Y180§! días."
+GEN_210_days_tt:0 "La decisión estará disponible nuevamente en §Y210§! días."
+GEN_270_days_tt:0 "La decisión estará disponible nuevamente en §Y270§! días."
+GEN_365_days_tt:0 "La decisión estará disponible nuevamente en §Y365§! días."
 
-improved_militia:0 "Improved Militia"
-optimized_infantry_formations:0 "Optimized Infantry Formations"
-good_old_new_ways:0 "Good Old New Ways"
-specialized_crews:0 "Specialized Crews"
+improved_militia:0 "Milicia Mejorada"
+optimized_infantry_formations:0 "Formaciones de Infantería Optimizadas"
+good_old_new_ways:0 "Buenos Viejos Nuevos Caminos"
+specialized_crews:0 "Tripulaciones Especializadas"
 
-MON_improved_militia_tt:0 "Enables §HImproved Militia§!.\nAll Militia : \n    Soft Attack : §G+10%§!\n    Defense : §G+10%§!\n    Combat Width : §G-0.1§!"
-MON_optimized_infantry_formations_tt:0 "Enables §HOptimized Infantry Formations§!.\nInfantry :\n    Defense : §G+5%§!\n    Combat Width : §G-0.1§!"
-MON_good_old_new_ways_tt:0 "Enables §HGood Old New Ways§!.\nMinimum Training level: §G-10%§! \nAll Infantry :\n    Combat Width : §G-0.1§! \nMilitia :\n    Combat Width : §G-0.1§!\n    Soft Attack : §G+10%§!"
-MON_specialized_crews_tt:0 "Enables §HSpecialized Crews§!.\nMinimum Training level: §R+5%§! \nAll Armor :\n    Organization Max : §G+3§! \n    Breakthrough : §G+10%§!\n    Organization Regain : §G+5%§!"
+MON_improved_militia_tt:0 "Habilita §HMilicia Mejorada§!.\nToda la Milicia: \n    Ataque Suave : §G+10%§!\n    Defensa : §G+10%§!\n    Ancho de Combate : §G-0.1§!"
+MON_optimized_infantry_formations_tt:0 "Habilita §HFormaciones de Infantería Optimizadas§!.\nInfantería :\n    Defensa : §G+5%§!\n    Ancho de Combate : §G-0.1§!"
+MON_good_old_new_ways_tt:0 "Habilita §HBuenos Viejos Nuevos Caminos§!.\nNivel de Entrenamiento Mínimo: §G-10%§! \nToda la Infantería :\n    Ancho de Combate : §G-0.1§! \nMilicia :\n    Ancho de Combate : §G-0.1§!\n    Ataque Suave : §G+10%§!"
+MON_specialized_crews_tt:0 "Habilita §HTripulaciones Especializadas§!.\nNivel de Entrenamiento Mínimo: §R+5%§! \nToda la Armadura :\n    Máxima Organización : §G+3§! \n    Avance : §G+10%§!\n    Recuperación de Organización : §G+5%§!"
 
-ROOT_is_in_central_asia_tt:0 "Is in Central Asia"
+ROOT_is_in_central_asia_tt:0 "Está en Asia Central"
 
 #
-MON_peljidiin_genden_desc:0 "Born in the poor cattleman family of the at the turn of the century, Genden early joined the Mongolian People's Revolutionary Party and managed to gain support of many elder party leaders with his simple and open rhetorics. As the People's Revolution of 1924 commenced, the young proletarian got appointed as a chairman of Baga Khural which opened him a way to the highest echelons of power. \n\nSupport of the Soviet officials allowed him to become one of the three state secretaries after the Seventh Party Congress of 1928. The council started to implement harsh collectivization and anti-buddhist policies resulting into open rebellions around the country. His survival of the counterpurge was linked with high loyalty to the cause and direct supervision of Iosif Stalin back in the 1932. \n\nThis relationship, however, didn't last long, as the pro-religious stance of ill-mannered Genden made him appear as an "unreliable ally" by various Soviet officials at the dawn of 1935..."
+MON_peljidiin_genden_desc:0 "Nacido en una familia pobre de ganaderos a principios del siglo, Genden se unió temprano al Partido Revolucionario del Pueblo de Mongolia y logró ganar el apoyo de muchos líderes del partido con su retórica simple y abierta. Cuando comenzó la Revolución del Pueblo de 1924, el joven proletario fue nombrado presidente del Baga Khural, lo que le abrió el camino hacia los más altos niveles de poder. \n\nEl apoyo de los funcionarios soviéticos le permitió convertirse en uno de los tres secretarios de estado tras el Séptimo Congreso del Partido de 1928. El consejo comenzó a implementar políticas de colectivización severa y contra el budismo, lo que resultó en rebeliones abiertas en todo el país. Su supervivencia de la contrapurga estuvo vinculada a una gran lealtad a la causa y supervisión directa de Iósif Stalin en 1932. \n\nSin embargo, esta relación no duró mucho, ya que la postura pro-religiosa del maleducado Genden hizo que muchos funcionarios soviéticos lo consideraran un "aliado poco fiable" al amanecer de 1935..."
 
 #Central Asia pact
-MON_central_asian_diplomacy:0 "Central Asia Diplomacy"
+MON_central_asian_diplomacy:0 "Diplomacia de Asia Central"
 MON_central_asian_diplomacy_desc:0 " "
 #Recent policies dictated by the [MON.getAdjective] officials indicate a strong need of a leadership change in various areas of Central, Northern and Far East Asia."
 
-MON_join_demo_from_factionname:0 "Join [FROM.getFactionName]"
-MON_join_demo_from_factionname_tt:0 "Unlocks §Hdecisions§! to §Hjoin§! democratic factions!"
+MON_join_demo_from_factionname:0 "Unirse a [FROM.getFactionName]"
+MON_join_demo_from_factionname_tt:0 "Desbloquea §Hdecisiones§! para §Hunirse§! a facciones democráticas!"
 
-MON_Kurultai_treaty_expansion:0 "Invite [FROM.getNameDef]"
-MON_Kurultai_treaty_expansion_tt:0 "Unlocks decisions to §Yinvite§! independent §Hdemocratic§! or §Hcommunist§! nations into §Y[ROOT.getFactionName]§!."
+MON_Kurultai_treaty_expansion:0 "Invitar a [FROM.getNameDef]"
+MON_Kurultai_treaty_expansion_tt:0 "Desbloquea decisiones para §Yinvitar§! a naciones §Hdemocráticas§! o §Hcomunistas§! independientes a §Y[ROOT.getFactionName]§!."
 
-MON_unlocks_decisions_to_liberate_central_asian_countries_tt:0 "Unlocks §HDecisions§! to liberate Nations in Central Asia"
-MON_central_asian_self_determination:0 "Central Asian Self-Determination"
+MON_unlocks_decisions_to_liberate_central_asian_countries_tt:0 "Desbloquea §HDecisiones§! para liberar Naciones en Asia Central"
+MON_central_asian_self_determination:0 "Autodeterminación de Asia Central"
 
-MON_reopen_borders_for_refugees:0 "Reopen Borders for Refugees"
+MON_reopen_borders_for_refugees:0 "Reabrir Fronteras para Refugiados"
 
-MON_prepare_invasion_of_nation_in_asia:0 "Prepare Invasion of [FROM.getNameDef]"
-ROOT_prepairing_invasion:0 "Already preparing an Invasion"
 
-MON_unlock_decisions_to_prepare_invasions_on_fascist_countries_in_asia_tt:0 "Unlocks §HDecisions§! to prepare Invasions of Fascist Countries in Asia"
-MON_unlock_decisions_to_prepare_invasions_on_communist_countries_in_asia_tt:0 "Unlocks §HDecisions§! to prepare Invasions of Communist Countries in Asia"
+MON_prepare_invasion_of_nation_in_asia:0 "Preparar Invasión de [FROM.getNameDef]"
+ROOT_prepairing_invasion:0 "Ya preparando una invasión"
 
-MON_area_of_mon_interest:0 "[MON.getAdjective] Meddling in Northern and Central Asia"
-MON_promote_anti_soviet_sentiment_tt:0 "Unlocks decisions to §YPromote Anti-[SOV.getAdjective] Sentiment§!."
-MON_promote_anti_soviet_sentiment:0 "Promote Anti-[SOV.getAdjective] Sentiment in [FROM.getName]"
-MON_allows_infiltration_eastern_siberia_tt:0 "Allows £decision_icon_small §YInfiltration§! in Eastern Siberia"
-MON_allows_infiltration_far_east:0 "Allows £decision_icon_small §YInfiltration§! in [SOV.getAdjective] Far East"
-MON_allows_infiltration_north_eastern_siberia:0 "Allows £decision_icon_small §YInfiltration§! in Northern and Eastern Siberia"
-MON_allows_infiltration_transural_region:0 "Allows £decision_icon_small §YInfiltration§! in Transural Region"
-MON_allows_infiltration_greater_steppe:0 "Allows £decision_icon_small §YInfiltration§! in Greater Steppe Area"
-MON_allows_infiltration_caucasus:0 "Allows £decision_icon_small §YInfiltration§! in the Caucasus Region"
+MON_unlock_decisions_to_prepare_invasions_on_fascist_countries_in_asia_tt:0 "Desbloquea §HDecisiones§! para preparar Invasiones de Países Fascistas en Asia"
+MON_unlock_decisions_to_prepare_invasions_on_communist_countries_in_asia_tt:0 "Desbloquea §HDecisiones§! para preparar Invasiones de Países Comunistas en Asia"
 
-MON_liberate_country:0 "Liberate [FROM.getAdjective] People"
+MON_area_of_mon_interest:0 "Injerencia [MON.getAdjective] en Asia Central y del Norte"
+MON_promote_anti_soviet_sentiment_tt:0 "Desbloquea decisiones para §YPromover Sentimiento Anti-[SOV.getAdjective]§!."
+MON_promote_anti_soviet_sentiment:0 "Promover Sentimiento Anti-[SOV.getAdjective] en [FROM.getName]"
+MON_allows_infiltration_eastern_siberia_tt:0 "Permite £decision_icon_small §YInfiltración§! en Siberia Oriental"
+MON_allows_infiltration_far_east:0 "Permite £decision_icon_small §YInfiltración§! en el Lejano Oriente [SOV.getAdjective]"
+MON_allows_infiltration_north_eastern_siberia:0 "Permite £decision_icon_small §YInfiltración§! en Siberia del Norte y Oriental"
+MON_allows_infiltration_transural_region:0 "Permite £decision_icon_small §YInfiltración§! en la Región Transural"
+MON_allows_infiltration_greater_steppe:0 "Permite £decision_icon_small §YInfiltración§! en la Gran Estepa"
+MON_allows_infiltration_caucasus:0 "Permite £decision_icon_small §YInfiltración§! en la Región del Cáucaso"
 
-MON_state_behind_the_urals_steppe_causasus_tt:0 "State is Eastern of Urals, in Greater Steppe or in the Caucasus"
+MON_liberate_country:0 "Liberar al Pueblo [FROM.getAdjective]"
 
-MON_infiltration_effects_tooltips:0 "Every state with §Ylevel 1 infiltration§!:\n §YFew factories§!, §Yinfrastructure§! and §Yair bases§! will be §Rsabotaged§!. \n\nEvery state with §Ylevel 2 infiltration§!:\n Raises two divisions of §Y5 infantry§! battalions.  \n\nEvery state with §Ylevel 3 infiltration§!:\n Raises three divisions of §Y9 infantry§! and §Y1 artillery§! battalions."
-MON_infiltration_level_1_effect:0 "§YFew factories§!, §Yinfrastructure§! and §Yair bases§! will be §Rsabotaged§!."
-MON_infiltration_level_2_effect:0 "Raises two divisions of §Y5 infantry§! battalions."
-MON_infiltration_level_3_effect:0 "Raises three divisions of §Y8 infantry§! and §Y2 artillery§! bat+tallions."
+MON_state_behind_the_urals_steppe_causasus_tt:0 "El estado está al este de los Urales, en la Gran Estepa o en el Cáucaso"
+
+MON_infiltration_effects_tooltips:0 "Cada estado con §Ynivel 1 de infiltración§!:\n §YPocas fábricas§!, §Yinfraestructura§! y §Ybases aéreas§! serán §Rsabotaje§!. \n\nCada estado con §Ynivel 2 de infiltración§!:\n Se levantan dos divisiones de §Y5 batallones de infantería§!.  \n\nCada estado con §Ynivel 3 de infiltración§!:\n Se levantan tres divisiones de §Y9 batallones de infantería§! y §Y1 batallón de artillería§!."
+MON_infiltration_level_1_effect:0 "§YPocas fábricas§!, §Yinfraestructura§! y §Ybases aéreas§! serán §Rsabotaje§!."
+MON_infiltration_level_2_effect:0 "Levanta dos divisiones de §Y5 batallones de infantería§!."
+MON_infiltration_level_3_effect:0 "Levanta tres divisiones de §Y8 batallones de infantería§! y §Y2 batallones de artillería§!."
 
 ##tooltips#
-MON_kill_genden_need_for_future_leftist_takeover:0 "§RSpikes awareness of leftists groups in the government!§!"
-MON_civil_militia_tt:0 "§RIf the civil war break out§!, raises §H8 civil militia§! in Southern and Eastern Mongolia."
-MON_leftist_civil_war_tt:0 "If §Rstability is lower than 40%§! or §R[SOV.getAdjective] influence is higher than 60§!, the §Hcivil war§! will start!"
-MON_leftist_civil_war_tt_2:0 "[SOV.getAdjective] influence is lower than 60"
+MON_kill_genden_need_for_future_leftist_takeover:0 "§R¡Aumenta la conciencia de los grupos izquierdistas en el gobierno!§!"
+MON_civil_militia_tt:0 "§RSi estalla la guerra civil§!, se levantan §H8 milicias civiles§! en el sur y este de Mongolia."
+MON_leftist_civil_war_tt:0 "Si §Ral estabilidad es inferior al 40%§! o §R[SOV.getAdjective] la influencia es superior al 60§!, ¡comenzará la §Hguerra civil§!!"
+MON_leftist_civil_war_tt_2:0 "La influencia de [SOV.getAdjective] es inferior al 60"
 
-MON_great_terror_tt:0 "Troika will start dealing with §YIntelligentsia§!, §YParty Members§! and §YLamas§!. \nEach purge has its own §Rpenalty§! and the number of purges will affect the scale of effect of §Gconsolidated power§!."
-MON_great_terror_tt_2:0 "If no purges are conducted, Choilbalsan will §Rlose§! his influence in the government and loyalty in eyes of [SOV.GetLeader]:"
-mongol.50_tt:0 "Will receive a §Rpenalty§! due to the purge:"
+MON_great_terror_tt:0 "¡La Troika comenzará a tratar con la §YIntelligentsia§!, §YMiembros del Partido§! y §YLamas§!. \nCada purga tiene su propia §Rpenalización§! y el número de purgas afectará la escala del efecto de §Gpoder consolidado§!."
+MON_great_terror_tt_2:0 "Si no se realizan purgas, Choilbalsan §Rperderá§! su influencia en el gobierno y lealtad ante [SOV.GetLeader]:"
+mongol.50_tt:0 "Recibirá una §Rpenalización§! debido a la purga:"
 
-MON_rearmament_depending_on_choibalsan_status:0 "If focus §HAppoint Soviet Protege§! is completed, will receive §H3 offmap military factories§!, otherwise §H1 offmap military factory§! and §H1 offmap civilian one§!!\n "
+MON_rearmament_depending_on_choibalsan_status:0 "Si se completa el enfoque §HNombrar Protégé Soviético§!, recibirá §H3 fábricas militares fuera del mapa§!, de lo contrario §H1 fábrica militar fuera del mapa§! y §H1 fábrica civil fuera del mapa§!!\n"
 
-MON_raid_ignored_they_plunder_tt:0 "§RThe raid will be ignored, the opposing party will automatically win it!§!"
+MON_raid_ignored_they_plunder_tt:0 "§R¡La incursión será ignorada, el partido contrario ganará automáticamente!§!"
 
-MON_border_conflict_active:0 "Does not have an active border conflict or raid."
+MON_border_conflict_active:0 "No tiene un conflicto fronterizo o incursión activa."
 
-MON_soviet_backed_coup_happened:0 "Soviet-backed §RCoup§! occurred."
-mongolia_anti_genden_massive_civil_war_tt:0 "§RThe resulting civil war will receive most of the country's military!§!"
+MON_soviet_backed_coup_happened:0 "Se produjo un §RCoup§! apoyado por los soviéticos."
+mongolia_anti_genden_massive_civil_war_tt:0 "§R¡La guerra civil resultante recibirá la mayoría del ejército del país!§!"
 
-MON_raise_two_artillery_divisions_tt:0 "Will receive §Htwo§! trained divisions with §H9 infantry§! and §H3 artillery§! battalions."
-MON_raise_three_elite_cavalry_divisions_in_gobi_tt:0 "Will receive §Hthree§! elite divisions with §H10 cavalry§! battalions in Southern Mongolia."
+MON_raise_two_artillery_divisions_tt:0 "Recibirá §Hdos§! divisiones entrenadas con §H9 infantería§! y §H3 artillería§! batallones."
+MON_raise_three_elite_cavalry_divisions_in_gobi_tt:0 "Recibirá §Htres§! divisiones de élite con §H10 caballería§! batallones en el sur de Mongolia."
 
-MON_border_wars_allowed_for_claims:0 "§HWill be able to start £decision_generic_ignite_civil_war border wars for claimed states!§! "
+MON_border_wars_allowed_for_claims:0 "§H¡Podrá iniciar guerras fronterizas £decision_generic_ignite_civil_war por estados reclamados!§!"
 
-MON_ul_conference_attendants_angry_tt:0 "§ROther participants will not tolerate both Mongolia and PRC if this deal will be sealed!§! "
+MON_ul_conference_attendants_angry_tt:0 "§ROtros participantes no tolerarán que Mongolia y la RPC firmen este acuerdo!§!"
 
-MON_invite_countries_eastern_of_ural:0 "Invites every country who owns territories in Siberia and has the §Gsame ideology§! to the faction and grants wargoal on §Rideological enemies§! except [SOV.getNameDef]!"
+MON_invite_countries_eastern_of_ural:0 "Invita a todos los países que posean territorios en Siberia y tengan la §Gmisma ideología§! a la facción y otorga un objetivo de guerra contra los §Rideológicos enemigos§! excepto [SOV.getNameDef]!"
 
-MON_invest_add_one_civ_factory_in_a_state_tt:0 "Add §H1 building slot§! and §H1 civilian factory§! in every state previously invested in."
-MON_invest_add_one_mil_factory_in_a_state_tt:0 "Add §H1 building slot§! and §H1 military factory§! in every state previously invested in."
+MON_invest_add_one_civ_factory_in_a_state_tt:0 "Añadir §H1 ranura de construcción§! y §H1 fábrica civil§! en cada estado previamente invertido."
+MON_invest_add_one_mil_factory_in_a_state_tt:0 "Añadir §H1 ranura de construcción§! y §H1 fábrica militar§! en cada estado previamente invertido."
 
-MON_add_three_dockyards_in_coastal_state_tt:0 "Add §H3 building slot§! and §H3 dockyards§! in a random controlled coastal state."
+MON_add_three_dockyards_in_coastal_state_tt:0 "Añadir §H3 ranuras de construcción§! y §H3 astilleros§! en un estado costero aleatorio controlado."
 
-MON_can_deescalate_situation_tt:0 "Mongolia will be given one chance to deescalate the situation."
-MON_will_not_be_able_to_meddle_with_this_country_tt:0 "§RWill not be able to to meddle with this country from now on!§!"
-MON_supporting_revolutionary_cause_tt:0 "Launching an Uprising will provide §Gadditional autonomy§!!"
+MON_can_deescalate_situation_tt:0 "Mongolia tendrá una oportunidad para desescalar la situación."
+MON_will_not_be_able_to_meddle_with_this_country_tt:0 "§R¡No podrá inmiscuirse en este país a partir de ahora!§!"
+MON_supporting_revolutionary_cause_tt:0 "Lanzar un Levantamiento proporcionará §Gautonomía adicional§!!"
 
-MON_unpopular_decision_while_at_peace:0 "§RWhile we are at peace, this decision remains widely unpopular among the common man!§!"
-MON_raises_cavalry_regiments_across_the_country_tt:0 "Raises §HCavalry Regiments§! of §H3 cavalry battalions§! across the country."
-MON_raises_an_elite_mountain_tt:0 "Raises an elite §HMountaineer Division§! of §H9 mountaineers§! and §H1 artillery battalions§! in Ulaanbaatar."
+MON_unpopular_decision_while_at_peace:0 "§R¡Mientras estamos en paz, esta decisión sigue siendo ampliamente impopular entre la gente común!§!"
+MON_raises_cavalry_regiments_across_the_country_tt:0 "Levanta §HRegimientos de Caballería§! de §H3 batallones de caballería§! a través del país."
+MON_raises_an_elite_mountain_tt:0 "Levanta una división de élite §HMontañeros§! de §H9 montañeros§! y §H1 batallón de artillería§! en Ulaanbaatar."
+
+MON_raises_an_elite_cavalry_division_tt:0 "Levanta una división de élite §HCaballería§! de §H9 batallones de caballería§! en Ulaanbaatar."
+MON_raises_an_elite_infantry_division_tt:0 "Levanta una división de élite §HInfantería§! de §H9 batallones de infantería§! y §H1 batallón de artillería§! en Ulaanbaatar."
+MON_raises_an_elite_motorized_division_tt:0 "Levanta una división de élite §HMecanizada§! de §H7 infantería mecanizada§! y §H2 batallones de artillería mecanizada§! en Ulaanbaatar."
 
 
-MON_raises_an_elite_cavalry_division_tt:0 "Raises an elite §HCavalry Division§! of §H9 cavalry battalions§! in Ulaanbaatar."
-MON_raises_an_elite_infantry_division_tt:0 "Raises an elite §HInfantry Division§! of §H9 infantry§! and §H1 artillery battalions§! in Ulaanbaatar."
-MON_raises_an_elite_motorized_division_tt:0 "Raises an elite §HMotorised Division§! of §H7 motorised infantry§! and §H2 motorised artillery battalions§! in Ulaanbaatar."
+MON_this_option_is_required_to_play_as_the_anarchists_tt:0 "§R¡Esta opción permitirá la toma del poder por los anarquistas!§!"
 
+MON_decreases_funds_of_the_mongolbank_tt:0 "§RDisminuye§! los fondos del Mongolbank.\n"
+MON_increases_funds_of_the_mongolbank_tt:0 "§GIncrementa§! los fondos del Mongolbank.\n"
 
-MON_this_option_is_required_to_play_as_the_anarchists_tt:0 "§RThis choice will allow for the anarchist takeover!§!"
+MON_genden_or_pro_chinese_tt:0 "El enfoque §HFormar el Gobierno Provisional§! está §GDisponible§!."
+MON_pro_soviet_focus_is_now_available_tt:0 "El enfoque §HHold Plenum of Central Committee§! está §GDisponible§!."
+MON_independent_mongolia_path_tt:0 "El enfoque §HRely on National Strength§! está §GDisponible§!."
+MON_anti_soviet_focus_is_now_available_tt:0 "El enfoque §HHost an Emergency Great Khural Assembly§! está §GDisponible§!."
 
-MON_decreases_funds_of_the_mongolbank_tt:0 "§RDecreases§! funds of the Mongolbank.\n"
-MON_increases_funds_of_the_mongolbank_tt:0 "§GIncreases§! funds of the Mongolbank.\n"
+MON_tree_is_in_development_tt:0 "§REsta parte del árbol está en desarrollo, ¡el contenido está siendo trabajado!§!"
 
-MON_genden_or_pro_chinese_tt:0 "The Focus §HForm the Provisional Government§! becomes §GAvailable§!."
-MON_pro_soviet_focus_is_now_available_tt:0 "The Focus §HHold Plenum of Central Committee§! becomes §GAvailable§!."
-MON_independent_mongolia_path_tt:0 "The Focus §HRely on National Strength§! becomes §GAvailable§!."
-MON_anti_soviet_focus_is_now_available_tt:0 "The Focus §HHost an Emergency Great Khural Assembly§! becomes §GAvailable§!."
+MON_pro_sov_ideological_agenda_tt:0 "Desbloquea la decisión: §HPro-[SOV.getAdjective] Agenda Ideológica§!"
 
-MON_tree_is_in_development_tt:0 "§RThis part of the tree is a Work in Progress, the content is currently being developed!§!."
+MON_civil_wars_missions_helping_choibalsan_tt:0 "Si §Rse ignora§!, ¡la §Rcivil war§! comenzará §Hdespués de 210 días§!! Los enfoques de seguimiento permiten §Gdemorar§! o §Racelerarlo§!."
+MON_civil_wars_missions_helping_tt:0 "Si §Rse ignora§!, ¡la §Rcivil war§! comenzará §Hdespués de un año§!! Los enfoques de seguimiento permiten §Gdemorar§! o §Racelerarlo§!."
+MON_pro_get_rich_helping_tt:0 "La política está dirigida a apoyar el §Hcrecimiento de las empresas privadas§! y permitir que las personas acumulen capital durante un período de §Hdos años§!."
 
-MON_pro_sov_ideological_agenda_tt:0 "Unlocks Decision:§H Pro-[SOV.getAdjective] Ideological Agenda§!"
+MON_rp_advisor_tt:0 "§RUna característica experimental que podría expandirse más tarde dependiendo de la retroalimentación de la comunidad!§!"
 
-MON_civil_wars_missions_helping_choibalsan_tt:0 "If §Rignored§!, the §Rcivil war§! will start §Hafter 210 days§!! Follow-up focuses allow to §Gdelay§! or §Rspeed it up§!."
-MON_civil_wars_missions_helping_tt:0 "If §Rignored§!, the §Rcivil war§! will start §Hafter a year§!! Follow-up focuses allow to §Gdelay§! or §Rspeed it up§!."
-MON_pro_get_rich_helping_tt:0 "The policy is aimed to support the §Hgrowth of private enterprises§! and let people amass of capital for the period of §Htwo years§!."
-
-MON_rp_advisor_tt:0 "§RAn experimental feature which might be expanded later depending on the community feedback!§!"
-
-MON_warning_action_irreversible_and_buggy_tt:0 "§RWARNING! You will now switch to the Soviet focus tree! \nVarious game features might work incorrectly and/or poorly, do it upon your own risk!!§!"
+MON_warning_action_irreversible_and_buggy_tt:0 "§R¡ADVERTENCIA! Ahora cambiará al árbol de enfoques soviético. \n¡Varios aspectos del juego podrían no funcionar correctamente y/o de forma deficiente, hágalo bajo su propio riesgo!!§!"
 #autonomy#
-MON_soviet_cooperation_name:0 "Soviet Cooperation"
-MON_supporting_revolutionary_cause:0 "Supporting Revolutionary Cause"
+MON_soviet_cooperation_name:0 "Cooperación Soviética"
+MON_supporting_revolutionary_cause:0 "Apoyando la Causa Revolucionaria"
 MON_Comintern:0 "Comintern"
-MON_comintern_reformation:0 "§H[ROOT.getNameDefCap] will assume leadership of Comintern after completing this focus!§!"
+MON_comintern_reformation:0 "§H[ROOT.getNameDefCap] asumirá el liderazgo del Comintern después de completar este enfoque§!"
 
 #Power Struggle and Choibalsan Plot# ---------------------- missions
-MON_internal_politics:0 "[MON.getAdjective] Internal Politics"
-MON_internal_politics_desc:0 "The fragile system which was build throughout 15 years of embracing communist values might be shaken by internal power struggle and external meddling of states politics. \nOnly time will show who was right and wrong in this struggle."
-MON_choibalsan_plot:0 "Choibalsan Plot"
-MON_concessions_to_the_military:0 "Concessions to the Military"
-MON_soviet_backed_coup:0 "Impending [SOV.getAdjective]-backed Coup"
+MON_internal_politics:0 "[MON.getAdjective] Política Interna"
+MON_internal_politics_desc:0 "El sistema frágil que se construyó a lo largo de 15 años adoptando valores comunistas puede ser sacudido por luchas internas de poder e injerencias externas en la política de los estados. \nSolo el tiempo dirá quién tuvo razón y quién no en esta lucha."
+MON_choibalsan_plot:0 "Trama de Choibalsan"
+MON_concessions_to_the_military:0 "Concesiones al Ejército"
+MON_soviet_backed_coup:0 "Coup Impending apoyado por [SOV.getAdjective]"
 
-MON_disband_civil_militia:0 "Disband Civil Militias"
+MON_disband_civil_militia:0 "Disolver las Milicias Civiles"
 
-MON_get_rich_policy_progress:0 ""Get Rich"-Policy Progress"
-MON_monthly_economic_report:0 "Monthly Economic Report"
+MON_get_rich_policy_progress:0 ""Progresos de la Política 'Hacerse Rico'"
+MON_monthly_economic_report:0 "Informe Económico Mensual"
 
-MON_recruit_southern_bandits:0 "Recruit Southern Bandits"
-MON_visit_monasteries:0 "Visit Monasteries"
-MON_rural_ideological_education:0 "Rural Ideological Education"
-MON_spread_pan_asian_propaganda:0 "Spread Pan-Asian Propaganda"
-MON_shelter_prc_trotskyists:0 "Shelter PRC Trotskyists"
+MON_recruit_southern_bandits:0 "Reclutar Bandidos del Sur"
+MON_visit_monasteries:0 "Visitar Monasterios"
+MON_rural_ideological_education:0 "Educación Ideológica Rural"
+MON_spread_pan_asian_propaganda:0 "Difundir Propaganda Panasiática"
+MON_shelter_prc_trotskyists:0 "Alojar a los Trotskistas de la RPC"
 
 #concerns#
-Mongol_institute_of_science:0 "[MON.getAdjective] Institute of Science"
-Mongoltrans:0 "General Administration of Transportation"
+Mongol_institute_of_science:0 "[MON.getAdjective] Instituto de Ciencia"
+Mongoltrans:0 "Administración General del Transporte"
 Mongolbank:0 "Mongolbank"
 Mongolneft:0 "Mongolneft"
 
 
+
 #flags
-MON_genden_allowed_in_office_flag:0 "Genden was allowed to remain in office as a part of the Amar's §HDeal§!"
-MON_required_for_leftist_takover:0 "§RThis choice will allow for a leftist takeover§!"
-MON_kill_genden_for_future_leftist_takeover:0 "Genden was §Rpurged§! as a part of the "§HDeal§!""
-MON_demid_killed:0 "Died in suspicious circumstances"
-MON_soviet_advisors_allowed_flag:0 "[SOV.getAdjective]s Provided Military Assistance"
+MON_genden_allowed_in_office_flag:0 "A Genden se le permitió permanecer en el cargo como parte del §HAcuerdo§!"
+MON_required_for_leftist_takover:0 "§R¡Esta opción permitirá una toma de poder por los izquierdistas!§!"
+MON_kill_genden_for_future_leftist_takeover:0 "A Genden se le §Rpurga§! como parte del "§HAcuerdo§!""
+MON_demid_killed:0 "Muerto en circunstancias sospechosas"
+MON_soviet_advisors_allowed_flag:0 "Los soviéticos proporcionaron asistencia militar"
 
-mon_1935_defence_soviet_yes_assistance:0 "Soviets agreed to §Gassist§! Mongolia during the §HJanuary 1936 conference§!."
-mon_1935_defence_soviet_yes_self_reliance:0 "Mongolian §Hself-reliance§! resulted out of the §Hconference§!."
-mon_1935_defence_soviet_abandoned_mongolia:0 "USSR §Rabandoned§! Mongolia during the §Hconference§!."
-mon_1935_defence_soviet_imprison_genden_or_empty_train:0 "Genden was §Rdetained§! in Moscow after §Hprovoking§! Stalin OR §Rdelegation did not return to Ulaanbaatar§!"
+mon_1935_defence_soviet_yes_assistance:0 "Los soviéticos acordaron §Gayudar§! a Mongolia durante la §HConferencia de enero de 1936§!."
+mon_1935_defence_soviet_yes_self_reliance:0 "La §Hautosuficiencia§! mongola surgió de la §Hconferencia§!."
+mon_1935_defence_soviet_abandoned_mongolia:0 "La URSS §Rabandonó§! Mongolia durante la §Hconferencia§!."
+mon_1935_defence_soviet_imprison_genden_or_empty_train:0 "A Genden se le §Rdetuvo§! en Moscú después de §Hprovocar§! a Stalin O §Rla delegación no regresó a Ulaanbaatar§!"
 
-MON_choibalsan_revolted:0 "Choibalsan §Rrevolted§! against the government."
+MON_choibalsan_revolted:0 "Choibalsan §Rse rebeló§! contra el gobierno."
 
-mon_purged_intellectuals_flag:0 "Intellectuals §RPurged§! by Choibalsan"
-mon_purged_party_flag:0 "Party Members §RPurged§! by Choibalsan"
-mon_purged_lamas_flag:0 "Lamas §RPurged§! by Choibalsan"
+mon_purged_intellectuals_flag:0 "Intelectuales §RPurgados§! por Choibalsan"
+mon_purged_party_flag:0 "Miembros del Partido §RPurgados§! por Choibalsan"
+mon_purged_lamas_flag:0 "Lamas §RPurgados§! por Choibalsan"
 
-MON_abandoned_internal_meddling_flag:0 "Mongolia §RAbandoned§! Internal Meddling"
+MON_abandoned_internal_meddling_flag:0 "Mongolia §RAbandonó§! la Injerencia Interna"
 
-purged_by_genden_small_flag:0 "§RPurged§! by Genden"
-purged_by_genden_big_flag:0 "§RPurged§! by Genden"
+purged_by_genden_small_flag:0 "§RPurgados§! por Genden"
+purged_by_genden_big_flag:0 "§RPurgados§! por Genden"
 
 #traits#
-chairwoman:0 "Chairwoman"
-stalin_of_mongolia:0 "Stalin of Mongolia"
-staunch_atheist:0 "Staunch Atheist"
-out_of_office_trait:0 "Out of Office"
-provisional_regime:0 "Provisional Regime"
+chairwoman:0 "Presidenta"
+stalin_of_mongolia:0 "Stalin de Mongolia"
+staunch_atheist:0 "Atheísta Ferviente"
+out_of_office_trait:0 "Fuera de la Oficina"
+provisional_regime:0 "Régimen Provisional"
 
 #National ideas#
 #Army#
-MON_partisan_suppression:0 "Partisan Suppression"
+MON_partisan_suppression:0 "Supresión de Partisanos"
 
-MON_foundation_for_special_task_battalion_idea:0 "Foundation for Special Task Battalion"
+MON_foundation_for_special_task_battalion_idea:0 "Fundación para el Batallón de Tareas Especiales"
 
-MON_desert_specialization_idea:0 "Desert Specialization"
+MON_desert_specialization_idea:0 "Especialización en el Desierto"
 
-MON_expand_the_general_staff_idea:0 "Expansion of General Staff in Progress"
+MON_expand_the_general_staff_idea:0 "Expansión del Estado Mayor en Progreso"
 
-MON_old_heritage_idea:0 "Old Heritage"
+MON_old_heritage_idea:0 "Antigua Herencia"
 
-MON_soldier_devotion_idea:0 "Soldiers Devotion"
+MON_soldier_devotion_idea:0 "Devoción de los Soldados"
 
-MON_legacy_of_tachanka_idea:0 "Legacy of the Tachanka"
+MON_legacy_of_tachanka_idea:0 "Legado de la Tachanka"
 
-MON_the_old_officers_club:0 "Old Officers Club"
+MON_the_old_officers_club:0 "Club de Oficiales Antiguos"
 
-MON_young_general_staff:0 "Young General Staff"
+MON_young_general_staff:0 "Joven Estado Mayor"
 
-MON_grand_stratagem_favour_strongholds:0 "The Grand Stratagem"
+MON_grand_stratagem_favour_strongholds:0 "La Gran Estrategia"
 
-MON_awoken_nation:0 "Awoken Nation"
+MON_awoken_nation:0 "Nación Despierta"
 
-MON_ideological_loyalty:0 "Ideological Loyalty"
+MON_ideological_loyalty:0 "Lealtad Ideológica"
 
-MON_mass_firearm_production_idea:0 "Mass Firearm Production"
+MON_mass_firearm_production_idea:0 "Producción Masiva de Armas de Fuego"
 
-MON_the_mongolian_infantry:0 "[MON.getAdjective] Infantry"
+MON_the_mongolian_infantry:0 "[MON.getAdjective] Infantería"
 
-MON_the_mongolian_high_command_infantry:0 "[MON.getAdjective] High Command"
+MON_the_mongolian_high_command_infantry:0 "[MON.getAdjective] Alto Mando de Infantería"
 
-MON_prioritize_the_artillery:0 "Prioritize the Artillery"
+MON_prioritize_the_artillery:0 "Priorizar la Artillería"
 
-MON_strengthen_air_land_links_idea:0 "Strengthen Air-Land Links"
+MON_strengthen_air_land_links_idea:0 "Fortalecer los Vínculos Aire-Tierra"
 
-MON_combined_arms_operations_idea:0 "Combined Arms Operations"
+MON_combined_arms_operations_idea:0 "Operaciones de Armas Combinadas"
 
-MON_the_ultimate_weapon_idea:0 "The Ultimatum Weapon"
+MON_the_ultimate_weapon_idea:0 "El Arma Última"
 
-MON_vehicle_production_specialization:0 "Vehicle Production Specialization"
+MON_vehicle_production_specialization:0 "Especialización en Producción de Vehículos"
 
-MON_idea_license_production:0 "Foreign License Cooperation"
+MON_idea_license_production:0 "Cooperación en Licencia Extranjera"
 
-MON_focus_on_tank_reliability:0 "Focus on Reliability"
+MON_focus_on_tank_reliability:0 "Enfoque en la Fiabilidad de los Tanques"
 
-MON_focus_on_tank_good_quality_models:0 "Focus on Good Quality Models"
+MON_focus_on_tank_good_quality_models:0 "Enfoque en Modelos de Tanques de Buena Calidad"
 
-MON_focus_on_tank_production_cost:0 "Tank Production Prioritized"
+MON_focus_on_tank_production_cost:0 "Prioridad en la Producción de Tanques"
 
-MON_focus_on_tank_speed:0 "Favour Tank Speed"
+MON_focus_on_tank_speed:0 "Favorecer la Velocidad de los Tanques"
 
 #Naval#
-MON_naval_forces_established_idea:0 "Established Naval Forces"
+MON_naval_forces_established_idea:0 "Fuerzas Navales Establecidas"
 
-MON_trade_protection_effort_idea:0 "Trade Protection"
+MON_trade_protection_effort_idea:0 "Esfuerzo de Protección Comercial"
 
-MON_sea_raiders_idea:0 "Sea Raiders"
+MON_sea_raiders_idea:0 "Corsarios del Mar"
 
-MON_joint_naval_academy_idea:0 "Joint Naval Academy"
+MON_joint_naval_academy_idea:0 "Academia Naval Conjunta"
 
-MON_local_specialists_idea:0 "Local Naval Specialists"
+MON_local_specialists_idea:0 "Especialistas Navales Locales"
 
 #air
-MON_provisional_airforce_established_idea:0 "Provisional Airforce Established"
+MON_provisional_airforce_established_idea:0 "Fuerza Aérea Provisional Establecida"
 
-MON_air_equipment_manufacturers_coordination_idea:0 "Air Equipment Manufacturers Coordination"
+MON_air_equipment_manufacturers_coordination_idea:0 "Coordinación de Fabricantes de Equipos Aéreos"
 
-MON_air_recon_and_intelligence_protection_idea:0 "Air Recon and Intelligence Protection"
+MON_air_recon_and_intelligence_protection_idea:0 "Protección de Reconocimiento Aéreo e Inteligencia"
 
 #industrial#
-MON_ill_educated_population_idea:0 "Ill-Educated Population"
-MON_ill_educated_population_idea_desc:0 "Due to her geographical location and language specifics, country lacks a centralized education system capable of supporting young and curious minds as those emerge. The literacy rate of the nation was estimated to be of only about 10% by the early 1930s."
+MON_ill_educated_population_idea:0 "Población Mal Educada"
+MON_ill_educated_population_idea_desc:0 "Debido a su ubicación geográfica y especificaciones lingüísticas, el país carece de un sistema de educación centralizado capaz de apoyar a jóvenes mentes curiosas. Se estimó que la tasa de alfabetización del país era solo del 10% a principios de la década de 1930."
 
-MON_population_learning_idea:0 "Population Learning"
-MON_population_learning_idea_desc:0 "Education reforms of the recent years have been proven decently effective. The overall level of literacy across the country is improving and more people are willing to feast on the available knowledge."
+MON_population_learning_idea:0 "Aprendizaje de la Población"
+MON_population_learning_idea_desc:0 "Las reformas educativas de los últimos años han demostrado ser bastante efectivas. El nivel general de alfabetización en el país está mejorando y más personas están dispuestas a aprovechar el conocimiento disponible."
 
-Mon_elementary_schools_idea:0 "Elementary Schools Expanded"
-Mon_elementary_school_ideas_desc:0 "Government funds were dedicated to greatly expand the current education standards across the country."
+Mon_elementary_schools_idea:0 "Escuelas Primarias Expandidas"
+Mon_elementary_school_ideas_desc:0 "El gobierno dedicó fondos para expandir significativamente los estándares educativos actuales en todo el país."
 
-Mon_tech_coop_idea:0 "Technological Cooperation"
-Mon_tech_coop_idea_desc:0 "We have much to learn from our partners, let this cooperation be as fruitful as it was never before!"
+Mon_tech_coop_idea:0 "Cooperación Tecnológica"
+Mon_tech_coop_idea_desc:0 "¡Tenemos mucho que aprender de nuestros socios, que esta cooperación sea tan fructífera como nunca antes!"
 
-Mon_soviet_advisors_idea:0 "[SOV.getAdjective] Military Advisors"
-Mon_soviet_advisors_idea_desc:0 "[SOV.GetAdjective] military specialists were dispatched on our soil as a part of our mutual assistance treaty."
+Mon_soviet_advisors_idea:0 "[SOV.getAdjective] Asesores Militares"
+Mon_soviet_advisors_idea_desc:0 "Los especialistas militares [SOV.GetAdjective] fueron enviados a nuestro suelo como parte de nuestro tratado de asistencia mutua."
 
-Mon_soviet_crew_idea:0 "[SOV.getAdjective] Military Crew"
-Mon_soviet_crew_idea_desc:0 "Several [SOV.getAdjective] generals and theorists are assisting our general staff."
+Mon_soviet_crew_idea:0 "[SOV.getAdjective] Personal Militar"
+Mon_soviet_crew_idea_desc:0 "Varios generales y teóricos [SOV.getAdjective] están asistiendo a nuestro estado mayor."
 
-MON_changed_script_idea:0 "Changed Script"
-MON_changed_script_idea_desc:0 "Old Mongolian script did have different writing forms, which severely hampered the study progress of our children. New changes allow our population to learn more efficiently."
+MON_changed_script_idea:0 "Guion Modificado"
+MON_changed_script_idea_desc:0 "El antiguo guion mongol tenía diferentes formas de escritura, lo que dificultaba gravemente el progreso de nuestros niños. Los cambios recientes permiten que nuestra población aprenda de manera más eficiente."
 
-MON_script_reform_in_progress_idea:0 "Script Reform in Progress"
-MON_script_reform_in_progress_idea_desc:0 "Huge efforts are currently made to unite the disorganized writing system of [MON.getNameDef]."
+MON_script_reform_in_progress_idea:0 "Reforma del Guion en Progreso"
+MON_script_reform_in_progress_idea_desc:0 "Se están haciendo enormes esfuerzos para unificar el sistema de escritura desorganizado de [MON.getNameDef]."
 
-MON_weak_currency_idea:0 "Weak Currency"
-MON_weak_currency_idea_desc:0 "Despite the introduction of the national currency in 1925, tugrik remains an unpopular currency among the masses of the people who still tend to rely on Chinese Yuan, Soviet Ruble, American or Mexican dollars and a dozen of other low-value currencies circulating on the black market."
+MON_weak_currency_idea:0 "Moneda Débil"
+MON_weak_currency_idea_desc:0 "A pesar de la introducción de la moneda nacional en 1925, el tugrik sigue siendo una moneda impopular entre las masas, que tienden a confiar en el yuan chino, el rublo soviético, los dólares estadounidenses o mexicanos y docenas de otras monedas de bajo valor que circulan en el mercado negro."
+
 
 MON_new_course_policy_idea:0 "New Course Policy"
 MON_new_course_policy_idea_desc:0 "The inhumane collectivization policies applied by the state authorities in the early 1930s have almost caused an insurrection in the Western parts of the country, which was promptly suppressed by the military and promises of better living conditions known as the "New Course Policy", serving similar to the old Lenins NEP."
@@ -1416,7 +1413,7 @@ MON_make_use_of_monastery_assets_desc:0 "Monasteries lay either empty or in ruin
 MON_example_of_communist_paradise:0 "Example of Communist Paradise"
 MON_example_of_communist_paradise_desc:0 "The political and economical landscape of our country has changed forever since [MON.getLeader] has seized power. With our allegiance to the principles of marxism-leninism, we can proclaim the foundation of another Soviet Republic in Central Asia so that envious looks of our neighbours are even more focused on us!"
 
-MON_thinking_out_of_bounds:0 "Thinking out of Bounds"
+MON_thinking_out_of_bounds:0 "Thinking Out of Bounds"
 MON_thinking_out_of_bounds_desc:0 "With states internal and external politics being ruled from Moscow, we remain in power of ambitious and creative individuals who hold an influence and have various contacts in many places across the Central Plain of China. Proper usage of our agenda will allow us, the Soviet satellite state, to assure that China remains devoted to the People's Revolution without the need of [SOV.getAdjective] involvement."
 
 MON_means_of_propaganda:0 "Means of Propaganda"
@@ -1588,8 +1585,8 @@ MON_divide_spheres_of_influence_desc:0 "Great Powers are probably shocked by our
 MON_secure_hexi_corridor:0 "Secure Hexi Corridor"
 MON_secure_hexi_corridor_desc:0 "The control over this trade route and most reliable strategic passage to the Sinkiang fell under Ma Clique control as local militia seized the area during the Northern Expedition of 1926. With our new ally we can effectively strike the enemy from Northern and Eastern flanks, aiming to disperse enemy formations across the large frontline, allowing our main force to secure disputed areas without too much trouble."
 
-MON_joint_piligrimage_to_mount_wutai:0 "Joint Poligrimage to Mount Wutai"
-MON_joint_piligrimage_to_mount_wutai_desc:0 "One of the Four Sacred Mountains of Chinese Buddhism is currently under the control of opportunistic warlords who constantly exploit the piligrims seeking blessings in places of power. Together with our new ally we can send a few escorts to support them in case of bureaucratic issues."
+MON_joint_pilgrimage_to_mount_wutai:0 "Joint Pilgrimage to Mount Wutai"
+MON_joint_pilgrimage_to_mount_wutai_desc:0 "One of the Four Sacred Mountains of Chinese Buddhism is currently under the control of opportunistic warlords who constantly exploit the piligrims seeking blessings in places of power. Together with our new ally we can send a few escorts to support them in case of bureaucratic issues."
 
 MON_secure_the_rear:0 "Secure the Rear"
 MON_secure_the_rear_desc:0 "Leaders of Sinkiang and East Turkestan appear to constantly change their allegiance from pro-Chinese to pro-Soviet or pro-fascist depending on the development of the political situation around them. If we want to focus on Central Plain and do not worry about another backstab, we shall secure the area immediately."
@@ -1615,7 +1612,7 @@ MON_gobi_border_realignment_desc:0 "Many areas to the South are populated by eth
 MON_delegation_to_tuva:0 "Delegation to Tuva"
 MON_delegation_to_tuva_desc:0 "Since its nominal declaration of independence in 1922, [TAN.getNameDef] had strained relations with our state not only because of the constant population migrations, but also due to the strategic salt mountain of Dus-Dag. Our common cultural and historical heritage can be used to pursue even closer bonds with them and perhaps form a unitary state on this basis."
 
-MON_a_unity_with_buryats:0 "A unity with Buryats"
+MON_a_unity_with_buryats:0 "A Unity with Buryats"
 MON_a_unity_with_buryats_desc:0 "The year 1934 saw many changes in our relations with Buryats for [SOV.getAdjective] officials were fast to determine "the prominent ideological, cultural and historical reasons" to separate our countries and rival our politicians against each other. Yet times have changed and we can forge our own Buryat-Mongol Union aimed to fulfil the dream of uniting Mongolian population under one banner."
 
 MON_incorporate_new_lands:0 "Incorporate New Lands"
@@ -1632,7 +1629,7 @@ MON_limited_research_cooperation_desc:0 "Despite our best nationalistic efforts,
 MON_strengthen_existing_industrial_contracts:0 "Strengthen Existing Industrial Contracts"
 MON_strengthen_existing_industrial_contracts_desc:0 "Scrapping some old deals and renewing them on the basis of mutually beneficial cooperation opens a new room for investment opportunities where we can acquire modern tools for our developing industry."
 
-MON_subvert_soviet_control:0 "Subvert [SOV.getAdjective] control"
+MON_subvert_soviet_control:0 "Subvert [SOV.getAdjective] Control"
 MON_subvert_soviet_control_desc:0 "While we cannot pursue a fully independent foreign policy under the risk of [SOV.getAdjective] intervention or [SOV.getAdjective]-backed coup, it appears still to be possible for a few right men in right places to subtly change the course of actions and constantly lower our reliance on a Big Red Brother."
 
 MON_expel_choibalsan:0 "Expel Choibalsan"
