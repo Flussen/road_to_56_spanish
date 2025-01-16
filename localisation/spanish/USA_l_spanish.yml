@@ -19,6 +19,8 @@ rt56_office_of_econimic_warfare_idea:0 "Oficina de Guerra Económica"
 rt56_office_of_econimic_warfare_idea_desc:0 ""
 r56_USA_world_loco_motive_works:0 "Fábricas de Locomotoras del Mundo"
 r56_USA_world_loco_motive_works_desc:0 "Mientras el resto del mundo se preocupa por producir bienes de guerra, nosotros tenemos la industria para compensar la producción mundial de locomotoras."
+rt56_USA_advisory_committee_on_uranium:0 "Comité ejecutivo S-1"
+ rt56_USA_advisory_committee_on_uranium_desc:0 "Un comité que se encarga de coordinar los esfuerzos de investigación en materia de fisión nuclear."
 
 USA_office_of_strategic_services_desc:0 "Formar un departamento dedicado de nuestra agencia de inteligencia para ayudar a las organizaciones de resistencia extranjeras e infiltrar instituciones enemigas nos ayudará enormemente a ganar ventaja y en nuestras futuras operaciones."
 
@@ -27,6 +29,7 @@ USA_the_worlds_loco_works_effect_tt:0 "§WPermite la producción de§! §YClase 
 
 rt56_arnold_unlock_tt:0 "A la Fuerza Aérea se le ha otorgado autonomía a través de la institución de la §YDivisión de Planes de Guerra Aérea§!."
 USA_NATO_overwatch_tt:0 "§RSolo mantendrás la última idea seleccionada de las obtenibles a través de §!§YVigilar el Pacífico§!§R y §!§YRegreso a Europa§!."
+
 
 rt56_USA_cash_and_carry_home:0 "El Esquema Cash and Carry"
 rt56_USA_cash_and_carry_home_desc:0 "Estamos proporcionando ayuda material a nuestros aliados permitiéndoles pedir prestado dinero de nosotros para luego pagar por material no bélico. Podemos continuar con esto hasta que se descubra el esquema y los abogados de la Casa Blanca ya no puedan sostener objeciones a la práctica en la Corte."
@@ -127,6 +130,7 @@ USA_war_plan_blue_desc:0 "Con la patria ahora bajo asedio, debemos recurrir a me
 
 rt56_USA_homeland_secuirty:0 "Seguridad Nacional"
 
+
 USA_heirs_of_lafayette:0 "Hijos de Lafayette"
 USA_heirs_of_lafayette_desc:0 "Washington y Lafayette lucharon codo a codo para liberarnos de los casacas rojas. En estos tiempos difíciles, una nueva y más fuerte alianza podría unirnos a París."
 
@@ -185,6 +189,7 @@ r56_usa.15.a:0 "¡Andy, trae el lanzallamas!"
 r56_usa.15.b:0 "¿Tal vez la Guardia Nacional podría usar algunos explosivos?"
 r56_usa.15.c:0 "¿Qué podemos hacer contra la plaga de Dios?"
 
+
 r56_USA_the_alaskan_trap:0 "La Trampa de Alaska"
 r56_USA_the_alaskan_trap_desc:0 "Haciendo que Alaska parezca un punto de invasión atractivo para nuestros enemigos orientales y con algo de trabajo menor del Cuerpo de Ingenieros del Ejército de EE.UU., podemos convertir Alaska en una trampa mortal para una fuerza invasora."
 
@@ -202,7 +207,6 @@ USA_three_dimensional_assault_force_tt:0 "§YHolland Smith§! es actualmente un 
 
 r56_USA_join_the_mexican_revolutionaries:0 "Unirse a los Revolucionarios Mexicanos"
 r56_USA_join_the_mexican_revolutionaries_desc:0 "Los mexicanos nos están mostrando que la revolución puede tener éxito en otras partes de las Américas."
-
 
 USA_invite_cuba:0 "Invitar a Cuba"
 USA_invite_cuba_desc:0 "El gobierno cubano parece estar listo para colaborar con nosotros."
@@ -222,6 +226,7 @@ USA_modify_the_pledge:0 "Rectificar el Juramento de Lealtad"
 USA_constitutional_convention_washington:0 "Convención Constitucional de Washington"
 USA_proclaim_washington_to_be_the_first_fascist:0 "Proclamar a Washington como el Primer Fascista"
 USA_raise_washington_to_general_of_the_armies:0 "Ascender a Washington al rango de General de los Ejércitos"
+USA_rally_the_martians:0 "Reunir a los marcianos"
 
 USA_combating_jim_crow:0 "Marginalización Afroamericana del Sur"
 USA_combating_jim_crow_desc:0 "La derrota del Sur en la Guerra Civil Americana y la auto-percibida humillación que se acumuló en la Era de la Reconstrucción fue demasiado para la clase de plantadores del Sur. Canalizaron su frustración con el reciente despojo político y la usaron para conspirar contra la recién liberada población afroamericana. La intriga política del Sur culminó en el Compromiso de 1877. El Compromiso vio el fin formal de la Reconstrucción en el Sur y la eliminación de las protecciones para las comunidades y políticos afroamericanos en el sur. El compromiso fue funcionalmente una traición y abandono de los afroamericanos del sur.\n \nDesde entonces, legisladores hostiles del estado sureño, impulsados por una población aún más hostil, han aprobado leyes que marginan a los afroamericanos. Leyes que separan a los afroamericanos del resto de la población sureña por razones de raza en lugares públicos y suprimen su derecho al voto. Al mismo tiempo, la población en estos estados practica sus propias campañas extrajudiciales para aterrorizar y atormentar a los afroamericanos. Estas prácticas han sido llamadas 'Jim Crow'.\n\nAunque actualmente tenemos problemas más urgentes, no podemos ignorar el hecho de que la práctica de 'Jim Crow' sigue tensando nuestro país. Un país que promete 'libertad y justicia para todos'."
@@ -289,10 +294,12 @@ r56_USA_Korea_controls_peninsula:0 "§Y[KOR.getNameDefCap]§! controla todos los
 r56_USA_legislation_drafted_days_tt:0 "Los días actuales son: [?USA_new_legislation_drafed_flag:days|Y0]"
 USA_new_legislation_drafed_flag:0 "El último acto gubernamental fue redactado"
 r56_zippo_satan:0 "Crear §YM3A1§! variante de Tanque Lanzallamas Ligero al investigar §YLanzallamas§!, §YCompañía de Ingenieros II§! y §YChasis de Tanque Ligero Mejorado§! \n\nCrear §YM4 Zippo§! variante de Tanque Lanzallamas Mediano al investigar §YLanzallamas§!, §YCompañía de Ingenieros II§! y §YChasis de Tanque Mediano Mejorado§!\n\n"
+USA_rally_the_martians_trigger_tt:0 "Los 'marcianos' han huido a §Y[HUN.GetNameDef]§! [HUN.GetFlag]"
 
  #focuses#
-r56_USA_foundation_of_NATO:0 "Fundación de la OTAN"
-r56_USA_foundation_of_NATO_desc:0 "El mundo está cambiando rápidamente a nuestro alrededor: muchas de las antiguas Grandes Potencias están en ruinas después de que una devastadora guerra haya arrasado continentes. [USA.getNameDefCap] no solo ha logrado mantener, sino también fortalecer su estatus como Superpotencia mundial. Ha llegado el momento de tomar el control directo de la situación."
+ r56_USA_form_united_nations:0 "Carta de las Naciones Unidas"
+ r56_USA_foundation_of_NATO:0 "Fundación de la OTAN"
+ r56_USA_foundation_of_NATO_desc:0 "El mundo está cambiando rápidamente a nuestro alrededor: muchas de las antiguas Grandes Potencias están en ruinas después de que una devastadora guerra haya arrasado continentes. [USA.getNameDefCap] no solo ha logrado mantener, sino también fortalecer su estatus como Superpotencia mundial. Ha llegado el momento de tomar el control directo de la situación."
 
 r56_USA_overwatch_the_pacific:0 "Vigilar el Pacífico"
 r56_USA_overwatch_the_pacific_desc:0 "Vastos territorios del océano Pacífico permanecen débilmente protegidos ya que nuestra capacidad industrial y militar se centró en la guerra en el continente. Mejorar nuestro control sobre el Pacífico garantizará la dominación [USA.getAdjective] en la zona."
@@ -391,6 +398,16 @@ r56_usa_deaths.1.a:0 "El Padre de la Fuerza Blindada nunca será olvidado."
 r56_usa_deaths.2.t:0 "Muerte de Malin Craig"
 r56_usa_deaths.2.desc:0 " "
 r56_usa_deaths.2.a:0 "El Padre de la Fuerza Blindada nunca será olvidado."
+
+ r56_usa.16.t:0 "Una carta de Albert Einstein"
+ r56_usa.16.desc:0 "Señor, se me han comunicado recientes avances en el trabajo por medio de un manuscrito, me llama a pensar que el uranio podría ser transformado en una nueva fuente importante de energia en un futuro inmediato. Ciertos aspectos de la situación que ha surgido parecen exigir vigilancia y, si es necesario, una acción rápida por parte de la Administración.\n\nPor lo tanto, creo que es mi deber llamar su atención sobre los siguientes hechos y recomendaciones:\n\nEn el curso de los últimos cuatro meses se ha hecho probable que sea posible poner en marcha una reacción nuclear en cadena en una gran masa de uranio. Parece casi seguro que esto podría lograrse en un futuro inmediato. Este fenómeno conduciría también a la construcción de bombas. En vista de esta situación, tal vez considere usted conveniente que se mantenga algún contacto permanente entre la Administración y el grupo de físicos que trabajan en las reacciones en cadena en América. Una posible manera de conseguirlo podría ser que usted confiara esta tarea a una persona que goce de su confianza y que tal vez pudiera prestar sus servicios a título oficioso. Su tarea podría consistir en lo siguiente:\n\na) Dirigirse a los Departamentos del Gobierno, mantenerlos informados del desarrollo ulterior, y presentar recomendaciones para la acción del Gobierno, prestando especial atención al problema de asegurar un suministro de mineral de uranio para los Estados Unidos.\n\nb) Acelerar el trabajo experimental, que actualmente se está llevando a cabo dentro de los límites de los presupuestos de los laboratorios universitarios, proporcionando fondos.\n\nTengo entendido que Alemania ha detenido realmente la venta de uranio de las minas de las que se ha apoderado. El hecho de que haya tomado medidas tan tempranas podría entenderse si se tiene en cuenta que algunos de los trabajos americanos sobre el uranio se están repitiendo en la actualidad.\n\nAtentamente, Albert Einstein"
+ r56_usa.16.a:0 "Debemos actuar de inmediato."
+ r56_usa.16.b:0 "Esto no es más que alarmismo."
+
+ r56_on_action_event.2.t:0 "[USA.GetNameDefCap] Cambia sus directrices políticas"
+ r56_on_action_event.2.d:0 "Los cambios en el panorama político de [USA.GetNameDef] han llevado a la formación del nuevo sistema gubernamental, que pretende seguir políticas internas muy diferentes a las de sus predecesores, en las que se intenta resolver las disputas sociales y asegurar el orden en el nuevo estado. \n\nSus diplomáticos ya han anunciado que la agenda exterior del estado [USA.GetAdjective] también se verá gravemente afectada, incluyendo la renegociación de antiguos acuerdos económicos, la revisión de tratados y el reproche de alianzas diplomáticas en varios niveles de poder. \n\nVoces dentro de nuestra administración se preguntan constantemente si [ROOT.GetLeader] podría realinear la opinión de [ROOT.GetHerHis] hacia [USA.GetNameDef] o si [ROOT.GetSheHe] preferirá mantenerla mientras la situación siga sin estar clara."
+ r56_on_action_event.2.a:0 "Renunciaremos a nuestra postura hacia ellos."
+ r56_on_action_event.2.b:0 "Seguro que el nuevo régimen será tan amistoso como su precursor..."
 
 #Vanilla Overrides
 USA_manifest_destiny_r56:0 "El Nuevo Destino Manifiesto" #revisitar con mejor nombre. arreglo temporal
