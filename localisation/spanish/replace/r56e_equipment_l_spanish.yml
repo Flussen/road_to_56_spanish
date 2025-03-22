@@ -47,11 +47,11 @@ l_spanish:
  POR_EQUIPMENT_VERSION_14:0 "P-130"
  
 ###------> Naval Units <><> <><> <><> <><> <><>
-coastal_defense_ship:0 "Buque de Defensa Costera"
+coastal_defense_ship:0 "Buque de defensa costera"
 coastal_defense_ship_desc:0 "La clase Sverige consistió en tres acorazados costeros construidos para la Armada Sueca antes de la Primera Guerra Mundial. Los buques se asemejaban más a cruceros pesados tanto en tamaño (desplazamiento de más de 6,800 toneladas) como en armamento (cuatro cañones 283mm/44 K/45 M12). Los buques eran relativamente lentos para un crucero pero estaban muy bien blindados. Los tres buques sirvieron durante la Segunda Guerra Mundial."
 coastal_defense_ship_1:0 "Clase Sverige"
 coastal_defense_ship_1_desc:0 "La clase Sverige consistió en tres acorazados costeros construidos para la Armada Sueca antes de la Primera Guerra Mundial. Los buques se asemejaban más a cruceros pesados tanto en tamaño (desplazamiento de más de 6,800 toneladas) como en armamento (cuatro cañones 283mm/44 K/45 M12). Los buques eran relativamente lentos para un crucero pero estaban muy bien blindados. Los tres buques sirvieron durante la Segunda Guerra Mundial."
-torpedo_equipment_research:0 "Investigación de Torpedos"
+torpedo_equipment_research:0 "Investigación de torpedos"
  
 ###------> Battlecruisers
  battle_cruiser_3:0 "Crucero de combate semimoderno"
@@ -69,6 +69,7 @@ torpedo_equipment_research:0 "Investigación de Torpedos"
  SH_battleship_3:0 "Acorazado Pesado Moderno"
  SH_battleship_3_short:0 "Acorazado Pesado Moderno"
  SH_battleship_3_desc:0 "Casi todo, desde los cañones hasta los motores, ha sido mejorado. Ahora, todo lo que necesitamos es una máquina de hielo."
+
 
 #-<><><> Heavy Battleship Flavor
  GER_SH_battleship_3:0 "Schlachtschiff H52"
@@ -147,13 +148,13 @@ torpedo_equipment_research:0 "Investigación de Torpedos"
  SOV_submarine_nuc_short:0 "Project 627"
 
 #-<><><> Light Cruisers <><> <><> <><> <><> <><>
- light_cruiser_5:0 "Crucero Ligero Semi-Moderno"
- light_cruiser_5_short:0 "Crucero Ligero Semi-Moderno"
+ light_cruiser_5:0 "Crucero ligero Semi-Moderno"
+ light_cruiser_5_short:0 "Crucero ligero Semi-Moderno"
  light_cruiser_5_desc:0 "Casi todo, desde los cañones hasta los motores, ha sido mejorado."
 
 #-<><><> 
- light_cruiser_6:0 "Crucero Ligero Moderno"
- light_cruiser_6_short:0 "Crucero Ligero Moderno"
+ light_cruiser_6:0 "Crucero ligero moderno"
+ light_cruiser_6_short:0 "Crucero ligero moderno"
  light_cruiser_6_desc:0 "Casi todo, desde los cañones hasta los motores, ha sido mejorado."
 
 #-<><><> 
@@ -225,6 +226,7 @@ torpedo_equipment_research:0 "Investigación de Torpedos"
  battleship_nuc:0 "Acorazado Nuclear"
  battleship_nuc_short:0 "Acorazado Nuclear"
  battleship_nuc_desc:0 "¡El poder! ¡El resplandor! ¡Las tostadas instantáneas!"
+
  
 #-<><><> Battleship Flavor <><> <><> <><> <><> <><> 
  GER_battleship_5:0 "Zeitzler Class"
@@ -264,7 +266,7 @@ torpedo_equipment_research:0 "Investigación de Torpedos"
  carrier_nuc_short:0 "Portaaviones Nuclear"
  carrier_nuc_desc:0 "¡El poder! ¡El resplandor! ¡Las tostadas instantáneas!"
 
-
+ 
 #-<><><> Carrier Flavor <><> <><> <><> <><> <><> 
  GER_carrier_5:0 "Solingen Class"
  GER_carrier_5_short:0 "Solingen Class"
@@ -303,14 +305,14 @@ torpedo_equipment_research:0 "Investigación de Torpedos"
 
  
 ###------> Light Carriers   <><> <><> <><> <><> <><>
- light_carrier_1:0 "Portaaviones de Escolta"
- light_carrier_2:0 "Portaaviones Ligero I"
- light_carrier_3:0 "Portaaviones Ligero II"
+ light_carrier_1:0 "Portaaviones de escolta"
+ light_carrier_2:0 "Portaaviones ligero I"
+ light_carrier_3:0 "Portaaviones ligero II"
  light_carrier_1_desc:0 "Los portaaviones de escolta son pequeños, lentos y vulnerables, pero baratos de producir. Son adecuados principalmente para escoltar convoyes y defensa antisubmarina."
  light_carrier_2_desc:0 "Los portaaviones ligeros son más grandes y más capaces que los portaaviones de escolta y pueden cubrir pequeñas operaciones independientes y apoyar a los portaaviones de flota."
  light_carrier_3_desc:0 "Un refinamiento significativo de los diseños existentes de portaaviones ligeros. Una alternativa económica a un portaaviones de flota de tamaño completo."
- cvl_tech:0 "Modelos de Portaaviones Ligeros"
- light_carrier:0 "Portaaviones Ligero"
+ cvl_tech:0 "Modelos de portaaviones ligeros"
+ light_carrier:0 "Portaaviones ligero"
  light_carrier_desc:0 "Una versión menos capaz pero asequible del portaaviones diseñada principalmente para la protección de convoyes y escolta de buques de guerra más valiosos."
  ENG_light_carrier_1:0 "Clase Ruler"
  ENG_light_carrier_2:0 "Clase Colossus"
@@ -358,6 +360,7 @@ torpedo_equipment_research:0 "Investigación de Torpedos"
  TUR_light_carrier_2:0 "Clase Kaşıkçıkuşu"
  TUR_light_carrier_3:0 "Clase Balıkçıl"
 
+
  NOR_super_heavy_tank_equipment_1:0 "Tung Stormvogn m/44 'Isbjørn'"
  NOR_super_heavy_tank_equipment_1_short:0 "Tstv. m/44"
 
@@ -365,6 +368,5 @@ torpedo_equipment_research:0 "Investigación de Torpedos"
  generic_mio_trait_closed_chassi: "Chasis Cerrado"
 
  HOL_hih_siderius_organization: "Enkas"
-
 
 #####---------------------------------------------------------------------End
