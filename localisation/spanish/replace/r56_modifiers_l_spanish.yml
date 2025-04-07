@@ -1,100 +1,133 @@
-﻿l_spanish: 
+﻿#####---------------------------------------------------------------------> Mod by Sig "GreatExperiment" Altre
 
- developed_rural:0 "Región Rural Desarrollada"
+l_spanish: 
 
- neutrality_acceptance:0 "Aceptación de Diplomacia Autoritaria"
- construction_tech_research:0 "Velocidad de Investigación de Construcción"
- naval_armor_tech_research:0 "Velocidad de Investigación de Blindaje Naval"
- naval_gunnery_tech_research:0 "Velocidad de Investigación de Artillería Naval"
- modifier_production_speed_steel_mill_factor:0 "Velocidad de construcción de §YAcero§!"
- modifier_production_speed_aluminum_mill_factor:0 "Velocidad de construcción de §YAluminio§!"
- modifier_production_speed_rubber_refinery_factor:0 "Velocidad de construcción de §YRefinería de Caucho§!"
- modifier_state_production_speed_nuclear_reactor_factor:0 "Velocidad de Construcción de §YReactor Nuclear§!" 
- modifier_state_production_speed_anti_air_building_factor:0 "Velocidad de Construcción de §YAntiaéreo§!" 
- modifier_state_repair_speed_anti_air_building_factor:0 "Velocidad de Reparación de §YAntiaéreo§!" 
- modifier_state_repair_speed_bunker_factor:0 "Velocidad de Reparación de §YFuerte Terrestre§!" 
- darien_gap:0 "Tapón del Darién"
- quebec_conscription_crisis:0 "Crisis de Conscripción de Quebec"
- quebec_conscription_crisis_compromise:0 "Compromiso de Conscripción de Quebec"
- looting_resistance:0 "Resistencia al Saqueo"
+ developed_rural:0 "Zona rural desarrollada" #wasn't sure where to put it, so it is here for now - Fantom
+
+ neutrality_acceptance:0 "Aceptación de diplomacia autoritaria"
+ steel_tech_research:0 "Velocidad de investigación de siderúrgicas"
+ construction_tech_research:0 "Velocidad de investigación de tecnologías de la construcción"
+ naval_armor_tech_research:0 "Velocidad de investigación de blindajes navales"
+ naval_gunnery_tech_research:0 "Velocidad de investigación de armamentos navales"
+ modifier_production_speed_steel_mill_factor:0 "Velocidad de construcción de §YPlantas acereras§!"
+ modifier_production_speed_aluminum_mill_factor:0 "Velocidad de construcción de §YPlantas de aluminio§!"
+ modifier_production_speed_rubber_refinery_factor:0 "Velocidad de construcción de §YRefinerías de caucho§!"
+ modifier_state_production_speed_nuclear_facility_factor:0 "Velocidad de construcción de §YInstalaciones de investigación nuclear§!"
+ modifier_state_production_speed_nuclear_reactor_factor:0 "Velocidad de construcción de §YReactores nucleares§!" 
+ modifier_state_production_speed_anti_air_building_factor:0 "Velocidad de construcción de §Antiaéreos§!" 
+ modifier_state_repair_speed_anti_air_building_factor:0 "Velocidad de reparación de §YAntiaéreos§!" 
+ modifier_state_repair_speed_bunker_factor:0 "Velocidad de reparación de §YFortaleza terrestre§!" 
+ darien_gap:0 "Tapón de Darien"
+ quebec_conscription_crisis:0 "Crisis de reclutamiento de Quebec"
+ quebec_conscription_crisis_compromise:0 "Compromiso de reclutamiento de Quebec"
+ looting_resistance:0 "Resistencia al saqueo"
  r56_jim_crow:0 "Leyes Jim Crow"
- r56_mild_jim_crow:0 "Leyes Jim Crow Leves"
- r56_severe_jim_crow:0 "Leyes Jim Crow Severas"
- r56_upa_state_modifier:0 "Actividad del Ejército Insurgente Ucraniano"
- r56_upa_state_modifier_desc:0 "El Ejército Insurgente Ucraniano está activo en este estado."
- r56_clandestine_propaganda_techniques:0 "Técnicas de Propaganda Clandestina"
- cat_r56_guerilla_warfare_cost_factor:0 "Costo de Doctrina de Guerra Asimétrica"
- nuked:0 "Recientemente Bombardeado" 
- r56_wpa_project:0 "Proyecto WPA en Curso"
+ r56_mild_jim_crow:0 "Leyes Jim Crow suaves"
+ r56_severe_jim_crow:0 "Leyes Jim Crow fuertes"
+ r56_upa_state_modifier:0 "Actividad del ejército insurgente ucraniano"
+ r56_upa_state_modifier_desc:0 "El ejército insurgente ucraniano está activo en este estado."
+ r56_clandestine_propaganda_techniques:0 "Técnicas de propaganda clandestinas"
+ cat_r56_guerilla_warfare_cost_factor:0 "Coste de las doctrinas de guerra asimetrica"
+ nuked:0 "Bombardeo nuclear reciente" 
+ r56_wpa_project:0 "Proyectos de la WPA activos"
  r56_the_project:0 "Área del Proyecto Manhattan"
- r56_the_project_desc:0 "Áreas dentro de este estado han sido reservadas con el Proyecto Manhattan en mente."
- r56_military_exercises:0 "Ejercicios Militares"
- r56_local_development:0 "Desarrollo Local"
+ r56_the_project_desc:0 "Se han reservado algunas áreas dentro de este estado para labores futuras del Proyecto Manhattan."
+ r56_the_project_generic:0 "El Proyecto"
+ r56_the_project_generic_desc:0 "Se han reservado algunas áreas dentro de este estado para labores futuras del gran Proyecto 'Físico'."
+ r56_military_exercises:0 "Ejercicios militares"
+ r56_local_development:0 "Desarrollo local"
+ r56_concentrated_armament_program:0 "Programa de armamento concentrado"
+ r56_concentrated_armament_program_desc:0 "Se ha puesto en marcha un plan para aumentar la capacidad armamentística en [THIS.GetName]."
 
- r56_generic_international_brigades_idea:0 "Brigadas Internacionales"
- r56_generic_international_brigades_idea_desc:0 "Nuestra lucha ha atraído a partidarios de la causa revolucionaria que ahora están organizando unidades militares para combatir a los opresores."
- r56_generic_civic_defense_force_idea:0 "Fuerza de Defensa Cívica"
- r56_generic_civic_defense_force_idea_desc:0 "Grupos locales apoyados por nuestros socios extranjeros están formando unidades de milicia civil devotas, capaces de luchar junto a las tropas de primera línea."
- r56_generic_foreign_freedom_fighters_idea:0 "Combatientes por la Libertad Extranjeros"
- r56_generic_foreign_freedom_fighters_idea_desc:0 "La libertad y la autodeterminación seguirán siendo la piedra angular de nuestra nación. ¡Nuestros benefactores están apoyando esta causa inmensamente!"
- r56_generic_broad_paramilitary_squadrons_idea:0 "Escuadrones Paramilitares Amplios"
- r56_generic_broad_paramilitary_squadrons_idea_desc:0 "La participación extranjera ha inspirado en gran medida la creación de unidades paramilitares capaces de perseguir una agenda ideológica junto con los objetivos militares."
+ r56_generic_international_brigades_idea:0 "Brigadas internacionales"
+ r56_generic_international_brigades_idea_desc:0 "Nuestros esfuerzos han traido el apoyo de revolucionarios que ahora se están organizando como unidades militares para combatir contra los opresores."
+ r56_generic_civic_defense_force_idea:0 "Fuerza de defensa municipal"
+ r56_generic_civic_defense_force_idea_desc:0 "Grupos locales apoyados por nuestros aliados extranjeros están formando unidades como una milicia civil capaces de combatir mano a mano con nuestras tropas de línea."
+ r56_generic_foreign_freedom_fighters_idea:0 "Combatientes extranjeros por la libertad"
+ r56_generic_foreign_freedom_fighters_idea_desc:0 "La libertad y la autodeterminación deben de mantenerse como una de las vertebras de nuestro país. ¡Nuestros benefactores están apoyando esta causa de forma inmensa!"
+ r56_generic_broad_paramilitary_squadrons_idea:0 "Grandes escuadrones paramilitares"
+ r56_generic_broad_paramilitary_squadrons_idea_desc:0 "El envolvimiento extranjero ha inspirado la creación de unidades paramilitares capaces de seguir una agenda ideológica a la par que unos objetivos militares."
 
- r56_volksdeutscher_selbstschutz_recruitment:0 "Reclutamiento de Volksdeutscher Selbstschutz"
+ r56_volksdeutscher_selbstschutz_recruitment:0 "Reclutamiento Volksdeutscher Selbstschutz"
 
- modifier_experience_gain_infantry_training_factor:0 "Ganancia de experiencia en el entrenamiento de §YInfantería§!"
+ r56_AOI_provincial_capital:0 "Capital provincial" 
 
- modifier_experience_gain_bicycle_battalion_training_factor:0 "Ganancia de experiencia en el entrenamiento de §YInfantería en Bicicleta§!"
- modifier_experience_gain_bicycle_battalion_combat_factor:0 "Ganancia de experiencia en combate de §YInfantería en Bicicleta§!"
+ r56_channel_island_defendablity:0 "Vulnerabilidades defensivas"
+ r56_channel_island_defendablity_desc:0 "La falta de importancia estratégica y la cercanía al continente hace que las Islas del Canal sean dificiles de mantener."
 
- modifier_experience_gain_light_armor_training_factor:0 "Ganancia de experiencia en el entrenamiento de §YTanque Ligero§!"
- modifier_experience_gain_light_armor_combat_factor:0 "Ganancia de experiencia en combate de §YTanque Ligero§!"
- modifier_experience_gain_medium_armor_training_factor:0 "Ganancia de experiencia en el entrenamiento de §YTanque Medio§!"
- modifier_experience_gain_medium_armor_combat_factor:0 "Ganancia de experiencia en combate de §YTanque Medio§!"
- modifier_experience_gain_heavy_armor_training_factor:0 "Ganancia de experiencia en el entrenamiento de §YTanque Pesado§!"
- modifier_experience_gain_heavy_armor_combat_factor:0 "Ganancia de experiencia en combate de §YTanque Pesado§!"
- modifier_experience_gain_medium_sp_artillery_brigade_combat_factor:0 "Ganancia de experiencia en combate de §YArtillería SP Media§!"
- modifier_experience_gain_anti_tank_combat_factor:0 "Ganancia de experiencia en combate de §YBrigada Antitanque§!"
- modifier_experience_gain_shocktroop_combat_factor:0 "Ganancia de experiencia en combate de §YTropas de Choque§!"
- modifier_experience_gain_artillery_combat_factor:0 "Ganancia de experiencia en combate de §YBrigada de Artillería§!"
- modifier_experience_gain_militia_combat_factor:0 "Ganancia de experiencia de Milicia en combate"
+ #Vanilla local: Just because they localize doesn't mean they work :/
 
- modifier_experience_gain_cas_training_factor:0 "Ganancia de experiencia en el entrenamiento de §YApoyo Aéreo Cercano§!"
+ modifier_experience_gain_infantry_training_factor:0 "Ganancia de experiencia del entrenamiento de §YInfantería§!"
+
+ modifier_experience_gain_bicycle_battalion_training_factor:0 "Ganancia de experiencia del entrenamiento de §YInfantería en bici§!"
+ modifier_experience_gain_bicycle_battalion_combat_factor:0 "Ganancia de experiencia del combate de §YInfantería en bici§!"
+
+ modifier_experience_gain_light_armor_training_factor:0 "Ganancia de experiencia del entrenamiento de §YTanques ligeros§!"
+ modifier_experience_gain_light_armor_combat_factor:0 "Ganancia de experiencia del combate de §YTanques ligeros§!"
+ modifier_experience_gain_light_sp_artillery_brigade_combat_factor:0 "Ganancia de experiencia del combate de §YApoyo de artillería ligera§!"
+ modifier_experience_gain_medium_armor_training_factor:0 "Ganancia de experiencia del entrenamiento de §YTanques medianos§!"
+ modifier_experience_gain_medium_armor_combat_factor:0 "Ganancia de experiencia del combate de §YTanques medianos§!"
+ modifier_experience_gain_medium_sp_artillery_brigade_combat_factor:0 "Ganancia de experiencia del combate de §YApoyo de artillería mediana§!"
+ modifier_experience_gain_heavy_armor_training_factor:0 "Ganancia de experiencia del entrenamiento de §YTanques pesados§!"
+ modifier_experience_gain_heavy_armor_combat_factor:0 "Ganancia de experiencia del combate de §YTanques pesados§!"
+ modifier_experience_gain_anti_tank_combat_factor:0 "Ganancia de experiencia del combate de §YBrigadas antitanque§!"
+ modifier_experience_gain_shocktroop_combat_factor:0 "Ganancia de experiencia del combate de §YTropas de choque§!"
+ modifier_experience_gain_artillery_combat_factor:0 "Ganancia de experiencia del combate de §YBrigadas de artillería§!" #Vanilla override
+ modifier_experience_gain_militia_combat_factor:0 "Ganancia de experiencia del combate de Milicias"
 
 
- modifier_experience_gain_transport_plane_training_factor:0 "Ganancia de experiencia en el entrenamiento de §YAvión de Transporte§!"
- modifier_experience_gain_transport_plane_combat_factor:0 "Ganancia de experiencia en combate de §YAvión de Transporte§!"
+ modifier_experience_gain_cas_training_factor:0 "Ganancia de experiencia del entrenamiento de §YApoyo aéreo cercano§!"
 
- modifier_experience_gain_suicide_craft_training_factor:0 "Ganancia de experiencia en el entrenamiento de §YEmbarcación Suicida§!"
- modifier_experience_gain_suicide_craft_combat_factor:0 "Ganancia de experiencia en combate de §YEmbarcación Suicida§!"
 
- modifier_experience_gain_engineer_combat_factor:0 "Ganancia de experiencia en combate de §YIngeniero§!"
+ modifier_experience_gain_transport_plane_training_factor:0 "Ganancia de experiencia del entrenamiento de §YAviones de transporte§!"
+ modifier_experience_gain_transport_plane_combat_factor:0 "Ganancia de experiencia del combate de §YAviones de transporte§!"
 
- tactic_guerrilla_tactics_preferred_weight_factor:0 "Probabilidad Adicional de Táctica de §Y$tactic_guerrilla_tactics$§! si es la Táctica Preferida"
- tactic_double_envelopment_preferred_weight_factor:0 "Probabilidad Adicional de Táctica de §Y$tactic_double_envelopment$§! si es la Táctica Preferida"
+ ### a good joke for victory or death ###
+ modifier_experience_gain_suicide_craft_training_factor:0 "Ganancia de experiencia del entrenamiento de §YAviones kamikazes§!"
+ modifier_experience_gain_suicide_craft_combat_factor:0 "Ganancia de experiencia del combate de §YAviones kamikazes§!"
 
- modifier_experience_gain_armored_car_recon_training_factor:0 "Ganancia de experiencia en el entrenamiento de §YReconocimiento en Coche Blindado§!"
- modifier_experience_gain_armored_car_recon_combat_factor:0 "Ganancia de experiencia en combate de §YReconocimiento en Coche Blindado§!"
- modifier_experience_gain_recon_training_factor:0 "Ganancia de experiencia en el entrenamiento de §YReconocimiento de Caballería§!"
- modifier_experience_gain_recon_combat_factor:0 "Ganancia de experiencia en combate de §YReconocimiento de Caballería§!"
- modifier_experience_gain_mot_recon_training_factor:0 "Ganancia de experiencia en el entrenamiento de §YReconocimiento Motorizado§!"
- modifier_experience_gain_mot_recon_combat_factor:0 "Ganancia de experiencia en combate de §YReconocimiento Motorizado§!"
- modifier_experience_gain_light_tank_recon_training_factor:0 "Ganancia de experiencia en el entrenamiento de §YReconocimiento en Tanque Ligero§!"
- modifier_experience_gain_light_tank_recon_combat_factor:0 "Ganancia de experiencia en combate de §YReconocimiento en Tanque Ligero§!"
+ modifier_experience_gain_engineer_combat_factor:0 "Ganancia de experiencia del combate de §YIngenieros§!"
 
- influx_of_exiles_r56_law:0 "Influjo de Exiliados"
- evacuated_assets_r56_law:0 "Activos Evacuados"
- full_host_reliance_r56_law:0 "Dependencia Total del Anfitrión"
+ #tactics modifier
+ tactic_guerrilla_tactics_preferred_weight_factor:0 "Probabilidad adicional de elegir la táctica §Y$tactic_guerrilla_tactics$§! si es una táctica preferida"
+ tactic_double_envelopment_preferred_weight_factor:0 "Probabilidad adicional de elegir la táctica §Y$tactic_double_envelopment$§! si es una táctica preferida"
 
- light_tank_chassis_design_cost_factor:0 "Costo de Diseño de Chasis de Tanque Ligero"
- medium_tank_chassis_design_cost_factor:0 "Costo de Diseño de Chasis de Tanque Medio"
- modifier_unit_garrison_design_cost_factor:0 "Costo de Diseño de Unidad de Guarnición"
+ # RECON #
+ modifier_experience_gain_armored_car_recon_training_factor:0 "Ganancia de experiencia del entrenamiento de §YVehículos blindados de reconocimiento§!"
+ modifier_experience_gain_armored_car_recon_combat_factor:0 "Ganancia de experiencia del combate de §YVehículos blindados de reconocimiento§!"
+ modifier_experience_gain_recon_training_factor:0 "Ganancia de experiencia del entrenamiento de §YCaballería de reconocimiento§!"
+ modifier_experience_gain_recon_combat_factor:0 "Ganancia de experiencia del combate de §YCaballería de reconocimiento§!"
+ modifier_experience_gain_mot_recon_training_factor:0 "Ganancia de experiencia del entrenamiento de §YMotorizados de reconocimiento§!"
+ modifier_experience_gain_mot_recon_combat_factor:0 "Ganancia de experiencia del combate de §YMotorizados de reconocimiento§!"
+ modifier_experience_gain_light_tank_recon_training_factor:0 "Ganancia de experiencia del entrenamiento de §YTanques ligeros de reconocimiento§!"
+ modifier_experience_gain_light_tank_recon_combat_factor:0 "Ganancia de experiencia del combate de §YTanques ligeros de reconocimiento§!"
 
- modifier_repair_speed_bunker_factor:0 "Velocidad de Reparación de Fuerte Terrestre"
- modifier_repair_speed_supply_node_factor:0 "Velocidad de Reparación de Nodo de Suministro"
+ # CONSCRIPTION, TRADE, ECONOMY LAWS for EXILED COUNTRIES
+ influx_of_exiles_r56_law:0 "Afluencia de exiliados"
+ evacuated_assets_r56_law:0 "Recursos evacuados"
+ full_host_reliance_r56_law:0 "Confianza completa en el anfitrión"
 
- r56_idea_small_nation_buildup_nerf:0 "Economía Pequeña"
- r56_idea_i_am_player_stockpile_capture:0 "Equipo Capturado en Combate"
- r56_idea_1941_ai_debuff:0 "Nación Agotada"
+ #design cost
+ light_tank_chassis_design_cost_factor:0 "Coste de diseño de chásis de tanques ligeros"
+ medium_tank_chassis_design_cost_factor:0 "Coste de diseño de chásis de tanques medianos"
+ modifier_unit_garrison_design_cost_factor:0 "Coste de diseño de unidades de guarnición"
+ modifier_unit_shocktroop_design_cost_factor:0 "Coste de diseño de unidades de tropas de choque"
+ modifier_unit_jaeger_design_cost_factor:0 "Coste de diseño de unidades árticas"
+ modifier_unit_jungletroop_design_cost_factor:0 "Coste de diseño de unidades de infantería de la jungla"
+ modifier_unit_desertinfantry_design_cost_factor:0 "Coste de diseño de unidades de infantería del desierto"
 
- SWE_vattenfall_upgrade_tt: "\nMejora automáticamente esta preocupación si la suma total de §YInfraestructura§! en §Y[666.GetName]§!, §Y[1029.GetName]§! y §Y[38.GetName]§! es superior a §Y11 Infraestructura§!\nLo cual otorga:\n$industry_research$: §G+15%§!\n$electronics_research$: §G+15%§!"
+ # BUILDINGS Repair #
+ modifier_repair_speed_bunker_factor:0 "Velocidad de reparación de fortalezas terrestres"
+ modifier_repair_speed_supply_node_factor:0 "Velocidad de reparación de centros de suministros"
+ modifier_repair_speed_air_base_factor:0 "Velocidad de reparación de $air_base$"
+ modifier_state_repair_speed_arms_factory_factor:0 "Velocidad de reparación de §Y$arms_factory$§! en el Estado"
+
+ # Hidden Ideas #
+ r56_idea_small_nation_buildup_nerf:0 "Economía pequeña" #localized just incase a player sees the modifer
+ r56_idea_i_am_player_stockpile_capture:0 "Equipo capturado en combate"
+ r56_idea_1941_ai_debuff:0 "Nación cansada" #localized just incase a player sees the modifer
+
+ SWE_vattenfall_upgrade_tt: "\nActualiza automáticamente esta incidencia si la suma total de la §YInfraestructura§! en §Y[666.GetName]§!, §Y[1029.GetName]§! y §Y[38.GetName]§! es mayor a §Y11 Infraestructuras§!\nConcede:\n$industry_research$: §G+15%§!\n$electronics_research$: §G+15%§!"
+
+ #Vanilla overwrite 
+ BLOCKADE_RUNNER_TRIGGER_TT:0 "Tener un grupo operativo en combate en el que todos los buques que lo componen tengan más de 37 nudos de velocidad o estar en combate de defensa contra un grupo operativo enemigo que esté compuesto en un 80% por submarinos mientras al menos un convoy esté en la batalla." 
